@@ -114,11 +114,14 @@ main .page {
 }
 
 .category dd {
-  font-size: 15px;
-  font-weight: 800;
   text-align: justify;
   text-justify: inter-word;
   margin: auto;
-  padding: 2px;
+  padding: 8px;
   background-color: lightskyblue;
+}
+
+.category dd p {
+  font-size: 1.2em;
+  font-weight: 900;
 }
