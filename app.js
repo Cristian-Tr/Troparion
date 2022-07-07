@@ -29,9 +29,9 @@ document.addEventListener('DOMContentLoaded', function () {
     initialGreeting = "Bună dimineața!";
     finalGreeting = "O zi frumoasă!";
   }
-  if (hour < 18) {
+  if (hour < 17) {
     initialGreeting = 'Bună ziua!';
-    finalGreeting = "O zi bună!";
+    finalGreeting = "O zi frumoasă!";
   }
   else if (hour < 24) {
     initialGreeting = "Bună seara!";
