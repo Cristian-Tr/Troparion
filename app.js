@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>";
-  document.querySelector("#final-greeting").innerHTML = "M-aș bucura să mai revii!<br>" + finalGreeting + "<br>";
+  document.querySelector("#final-greeting").innerHTML = "M-aș bucura să revii!<br>" + finalGreeting + "<br>";
 
 
   var religiousSongs;
