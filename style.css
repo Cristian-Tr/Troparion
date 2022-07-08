@@ -251,10 +251,18 @@ iframe {
   width: 100%;
 }
 
-.carousel-inner img {
+.carousel-inner {
+  height: 171px;
   width: 100%; /* Set width to 100% */
   margin: auto;
 }
+
+@media (max-width: 600px) {
+  .carousel-inner {
+    height: 377px;
+  }
+}
+
 
 .carousel-caption h3 {
   color: white !important;
