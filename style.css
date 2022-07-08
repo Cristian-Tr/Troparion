@@ -12,7 +12,7 @@ body {
   font-size: 14px !important;
   line-height: 1.5 !important;
   letter-spacing: 1px;
-  border-radius: 0;
+  border-radius: 0 !important;
   border: 1px solid white;
   text-shadow: 1px 1px 3px blue;
   font-family: Lato, Montserrat, sans-serif, Times New Roman;
@@ -259,7 +259,7 @@ iframe {
 
 @media (max-width: 768px) {
   .carousel-inner {
-    height: 372px;
+    height: 357px;
   }
 }
 
@@ -277,7 +277,7 @@ iframe {
   line-height: 1.375em;
   font-size: 1.2em;
   font-style: italic;
-  margin: 70px 0;
+  margin: 12px 0;
 }
 
 .item span {
