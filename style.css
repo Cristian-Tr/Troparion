@@ -252,17 +252,16 @@ iframe {
 }
 
 .carousel-inner {
+  width: 100%;
   height: 171px;
-  width: 100%; /* Set width to 100% */
   margin: auto;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .carousel-inner {
-    height: 377px;
+    height: 370px;
   }
 }
-
 
 .carousel-caption h3 {
   color: white !important;
@@ -276,6 +275,7 @@ iframe {
 
 .item h4 {
   line-height: 1.375em;
+  font-size: 1.2em;
   font-style: italic;
   margin: 70px 0;
 }
