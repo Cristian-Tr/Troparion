@@ -213,25 +213,10 @@ h5 {
   margin: auto;
 }
 
-#emblem img {
-  width: 290px;
-  height: 290px;
-  margin-bottom: 5px;
-  animation: rotation 12s infinite linear;
-}
-
 img {
   width: 100%;
 }
 
-@keyframes rotation {
-  from {
-    transform: rotateY(0deg);
-  }
-  to {
-    transform: rotateY(360deg);
-  }
-}
 
 .thumbnail {
   margin: 1px;
@@ -259,7 +244,7 @@ iframe {
 
 @media (max-width: 768px) {
   .carousel-inner {
-    height: 288px;
+    height: 282px;
   }
 }
 
