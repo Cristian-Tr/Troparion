@@ -219,15 +219,15 @@ h5 {
 
 @keyframes myGreetings {
   0% {
-    content: "Dumnezeu să te binecuvinteze!";
+    content: "Doamne ajută!";
     color: cyan;
   }
   21% {
-    content: "Dumnezeu să te binecuvinteze!";
+    content: "Doamne ajută!";
     color: magenta;
   }
   35% {
-    content: "Dumnezeu să te binecuvinteze!";
+    content: "Doamne ajută!";
     color: yellow;
   }
   50% {
@@ -238,22 +238,11 @@ h5 {
     content: "Bine ai venit!";
     color: springgreen;
   }
-  71% {
+  100% {
     content: "Bine ai venit!";
     color: magenta;
   }
-  81% {
-    content: "Lectură plăcută!";
-    color: yellow;
-  }
-  99% {
-    content: "Lectură plăcută!";
-    color: cyan;
-  }
-  100% {
-    content: "Lectură plăcută!";
-    color: cyan;
-  }
+  
 }
 
 #calendar {
@@ -642,39 +631,6 @@ iframe {
     border-width: 8px 16px 8px 0;
     border-color: transparent #aa1000 transparent transparent;
   }
-}
-
-.message-container {
-  color: #aa1000;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  width: 100%;
-  height: 215px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  perspective: 1000px;
-  text-shadow: 3px 3px 3px white;
-}
-
-@import url("https://fonts.googleapis.com/css?family=Orbitron");
-
-#final-greeting {
-  width: 305px;
-  height: 71px;
-  top: 57px;
-  position: absolute;
-  margin: 1px auto;
-  font-family: "Pacifico", "Orbitron", "Times New Roman";
-  font-size: 29px;
-  font-weight: 500;
-  color: #aa1000;
-  text-shadow: 3px 3px 3px white;
-  text-align: center;
 }
 
 section {

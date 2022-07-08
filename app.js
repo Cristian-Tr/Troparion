@@ -13,35 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   //Greetings
   var date = new Date();
-  var year = date.getFullYear();
   var month = date.getMonth();
-  var day = date.getDate();
-  var hour = date.getHours();
-  var initialGreeting;
-  var finalGreeting;
-
-
-  if (hour < 5) {
-    initialGreeting = "Salut!";
-    finalGreeting = "Noapte bună!";
-  }
-  if (hour < 10) {
-    initialGreeting = "Bună dimineața!";
-    finalGreeting = "O zi frumoasă!";
-  }
-  if (hour < 17) {
-    initialGreeting = 'Bună ziua!';
-    finalGreeting = "O zi frumoasă!";
-  }
-  else if (hour < 24) {
-    initialGreeting = "Bună seara!";
-    finalGreeting = "O seară liniștită!";
-  }
-
-  document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>";
-  document.querySelector("#final-greeting").innerHTML = "M-aș bucura să revii!<br>" + finalGreeting + "<br>";
-
-
   var religiousSongs;
   var religiousHoliday;
 
