@@ -244,7 +244,7 @@ iframe {
 
 @media (max-width: 768px) {
   .carousel-inner {
-    height: 282px;
+    height: 392px;
   }
 }
 
@@ -260,7 +260,7 @@ iframe {
 
 .item h4 {
   line-height: 1.375em;
-  font-size: 1.2em;
+  font-size: 1.4em;
   font-style: italic;
   margin: 12px 0;
 }
