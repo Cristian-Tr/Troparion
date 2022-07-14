@@ -217,13 +217,6 @@ h5 {
   }
 }
 
-#welcome {
-  font-family: "Pacifico", "Lato", "Times New Roman";
-  text-shadow: 1px 1px 1px blue;
-  animation: greeting 7.7s linear infinite;
-  padding: 5px;
-}
-
 .margin {
   margin-bottom: 45px;
 }
