@@ -192,6 +192,38 @@ h5 {
   font-size: 1em;
 }
 
+/*Greetings animation*/
+#initial-greeting {
+  font-family: "Pacifico", "Lato", "Times New Roman";
+  text-shadow: 1px 1px 1px blue;
+  animation: greeting 7.7s linear infinite;
+}
+
+@keyframes greeting {
+  0% {
+    color: red;
+  }
+  25% {
+    color: green;
+  }
+  50% {
+    color: yellow;
+  }
+  75% {
+    color: blue;
+  }
+  100% {
+    color: red;
+  }
+}
+
+#welcome {
+  font-family: "Pacifico", "Lato", "Times New Roman";
+  text-shadow: 1px 1px 1px blue;
+  animation: greeting 7.7s linear infinite;
+  padding: 5px;
+}
+
 .margin {
   margin-bottom: 45px;
 }
