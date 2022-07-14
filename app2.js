@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
   //h2 activity fields animated text
-  var skills = ['TROPAR', 'RUGĂCIUNI', 'ÎNVĂȚĂTURI','CUGETĂRI', 'CALENDAR', 'ICOANE', 'MUZICĂ'],
+  var skills = ['TROPARE', 'RUGĂCIUNI', 'ÎNVĂȚĂTURI','CUGETĂRI', 'CALENDAR', 'ICOANE', 'MUZICĂ'],
     part,
     i = 0,
     offset = 0,
