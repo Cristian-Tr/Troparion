@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
   //h2 activity fields animated text
-  var skills = ['TROPARE', 'RUGĂCIUNI', 'ÎNVĂȚĂTURI','CUGETĂRI', 'CALENDAR', 'ICOANE', 'MUZICĂ'],
+  var skills = ['Fericiți cei milostivi!', 'Fericiți cei blânzi!', 'Fericiți făcătorii de pace!', 'Adunați-vă comori în cer!', 'Când postiți nu fiți triști!', 'Nu judecați, ca să nu fiți judecați!', 'Cereți și vi se va da!', 'Iubiți pe vrăjmașii voștri!', 'Binecuvântați pe cei ce vă blestemă!', 'Căutați și veți afla!', 'Faceți bine celor ce vă urăsc!'],
     part,
     i = 0,
     offset = 0,
