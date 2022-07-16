@@ -40,7 +40,7 @@ $(document).ready(function () {
           offset--;
         }
       }
-      $('.activity-fields').text(part);
+      $('.biblical-Teachings').text(part);
     }, speed);
   };
 

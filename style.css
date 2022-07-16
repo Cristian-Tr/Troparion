@@ -173,16 +173,7 @@ h5 {
   }
 }
 
-/* My activity fields text animation */
-.activity-fields {
-  width: 93%;
-  height: 32px;
-  font-size: 1.5em;
-  font-weight: 700;
-  margin: 0.1em auto;
-  color: red;
-  text-align: center;
-}
+/* Tropar & calendar */
 
 #calendar {
   background-color: transparent;
@@ -195,29 +186,26 @@ h5 {
   font-size: 1em;
 }
 
-/*Greetings animation*/
-#initial-greeting {
-  font-family: "Pacifico", "Lato", "Times New Roman";
-  text-shadow: 1px 1px 1px blue;
-  animation: greeting 7.7s linear infinite;
+/* Biblical teachings - text animation */
+#biblicalTeachings {
+  background-color: transparent;
+  width: 93%;
+  height: 100%;
+  margin: auto;
+  border: 1px solid #8888ff;
+  pointer-events: none;
+  text-align: center;
+  font-size: 1em;
 }
 
-@keyframes greeting {
-  0% {
-    color: red;
-  }
-  25% {
-    color: green;
-  }
-  50% {
-    color: yellow;
-  }
-  75% {
-    color: blue;
-  }
-  100% {
-    color: red;
-  }
+.biblical-Teachings {
+  width: 93%;
+  height: 32px;
+  font-size: 1.4em;
+  font-weight: 700;
+  margin: 0.1em auto;
+  color: red;
+  text-align: center;
 }
 
 .margin {
