@@ -109,8 +109,8 @@ main .page {
   padding: 10px;
   cursor: pointer;
   font-weight: 700;
-  border: 1px solid lightskyblue;
-  background: blue;
+  text-shadow: 1px 1px 1px black;
+  background: linear-gradient(blue, lightskyblue);
 }
 
 .category dd {

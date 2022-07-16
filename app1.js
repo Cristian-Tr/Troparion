@@ -11,29 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
 
-  //Greetings
-  var date = new Date();
-  var hour = date.getHours();
-  var initialGreeting;
-
-  if (hour < 5) {
-    initialGreeting = "Salut!";
-  }
-  if (hour < 10) {
-    initialGreeting = "Bună dimineața!";
-  }
-  else if (hour < 18) {
-    initialGreeting = 'Bună ziua!';
-  }
-  else if (hour < 24) {
-    initialGreeting = "Bună seara!";
-  }
-
-  
-  document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>";
-  
-
-
+//Calendar with the most important religious holidays
   const items = document.querySelectorAll('#timeline li');
 
   const isInViewport = el => {
