@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
-  //h2 activity fields animated text
-  var skills = [ 'Să nu iei numele Domnului în deșert!',  'Să nu ai alți dumnezei afară de Mine!', 'Fericiți cei milostivi!', 'Fericiți cei blânzi!', 'Fericiți făcătorii de pace!', 'Adunați-vă comori în cer!', 'Când postiți nu fiți triști!', 'Nu judecați, ca să nu fiți judecați!', 'Cereți și vi se va da!', 'Iubiți pe vrăjmașii voștri!', 'Binecuvântați pe cei ce vă blestemă!', 'Căutați și veți afla!', 'Faceți bine celor ce vă urăsc!', 'Cinstește pe tatăl tău și pe mama ta!', 'Să nu furi!', 'Să nu fii defrânat!', 'Să nu ucizi!'],
+  //Biblical teachings animated text
+  var skills = [ 'Să nu iei numele Domnului în deșert!', 'Să nu ai alți dumnezei afară de Mine!', 'Fericiți cei blânzi!', 'Fericiți cei milostivi!', 'Fericiți cei curați cu inima!', 'Fericiți făcătorii de pace!', 'Să nu vă jurați nicidecum!', 'Adunați-vă comori în cer!', 'Unde este comoara ta, acolo va fi și inima ta!', 'Când postiți nu fiți triști!', 'Nu judecați, ca să nu fiți judecați!', 'Cereți și vi se va da!', 'Căutați și veți afla!', 'Bateți și vi se va deschide!', 'Iubiți pe vrăjmașii voștri!', 'Binecuvântați pe cei ce vă blestemă!', 'Faceți bine celor ce vă urăsc!', 'Rugați-vă pentru cei ce vă vatămă și vă prigonesc!', 'Cinstește pe tatăl tău și pe mama ta!', 'Să nu furi!', 'Să nu fii desfrânat!', 'Să nu ucizi!', 'Căutați mai întâi Împărăția lui Dumnezeu!', 'Cel ce vine la Mine nu va flămânzi!', 'Cel ce crede în Mine are viață veșnică!', 'Pe cel ce vine la Mine nu-l voi scoate afară!', 'Nu judecați după înfățișare!'],
     part,
     i = 0,
     offset = 0,
