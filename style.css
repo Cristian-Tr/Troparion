@@ -193,22 +193,23 @@ main {
 /* Biblical teachings - text animation */
 #biblicalTeachings {
   background-color: transparent;
-  width: 93%;
+  width: 90%;
   min-height: 100px;
   margin: auto;
   border: 1px solid #8888ff;
+  background-color: #8888ff;
   pointer-events: none;
   text-align: center;
   font-size: 1em;
 }
 
 .biblical-Teachings {
-  width: 100%;
+  width: 97%;
   height: 32px;
   font-size: 1.4em;
   font-weight: 700;
   margin: 0.1em auto;
-  color: red;
+  color: white;
   text-align: center;
 }
 
