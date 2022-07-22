@@ -1,20 +1,19 @@
 $(document).ready(function () {
 
-  //Biblical teachings animated text
-  var teachings = ['Să nu iei numele Domnului în deșert!', 'Să nu ai alți dumnezei afară de Mine!', 'Fericiți cei blânzi!', 'Fericiți cei milostivi!', 'Fericiți cei curați cu inima!', 'Fericiți făcătorii de pace!', 'Să nu vă jurați nicidecum!', 'Adunați-vă comori în cer!', 'Unde este comoara ta, acolo va fi și inima ta!', 'Când postiți, nu fiți triști, ca fățarnicii!', 'Nu judecați, ca să nu fiți judecați!', 'Cu judecata cu care judecați veți fi judecați!', 'Cereți și vi se va da!', 'Căutați și veți afla!', 'Bateți și vi se va deschide!', 'Iubiți pe vrăjmașii voștri!', 'Binecuvântați pe cei ce vă blestemă!', 'Faceți bine celor ce vă urăsc!', 'Rugați-vă pentru cei ce vă vatămă și vă prigonesc!', 'Cinstește pe tatăl tău și pe mama ta!', 'Să nu furi!', 'Să nu fii desfrânat!', 'Să nu ucizi!', 'Căutați mai întâi Împărăția lui Dumnezeu!', 'Cel ce vine la Mine nu va flămânzi!', 'Cel ce crede în Mine are viață veșnică!', 'Pe cel ce vine la Mine nu-l voi scoate afară!', 'Nu judecați după înfățișare!', 'Să vă iubiţi unul pe altul, precum v-am iubit Eu!', 'Voi sunteţi prietenii Mei, dacă faceţi ceea ce vă poruncesc!', 'Dacă păziţi poruncile Mele, veţi rămâne întru iubirea Mea!', 'Cel ce crede în Mine, chiar dacă va muri, va trăi!', 'Dacă păziţi poruncile Mele, veţi rămâne întru iubirea Mea!', 'De Mă iubiţi, păziţi poruncile Mele!'],
+  //h2 activity fields animated text
+  var skills = ['FRONTEND DEVELOPMENT', 'SOFTWARE IMPLEMENTATION', 'APPLICATION MAINTENANCE'],
     part,
-    i = Math.floor(Math.random() * teachings.length),
+    i = 0,
     offset = 0,
-    len = teachings.length,
+    len = skills.length,
     forwards = true,
     skip_count = 0,
-    skip_delay = 153,
-    speed = 12;
-
-  var textsTeachings = function () {
+    skip_delay = 135,
+    speed = 15;
+  var wordsSkills = function () {
     setInterval(function () {
       if (forwards) {
-        if (offset >= teachings[i].length) {
+        if (offset >= skills[i].length) {
           ++skip_count;
           if (skip_count == skip_delay) {
             forwards = false;
@@ -32,7 +31,7 @@ $(document).ready(function () {
           }
         }
       }
-      part = teachings[i].substr(0, offset);
+      part = skills[i].substr(0, offset);
       if (skip_count == 0) {
         if (forwards) {
           offset++;
@@ -41,18 +40,13 @@ $(document).ready(function () {
           offset--;
         }
       }
-      $('.biblical-Teachings').text(part);
+      $('.activity-fields').text(part);
     }, speed);
   };
 
   $(document).ready(function () {
-    textsTeachings();
+    wordsSkills();
   });
-
-
-
-
-
 
   //My SVG CT logo
   var iterationCount = $('.t-logo').css("animation-iteration-count");
@@ -95,28 +89,6 @@ $(document).ready(function () {
     $(".social").addClass("visible")
   }, function () {
     $(".social").removeClass("visible")
-  })
-
-
-
-  var currentSlide;
-  var rand;
-  $(document).ready(function () {
-    currentSlide = Math.floor((Math.random() * $('.item').length));
-    rand = currentSlide;
-    $('#carousel-example-generic').carousel(currentSlide);
-    $('#carousel-example-generic').fadeIn(3000);
-    setInterval(function () {
-      while (rand == currentSlide) {
-        rand = Math.floor((Math.random() * $('.item').length));
-      }
-      currentSlide = rand;
-      $('#carousel-example-generic').carousel(rand);
-    }, 20000);
-  });
-
-  $('.carousel').carousel({
-    interval: 20000
   })
 
 
