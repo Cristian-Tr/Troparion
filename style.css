@@ -62,8 +62,8 @@ h5 {
 #t-logo {
   width: 171px;
   height: 84px;
-  padding: 1px;
   margin: auto;
+  margin-top: 12px;
 }
 
 .t-logo {
@@ -113,8 +113,6 @@ h5 {
 main {
   width: 100%;
 }
-
-/* Tropar*/
 
 /* Biblical teachings - text animation */
 #biblicalTeachings {
