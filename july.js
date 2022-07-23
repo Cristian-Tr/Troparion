@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var colorCross;
     var religiousSongs;
 
-
+  //July
 
     if (month == 6) {
 
@@ -234,7 +234,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
-
+    
+  //August
 
     document.querySelector(".saint").innerHTML = "<br>" + saints + "<br>";
 

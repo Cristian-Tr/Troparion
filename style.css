@@ -207,7 +207,7 @@ iframe {
 }
 
 .panel {
-  border: 3px solid #8888ff;
+  border: 3px solid transparent !important;
   border-radius: 0 !important;
   transition: box-shadow 0.5s;
 }

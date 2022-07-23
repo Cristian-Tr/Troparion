@@ -3,16 +3,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     //Calendar with saints
-    var date = new Date();
-    var day = date.getDate();
-    var month = date.getMonth();
-    var saints;
-    var colors;
-    var colorCross;
-    var religiousSongs;
-
-
-
+      //August
+   
     if (month == 7) {
 
         if (day == 1) {
