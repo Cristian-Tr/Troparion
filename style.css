@@ -128,6 +128,12 @@ main {
   font-size: 1em;
 }
 
+@media screen and (min-width: 768px) {
+  #biblicalTeachings {
+    font-size: 1.2em;
+  }
+}
+
 .biblical-Teachings {
   width: 97%;
   height: 53px;
