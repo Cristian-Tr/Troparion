@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-    //Data curenta
+    //Data curenta in limba romana
     let date = new Date();
 
     let dayNumber = date.getDate();
@@ -33,27 +33,29 @@ document.addEventListener('DOMContentLoaded', function () {
     weekDay[6] = "Sâmbătă";
     let dayName = weekDay[date.getDay()];
 
-    let year = date.getFullYear()
+    let year = date.getFullYear();
 
     var dateSaint = dayName + " " + dayNumber + " " + monthNames + " " + year;
 
     document.querySelector('#dateSaint').innerHTML = dateSaint;
 
-    
 
 
-    //Troparele sfintilor 
 
-    var day = date.getDate();
-    var month = date.getMonth();
+    //Troparele sfintilor, schimbare culori text
+
+    var calendarDates = new Date();
+    var day = calendarDates.getDate();
+    var month = calendarDates.getMonth();
+    var calendarYears = calendarDates.getFullYear();
     var saints;
     var colors;
     var colorCross;
     var religiousSongs;
 
 
-    
-    
+
+
     //Troparele lunii iulie
 
     if (month == 6) {
