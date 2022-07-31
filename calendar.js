@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function () {
             religiousSongs = "Sfinţilor Apostoli, Sila, Silvan, Crescent, Epenet şi Andronic, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.";
         }
 
-        if (day == 21) {
+        if (day == 31) {
             saints = "Sfântul și Dreptul Evdochim";
             colors = "green";
             colorCross = "transparent";
@@ -496,7 +496,7 @@ document.addEventListener('DOMContentLoaded', function () {
             religiousSongs = "Vrednic slujitor al lui Hristos și înțelept apărător al dreptei credințe, mare cinstitor al Sfintei Cuvioase Parascheva și credincios luminător al neamului românesc, Sfinte Ierarhe Varlaam, roagă pe Hristos-Dumnezeu să ocrotească și să mântuiască sufletele noastre.";
         }
 
-        if (day == 21) {
+        if (day == 31) {
             saints = "Așezarea în raclă a brâului Maicii Domnului";
             colors = "green";
             colorCross = "transparent";
