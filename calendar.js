@@ -365,8 +365,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 12) {
             saints = "Sfinţii Mucenici Fotie şi Anichit";
-            colors = "blue";
-            colorCross = "blue";
+            colors = "green";
+            colorCross = "transparent";
             religiousSongs = "Mucenicii Tăi, Doamne, Fotie şi Anichit, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
@@ -407,8 +407,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 18) {
             saints = "Sfinţii Mucenici Flor şi Lavru";
-            colors = "blue";
-            colorCross = "blue";
+            colors = "green";
+            colorCross = "transparent";
             religiousSongs = "Pe preaîmpodobita şi de Dumnezeu înţelepţita doime cea prealuminoasă, pe Fericitul Flor şi pe Preacinstitul Lavru, după vrednicie să-i lăudăm credincioşii, căci aceştia cu osârdie au propovăduit în chip văzut tuturor, pe Treimea Cea Nezidită. Pentru aceasta, pătimind până la sânge, s-au încununat cu cunună prealuminoasă şi se roagă lui Hristos Dumnezeu, ca să mântuiască sufletele noastre.";
         }
 
@@ -442,8 +442,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 23) {
             saints = "Sfântul Mucenic Lup";
-            colors = "blue";
-            colorCross = "blue";
+            colors = "green";
+            colorCross = "transparent";
             religiousSongs = "Mucenicul Tău, Doamne, Lup, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
