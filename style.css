@@ -7,6 +7,8 @@ body {
   background-color: white;
 }
 
+/* Index styles */
+
 h1 {
   color: white;
   margin-top: 25px;
@@ -121,8 +123,8 @@ main {
   width: 98%;
   min-height: 100px;
   margin: auto;
-  border: 1px solid #8888ff;
-  background-color: #8888ff;
+  border: 1px solid blue;
+  background-color: blue;
   pointer-events: none;
   text-align: center;
   font-size: 1em;
@@ -150,7 +152,7 @@ main {
 
 .bg-1 {
   background-color: white; /* Green */
-  color: #8888ff;
+  color: black;
 }
 
 #carousel-example-generic {
@@ -165,10 +167,6 @@ main {
   margin: auto;
 }
 
-img {
-  width: 100%;
-}
-
 .thumbnail {
   margin: 1px;
   padding: 5px;
@@ -176,31 +174,6 @@ img {
   color: white;
   border-radius: 0;
   width: 100%;
-}
-
-iframe {
-  width: 100%;
-  border-bottom: 1px solid purple;
-}
-
-#myCarousel {
-  background-color: transparent;
-  width: 100%;
-}
-
-.carousel-inner {
-  width: 100%;
-  margin: auto;
-}
-
-.carousel-caption h3 {
-  color: white !important;
-}
-
-@media (max-width: 600px) {
-  .carousel-caption {
-    display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
-  }
 }
 
 .item h4 {
@@ -224,7 +197,7 @@ iframe {
 }
 
 .panel-heading {
-  background-color: #8888ff !important;
+  background-color: blue !important;
   padding: 1px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 0px;
@@ -239,72 +212,52 @@ iframe {
 
 .panel-body {
   background: white;
-  border: 3px solid #8888ff;
+  border: 3px solid blue;
 }
 
-.slideanim {
-  visibility: hidden;
+b {
+  font-size: 21px;
+  color: white;
+  line-height: 27px;
+  font-weight: 800;
 }
 
-.slide {
-  animation-name: slide;
-  -webkit-animation-name: slide;
-  animation-duration: 1s;
-  -webkit-animation-duration: 1s;
-  visibility: visible;
-}
-
-@keyframes slide {
-  0% {
-    opacity: 0;
-    transform: translateY(70%);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0%);
-  }
-}
-
-@-webkit-keyframes slide {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(70%);
-  }
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0%);
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .col-sm-4 {
-    text-align: center;
-    margin: 25px 0;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .logo {
-    font-size: 150px;
-  }
-}
-
-#emblem img {
-  width: 290px;
-  height: 290px;
-  margin-bottom: 5px;
-  animation: rotation 12s infinite linear;
-}
-
-img {
+article {
+  background-color: white;
+  overflow: auto;
   width: 100%;
+  transform: translate3d(0, 1px, 0);
 }
 
-@keyframes rotation {
-  from {
-    transform: rotateY(0deg);
-  }
-  to {
-    transform: rotateY(360deg);
-  }
+article .page {
+  margin: auto;
+}
+
+.category {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  font-family: "times new roman", "sans-serif";
+}
+
+.category dt {
+  height: 53px;
+  padding: 9px;
+  cursor: pointer;
+  font-weight: 700;
+  text-shadow: 1px 1px 1px black;
+  background: linear-gradient(blue, lightskyblue);
+}
+
+.category dd {
+  text-align: left;
+  text-justify: inter-word;
+  margin: auto;
+  padding: 2px;
+  background-color: lightskyblue;
+}
+
+.category dd p {
+  font-size: 1.2em;
+  font-weight: 900;
 }
