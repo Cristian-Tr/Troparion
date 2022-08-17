@@ -8,7 +8,6 @@ body {
 }
 
 /* Index styles */
-
 h1 {
   color: white;
   margin-top: 25px;
@@ -127,7 +126,7 @@ main {
   min-height: 100px;
   margin: auto;
   border: 1px solid blue;
-  background-color: blue;
+  background: linear-gradient(lightskyblue, blue);
   pointer-events: none;
   text-align: center;
   font-size: 1em;
@@ -200,7 +199,7 @@ main {
 }
 
 .panel-heading {
-  background-color: blue !important;
+  background: linear-gradient(lightskyblue, blue);
   padding: 1px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 0px;
@@ -220,7 +219,7 @@ main {
 
 b {
   font-size: 21px;
-  color: white;
+  color: rgb(252, 252, 144);
   line-height: 27px;
   font-weight: 800;
 }
@@ -245,19 +244,22 @@ article .page {
 
 .category dt {
   height: 53px;
-  padding: 9px;
+  padding: 12px;
   cursor: pointer;
   font-weight: 700;
+  color: rgb(252, 252, 144);
   text-shadow: 1px 1px 1px black;
-  background: linear-gradient(blue, lightskyblue);
+  background: linear-gradient(lightskyblue, blue);
 }
 
 .category dd {
+  color: rgb(252, 252, 144);
+  text-shadow: 1px 1px 1px black;
   text-align: left;
   text-justify: inter-word;
   margin: auto;
   padding: 2px;
-  background-color: lightskyblue;
+  background-color: blue;
 }
 
 .category dd p {
