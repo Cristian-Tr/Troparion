@@ -392,7 +392,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            saints = "Sfinții Martiri Brâncoveni: Constantin Vodă cu cei patru fii ai săi, Constantin, Ștefan, Radu și Matei, și sfetnicul Ianache";
+            saints = "Sfinții Martiri Brâncoveni: Constantin Vodă cu fii săi Constantin, Ștefan, Radu, Matei și cu sfetnicul Ianache";
             colors = "blue";
             colorCross = "blue";
             religiousSongs = "Cel ce pentru dreapta credință și pentru neam, te-ai învrednicit a suferi moarte de martir, împreună cu fiii tăi Constantin, Ștefan, Radu și Matei și cu sfetnicul Ianache, dreptcrediciosule Voievod Constantine, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
