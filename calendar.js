@@ -551,8 +551,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 6) {
             saints = "Pomenirea minunii Sfântului Arhanghel Mihail în Colose";
-            colors = "red";
-            colorCross = "red";
+            colors = "green";
+            colorCross = "transparent";
             religiousSongs = "Mai mare Voievodule al Oştilor Cereşti, Mihaile, rugămu-te pe tine noi, nevrednicii, ca să ne acoperi pe noi cu rugăciunile tale şi cu acoperământul aripilor măririi tale celei netrupeşti. Păzeşte-ne pe noi cei ce cădem cu deadinsul şi strigăm: mântuieşte-ne din nevoi, ca un mai mare peste Cetele Puterilor celor de sus.";
         }
 
