@@ -651,7 +651,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Mare Mucenic Eustatie cu soţia sa Teopisti și cei doi fii ai lor Agapie şi Teopist";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Mucenicii Tăi, Doamne, Eustatie, Teopista, Agapie și Teopist întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 21) {
@@ -665,14 +665,14 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Sfințit Mucenic Teodosie de la Mănăstirea Brazi";
             colors = "blue";
             colorCross = "blue";
-            religiousSongs = "Ceea ce mai înainte erai stearpă şi neroditoare, veseleşte-te; că iată ai zămislit pe Sfeşnicul Soarelui, Cel Ce va să lumineze toată lumea care pătimea cu nevederea. Dănţuieşte Zaharia cu îndrăzneală strigând: Prooroc Celui Preaînalt este cel ce are să se nască.";
+            religiousSongs = "Arătatu-te-ai, Sfinte Ierarhe Teodosie, sfeşnic pururea luminos şi mare apărător al Bisericii lui Hristos. Strălucit-ai prin slujire şi mucenicie, ca o jertfă preacurată aducându-te Stăpânului tuturor; slăvim pomenirea ta, rugând pe Dumnezeu să dăruiască sufletelor noastre pace şi mare milă.";
         }
 
         if (day == 23) {
             saints = "Zămislirea Sfântului Prooroc Ioan Botezătorul";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Mucenicul Tău, Doamne, Lup, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Ceea ce mai înainte erai stearpă şi neroditoare, veseleşte-te; că iată ai zămislit pe Sfeşnicul Soarelui, Cel Ce va să lumineze toată lumea care pătimea cu nevederea. Dănţuieşte Zaharia cu îndrăzneală strigând: Prooroc Celui Preaînalt este cel ce are să se nască.";
         }
 
         if (day == 24) {
