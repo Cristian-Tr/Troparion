@@ -727,6 +727,229 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
+    
+
+
+
+
+
+    //Octombrie
+
+    if (month == 9) {
+
+        if (day == 1) {
+            saints = "Acoperământul Maicii Domnului";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Astăzi, poporul cel binecredincios, luminat prăznuim, umbriţi fiind prin venirea ta, Maica lui Dumnezeu şi cău­tând către Preacinstită Icoana ta, cu umilinţă grăim: acoperă-ne pe noi cu Cinstitul tău Acoperă­mânt şi ne scapă de tot răul, rugând pe Fiul tău, Hristos Dumnezeul nostru, să mântu­iască sufletele noastre.";
+        }
+
+        if (day == 2) {
+            saints = "Sfântul Sfinţit Mucenic Ciprian";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Ciprian, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
+        }
+
+        if (day == 3) {
+            saints = "Sfântul Sfinţit Mucenic Dionisie Areopagitul";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Bunătate învăţându-te şi îmbărbătându-te întru toate, îmbrăcându-te cuviincios cu bun cuget, ai scos din vasul alegerii cele negrăite; şi cre­dinţa păzind, calea întocmai ai săvârşit, Sfinţite Mucenice Dionisie: roagă-te lui Hristos Dumnezeu, să mântuiască su­fletele noastre.";
+        }
+
+        if (day == 4) {
+            saints = "Sfântului Sfinţit Mucenic Ierotei, Episcopul Atenei";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Bunătate învăţându-te şi îmbărbătându-te întru toate, cu bună cunoştinţă, ca un sfinţitor cuvios îmbrăcându-te, ai scos din vasul alegerii cele negrăite; şi credinţa păzind, stadiul întocmai ai săvârşit, Sfinţite Mucenice Ierotei, roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre.";
+        }
+
+        if (day == 5) {
+            saints = "Sfinţii Cuvioşi Daniil şi Misail, de la Mănăstirea Turnu";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Dascăli ai rugăciunii neîncetate şi ai luptelor duhovniceşti v-aţi arătat, Cuvioşilor Daniil şi Misail, că de iubirea Mântuitorului Hristos, nedespărţiţi fiind, cu apostolească râvnă Preasfintei Treimi aţi slujit cu osârdie, în peşteri nevoindu-vă. Pentru aceasta, cerem, cu smerenie: Rugaţi-vă, să se mântuiască sufletele noastre.";
+        }
+
+        if (day == 6) {
+            saints = "Sfântul Apostol Toma";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Apostole Sfinte Toma, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+        }
+
+        if (day == 7) {
+            saints = "Sfinţilor Mari Mucenici Serghie şi Vah";
+            colors = "black";
+            colorCross = "black";
+            religiousSongs = "Pe cei ce după fire nu au fost fraţi de trup, pe aceştia Darul Cel Dumnezeiesc a cugeta frăţeşte până la sânge i-a făcut, pe Sfinţii Mucenici Serghie şi pe Vah, cinstită şi cre­dincioasă pereche. Fără de arme şi fără de haine în locul nevoinţei pe vrăjmaşul au înfruntat, rugându-se neîncetat pentru sufletele noastre.";
+        }
+
+        if (day == 8) {
+            saints = "Sfânta Cuvioasă Pelaghia";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Maică Pelaghia, duhul tău.";
+        }
+
+        if (day == 9) {
+            saints = "Sfinţii şi Drepţii Dumnezeieşti Părinţi Ioachim şi Ana";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Pomenirea drepţilor Tăi, Doamne, prăznuind, printr-înşii ne rugăm Ţie, mântuieşte sufletele noastre.";
+        }
+
+        if (day == 10) {
+            saints = "Sfânta Împărăteasă Pulheria";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Sfântă Împărăteasă Pulheria, roagă pe Milostivul Dumnezeu ca să dea iertare de păcate sufletelor noastre.";
+        }
+
+        if (day == 11) {
+            saints = "Sfânta Cuvioasă Teodora din Alexandria";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Maică Teodora, duhul tău.";
+        }
+
+        if (day == 12) {
+            saints = "Sfântul Mucenic Avtonom";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Avtonom, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
+        }
+
+        if (day == 13) {
+            saints = "Sfântul Cuvios Ioan de la Prislop";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Iubitorule de nevoinţă şi râvnitorule întru cele sfinte, Cuvioase Părinte Ioan, părăsit-ai cele trecătoare şi ai ales pe cele veşnice; luat-ai jugul lui Hristos în Mănăstirea Prislop şi în peşteră pustnicească, împreună cu îngerii, L-ai slăvit pe Dumnezeu. Pentru aceasta, nu înceta a te ruga pentru sufletele noastre.";
+        }
+
+        if (day == 14) {
+            saints = "Înălţarea Sfintei Cruci";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Mântuieşte, Doamne, poporul Tău şi binecuvintează moştenirea Ta; biruinţă binecredincioşilor creştini asupra celui protivnic dăruieşte şi cu Crucea Ta păzeşte pe poporul Tău.";
+        }
+
+        if (day == 15) {
+            saints = "Sfântul Ierarh Iosif cel Nou de la Partoş, Mitropolitul Banatului";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Din tinereţe cu totul te-ai supus Domnului, cu rugăciunile şi cu ostenelile şi cu postul. Pentru aceasta, văzând Dumnezeu nevoinţele tale, arhiereu şi păstor Bisericii Sale te-a rânduit; şi după moarte, în cetele sfinţilor te-a sălăşluit, Sfinte Părinte Iosif. Roagă-te lui Hristos Dumnezeu să ne dăruiască iertare de greşeli nouă, celor ce cu credinţă şi cu dragoste săvârşim sfântă pomenirea ta.";
+        }
+
+        if (day == 16) {
+            saints = "Sfânta Mare Muceniţă Eufimia";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Foarte mult ai vestit pe cei dreptmăritori şi ai ruşinat pe cei rău credincioşi, Sfântă Mare Muceniţă Eufimia, Preafrumoasă fecioară a lui Hristos, întărind cele ce părinţii bine au dogmatizat la al patrulea Sinod Ecumenic. Muceniţă Preamărită, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.";
+        }
+
+        if (day == 17) {
+            saints = "Sfânta Muceniţă Sofia cu fiicele sale: Pistis, Elpis şi Agapis";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Mieluşele cuvântătoare, prin mucenicie v-aţi adus Mielului şi Păstorului, săvârşind călătoria cea către Hristos şi credinţa păzind-o. Pentru aceea, cu suflet vesel astăzi săvârşind pomenirea voastră cea sfântă, minunatelor, pe Hristos Îl slăvim.";
+        }
+
+        if (day == 18) {
+            saints = "Sfântul Ierarh Eumenie, Episcopul Gortinei";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Eumenie, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.";
+        }
+
+        if (day == 19) {
+            saints = "Sfinţii Mucenici Trofim, Savatie şi Dorimedont";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Dumnezeu Cel Lăudat în Treime a preamărit treimea mucenicilor; pe Sfântul Trofim, pe Sfântul Savatie şi pe Sfântul Dorimedont; căci, întru Dânsul crezând, au surpat pe vrăjmaşul. Prin rugăciunile lor, Hristoase Dumnezeule, miluieşte-ne pe noi.";
+        }
+
+        if (day == 20) {
+            saints = "Sfântul Mare Mucenic Eustatie cu soţia sa Teopisti și cei doi fii ai lor Agapie şi Teopist";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Mucenicii Tăi, Doamne, Eustatie, Teopista, Agapie și Teopist întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+        }
+
+        if (day == 21) {
+            saints = "Sfântului Apostol Codrat din Magnesta";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Apostole Sfinte Codrat, roagă pe Milostivul Dumnezeu să dăruiască iertare de greşeli sufletelor noastre.";
+        }
+
+        if (day == 22) {
+            saints = "Sfântul Sfințit Mucenic Teodosie de la Mănăstirea Brazi";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Arătatu-te-ai, Sfinte Ierarhe Teodosie, sfeşnic pururea luminos şi mare apărător al Bisericii lui Hristos. Strălucit-ai prin slujire şi mucenicie, ca o jertfă preacurată aducându-te Stăpânului tuturor; slăvim pomenirea ta, rugând pe Dumnezeu să dăruiască sufletelor noastre pace şi mare milă.";
+        }
+
+        if (day == 23) {
+            saints = "Zămislirea Sfântului Prooroc Ioan Botezătorul";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Ceea ce mai înainte erai stearpă şi neroditoare, veseleşte-te; că iată ai zămislit pe Sfeşnicul Soarelui, Cel Ce va să lumineze toată lumea care pătimea cu nevederea. Dănţuieşte Zaharia cu îndrăzneală strigând: Prooroc Celui Preaînalt este cel ce are să se nască.";
+        }
+
+        if (day == 24) {
+            saints = "Sfântul Cuvios Siluan Athonitul";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Propovăduitor al iubirii lui Hristos, lumii întregi ai fost dat, de trei ori fericite, între cuvântătorii de Dumnezeu cel prea duios, căci pe Cel smerit și blând ai văzut și inima Aceluia o ai cunoscut. Pentru aceasta, prin graiurile tale toți luminându-ne, proslăvim Duhul, Carele pe tine-au proslăvit.";
+        }
+
+        if (day == 25) {
+            saints = "Sfânta Cuvioasă Eufrosina";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Maică Eufrosina, duhul tău.";
+        }
+
+        if (day == 26) {
+            saints = "Sfântul Voievod Neagoe Basarab";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Domnitor preaînţelept între căpeteniile neamului românesc, ctitor de lăcaşuri sfinte, prieten al Sfinţilor Părinţi, învăţător luminat de Duhul Sfânt şi mare iubitor de pace, Sfinte Neagoe Voievod, roagă-L pe Hristos Dumnezeu să mântuiască sufletele noastre!";
+        }
+
+        if (day == 27) {
+            saints = "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Sfinte Părinte Ierarhe Antim, după vrednicie ai fost rânduit păstor şi învăţător turmei tale, şi cu înţelepciune dumnezeiască ai revărsat râurile sfintelor tale cuvinte. Viaţa ai pus-o pentru păstoriţii tăi şi cununa muceniciei ai dobândit de la Hristos Dumnezeu, pe Care roagă-L, Sfinte Părinte Ierarhe Antim, să dăruiască pace şi mare milă celor ce săvârşesc sfântă pomenirea ta.";
+        }
+
+        if (day == 28) {
+            saints = "Sfântului Cuvios Hariton Mărturisitorul";
+            colors = "black";
+            colorCross = "black";
+            religiousSongs = "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Hariton, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.";
+        }
+
+        if (day == 29) {
+            saints = "Sfântul Mucenic Trifon";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Mucenicul Tău, Doamne, Trifon, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+        }
+
+        if (day == 30) {
+            saints = "Sfântul Ierarh Grigorie Luminătorul, Arhiepiscopul Armeniei";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Ierarhe Grigorie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
+        }
+
+
+    }
+
     document.querySelector(".saint").innerHTML = "<br>" + saints + "<br>";
 
     document.querySelector(".saint").style.color = colors;
