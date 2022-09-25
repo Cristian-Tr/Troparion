@@ -1,2 +1,2 @@
 # Troparion
-Orthodox prayers - Religious calendar - Christian teachings: https://cristian-tr.github.io/Troparion/
+Orthodox calendar, prayers and teachings: https://cristian-tr.github.io/Troparion/
