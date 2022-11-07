@@ -1013,17 +1013,17 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            saints = "Sfânta Cuvioasă Pelaghia";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Maică Pelaghia, duhul tău.";
+            saints = "Soborul Sfinților Arhangheli Mihail și Gavriil şi a tuturor puterilor cereşti";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Mai marilor Voievozi ai Oştilor cereşti, rugămu-vă pe voi noi, nevrednicii; cu rugăciunile voastre să ne acoperiţi pe noi, cu acoperământul aripilor slavei voastre celei netrupeşti păzindu-ne pe noi, cei ce cădem cu deadinsul şi strigăm: izbăviţi-ne din nevoi, ca nişte mai mari peste cetele puterilor celor de sus.";
         }
 
         if (day == 9) {
-            saints = "Sfântul Apostol Iacob al lui Alfeu";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Iacob, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            saints = "Sfântul Ierarh Nectarie din Eghina";
+            colors = "black";
+            colorCross = "black";
+            religiousSongs = "Pe cel născut în Silivria şi ocrotitorul Eghinei, pe acela ce s-a arătat în vremurile din urmă prieten adevărat al virtuţii, pe Sfântul Ierarh Nectarie să-l cinstim cei credincioşi ca pe un Dumnezeiesc slujitor al lui Hristos, că izvorăşte bogate vindecări celor ce cu evlavie strigă: Slavă lui Hristos, Celui Ce te-a proslăvit! Slavă Celui Ce minunat te-a arătat! Slavă Celui Ce prin tine lucrează tuturor tămăduiri!";
         }
 
         if (day == 10) {
