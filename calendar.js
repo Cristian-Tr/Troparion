@@ -1027,24 +1027,24 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            saints = "Sfinţii Mucenici Evlampie şi Evlampia, sora lui";
+            saints = "Sfinţilor Apostoli Olimp, Rodion, Sosipatru, Erast, Terţiu şi Cvart";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Mucenicii Tăi, Doamne, Evlampie și Evlampia, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Arătatu-s-a astăzi cinstită prăznuirea Apostolilor, dând în chip vădit iertare de greşeli tuturor celor ce săvârşesc pomenirea lor.";
         }
 
         if (day == 11) {
-            saints = "Sfântul Apostol Filip, unul din cei 7 diaconi";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Filip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            saints = "Sfântul Mare Mucenic Mina";
+            colors = "black";
+            colorCross = "black";
+            religiousSongs = "Mucenicul Tău, Doamne, Mina întru nevoința sa, cununa nestricăciunii a luat de la Tine, Dumnezeul nostru, că având puterea Ta, pe chinuitori a învins, zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 12) {
-            saints = "Sfinţilor Mucenici Prov, Tarah şi Andronic";
+            saints = "Sfântului Ierarh Ioan cel Milostiv, Patriarhul Alexandriei";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "De isprăvile Sfinţilor Mucenici Prov, Tarah şi Andronic, Puterile Îngereşti foarte s-au mi­nunat; că fiind un trup muri­tor, pe vrăjmaşul cel fără de trup cu Puterea Crucii nevoindu-se tare, l-au biruit nevăzut. Şi acum se roagă Domnului să se miluiască sufletele noastre.";
+            religiousSongs = "Întru răbdarea ta ţi-ai agonisit plata ta, părinte cuvioase, întru rugăciuni neîncetat răbdând, pe săraci iubind şi pe aceia îndestulând. Dar, roagă-te lui Hristos Dumnezeu, Sfinte Ioan, Milostive, Fericite, să mântuiască sufletele noastre.";
         }
 
         if (day == 13) {
