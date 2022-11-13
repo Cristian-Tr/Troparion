@@ -899,7 +899,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            saints = "Sfântului Mare Mucenic Areta şi al celor împreună cu dânsul";
+            saints = "Sfântul Mare Mucenic Areta şi al celor împreună cu dânsul";
             colors = "green";
             colorCross = "transparent";
             religiousSongs = "Pentru durerile Sfinţilor, care pentru Tine au pătimit, fii Mi­lostiv Doamne şi toate durerile noastre le vindecă, Iubitorule de oameni, rugămu-ne Ţie.";
@@ -1048,136 +1048,129 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            saints = "Aducerea moaștelor Sfântului Apostol Andrei la Iași";
-            colors = "blue";
-            colorCross = "blue";
-            religiousSongs = "Fiu al Galileei şi frate al lui Petru, dintre pescari în soborul Apostolilor întâi ai fost chemat, Andrei cel minunat, iar de la mormântul tău din Patra chemi popoarele la Dumnezeu şi atunci ne-ai umplut de bucurie când în România iarăşi ai venit, unde pe Hristos Domnul L-ai propovăduit.";
+            saints = "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscopul Constantinopolului";
+            colors = "black";
+            colorCross = "black";
+            religiousSongs = "Din gura ta ca o lumină de foc strălucind harul, lumea a luminat. Vistieriile neiubirii de argint lumii a câştigat. Înălţimea gândului smerit nouă ne-a arătat. Şi cu cuvintele tale învăţându-ne, Sfinte Părinte Ioan Gură de Aur, roagă pe Cuvântul Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
         if (day == 14) {
-            saints = "Sfânta Cuvioasă Parascheva";
-            colors = "red";
-            colorCross = "red";
-            religiousSongs = "Întru tine, Maică, cu osârdie s-a mân­tuit cel după chip, că luând Crucea, ai urmat lui Hristos și lucrând ai în­vă­țat să nu se uite la trup, căci este trecător, ci să poarte grijă de suflet, de lucrul cel ne­muritor. Pentru aceasta și cu îngerii împreună se bucură, Cuvioasă Maică Parascheva, duhul tău.";
+            saints = "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Luminător al dreptei credinţe, sprijinul Bisericii şi învăţătorule, podoaba monahilor, apărătorule cel nebiruit al teologilor; făcătorule de minuni, Grigorie, lauda Tesalonicului, propovăduitorule al harului, roagă-te pururea să se mântuiască sufletele noastre.";
         }
 
         if (day == 15) {
-            saints = "Sfântul Mucenic Luchian preotul";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinte Mucenice Luchian, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
+            saints = "Sfântul Cuvios Paisie de la Neamț";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Apărătorule al dreptei credințe și lauda monahilor, Cuvioase Părinte Paisie, din pruncie iubind pe Hristos, ca un alt Avraam ai părăsit patria ta, în Muntele Athosului nevoindu-te; și, adunând ceată de ucenici, te-ai așezat în țara Moldovei cea binecuvântată și Mănăstirea Neamțului rai pământesc ai făcut-o. Pentru aceasta, împreună cu îngerii, nu înceta a te ruga lui Dumnezeu pentru sufletele noastre.";
         }
 
         if (day == 16) {
-            saints = "Sfântul Mucenic Longhin Sutașul";
+            saints = "Sfântul Apostol şi Evanghelist Matei";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Mucenicul Tău, Doamne, Longhin, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Apostole Sfinte şi Evanghelist Matei, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 17) {
-            saints = "Sfântul Proroc Osea";
+            saints = "Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "A proorocului Tău Osea po­menire, Doamne, prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre.";
+            religiousSongs = "Întru rugăciuni priveghind, la lucrările minunilor răbdând, asemenea numire cu îndreptările ai câştigat. Ci, te roagă lui Hristos Dumnezeu, Părinte Grigorie, să lumineze sufletele noastre, ca să nu adormim în moarte cu păcate..";
         }
 
         if (day == 18) {
-            saints = "Sfântul Apostol și Evanghelist Luca";
+            saints = "Sfinții Mucenici Platon şi Roman, diaconul";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte şi Evanghe­liste Luca, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Mucenicii Tăi, Doamne, Platon şi Roman, diaconul, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 19) {
-            saints = "Sfântul Proroc Ioil";
+            saints = "Sfântul Proroc Avdie";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "A proorocului Tău, Doamne, Ioil pomenire prăznuind, printr-însul Te rugăm: mântuieşte sufletele noastre.";
+            religiousSongs = "Pomenind prăznuirea prorocului tău Avdie, Doamne, printr-însul Te rugăm: izbăveşte sufletele noastre.";
         }
 
         if (day == 20) {
-            saints = "Sfântul Mare Mucenic Artemie";
+            saints = "Sfântul Cuvios Grigorie Decapolitul";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Mucenicul Tău, Doamne, Artemie, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Chip te-ai făcut înfrânării şi prin Dumnezeiescul Duh pe toţi i-ai luminat. Alergarea dreptei credinţe o ai săvârşit şi cu învăţăturile lumea ai luminat şi ai mustrat cugetele celor rău credincioşi, Părinte Cuvioase Grigorie, roagă-te lui Hristos Dumnezeu să ne dăruiască nouă mare milă.";
         }
 
         if (day == 21) {
-            saints = "Sfinţii Cuvioşi Mărturisitori Visarion şi Sofronie şi al Sfântului Mucenic Oprea";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Luptătorilor pentru Orto­doxie, ca nişte îngereşti trâm­biţe aţi înviorat în suflete îndrăznirea mărturisirii dreptei credinţe şi ca nişte înţelepţi propovăduitori, pe popor l-aţi hrănit cu dreaptă şi luminată învăţătură. Mari au fost oste­nelile lucrării voastre; mare şi osârdia propovăduirii; mare a fost şi rodul luptei voastre drep­te, pururea pomeniţilor ostaşi ai lui Hristos.";
+            saints = "Intrării în biserică a Maicii Domnului";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Astăzi, înainte însemnarea bunăvoinţei lui Dumnezeu şi propovăduirea mântuirii oamenilor, în Templul lui Dumnezeu luminat Fecioara se arată şi pe Hristos tuturor mai înainte Îl vesteşte. Acesteia şi noi cu mare glas să-i strigăm: Bucură-te, Împlinirea rânduielii Ziditorului.";
         }
 
         if (day == 22) {
-            saints = "Sfântul Ierarh, întocmai cu apostolii, Averchie, Episcopul Ierapolei";
+            saints = "Sfinţilor Apostoli Filimon, Arhip şi Onisim";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Averchie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
+            religiousSongs = "Sfinţilor Apostoli, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 23) {
-            saints = "Sfântul Apostol Iacob, ruda Domnului, primul episcop al Ierusalimului";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Ca un ucenic al Domnului ai primit Evanghelia, drepte; ca un mucenic eşti de neînduple­cat; îndrăzneală ca un frate al lui Dumnezeu, a te ruga ca un ierarh. Roagă pe Hristos Dumnezeu, să mântuiască sufletele noastre.";
+            saints = "Sfântul Cuvios Antonie de la Iezerul Vâlcea";
+            colors = "blue";
+            colorCross = "blue";
+            religiousSongs = "Purtătorule de dumnezeiescul dor al rugăciunii neîncetate, Sfinte Părinte Noule Antonie, povăţuitorule al călugărilor, ajutătorule al celor din nevoi şi făcătorule de minuni, locuitorul raiului celui de sus, dar nedespărţit de cei de jos, roagă pe Milostivul Dumnezeu să ne dăruiască nouă pace şi mare milă.";
         }
 
         if (day == 24) {
-            saints = "Sfântului Mare Mucenic Areta şi al celor împreună cu dânsul";
+            saints = "Sfinţii Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Pentru durerile Sfinţilor, care pentru Tine au pătimit, fii Mi­lostiv Doamne şi toate durerile noastre le vindecă, Iubitorule de oameni, rugămu-ne Ţie.";
+            religiousSongs = "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile lor, în pace îndreptează viaţa noastră.";
         }
 
         if (day == 25) {
-            saints = "Sfinţilor Mucenici Marcian şi Martirie";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Mucenicii Tăi, Doamne, Marcian şi Martirie, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            saints = "Sfânta Mare Muceniță Ecaterina";
+            colors = "black";
+            colorCross = "black";
+            religiousSongs = "Cu înțelepciunea ca și cu razele soarelui ai luminat pe filosofii păgâni și ca o lună prealuminoasă, care strălucea în noaptea necredinței, întunericul l-ai gonit; iar pe împărăteasa o ai încredințat, dimpreună și pe prigonitorul l-ai mustrat, de Dumnezeu chemată, fericită Ecaterino!Cu bucurie ai alergat la cămara cea cerească, către Hristos, Mirele cel preafrumos, și de la Dânsul te-ai încununat cu cunună împărătească, înaintea Căruia împreună cu îngerii stând, roagă-te pentru noi, cei ce cinstim sfântă pomenirea ta.";
         }
 
         if (day == 26) {
-            saints = "Sfântul Mare Mucenic Dimitrie, Izvorâtorul de mir";
-            colors = "red";
-            colorCross = "red";
-            religiousSongs = "Mare apărător te-a aflat în­tru primejdii lumea, purtătorule de chinuri, pe tine cel ce ai biruit pe păgâni. Deci, precum mândria lui Lie ai surpat şi la luptă îndrăzneţ ai făcut pe Nestor, aşa Sfinte Dimitrie, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.";
+            saints = "Sfântul Cuvios Stelian Paflagonul, ocrotitorul pruncilor";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Cu curgerile lacrimilor tale, nerodirea pustiului o ai lucrat, şi cu suspinurile tale cele din adânc, spre însutite osteneli o ai făcut roditoare. Şi te-ai făcut luminător lumii, strălucind cu minunile, Stelian, Părintele nostru; roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
         if (day == 27) {
-            saints = "Sfântul Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor";
-            colors = "red";
-            colorCross = "red";
-            religiousSongs = "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Dimitrie, duhul tău.";
+            saints = "Sfântul Mare Mucenic Iacob Persul";
+            colors = "green";
+            colorCross = "transparent";
+            religiousSongs = "Cu mucenicia cea neobişnuită şi înfricoşătoare şi cu vitejiile răbdării, pe toţi i-ai minunat, mult-pătimitorule, cu tăierea fiecărei părţi din trup, rugăciuni de mulţumire preaminunat ai dat lui Dumnezeu. Pentru aceasta, în pătimirea ta cunună ai luat, şi te-ai suit către tronul Împăratului ceresc, al lui Hristos Dumnezeu, Iacobe. Pe Acela roagă-L să mântuiască sufletele noastre..";
         }
 
         if (day == 28) {
-            saints = "Sfântul Ierarh Iachint, Mitropolitul Țării Românești";
+            saints = "Sfântul Mucenic Irinarh";
             colors = "blue";
             colorCross = "blue";
-            religiousSongs = "Vrednic următor al ierarhilor dobrogeni şi întâiule între mitropoliţii Ţării Româneşti, Sfinte Ierarhe Iachint, te-ai arătat mărturisitor al dreptei credinţe, lucrător al virtuţilor şi rugător pentru sufletele noastre.";
+            religiousSongs = "Mucenicul Tău, Doamne, Irinarh, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 29) {
-            saints = "Sfânta Mare Muceniță Anastasia Romana";
+            saints = "Sfântul Mucenic Paramon";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Mieluşeaua Ta, Iisuse, Anastasia, strigă cu glas mare: pe Tine, Mirele meu, Te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un Milostiv, mântuiește sufletele noastre.";
+            religiousSongs = "Mucenicul Tău, Doamne, Paramon, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 30) {
-            saints = "Sfântul Apostol Cleopa";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte, Cleopa, roagă pe milostivul Dumnezeu ca să dăruiască iertare de greșeli sufletelor noastre.";
-        }
-
-        if (day == 31) {
-            saints = "Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis";
-            colors = "green";
-            colorCross = "transparent";
-            religiousSongs = "Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis, rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
+            saints = "Sfântul Apostol Andrei, cel Întâi Chemat, Ocrotitorul României";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Ca cel decât Apostolii mai întâi chemat şi verhovnicului frate adevărat, Stăpânului tuturor Andrei, roagă-te pace lumii să dăruiască şi sufletelor noastre mare milă.";
         }
 
 
