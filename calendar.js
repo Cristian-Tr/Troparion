@@ -1845,7 +1845,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-
+    document.querySelector("#dateSaint").style.color = colors;
+    
     document.querySelector(".saint").innerHTML = "<br>" + saints + "<br>";
 
     document.querySelector(".saint").style.color = colors;
