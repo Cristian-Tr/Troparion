@@ -77,11 +77,11 @@ h6 {
 
 @keyframes draw1 {
   0% {
-    stroke: cyan;
+    stroke: #002a83;
     stroke-width: 1.8px;
   }
   100% {
-    stroke: cyan;
+    stroke: #002a83;
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
@@ -90,11 +90,11 @@ h6 {
 
 @keyframes draw2 {
   0% {
-    stroke: yellow;
+    stroke: #e50000;
     stroke-width: 1.8px;
   }
   100% {
-    stroke: yellow;
+    stroke: #e50000;
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
@@ -103,11 +103,11 @@ h6 {
 
 @keyframes draw3 {
   0% {
-    stroke: red;
+    stroke: #ffdb00;
     stroke-width: 1.8px;
   }
   100% {
-    stroke: red;
+    stroke: #ffdb00;
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
