@@ -96,11 +96,11 @@ $(document).ready(function () {
       }
       currentSlide = rand;
       $('#carousel-example-generic').carousel(rand);
-    }, 27000);
+    }, 25000);
   });
 
   $('.carousel').carousel({
-    interval: 27000
+    interval: 25000
   })
 
 
