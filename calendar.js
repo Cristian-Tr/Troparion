@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
     //Troparele sfintilor, schimbare culori text
 
     var calendarDates = new Date();
-    var day = calendarDates.getDate();
+    var dayOfWeek = weekDay[date.getDay()];
     var nameDay = calendarDates.getDate();
     var month = calendarDates.getMonth();
     var calendarYears = calendarDates.getFullYear();
@@ -2527,28 +2527,28 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Mucenic Iustin Martirul şi Filosoful și a altui Mucenic Iustin";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Viaţa ta pe pământ bine cârmuind, pătimitorule, cu milostenii şi cu neîncetate rugăciuni şi lacrimi şi iarăşi către pătimire bărbăteşte pornindu-te, necredinţa persienească ai mustrat. Drept aceea Bisericii te-ai făcut întărire şi creştinilor laudă, Sfinte Ioane pururea pomenite.";
+            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 2) {
             saints = "Sfântul Mare Mucenic Ioan cel Nou de la Suceava";
             colors = "blue";
             colorCross = "blue";
-            religiousSongs = "Dumnezeiască odraslă a cretanilor, păstor al cetăţii celei împărăteşti şi povăţuitor sfinţit al creştinilor de la Dunăre, comoara cea de mult preţ a Harkovului, Atanasie înţelepte, primit-ai har bogat de Sus, cu nume nemuritor fiind. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
+            religiousSongs = "Viaţa ta pe pământ bine cârmuind, pătimitorule, cu milostenii şi cu neîncetate rugăciuni şi lacrimi şi iarăşi către pătimire bărbăteşte pornindu-te, necredinţa persienească ai mustrat. Drept aceea Bisericii te-ai făcut întărire şi creştinilor laudă, Sfinte Ioane pururea pomenite.";
         }
 
         if (day == 3) {
             saints = "Sfântul Mucenic Luchilian şi cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie";
             colors = "blue";
             colorCross = "blue";
-            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Mucenicii Tăi, Doamne, Luchilian, Ipatie, Paul, Dionisie și Claudie, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 4) {
             saints = "Sfinții Mucenici: Zotic, Atal, Camasie și Filip de la Niculițel";
             colors = "blue";
             colorCross = "blue";
-            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Mucenicii Tăi, Doamne, Zotic, Atal, Camasie și Filip, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 5) {
@@ -2817,7 +2817,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     //DUMINICI DE PESTE AN
-    if (nameDay == "Duminică") {
+    if (dayOfWeek == "Vineri") {
         colorCross = "red";
     }
 
