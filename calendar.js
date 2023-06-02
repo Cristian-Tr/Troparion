@@ -45,6 +45,8 @@ document.addEventListener('DOMContentLoaded', function () {
     //Troparele sfintilor, schimbare culori text
 
     var calendarDates = new Date();
+    var day = calendarDates.getDate();
+    var nameDay = calendarDates.getDate();
     var month = calendarDates.getMonth();
     var calendarYears = calendarDates.getFullYear();
     var saints;
@@ -2813,6 +2815,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
+
+  
 
 
 
