@@ -45,8 +45,6 @@ document.addEventListener('DOMContentLoaded', function () {
     //Troparele sfintilor, schimbare culori text
 
     var calendarDates = new Date();
-    var dayOfWeek = weekDay[date.getDay()];
-    var nameDay = calendarDates.getDate();
     var month = calendarDates.getMonth();
     var calendarYears = calendarDates.getFullYear();
     var saints;
@@ -2815,11 +2813,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
-
-    //DUMINICI DE PESTE AN
-    if (dayOfWeek == "Vineri") {
-        colorCross = "red";
-    }
 
 
 
