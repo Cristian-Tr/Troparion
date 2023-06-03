@@ -2539,8 +2539,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 3) {
             saints = "Sfântul Mucenic Luchilian şi cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie";
-            colors = "blue";
-            colorCross = "blue";
+            colors = "green";
+            colorCross = "transparent";
             religiousSongs = "Mucenicii Tăi, Doamne, Luchilian, Ipatie, Paul, Dionisie și Claudie, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
