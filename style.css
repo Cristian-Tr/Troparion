@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   width: 100%;
   min-height: 100vh;
-  background-color: white;
+  background-color: grey;
 }
 
 /* Index styles */
@@ -225,6 +225,7 @@ b {
 }
 
 article {
+  margin-top:90px;
   background-color: white;
   overflow: auto;
   width: 100%;
@@ -265,4 +266,37 @@ article .page {
 .category dd p {
   font-size: 1.2em;
   font-weight: 900;
+}
+
+#home p,
+#menu1 p,
+#menu2 p,
+#menu3 p,
+#menu4 p,
+#menu5 p,
+#menu6 p,
+#menu7 p,
+#menu8 p,
+#menu9 p,
+#menu10 p,
+#menu11 p,
+#menu12 p,
+#menu13 p,
+#menu14 p,
+#menu15 p,
+#menu16 p,
+#menu17 p,
+#menu18 p,
+#menu19 p,
+#menu20 p,
+#menu21 p,
+#menu22 p,
+#menu23 p,
+#menu24 p,
+#menu25 p,
+#menu26 p,
+#menu26 p {
+  font-size: 1.2em;
+  font-weight: 500;
+  text-align: justify;
 }

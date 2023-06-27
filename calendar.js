@@ -1,14 +1,14 @@
 
 document.addEventListener('DOMContentLoaded', function () {
 
-
+   
 
     //Data curenta in limba romana
-    let date = new Date();
+    var date = new Date();
 
-    let dayNumber = date.getDate();
+    var dayNumber = date.getDate();
 
-    let monthName = new Array(7);
+    var monthName = new Array(7);
     monthName[0] = "Ianuarie";
     monthName[1] = "Februarie";
     monthName[2] = "Martie";
@@ -21,9 +21,9 @@ document.addEventListener('DOMContentLoaded', function () {
     monthName[9] = "Octombrie";
     monthName[10] = "Noiembrie";
     monthName[11] = "Decembrie";
-    let monthNames = monthName[date.getMonth()];
+    var monthNames = monthName[date.getMonth()];
 
-    let weekDay = new Array(7);
+    var weekDay = new Array(7);
     weekDay[0] = "Duminică";
     weekDay[1] = "Luni";
     weekDay[2] = "Marți";
@@ -31,9 +31,9 @@ document.addEventListener('DOMContentLoaded', function () {
     weekDay[4] = "Joi";
     weekDay[5] = "Vineri";
     weekDay[6] = "Sâmbătă";
-    let dayName = weekDay[date.getDay()];
+    var dayName = weekDay[date.getDay()];
 
-    let year = date.getFullYear();
+    var year = date.getFullYear();
 
     var dateSaint = dayName + "<br>" + dayNumber + " " + monthNames + " " + year;
 
@@ -2737,8 +2737,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
 
-
-
     if (year == 2023) {
 
         //INVIEREA DOMNULUI
@@ -2816,7 +2814,12 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
 
-  
+  //COLORARE CRUCE, NUME SFÂNT ȘI TEXT TROPAR ÎN ROȘU DACĂ ESTE DUMINICĂ
+if (dayName == "Duminică") {
+    colors = "red";
+    colorCross = "red";
+};
+
 
 
 
