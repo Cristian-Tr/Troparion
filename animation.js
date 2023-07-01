@@ -82,14 +82,14 @@ $(document).ready(function () {
   }
 
 
-  //Carusel cugetari crestine
+  /*Carusel cugetari crestine
   var currentSlide;
   var rand;
   $(document).ready(function () {
     currentSlide = Math.floor((Math.random() * $('.item').length));
     rand = currentSlide;
     $('#carousel-example-generic').carousel(currentSlide);
-    $('#carousel-example-generic').fadeIn(3000);
+    $('#carousel-example-generic').fadeIn(5000);
     setInterval(function () {
       while (rand == currentSlide) {
         rand = Math.floor((Math.random() * $('.item').length));
@@ -102,7 +102,7 @@ $(document).ready(function () {
   $('.carousel').carousel({
     interval: 25000
   })
-
+*/
 
 
   //Butoane selectie rugaciuni

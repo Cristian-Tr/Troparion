@@ -153,10 +153,10 @@ main {
 }
 
 .bg-1 {
-  background-color: white; /* Green */
+  background-color: white; 
   color: black;
 }
-
+/* Carousel 
 #carousel-example-generic {
   width: 88%;
   margin: 1px auto;
@@ -187,7 +187,7 @@ main {
 .item span {
   font-style: normal;
 }
-
+*/
 .panel {
   border: 3px solid transparent !important;
   border-radius: 0 !important;
