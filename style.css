@@ -254,6 +254,7 @@ article .page {
 }
 
 .category dd {
+  font-size: 1.2em;
   color: rgb(252, 252, 144);
   text-shadow: 1px 1px 1px black;
   text-align: left;
@@ -264,6 +265,7 @@ article .page {
 }
 
 .category dd p {
+  font-size: 1.2em;
   font-weight: 900;
 }
 
