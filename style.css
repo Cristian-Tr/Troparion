@@ -203,7 +203,7 @@ article .page {
   font-size: 1.4em;
   color: rgb(252, 252, 144);
   line-height: 27px;
-  font-weight: 900;
+  font-weight: 700;
   height: 53px;
   padding: 12px;
   cursor: pointer;
@@ -216,7 +216,7 @@ article .page {
   font-size: 1.2em;
   color: rgb(252, 252, 144);
   line-height: 27px;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .category dd {
