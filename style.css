@@ -122,26 +122,20 @@ main {
 /* Biblical teachings - text animation */
 #biblicalTeachings {
   background-color: transparent;
-  width: 98%;
+  width: 100%;
   min-height: 100px;
   margin: auto;
   border: 1px solid blue;
   background: linear-gradient(lightskyblue, blue);
   pointer-events: none;
   text-align: center;
-  font-size: 1em;
-}
-
-@media screen and (min-width: 768px) {
-  #biblicalTeachings {
-    font-size: 1.2em;
-  }
+  font-size: 1.2em;
 }
 
 .biblical-Teachings {
-  width: 97%;
+  width: 100%;
   height: 53px;
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-weight: 700;
   margin: 0.1em auto;
   color: white;
@@ -156,38 +150,7 @@ main {
   background-color: white; 
   color: black;
 }
-/* Carousel 
-#carousel-example-generic {
-  width: 88%;
-  margin: 1px auto;
-  background-color: transparent;
-  height: 100%;
-}
 
-.item {
-  width: 100%;
-  margin: auto;
-}
-
-.thumbnail {
-  margin: 1px;
-  padding: 5px;
-  background-color: white;
-  color: white;
-  border-radius: 0;
-  width: 100%;
-}
-
-.item h4 {
-  line-height: 1.375em;
-  font-style: italic;
-  margin: 12px 0;
-}
-
-.item span {
-  font-style: normal;
-}
-*/
 .panel {
   border: 3px solid transparent !important;
   border-radius: 0 !important;
@@ -217,15 +180,8 @@ main {
   border: 3px solid blue;
 }
 
-b {
-  font-size: 2.1rem;
-  color: rgb(252, 252, 144);
-  line-height: 27px;
-  font-weight: 800;
-}
-
 article {
-  margin-top:90px;
+  margin-top: 90px;
   background-color: white;
   overflow: auto;
   width: 100%;
@@ -244,13 +200,23 @@ article .page {
 }
 
 .category dt {
+  font-size: 1.4em;
+  color: rgb(252, 252, 144);
+  line-height: 27px;
+  font-weight: 900;
   height: 53px;
   padding: 12px;
   cursor: pointer;
-  font-weight: 700;
   color: rgb(252, 252, 144);
   text-shadow: 1px 1px 1px black;
   background: linear-gradient(lightskyblue, blue);
+}
+
+.category dt b {
+  font-size: 1.2em;
+  color: rgb(252, 252, 144);
+  line-height: 27px;
+  font-weight: 900;
 }
 
 .category dd {
@@ -267,37 +233,4 @@ article .page {
 .category dd p {
   font-size: 1.2em;
   font-weight: 900;
-}
-
-#home p,
-#menu1 p,
-#menu2 p,
-#menu3 p,
-#menu4 p,
-#menu5 p,
-#menu6 p,
-#menu7 p,
-#menu8 p,
-#menu9 p,
-#menu10 p,
-#menu11 p,
-#menu12 p,
-#menu13 p,
-#menu14 p,
-#menu15 p,
-#menu16 p,
-#menu17 p,
-#menu18 p,
-#menu19 p,
-#menu20 p,
-#menu21 p,
-#menu22 p,
-#menu23 p,
-#menu24 p,
-#menu25 p,
-#menu26 p,
-#menu26 p {
-  font-size: 1.2em;
-  font-weight: 500;
-  text-align: justify;
 }
