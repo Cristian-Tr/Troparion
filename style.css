@@ -77,11 +77,11 @@ h6 {
 
 @keyframes draw1 {
   0% {
-    stroke: #002a83;
+    stroke: cornflowerblue;
     stroke-width: 1.8px;
   }
   100% {
-    stroke: #002a83;
+    stroke: cornflowerblue;
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
@@ -90,11 +90,11 @@ h6 {
 
 @keyframes draw2 {
   0% {
-    stroke: #e50000;
+    stroke: red;
     stroke-width: 1.8px;
   }
   100% {
-    stroke: #e50000;
+    stroke: red;
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
@@ -103,11 +103,11 @@ h6 {
 
 @keyframes draw3 {
   0% {
-    stroke: #ffdb00;
+    stroke: yellow;
     stroke-width: 1.8px;
   }
   100% {
-    stroke: #ffdb00;
+    stroke: yellow;
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
@@ -125,7 +125,7 @@ main {
   width: 100%;
   min-height: 100px;
   margin: auto;
-  border: 1px solid blue;
+  border: 1px solid dimgray;
   background: linear-gradient(lightskyblue, blue);
   pointer-events: none;
   text-align: center;
@@ -201,27 +201,26 @@ article .page {
 
 .category dt {
   font-size: 1.4em;
-  color: rgb(252, 252, 144);
   line-height: 27px;
   font-weight: 700;
   height: 53px;
   padding: 12px;
   cursor: pointer;
-  color: rgb(252, 252, 144);
+  color: white;
   text-shadow: 1px 1px 1px black;
   background: linear-gradient(lightskyblue, blue);
 }
 
 .category dt b {
   font-size: 1.2em;
-  color: rgb(252, 252, 144);
+  color: white;
   line-height: 27px;
   font-weight: 700;
 }
 
 .category dd {
   font-size: 1.2em;
-  color: rgb(252, 252, 144);
+  color: white;
   text-shadow: 1px 1px 1px black;
   text-align: left;
   text-justify: inter-word;
@@ -233,4 +232,5 @@ article .page {
 .category dd p {
   font-size: 1.2em;
   font-weight: 900;
+  color: white;
 }
