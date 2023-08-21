@@ -80,6 +80,7 @@ h6 {
     stroke: cornflowerblue;
     stroke-width: 1.8px;
   }
+
   100% {
     stroke: cornflowerblue;
     stroke-width: 1.8px;
@@ -93,6 +94,7 @@ h6 {
     stroke: red;
     stroke-width: 1.8px;
   }
+
   100% {
     stroke: red;
     stroke-width: 1.8px;
@@ -106,6 +108,7 @@ h6 {
     stroke: yellow;
     stroke-width: 1.8px;
   }
+
   100% {
     stroke: yellow;
     stroke-width: 1.8px;
@@ -147,7 +150,7 @@ main {
 }
 
 .bg-1 {
-  background-color: white; 
+  background-color: white;
   color: black;
 }
 
@@ -233,4 +236,16 @@ article .page {
   font-size: 1.2em;
   font-weight: 900;
   color: white;
+}
+
+#reload {
+  position: fixed;
+  bottom: 5px;
+  left: 5px;
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  background-color: lightskyblue;
+  box-shadow: 1px dimgray;
+  cursor: pointer;
 }
