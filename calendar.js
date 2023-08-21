@@ -1,7 +1,6 @@
-
 document.addEventListener('DOMContentLoaded', function () {
 
-   
+
 
     //Data curenta in limba romana
     var date = new Date();
@@ -347,7 +346,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Matia";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Sfinte Apostole Matia, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Matia, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 10) {
@@ -431,7 +430,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Tadeu";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Tadeu, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Tadeu, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 22) {
@@ -459,7 +458,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Tit";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Tit, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Tit, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 26) {
@@ -659,7 +658,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântului Apostol Codrat din Magnesta";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Codrat, roagă pe Milostivul Dumnezeu să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Codrat, roagă pe Milostivul Dumnezeu să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 22) {
@@ -777,7 +776,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Toma";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Toma, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Toma, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 7) {
@@ -798,7 +797,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Iacob al lui Alfeu";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Iacob, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Iacob, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 10) {
@@ -812,7 +811,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Filip, unul din cei 7 diaconi";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Filip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Filip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 12) {
@@ -861,7 +860,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol și Evanghelist Luca";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte şi Evanghe­liste Luca, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol şi Evanghe­list Luca, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 19) {
@@ -945,7 +944,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Cleopa";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte, Cleopa, roagă pe milostivul Dumnezeu ca să dăruiască iertare de greșeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol, Cleopa, roagă pe milostivul Dumnezeu ca să dăruiască iertare de greșeli sufletelor noastre.";
         }
 
         if (day == 31) {
@@ -1073,7 +1072,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol şi Evanghelist Matei";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte şi Evanghelist Matei, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol şi Evanghelist Matei, roagă pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 17) {
@@ -1561,7 +1560,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Timotei";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Bunătatea învăţându-te şi întru toate cumpătat fiind, îmbrăcându-te cu buna conştiinţă, precum i se cuvine unui sfânt, ai scos din vasul alegerii lucrurile tainice; şi credinţa păzind, aceeaşi cale ai săvârşit, Sfinte Apostole Timotei, roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre.";
+            religiousSongs = "Bunătatea învăţându-te şi întru toate cumpătat fiind, îmbrăcându-te cu buna conştiinţă, precum i se cuvine unui sfânt, ai scos din vasul alegerii lucrurile tainice; şi credinţa păzind, aceeaşi cale ai săvârşit, Sfinte Apostol Timotei, roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre.";
         }
 
         if (day == 23) {
@@ -1739,7 +1738,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Onisim";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Onisim, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Onisim, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 16) {
@@ -1767,7 +1766,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Arhip";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Arhip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Arhip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 20) {
@@ -2248,7 +2247,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol și Evanghelist Marcu și Sfântul Cuvios Vasile de la Poiana Mărului";
             colors = "lightskyblue";
             colorCross = "lightskyblue";
-            religiousSongs = "Învăţat fiind de Apostolul Petru, te-ai făcut Apostol al lui Hristos şi ca un soare ai strălucit marginilor, podoaba alexandri­nilor ai fost, fericite, căci prin tine Egiptul s-a eliberat de înşelăciune şi ca un stâlp al Bisericii, prin învăţătura ta cea Evanghelică pe toţi ai luminat. Pentru aceasta luminat cinstind, pomenirea ta prăznuim, de Dumnezeu grăitorule Sfinte Apostole Marcu; roagă pe Dumnezeu Cel Înduple­cat prin tine, să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Învăţat fiind de Apostolul Petru, te-ai făcut Apostol al lui Hristos şi ca un soare ai strălucit marginilor, podoaba alexandri­nilor ai fost, fericite, căci prin tine Egiptul s-a eliberat de înşelăciune şi ca un stâlp al Bisericii, prin învăţătura ta cea Evanghelică pe toţi ai luminat. Pentru aceasta luminat cinstind, pomenirea ta prăznuim, de Dumnezeu grăitorule Sfinte Apostol Marcu; roagă pe Dumnezeu Cel Înduple­cat prin tine, să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 26) {
@@ -2364,7 +2363,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Simon Zilotul";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole sfinte Simone, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Simone, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 11) {
@@ -2476,7 +2475,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Apostol Carp";
             colors = "green";
             colorCross = "transparent";
-            religiousSongs = "Apostole Sfinte Carp, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinte Apostol Carp, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 27) {
@@ -2814,11 +2813,11 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
 
-  //COLORARE CRUCE, NUME SFÂNT ȘI TEXT TROPAR ÎN ROȘU DACĂ ESTE DUMINICĂ
-if (dayName == "Duminică") {
-    colors = "red";
-    colorCross = "red";
-};
+    //COLORARE CRUCE, NUME SFÂNT ȘI TEXT TROPAR ÎN ROȘU DACĂ ESTE DUMINICĂ
+    if (dayName == "Duminică") {
+        colors = "red";
+        colorCross = "red";
+    };
 
 
 
@@ -2834,7 +2833,6 @@ if (dayName == "Duminică") {
     document.querySelector("#troparion").innerHTML = "<br>" + religiousSongs + "<br>";
 
     document.querySelector("#troparion").style.color = colors;
-
 
 
 
