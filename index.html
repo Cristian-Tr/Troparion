@@ -22,11 +22,181 @@
 
   <header><br>
 
-    <div class="container-fluid text-center">
-      <div class="col-sm-12 col-xs-12">
-        <div class="panel panel-default text-center">
-          <div class="panel-heading">
-            <!-- My SVG CT logo -->
+    <!-- ANTET ICOANE - start
+    <section class="icons" class="container-fluid text-center">
+-->
+    <!-- Icoana Maica Domnului - start
+
+      <img src="https://commons.orthodoxwiki.org/images/f/f5/Theotokos_of_Vladimir.jpg" height="153"
+        alt="Maica Domnului">
+
+      -->
+
+    <!-- Lumanare - start
+      <svg id="candle" width="70" height="153" viewbox="0 0 100 200">
+        <filter id="goo">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="color-matrix-blur">
+          </feGaussianBlur>
+          <feColorMatrix in="blur" mode="matrix" result="color-matrix-filter"
+            values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 22 -15"></feColorMatrix>
+          <feComposite in="SourceGraphic" in2="filter" operator="atop"></feComposite>
+        </filter>
+        <filter id="f2" x="-200%" y="-200%" width="1000%" height="1000%">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
+        </filter>
+
+        <g class="fluid" filter="url(#goo)">
+          <circle r="25" fill="hsl(49,100%,70%)" cx="54%" cy="58%" filter="url(#goo)">
+            <animate attributeName="cx" begin="-1s" values="46%; 54%; 46%" dur="5s" begin="-4s"
+              repeatCount="indefinite"></animate>
+            <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="7s" begin="-5s"
+              repeatCount="indefinite"></animate>
+          </circle>
+          <circle r="25" fill="hsl(49,100%,70%)" cx="49%" cy="27%" filter="url(#goo)">
+            <animate attributeName="cx" begin="-1s" values="46%; 54%; 46%" dur="7s" begin="-5s"
+              repeatCount="indefinite"></animate>
+            <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="5s" begin="-4s"
+              repeatCount="indefinite"></animate>
+          </circle>
+          <circle r="20" fill="hsl(23,100%,50%)" cy="60%">
+            <animate attributeName="cx" begin="-10s" values="50%; 50%; 50%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="19.5" fill="hsl(24,100%,50%)" cy="59%">
+            <animate attributeName="cx" begin="-9.99s" values="49.8%; 50.2%; 49.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="19" fill="hsl(25,100%,50%)" cy="58%">
+            <animate attributeName="cx" begin="-9.98s" values="49.6%; 50.4%; 49.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="18.5" fill="hsl(26,100%,50%)" cy="57%">
+            <animate attributeName="cx" begin="-9.97s" values="49.4%; 50.6%; 49.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="18" fill="hsl(27,100%,50%)" cy="56%">
+            <animate attributeName="cx" begin="-9.96s" values="49.2%; 50.8%; 49.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="17.5" fill="hsl(28,100%,50%)" cy="55%">
+            <animate attributeName="cx" begin="-9.95s" values="49%; 51%; 49%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="17" fill="hsl(29,100%,50%)" cy="54%">
+            <animate attributeName="cx" begin="-9.94s" values="48.8%; 51.2%; 48.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="16.5" fill="hsl(30,100%,50%)" cy="53%">
+            <animate attributeName="cx" begin="-9.93s" values="48.6%; 51.4%; 48.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="16" fill="hsl(31,100%,50%)" cy="52%">
+            <animate attributeName="cx" begin="-9.92s" values="48.4%; 51.6%; 48.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="15.5" fill="hsl(32,100%,50%)" cy="51%">
+            <animate attributeName="cx" begin="-9.91s" values="48.2%; 51.8%; 48.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="15" fill="hsl(33,100%,50%)" cy="50%">
+            <animate attributeName="cx" begin="-9.9s" values="48%; 52%; 48%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="14.5" fill="hsl(34,100%,50%)" cy="49%">
+            <animate attributeName="cx" begin="-9.89s" values="47.8%; 52.2%; 47.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="14" fill="hsl(35,100%,50%)" cy="48%">
+            <animate attributeName="cx" begin="-9.88s" values="47.6%; 52.4%; 47.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="13.5" fill="hsl(36,100%,50%)" cy="47%">
+            <animate attributeName="cx" begin="-9.87s" values="47.4%; 52.6%; 47.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="13" fill="hsl(37,100%,50%)" cy="46%">
+            <animate attributeName="cx" begin="-9.86s" values="47.2%; 52.8%; 47.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="12.5" fill="hsl(38,100%,50%)" cy="45%">
+            <animate attributeName="cx" begin="-9.85s" values="47%; 53%; 47%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="12" fill="hsl(39,100%,50%)" cy="44%">
+            <animate attributeName="cx" begin="-9.84s" values="46.8%; 53.2%; 46.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="11.5" fill="hsl(40,100%,50%)" cy="43%">
+            <animate attributeName="cx" begin="-9.83s" values="46.6%; 53.4%; 46.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="11" fill="hsl(41,100%,50%)" cy="42%">
+            <animate attributeName="cx" begin="-9.82s" values="46.4%; 53.6%; 46.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="10.5" fill="hsl(42,100%,50%)" cy="41%">
+            <animate attributeName="cx" begin="-9.81s" values="46.2%; 53.8%; 46.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="10" fill="hsl(43,100%,50%)" cy="40%">
+            <animate attributeName="cx" begin="-9.8s" values="46%; 54%; 46%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="9.5" fill="hsl(44,100%,50%)" cy="39%">
+            <animate attributeName="cx" begin="-9.79s" values="45.8%; 54.2%; 45.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="9" fill="hsl(45,100%,50%)" cy="38%">
+            <animate attributeName="cx" begin="-9.78s" values="45.6%; 54.4%; 45.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="8.5" fill="hsl(46,100%,50%)" cy="37%">
+            <animate attributeName="cx" begin="-9.77s" values="45.4%; 54.6%; 45.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="8" fill="hsl(47,100%,50%)" cy="36%">
+            <animate attributeName="cx" begin="-9.76s" values="45.2%; 54.8%; 45.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="7.5" fill="hsl(48,100%,50%)" cy="35%">
+            <animate attributeName="cx" begin="-9.75s" values="45%; 55%; 45%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="7" fill="hsl(49,100%,50%)" cy="34%">
+            <animate attributeName="cx" begin="-9.74s" values="44.8%; 55.2%; 44.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+
+          <circle r="20" fill="hsl(49,100%,70%)" cx="49%" cy="30%" filter="url(#goo)">
+            <animate attributeName="cx" begin="-1s" values="47%; 53%; 47%" dur=".5s" begin="-1s"
+              repeatCount="indefinite"></animate>
+            <animate attributeName="cy" begin="-1s" values="30%; 31%; 30%" dur=".7s" begin="-1.1s"
+              repeatCount="indefinite"></animate>
+          </circle>
+        </g>
+        -->
+    <!-- FITIL - start
+        <path d="M50 166 L 50 126" stroke="rgba(235,171,35,0.8)" stroke-width="4.5" />
+        -->
+    <!-- Ceara - start
+        <path d="M50 200 L 50 153" stroke="rgba(235,171,35)" stroke-width="28" stroke-linecap="square" />
+        -->
+    <!-- Lumanare
+        <circle r="40" fill="hsla(23,100%,95%,0.2)" filter="url(#f2)" cy="55%" cx="50%"></circle>
+      </svg>
+
+-->
+
+    <!-- Icoana Domnul Iisus
+
+      <img src="https://commons.orthodoxwiki.org/images/6/67/Iisus-Hristos.jpg" height="153" alt="Domnul Iisus">
+
+       -->
+    <!-- ANTET ICOANE - stop
+    </section>
+    -->
+
+    <!-- My SVG T LOGO 
             <div id="t-logo">
               <svg xmlns="http://www.w3.org/2000/svg" width="171px" height="84px">
                 <defs>
@@ -36,40 +206,217 @@
                     <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
                   </filter>
                 </defs>
-                <!-- T -->
+                -->
+    <!-- T 
                 <path class="t-logo" fill="none" stroke-width="1" stroke-dasharray="750" stroke-dashoffset="750"
                   filter="url(#f1)"
                   d="M 125 35 L 125 80 L 45 80 L 45 35  L 1 35  L 10 1  L 161 1 L 170 35  L 125 35 Z" />
 
               </svg>
             </div>
+          -->
 
-            <h1 style=" color: white; text-shadow: 1px 1px 1px dimgray; ">TROPARION</h1>
+    <!-- Logo - start-->
+    <section id="logo" class="container-fluid text-center"
+      style="width: 100%; margin-top: -23px; padding-right: 1px; padding-left: 1px;">
+
+      <!-- TROPAR - start-->
+
+      <h1 style=" color: red; font-weight: 900;   ">T R O P A R</h1>
+
+      <!-- TROPAR - stop-->
+
+      <!-- LUMANARE - start-->
+      <svg id="candle" width="35" height="53" viewbox="0 0 100 200">
+        <filter id="goo">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="color-matrix-blur">
+          </feGaussianBlur>
+          <feColorMatrix in="blur" mode="matrix" result="color-matrix-filter"
+            values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 22 -15"></feColorMatrix>
+          <feComposite in="SourceGraphic" in2="filter" operator="atop"></feComposite>
+        </filter>
+        <filter id="f2" x="-200%" y="-200%" width="1000%" height="1000%">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
+        </filter>
+
+        <g class="fluid" filter="url(#goo)">
+          <circle r="25" fill="hsl(49,100%,70%)" cx="54%" cy="58%" filter="url(#goo)">
+            <animate attributeName="cx" begin="-1s" values="46%; 54%; 46%" dur="5s" begin="-4s"
+              repeatCount="indefinite"></animate>
+            <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="7s" begin="-5s"
+              repeatCount="indefinite"></animate>
+          </circle>
+          <circle r="25" fill="hsl(49,100%,70%)" cx="49%" cy="27%" filter="url(#goo)">
+            <animate attributeName="cx" begin="-1s" values="46%; 54%; 46%" dur="7s" begin="-5s"
+              repeatCount="indefinite"></animate>
+            <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="5s" begin="-4s"
+              repeatCount="indefinite"></animate>
+          </circle>
+          <circle r="20" fill="hsl(23,100%,50%)" cy="60%">
+            <animate attributeName="cx" begin="-10s" values="50%; 50%; 50%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="19.5" fill="hsl(24,100%,50%)" cy="59%">
+            <animate attributeName="cx" begin="-9.99s" values="49.8%; 50.2%; 49.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="19" fill="hsl(25,100%,50%)" cy="58%">
+            <animate attributeName="cx" begin="-9.98s" values="49.6%; 50.4%; 49.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="18.5" fill="hsl(26,100%,50%)" cy="57%">
+            <animate attributeName="cx" begin="-9.97s" values="49.4%; 50.6%; 49.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="18" fill="hsl(27,100%,50%)" cy="56%">
+            <animate attributeName="cx" begin="-9.96s" values="49.2%; 50.8%; 49.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="17.5" fill="hsl(28,100%,50%)" cy="55%">
+            <animate attributeName="cx" begin="-9.95s" values="49%; 51%; 49%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="17" fill="hsl(29,100%,50%)" cy="54%">
+            <animate attributeName="cx" begin="-9.94s" values="48.8%; 51.2%; 48.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="16.5" fill="hsl(30,100%,50%)" cy="53%">
+            <animate attributeName="cx" begin="-9.93s" values="48.6%; 51.4%; 48.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="16" fill="hsl(31,100%,50%)" cy="52%">
+            <animate attributeName="cx" begin="-9.92s" values="48.4%; 51.6%; 48.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="15.5" fill="hsl(32,100%,50%)" cy="51%">
+            <animate attributeName="cx" begin="-9.91s" values="48.2%; 51.8%; 48.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="15" fill="hsl(33,100%,50%)" cy="50%">
+            <animate attributeName="cx" begin="-9.9s" values="48%; 52%; 48%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="14.5" fill="hsl(34,100%,50%)" cy="49%">
+            <animate attributeName="cx" begin="-9.89s" values="47.8%; 52.2%; 47.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="14" fill="hsl(35,100%,50%)" cy="48%">
+            <animate attributeName="cx" begin="-9.88s" values="47.6%; 52.4%; 47.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="13.5" fill="hsl(36,100%,50%)" cy="47%">
+            <animate attributeName="cx" begin="-9.87s" values="47.4%; 52.6%; 47.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="13" fill="hsl(37,100%,50%)" cy="46%">
+            <animate attributeName="cx" begin="-9.86s" values="47.2%; 52.8%; 47.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="12.5" fill="hsl(38,100%,50%)" cy="45%">
+            <animate attributeName="cx" begin="-9.85s" values="47%; 53%; 47%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="12" fill="hsl(39,100%,50%)" cy="44%">
+            <animate attributeName="cx" begin="-9.84s" values="46.8%; 53.2%; 46.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="11.5" fill="hsl(40,100%,50%)" cy="43%">
+            <animate attributeName="cx" begin="-9.83s" values="46.6%; 53.4%; 46.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="11" fill="hsl(41,100%,50%)" cy="42%">
+            <animate attributeName="cx" begin="-9.82s" values="46.4%; 53.6%; 46.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="10.5" fill="hsl(42,100%,50%)" cy="41%">
+            <animate attributeName="cx" begin="-9.81s" values="46.2%; 53.8%; 46.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="10" fill="hsl(43,100%,50%)" cy="40%">
+            <animate attributeName="cx" begin="-9.8s" values="46%; 54%; 46%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="9.5" fill="hsl(44,100%,50%)" cy="39%">
+            <animate attributeName="cx" begin="-9.79s" values="45.8%; 54.2%; 45.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="9" fill="hsl(45,100%,50%)" cy="38%">
+            <animate attributeName="cx" begin="-9.78s" values="45.6%; 54.4%; 45.6%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="8.5" fill="hsl(46,100%,50%)" cy="37%">
+            <animate attributeName="cx" begin="-9.77s" values="45.4%; 54.6%; 45.4%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="8" fill="hsl(47,100%,50%)" cy="36%">
+            <animate attributeName="cx" begin="-9.76s" values="45.2%; 54.8%; 45.2%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="7.5" fill="hsl(48,100%,50%)" cy="35%">
+            <animate attributeName="cx" begin="-9.75s" values="45%; 55%; 45%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+          <circle r="7" fill="hsl(49,100%,50%)" cy="34%">
+            <animate attributeName="cx" begin="-9.74s" values="44.8%; 55.2%; 44.8%" dur="3s" repeatCount="indefinite">
+            </animate>
+          </circle>
+
+          <circle r="20" fill="hsl(49,100%,70%)" cx="49%" cy="30%" filter="url(#goo)">
+            <animate attributeName="cx" begin="-1s" values="47%; 53%; 47%" dur=".5s" begin="-1s"
+              repeatCount="indefinite"></animate>
+            <animate attributeName="cy" begin="-1s" values="30%; 31%; 30%" dur=".7s" begin="-1.1s"
+              repeatCount="indefinite"></animate>
+          </circle>
+        </g>
+        <!-- FITIL - start-->
+        <path d="M50 166 L 50 126" stroke="orange" stroke-width="4.5" />
+        <!-- FITIL - stop-->
+        <!-- CEARA - start-->
+        <path d="M50 200 L 50 153" stroke="orange" stroke-width="28" stroke-linecap="square" />
+        <!-- CEARA - stop-->
+        <circle r="40" fill="hsla(23,100%,95%,0.2)" filter="url(#f2)" cy="55%" cx="50%"></circle>
+      </svg>
+
+      <!-- LUMANARE - stop-->
+
+      <!-- ON - start-->
+
+      <h1 style=" color: red; font-weight: 900;">O N</h1>
+
+      <!-- ON - stop -->
+
+    </section>
+    <!-- LOGO - stop-->
 
 
-            <div class="container-fluid text-center"
-              style="padding-left: 12px; padding-right: 12px; margin-bottom: 4.5px;">
+    <div class="container-fluid bg-grey text-center">
+      <div class="col-sm-12 col-xs-12" style="padding-top: 1px;">
+        <div class="panel-heading">
 
-              <h3 style=" color: lightskyblue; text-shadow: 1px 1px 1px dimgray; margin-top: 12px;">TROPARUL ZILEI</h3>
+          <div class="container-fluid bg-grey text-center"
+            style="padding-left: 12px; padding-right: 12px; margin-bottom: 4.5px;">
 
-              <i class="far fa-calendar-alt"
-                style="font-size: 2.1em; color: lightskyblue; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
-              <h4 id="dateSaint" id="colors"
-                style="text-align: center; font-size: 1.2em; font-weight: 700; margin-top: 1px; text-shadow: 1px 1px 1px dimgray;">
-              </h4>
+            <h3 style=" color: red; text-shadow: 1px 1px 1px dimgray; margin-top: 12px;">CALENDAR ORTODOX</h3>
 
-              <i class="fas fa-cross" id="colorCross"
-                style="font-size: 2.1em; text-align: center; font-weight: 900; margin-top: 1px;"></i>
-              <h4 class="saint"
-                style="text-align: center; font-size: 1.4em; font-weight: 700; margin-top: -20px; text-shadow: 1px 1px 1px dimgray;">
-              </h4>
+            <i class="far fa-calendar-alt"
+              style="font-size: 2.1em; color: red; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
+            <h4 id="dateSaint" id="colors"
+              style="text-align: center; font-size: 1.2em; font-weight: 700; margin-top: 1px; text-shadow: 1px 1px 1px dimgray;">
+            </h4>
 
-              <h4 id="troparion" class="saint"
-                style="font-size: 1.4em; font-weight: 700; margin-top: -20px; text-shadow: 1px 1px 1px dimgray;">
-              </h4>
+            <i class="fas fa-cross" id="colorCross"
+              style="font-size: 2.1em; text-align: center; font-weight: 900; margin-top: 1px;"></i>
+            <h4 class="saint"
+              style="text-align: center; font-size: 1.4em; font-weight: 700; margin-top: -20px; text-shadow: 1px 1px 1px dimgray;">
+            </h4><br>
+
+            <h3 style=" color: red; text-shadow: 1px 1px 1px dimgray; margin-top: 12px;">TROPARUL ZILEI</h3>
+
+            <h4 id="troparion" class="saint"
+              style="font-size: 1.4em; font-weight: 700; margin-top: -20px; text-shadow: 1px 1px 1px dimgray;">
+            </h4>
 
 
-            </div>
           </div>
         </div>
       </div>
@@ -81,13 +428,13 @@
 
   <main>
 
-    <div class="container-fluid text-center">
-      <div class="col-sm-12 col-xs-12" style="margin: 0;">
+    <div class="container-fluid bg-grey text-center">
+      <div class="col-sm-12 col-xs-12" style="margin: auto; padding-right: 1px; padding-left: 1px;">
 
         <i class="fas fa-bible"
-          style="font-size: 2.1em; color: lightskyblue; text-align: center; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 21px;"></i>
-        <h3 style="color: lightskyblue; margin-top: 3px; text-align: center; text-shadow: 1px 1px 1px dimgray">
-          ÎNVĂȚĂTURI BIBLICE</h3><br>
+          style="font-size: 2.1em; color: red; text-align: center; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 21px;"></i>
+        <h3 style="color: red; margin-top: 7px; text-align: center; text-shadow: 1px 1px 1px dimgray">
+          CITATE BIBLICE</h3><br>
 
 
         <div id="biblicalTeachings"> <br><br>
@@ -100,13 +447,13 @@
     <!-- Prayers -->
     <article>
 
-      <div class="container-fluid text-center">
+      <div class="container-fluid bg-grey text-center">
         <div class="col-sm-12 col-xs-12" style="margin: 0;">
 
-          <i class="fas fa-bible"
-            style="font-size: 2.1em; color: lightskyblue; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
-          <h3 style="color: lightskyblue; margin-top: 1px; text-align: center; text-shadow: 1px 1px 1px dimgray">
-            RUGĂCIUNI ORTODOXE</h3><br>
+          <i class="fas fa-book-reader"
+            style="font-size: 2.1em; color: red; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
+          <h3 style="color: red; margin-top: 7px; text-align: center; text-shadow: 1px 1px 1px dimgray">
+            RUGĂCIUNI</h3><br>
         </div>
       </div>
 
@@ -6883,8 +7230,8 @@
             </dt>
             <dd>
               <p style="text-align: justify"><br>
-
-                &nbsp; Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
+                Această rugăciune se rostește în jurul orei 6 (dimineața)<br><br>
+                Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
                 Tale și ale tuturor sfinților, miluiește-ne pe noi. Amin.<br><br>
 
                 Veniți să ne închinăm Împăratului nostru Dumnezeu,<br>
@@ -7039,7 +7386,7 @@
                 Slavă Tatălui și Fiului și Sfântului Duh <br>
                 Și acum și pururea și în vecii vecilor. Amin.<br><br>
 
-                Preasfânta Treime, miluiește-ne pe noi. Doamne, curațește păcatele noastre. Stăpâne, iartă fărădelegile
+                Preasfântă Treime, miluiește-ne pe noi. Doamne, curațește păcatele noastre. Stăpâne, iartă fărădelegile
                 noastre. Sfinte, cercetează și vindecă neputințele noastre, pentru numele Tău.<br><br>
 
                 Doamne miluiește, Doamne miluiește, Doamne miluiește.<br><br>
@@ -7145,8 +7492,8 @@
             </dt>
             <dd>
               <p style="text-align: justify"><br>
-
-                &nbsp;Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
+                Această rugăciune se rostește în jurul orei 9 (dimineața)<br><br>
+                Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
                 Tale și ale tuturor sfinților, miluiește-ne pe noi. Amin.<br><br>
 
                 Împărate Ceresc, Mângâietorule, Duhul adevărului, Care pretutindenea ești și toate le
@@ -7186,7 +7533,7 @@
 
                 Psalmul 16<br>
 
-                Auzi, Doamne, dreptatea mea, ia aminte cererea mea, ascultă rugăciunea mea, din buze fără de
+                Auzi, Doamne, dreptatea mea, ia aminte la cererea mea, ascultă rugăciunea mea, din buze fără de
                 viclenie.<br>
                 De la fața Ta judecata mea să iasă, ochii mei să vadă cele drepte.<br>
                 Cercetat-ai inima mea, noaptea ai
@@ -7201,7 +7548,7 @@
                 ce stau împotriva dreptei Tale.<br>
                 Păzește-mă, Doamne, ca pe lumina ochilor; cu acoperământul aripilor Tale
                 acoperă-mă de fața necredincioșilor care mă necăjesc pe mine.<br>
-                Vrajmașii mei sufletul meu l-au cuprins;
+                Vrăjmașii mei sufletul meu l-au cuprins;
                 cu grăsime inima lor și-au încuiat, gura lor a grăit mândrie.<br>
                 Izgonindu-mă, acum m-au înconjurat; ochii
                 lor și-au ațintit ca să mă plece la pământ.<br>
@@ -7455,8 +7802,8 @@
             </dt>
             <dd>
               <p style="text-align: justify"><br>
-
-                &nbsp;Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
+                Această rugăciune se rostește în jurul orei 12 (la prânz)<br><br>
+                Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
                 Tale și ale tuturor sfinților, miluiește-ne pe noi. Amin.<br>
                 Slavă Ție, Dumnezeul nostru, slavă Ție.<br><br>
 
@@ -7574,7 +7921,7 @@
 
                 Sfinte Dumnezeule… Preasfântă Treime… Tatăl nostru…]<br><br>
 
-                Dacă nu este Postul Mare, se zice condacul sfântului zilei. <br>
+                Dacă nu este Postul Mare, se zice condacul sfântului zilei. <br><br>
                 [Iar dacă este Post, adică Postul Nașterii Domnului, al Adormirii Maicii Domnului sau al Sfinților
                 Apostoli, se zic troparele
                 acestea, pe glasul al 2-lea:<br>
@@ -7660,9 +8007,9 @@
 
 
 
-                Iar când nu este nici Post se zice:<br><br>
+                Iar când nu este Post se zice:<br><br>
 
-                Rugăciune a Marelui Vasile<br>
+                Rugăciunea Marelui Vasile<br>
 
                 Dumnezeule și Doamne al Puterilor și Ziditor a toată făptura, Care, pentru milostivirea milei Tale celei
                 neasemănate, pe Unul-Născut Fiul Tău, pe Domnul nostru Iisus Hristos L-ai trimis spre mântuirea neamului
@@ -7696,8 +8043,8 @@
             </dt>
             <dd>
               <p style="text-align: justify"><br>
-
-                &nbsp;Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
+                Această rugăciune se rostește în jurul orei 15<br><br>
+                Doamne Iisuse Hristoase, Fiul lui Dumnezeu, pentru rugăciunile Preacuratei Maicii
                 Tale și ale tuturor sfinților, miluiește-ne pe noi. Amin.<br>
                 Slavă Ție, Dumnezeul nostru, slavă Ție.<br><br>
 
@@ -7760,7 +8107,7 @@
 
                 Psalmul 84<br>
 
-                Bine ai voit, Doamne, pământului Tău, întors-ai robimea lui Iacob. <br>
+                Bine ai voit, Doamne, pământului Tău, întors-ai robia lui Iacob. <br>
                 Iertat-ai fărădelegile poporului Tău,
                 acoperit-ai toate păcatele lor. <br>
                 Potolit-ai toată mânia Ta; întorsu-Te-ai de către iuțimea mâniei Tale.<br>
@@ -7874,10 +8221,10 @@
       <div class="container-fluid text-center">
         <div class="col-sm-12 col-xs-12" style="margin: 0;">
 
-          <i class="fas fa-book-open"
-            style="font-size: 2.1em; color: lightskyblue; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
-          <h3 style=" color: lightskyblue; text-shadow: 1px 1px 1px dimgray; margin-top: 1px; text-align: center;">
-            ÎNVĂȚĂTURILE SFINȚILOR</h3><br>
+          <i class="fas fa-chalkboard-teacher"
+            style="font-size: 2.1em; color: red; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
+          <h3 style=" color: red; text-shadow: 1px 1px 1px dimgray; margin-top: 7px; text-align: center;">
+            ÎNVĂȚĂTURI</h3><br>
         </div>
       </div>
 
@@ -8269,6 +8616,92 @@
 
 
 
+            <dt>
+              <b>Cleopa Ilie</b>
+            </dt>
+            <dd>
+              <p style="text-align: justify"><br>
+
+                Să aveți către Dumnezeu inimă de fiu, către voi minte de judecător și catre aproapele inimă de mamă!
+                <br><br>
+
+                Rugăciunea curată este atunci când zici cu gura, înțelegi cu mintea și simți cu inima.
+                <br><br>
+
+                Smerenia se naște din ascultare fără cârtire.
+                <br><br>
+
+                Rugăciunea nu este condiționată de timp sau de loc. Rugăiunea este hrana și viața sufletului. Precum
+                trupul, fără mâncare și băutura, moare; tot așa și sufletul, fără rugăciune, moare.
+                <br><br>
+
+                Nici un lucru să nu faci, până nu te însemnezi cu Sfânta Cruce! Când pleci în călătorie, când începi
+                lucrul, când te duci să înveți carte, când ești singur și când ești cu mai mulți, pecetluiește-ți cu
+                Sfânta Cruce fruntea ta, trupul tău, pieptul tău, inima ta, buzele tale, ochii tăi, urechile tale și
+                toate ale tale să fie pecetluite cu semnul biruinței lui Hristos asupra iadului. Și nu te vei mai teme
+                atunci de farmece sau de descântece sau de vrăji.
+                <br><br>
+
+                Ferice de cel ce rabdă boala cu mulţumire, că Dumnezeu, văzând asta, îl vindecă fără doctori. Cine
+                mulțumește lui Dumnezeu în boală, este un martir de bunăvoie.
+                <br><br>
+
+                Nimic nu este mai uşor decât a învăţa pe alţii şi nimic nu este mai greu decât a face ceea ce înveţi pe
+                alţii.
+                <br><br>
+
+                Postu-i maica sănătăţii şi lungimea vieţii!
+                <br><br>
+
+                Niciodată să nu dai sfat nimănui, până când nu l-ai trăit tu! Cel ce dă sfat, dar el nu l-a trăit, este
+                ca izvorul de apă pictat pe perete.
+                <br><br>
+
+                Omul se mântuieşte oriunde dacă are trei fapte bune: credinţa dreaptă în Iisus Hristos, faptele bune şi
+                smerenia. Iar cine nu le are pe acestea nu se mântuieşte nicăieri.
+                <br><br>
+
+                Când faci pomelnic pentru ai matale, la Liturghie, pune şi unul sau doi săraci, sau o văduvă pe
+                care nu are cine o pomeni şi a murit săraca. Este mare pomană. Asta se cheamă milostenie duhovnicească.
+                Este mai mare decât aceea când îi dai o haină sau o mâncare omului, că-l ajuţi dincolo, în veşnicie.
+                <br><br>
+
+                Aţi auzit ce suntem? Floare, umbră, vis, pânză de păianjen, umbra norului pe pământ şi altceva nimic. Cu
+                cele mai neputincioase stihii este asemănată viaţa noastră. Nu pune bază că azi eşti sănătos, că eşti
+                frumos, că eşti bogat, că eşti tânăr! Astea sunt umbre şi vise. Viaţa noastră este scurtă. Să trăim aici
+                pentru viaţa cea veşnică.
+                <br><br>
+
+                Rugăciunea, citirea cărţilor bune, ascultarea şi respectul faţă de părinţi, frica de Dumnezeu şi
+                exemplul personal dat de tata şi mama sunt cele mai sigure căi şi mijloace de educare şi creştere
+                creştinească a copiilor.
+                <br><br>
+
+                Fraţii mei, omul care are frica de Dumnezeu nu trebuie să-l păzească nimeni să nu fure, sau să nu fie
+                curvar, sau beţiv, sau hoţ, sau să nu facă rău. Cel ce are frica lui Dumnezeu şi ziua şi noaptea pururea
+                veghează asupra lui: să nu gândesc ceva rău asupra omului, să nu vorbesc ceva rău că-i păcat, să nu fac
+                ceva rău că-i păcat!
+                <br><br>
+
+                Să trăim aici pentru Rai, pentru bucuria cea fără de margini care ne aşteaptă dincolo de mormânt! Patru
+                anotimpuri are viaţa noastră. Primăvara este copilăria; vara este tinereţea; toamna este bătrâneţea. Şi
+                iarna, gata, este sfârşitul aproape!
+                <br><br>
+
+                Milostenia și postul sunt aripile rugăciunii. Rugăciunea noastră niciodată nu zboară mai repede la
+                Dumnezeu ca atunci când e ajutată de post și milostenie.
+                <br><br>
+
+                Iată ce vreau să vă mai spun: să nu socotim vreodată că am făcut început bun. Ci să ne rugăm ca să punem
+                început bun. Niciodată nu este prea târziu pentru a pune început bun.
+                <br><br>
+
+
+              </p>
+            </dd>
+
+
+
           </dl>
         </div>
       </div>
@@ -8284,9 +8717,9 @@
         <div class="col-sm-12 col-xs-12" style="margin: 0;">
 
           <i class="fas fa-book-open"
-            style="font-size: 2.1em; color: lightskyblue; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
-          <h3 style=" color: lightskyblue; text-shadow: 1px 1px 1px dimgray; margin-top: 1px; text-align: center;">
-            CUGETĂRI CREȘTINE</h3><br>
+            style="font-size: 2.1em; color: red; text-shadow: 1px 1px 1px dimgray; text-align: center; font-weight: 900; margin-top: 1px;"></i>
+          <h3 style=" color: red; text-shadow: 1px 1px 1px dimgray; margin-top: 7px; text-align: center;">
+            CATEHISM</h3><br>
         </div>
       </div>
 
@@ -8433,6 +8866,32 @@
                 Conștiința ne mustră pentru faptele rele și ne îndrumă către faptele cele bune.
                 Ea promovează adevărul și faptele plăcute lui Dumnezeu iar dacă oamenii nu ascultă acest glas,
                 conștiința amuțește.
+                <br><br>
+
+              </p>
+            </dd>
+
+
+            <dt>
+              <b>Cununia</b>
+            </dt>
+            <dd>
+              <p style="text-align: justify"><br>
+
+                Cununia (Căsătoria) este Taina prin care un bărbat și o femeie, care au ales de bună voie să trăiască
+                împreună toată viața, pentru a da naștere la copii și a se ajuta reciproc, primesc de la Dumnezeu prin
+                rugăciunile preotului, harul și binecuvântarea care sfințește legătura lor și care îi ajută la atingerea
+                scopului lor.
+                <br><br>
+
+                Soții trebuie să se iubească, să se ajute reciproc, să fie credincioși unul altuia, să dea naștere la
+                copii și să îi crească cu dragoste față de Dumnezeu și de aproapele.
+                <br><br>
+
+                Sfânta Taină a Căsătoriei a fost întemeiată chiar de către Dumnezeu când a spus primilor oameni:
+                „Creșteți și înmulțiți-vă și umpleți pământul și stăpâniți-l! (Facere 1, 28) și a fost binecuvântată
+                prin prezența Mântuitorului la Nunta din Cana Galileii când a săvârșit prima Sa minune și anume
+                transformarea apei în vin.
                 <br><br>
 
               </p>
@@ -8602,6 +9061,43 @@
                 de la oameni. Pentru a scăpa de ispite trebuie să ne întărim în credință prin rugăciune, post,
                 Spovedanie, Împărtășanie, participarea la slujbe și răbdare, pentru că astfel Dumnezeu nu mai
                 îngăduie celui viclean să ne mai ispitească.
+                <br><br>
+
+              </p>
+            </dd>
+
+            <dt>
+              <b>Liturghia</b>
+            </dt>
+            <dd>
+              <p style="text-align: justify"><br>
+
+                Sfânta Liturghie este cea mai importantă slujbă a Bisericii ortodoxe, în cadrul căreia, prin invocarea
+                Duhului Sfânt de către preot, pâinea și vinul ce au fost aduse de credincioși ca jertfă lui Dumnezeu, se
+                prefac în Trupul și Sângele Domnului Hristos, care apoi se oferă spre împărtășire credincioșilor ce s-au
+                pregătit prin post și spovedanie, spre iertarea păcatelor și viața de veci.
+                <br><br>
+
+                Sfânta Liturghie este deci slujba cea mai sfântă deoarece ne oferă posibilitatea întâlnirii reale cu
+                Hristos.
+                <br><br>
+              </p>
+            </dd>
+
+
+            <dt>
+              <b>Maslul</b>
+            </dt>
+            <dd>
+              <p style="text-align: justify"><br>
+
+                Sfântul Maslu este Taina în care prin rugăciunile preoților și prin ungerea cu untdelemn sfințit se
+                împărtășește creștinilor bolnavi, harul divin necesar pentru vindecarea de boli sufletești și trupești
+                și pentru iertarea păcatelor.
+                <br><br>
+
+                Instituirea acestei Taine a fost realizată de către Mântuitorul nostru Iisus Hristos care a săvârșit în
+                timpul vieții Sale pe acest pământ o mulțimede vindecări minunate.
                 <br><br>
 
               </p>
@@ -8782,6 +9278,25 @@
               </p>
             </dd>
 
+            <dt>
+              <b>Preoția</b>
+            </dt>
+            <dd>
+              <p style="text-align: justify"><br>
+                Preoția este Taina în care prin punerea mâinilor arhiereului și prin rugăciunile lui se împărtășește
+                Harul unui bărbat creștin-ortodox, care primește astfel puterea de a învăța pe credincioși învățăturile
+                de credință.
+                <br><br>
+
+                Instituirea Tainei Hirotoniei a fost făcută de către Domnul nostru Iisus Hristos după Învierea Sa când a
+                spus: „Precum M-a trimis pe Mine Tatăl vă trimit și Eu pe voi”. Și grăind acestea a suflat și a zis
+                „Luați Duh Sfânt, cărora veți ierta păcatele le vor fi iertate, cărora le veți ține, ținute vor fi”
+                (Ioan 20, 21).
+                <br><br>
+
+              </p>
+            </dd>
+
 
             <dt>
               <b>Răbdarea</b>
@@ -8890,14 +9405,20 @@
     </article>
 
 
-    <h5 style="color: lightskyblue; text-shadow: .5px .5px .5px dimgray;">&copy; Cristian T. - 2022<br>
-      Profesor Religie & Analist software<br>
-      <h5 style="color: lightskyblue; text-shadow: .5px .5px .5px dimgray;">
+    <h5 style="color: red; text-shadow: .5px .5px .5px dimgray;">Cristian T. &copy; 2023<br>
+      <h5 style="color: red; text-shadow: .5px .5px .5px dimgray;">
         Slavă Ție Doamne pentru darurile Tale!
       </h5>
-      <h6 style="color: lightskyblue; text-shadow: .1px .1px .1px dimgray;">Această aplicație nu colectează date
-        personale!</h6>
 
+      <!-- RELOAD BUTTON -->
+      <button class="reload" class="refresh-button">
+        <span class="glyphicon glyphicon-repeat"></span>
+      </button>
+
+      <!-- TO TOP BUTTON -->
+      <a class="up-arrow" href="#logo" data-toggle="tooltip" title="TO TOP">
+        <span class="glyphicon glyphicon-chevron-up"></span>
+      </a><br><br>
 
 
 </body>

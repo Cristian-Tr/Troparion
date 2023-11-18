@@ -116,4 +116,9 @@ $(document).ready(function () {
   });
 
 
+  $( ".reload" ).click(function(ev) {  
+    ev.preventDefault();  
+    location.reload(); 
+});
+
 })
