@@ -7,45 +7,17 @@ body {
   background-color: #a9a9a9;
 }
 
-/* Icons */
-.icons {
-  top: 0;
-  margin: auto;
-  width: 100%;
-  position: fixed;
-  display: flex;
-  justify-content: center;
-  height: 155px;
-  position: fixed;
-  z-index: 153;
-  background-color: rgb(252, 252, 252);
-}
-
-.icons img {
-  height: 153px;
-  padding: 1px;
-}
-
-
-/* Logo */
-#logo {
-  margin: auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  height: 71px;
-  z-index: 153;
-}
-
 /* h styles */
+
 h1 {
-  color: red;
+  color: white;
   font-weight: 900;
   margin-bottom: 5px;
-  /*text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9,
+  text-align: center;
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9,
     0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 255, 0.1), 0 0 5px rgba(0, 0, 255, 0.1),
     0 1px 3px rgba(0, 0, 255, 0.3), 0 3px 5px rgba(0, 0, 255, 0.2),
-    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);*/
+    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);
 }
 
 h2 {
@@ -56,10 +28,13 @@ h2 {
 }
 
 h3 {
-  color: red;
+  color: white;
   font-weight: 300;
   padding-top: 1px;
   text-align: center;
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 6px 1px rgba(0, 0, 255, 0.1), 0 0 5px rgba(0, 0, 255, 0.1),
+    0 1px 3px rgba(0, 0, 255, 0.3), 0 3px 5px rgba(0, 0, 255, 0.2),
+    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);
 }
 
 h4 {
@@ -82,71 +57,6 @@ h6 {
   padding: 0;
   background: white;
 }
-
-/* TROPARION SIGN - T SVG - ANIMATION 
-.my-logo {
-  position: absolute;
-  left: 1px;
-  top: 3px;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-}
-
-#t-logo {
-  width: 171px;
-  height: 84px;
-  margin: auto;
-  margin-top: 12px;
-}
-
-.t-logo {
-  animation-fill-mode: forwards;
-  animation-iteration-count: 3;
-}
-
-@keyframes draw1 {
-  0% {
-    stroke: cornflowerblue;
-    stroke-width: 1.8px;
-  }
-
-  100% {
-    stroke: cornflowerblue;
-    stroke-width: 1.8px;
-    fill: none;
-    stroke-dashoffset: 100;
-  }
-}
-
-@keyframes draw2 {
-  0% {
-    stroke: red;
-    stroke-width: 1.8px;
-  }
-
-  100% {
-    stroke: red;
-    stroke-width: 1.8px;
-    fill: none;
-    stroke-dashoffset: 100;
-  }
-}
-
-@keyframes draw3 {
-  0% {
-    stroke: yellow;
-    stroke-width: 1.8px;
-  }
-
-  100% {
-    stroke: yellow;
-    stroke-width: 1.8px;
-    fill: none;
-    stroke-dashoffset: 100;
-  }
-}
-*/
 
 main {
   width: 100%;
@@ -305,3 +215,69 @@ article .page {
 .up-arrow:hover {
   color: springgreen;
 }
+
+
+/* TROPARION SIGN - T SVG - ANIMATION 
+.my-logo {
+  position: absolute;
+  left: 1px;
+  top: 3px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+#t-logo {
+  width: 171px;
+  height: 84px;
+  margin: auto;
+  margin-top: 12px;
+}
+
+.t-logo {
+  animation-fill-mode: forwards;
+  animation-iteration-count: 3;
+}
+
+@keyframes draw1 {
+  0% {
+    stroke: cornflowerblue;
+    stroke-width: 1.8px;
+  }
+
+  100% {
+    stroke: cornflowerblue;
+    stroke-width: 1.8px;
+    fill: none;
+    stroke-dashoffset: 100;
+  }
+}
+
+@keyframes draw2 {
+  0% {
+    stroke: red;
+    stroke-width: 1.8px;
+  }
+
+  100% {
+    stroke: red;
+    stroke-width: 1.8px;
+    fill: none;
+    stroke-dashoffset: 100;
+  }
+}
+
+@keyframes draw3 {
+  0% {
+    stroke: yellow;
+    stroke-width: 1.8px;
+  }
+
+  100% {
+    stroke: yellow;
+    stroke-width: 1.8px;
+    fill: none;
+    stroke-dashoffset: 100;
+  }
+}
+*/
