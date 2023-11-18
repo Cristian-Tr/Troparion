@@ -197,10 +197,6 @@ article .page {
   cursor: pointer;
 }
 
-.reload:hover {
-  color: springgreen;
-}
-
 .up-arrow {
   font-size: 1.8em;
   font-weight: 900;
@@ -218,10 +214,6 @@ article .page {
   height: 35px;
   background-color: transparent;
   cursor: pointer;
-}
-
-.up-arrow:hover {
-  color: springgreen;
 }
 
 
