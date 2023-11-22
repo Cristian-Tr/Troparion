@@ -1111,10 +1111,10 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            saints = "Sfinţilor Apostoli Filimon, Arhip şi Onisim";
+            saints = "Sfinţii Apostoli Filimon, Arhip şi Onisim";
             colors = "springgreen";
             colorCross = "transparent";
-            religiousSongs = "Sfinţilor Apostoli, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinţilor Apostoli Filimon, Arhip şi Onisim, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 23) {
@@ -1128,7 +1128,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfinţii Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei";
             colors = "springgreen";
             colorCross = "transparent";
-            religiousSongs = "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile lor, în pace îndreptează viaţa noastră.";
+            religiousSongs = "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile Sfinţilor Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei, în pace îndreptează viaţa noastră.";
         }
 
         if (day == 25) {
@@ -1193,7 +1193,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saints = "Sfântul Cuvios Porfirie Kafsokalivitul";
             colors = "springgreen";
             colorCross = "transparent";
-            religiousSongs = "După cum pe pământ te rugai pentru tămăduirea neputinţelor şi pentru iertarea păcatelor noastre, tot astfel şi acum roagă-te în ceruri, părinte Porfirie, şi roagă-L pe Hristos Dumnezeul nostru să mântuiască sufletele noastre.";
+            religiousSongs = "După cum pe pământ te rugai pentru tămăduirea neputinţelor şi pentru iertarea păcatelor noastre, tot astfel şi acum roagă-te în ceruri, Părinte Porfirie, şi roagă-L pe Hristos Dumnezeul nostru să mântuiască sufletele noastre.";
         }
 
         if (day == 3) {

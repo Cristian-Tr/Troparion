@@ -14,10 +14,7 @@ h1 {
   font-weight: 900;
   margin-bottom: 5px;
   text-align: center;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9,
-    0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 255, 0.1), 0 0 5px rgba(0, 0, 255, 0.1),
-    0 1px 3px rgba(0, 0, 255, 0.3), 0 3px 5px rgba(0, 0, 255, 0.2),
-    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
 }
 
 h2 {
@@ -25,6 +22,7 @@ h2 {
   font-weight: 100;
   margin-top: 1px;
   text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3 {
@@ -32,9 +30,8 @@ h3 {
   font-weight: 300;
   padding-top: 1px;
   text-align: center;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 6px 1px rgba(0, 0, 255, 0.1), 0 0 5px rgba(0, 0, 255, 0.1),
-    0 1px 3px rgba(0, 0, 255, 0.3), 0 3px 5px rgba(0, 0, 255, 0.2),
-    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);
+  text-shadow: 0 1px 0 #ccc, 0 10px 10px rgba(0, 0, 255, 0.2);
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h4 {
@@ -42,15 +39,18 @@ h4 {
   font-weight: 800;
   text-align: justify;
   text-justify: inter-word;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h5 {
   font-weight: 800;
   text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h6 {
   text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .container-fluid {
@@ -74,6 +74,7 @@ main {
   pointer-events: none;
   text-align: center;
   font-size: 1.25em;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .biblical-Teachings {
@@ -138,7 +139,7 @@ article .page {
   width: 100%;
   margin: auto;
   text-align: center;
-  font-family: "times new roman", "sans-serif";
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .category dt {
@@ -158,6 +159,7 @@ article .page {
   color: white;
   line-height: 27px;
   font-weight: 700;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .category dd {
@@ -175,6 +177,7 @@ article .page {
   font-size: 1.2em;
   font-weight: 900;
   color: white;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .reload {
@@ -183,10 +186,7 @@ article .page {
   text-align: center;
   position: fixed;
   color: white;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9,
-    0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 255, 0.1), 0 0 5px rgba(0, 0, 255, 0.1),
-    0 1px 3px rgba(0, 0, 255, 0.3), 0 3px 5px rgba(0, 0, 255, 0.2),
-    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
   padding: .1em;
   padding-top: .3em;
   bottom: 5px;
@@ -203,10 +203,7 @@ article .page {
   font-weight: 900;
   text-align: center;
   color: white;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9,
-    0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 255, 0.1), 0 0 5px rgba(0, 0, 255, 0.1),
-    0 1px 3px rgba(0, 0, 255, 0.3), 0 3px 5px rgba(0, 0, 255, 0.2),
-    0 5px 10px rgba(0, 0, 255, 0.25), 0 10px 10px rgba(0, 0, 255, 0.2);
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
   padding: .1em;
   position: fixed;
   bottom: 5px;
