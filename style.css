@@ -19,7 +19,7 @@ h1 {
 
 h2 {
   color: white;
-  font-weight: 100;
+  font-weight: 900;
   margin-top: 1px;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -27,7 +27,7 @@ h2 {
 
 h3 {
   color: white;
-  font-weight: 300;
+  font-weight: 900;
   padding-top: 1px;
   text-align: center;
   text-shadow: 0 1px 0 #ccc, 0 10px 10px rgba(0, 0, 255, 0.2);
@@ -36,14 +36,14 @@ h3 {
 
 h4 {
   color: white;
-  font-weight: 800;
+  font-weight: 700;
   text-align: justify;
   text-justify: inter-word;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h5 {
-  font-weight: 800;
+  font-weight: 700;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
@@ -139,13 +139,14 @@ article .page {
   width: 100%;
   margin: auto;
   text-align: center;
+  font-weight: 700;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .category dt {
   font-size: 1.4em;
   line-height: 27px;
-  font-weight: 700;
+  font-weight: 900;
   height: 53px;
   padding: 12px;
   cursor: pointer;
@@ -158,8 +159,6 @@ article .page {
   font-size: 1.2em;
   color: white;
   line-height: 27px;
-  font-weight: 700;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .category dd {
@@ -175,7 +174,7 @@ article .page {
 
 .category dd p {
   font-size: 1.2em;
-  font-weight: 900;
+  font-weight: 100;
   color: white;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
