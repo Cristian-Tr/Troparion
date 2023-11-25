@@ -12,25 +12,27 @@ body {
 h1 {
   color: white;
   font-weight: 900;
-  margin-bottom: 5px;
   text-align: center;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
+  text-shadow: 0 1px 0 white, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h2 {
-  color: white;
-  font-weight: 900;
-  margin-top: 1px;
+  color: cornflowerblue;
+  font-weight: 100;
+  margin-top: -25px;
+  margin-bottom: 5px;
   text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: .1px .1px .1px white, 1px 1px 1px black;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h3 {
-  color: white;
+  color: cornflowerblue;
   font-weight: 900;
   padding-top: 1px;
   text-align: center;
-  text-shadow: 0 1px 0 #ccc, 0 10px 10px rgba(0, 0, 255, 0.2);
+  text-shadow: 0 1px 0 white, 0 10px 10px rgba(0, 0, 255, 0.2);
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -39,6 +41,7 @@ h4 {
   font-weight: 700;
   text-align: justify;
   text-justify: inter-word;
+  text-shadow: .1px .1px .1px #ccc, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
