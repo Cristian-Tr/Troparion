@@ -1154,8 +1154,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 28) {
             saints = "Sfântul Mucenic Irinarh";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "springgreen";
+            colorCross = "transparent";
             religiousSongs = "Mucenicul Tău, Doamne, Irinarh, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
