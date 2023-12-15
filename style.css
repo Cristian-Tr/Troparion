@@ -2,10 +2,47 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  width: 100%;
-  min-height: 100vh;
-  background-color: #a9a9a9;
 }
+
+.flex-container {
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  width: 100%;
+  height: 3.5em;
+  border: none;
+  background-color: white;
+  position: fixed;
+  margin-left: 0;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  opacity: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  z-index: 1000;
+}
+
+.links-home {
+  width:1.7em;
+  height: 1.7em;
+  background-color: transparent;
+}
+
+.links {
+  margin-top:-.02em;
+  font-size: 2.5em;;
+  width: 2.5em;
+  height: 2.5em;
+  background-color: transparent;
+}
+
+.links :hover {
+  color: dodgerblue;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 
 /* h styles */
 
@@ -13,7 +50,7 @@ h1 {
   color: white;
   font-weight: 900;
   text-align: center;
-  text-shadow: 0 1px 0 white, 1px 2px 3px rgba(0, 0, 255, 0.2);
+  text-shadow: .1px .1px .1px white, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -215,6 +252,7 @@ article .page {
   width: 35px;
   height: 35px;
   background-color: transparent;
+  border: none;
   cursor: pointer;
 }
 

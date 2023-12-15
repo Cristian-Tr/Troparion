@@ -62,15 +62,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 1) {
             saints = "Sfântul Ierarh Leontie de la Rădăuţi";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Cu nevoinţe duhovniceşti toată viaţa ţi-ai petrecut-o şi, primind vrednicia arhieriei, cu smerenie şi cu frică de Dumnezeu ai slujit Biserica lui Hristos, pe Care roagă-L, Sfinte Ierarhe Leontie, să mântuiască sufletele noastre.";
         }
 
         if (day == 2) {
             saints = "Sfântul Voievod Ștefan cel Mare";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Apărător neînfricat al credinței și patriei străbune, mare ctitor de locașuri sfinte, Ștefane Voievod, roagă pe Hristos Dumnezeu, să ne izbăvească din nevoi și din necazuri.";
         }
 
@@ -111,8 +111,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 8) {
             saints = "Sfinții Mucenici Epictet și Astion ";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Mucenicii Tăi, Doamne, Epictet și Astion, întru nevoințele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuiește sufletele noastre, Hristoase Dumnezeule.";
         }
 
@@ -139,8 +139,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 12) {
             saints = "Cinstirea Sfintei Icoane a Maicii Domnului Prodromița, Sfântul Cuvios Paisie Aghioritul";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Născătoare de Dumnezeu, pururea Fecioară, sfintei şi dumnezeieştii icoanei tale cu dragoste şi cu credinţă închinându-ne, o sărutăm mulţumind; căci prin ea celor credincioşi dăruieşti cu adevărat tămăduiri sufletelor şi trupurilor. Pentru aceasta, grăim către tine: Slavă fecioriei tale, slavă milostivirii tale, slavă purtării tale de grijă, Ceea ce eşti Una Binecuvântată.";
         }
 
@@ -181,8 +181,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 18) {
             saints = "Sfântul Mucenic Emilian de la Durostorum";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Mucenicul Tău, Doamne, Emilian, întru nevoinţa sa, cununa nesctricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
@@ -202,8 +202,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 21) {
             saints = "Sfinţii Cuvioşi Rafail şi Partenie de la Agapia Veche";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Următori şi împlinitori ai Evangheliei lui Hristos, Cuvioşilor Părinţi Partenie şi Rafail, sihaştrii prealuminaţi ai munţilor Moldovei; ostenindu-vă cu postul şi cu rugăciunea, aţi dobândit de la Dumnezeu aripi ale sufletului vostru, pentru aceasta vă rugăm să ne trimiteţi de la Hristos milă şi har celor ce prăznuim cu dragoste pomenirea voastră!";
         }
 
@@ -237,8 +237,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 26) {
             saints = "Sfântul Cuvios Ioanichie de la Muscel";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Locuitor în sihăstrie şi înger trupesc, de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Ioanichie; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere, slavă Celui ce te-a încununat pe tine, slavă Celui ce lucrează prin tine tuturor tămăduiri!";
         }
 
@@ -316,8 +316,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 5) {
             saints = "Sfântul Cuvios Ioan Iacob de la Neamț";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Întru tine, Părinte, cu osârdie s-a mântuit cel după chip, căci lăsând lumea și patria ta, ai luat Crucea lui Hristos și în valea Iordanului te-ai așezat spre nevoință. Pentru aceasta și cu îngerii acum se bucură, Cuvioase Părinte Ioane, duhul tău. Roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
@@ -330,8 +330,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 7) {
             saints = "Sfânta Cuvioasă Teodora de la Sihla";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Cele pământeşti părăsind şi jugul pustniciei luând, te-ai făcut mireasă lui Hristos, fericită; cu postul, cu privegherea cereştile daruri luând şi cu rugăciunea pe îngeri ajungând, firea omenească ai biruit şi la cele cereşti te-ai mutat, lăsându-ne spre mângâiere peştera şi sfintele tale moaşte. Pentru aceasta, Sfântă Preacuvioasă Maică Teodora, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
@@ -358,8 +358,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 11) {
             saints = "Sfântul Ierarh Nifon, Patriarhul Constantinopolului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Cu faptele dreptei credinţe strălucind toată Biserica ai luminat, însoţindu-te cu smerenia cea dătătoare de înălţare, tu, cinstea cea mărită a celor două sfinte locaşuri, podoaba şi înfrumuseţarea patriarhilor, Mărite Ierarhe Nifon. Iar acum umple de dumnezeieşti daruri pe cei ce cu credinţă te măresc pe tine.";
         }
 
@@ -393,15 +393,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 16) {
             saints = "Sfinții Martiri Brâncoveni: Constantin Vodă cu fii săi Constantin, Ștefan, Radu, Matei și cu sfetnicul Ianache";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Cel ce pentru dreapta credință și pentru neam, te-ai învrednicit a suferi moarte de martir, împreună cu fiii tăi Constantin, Ștefan, Radu și Matei și cu sfetnicul Ianache, dreptcrediciosule Voievod Constantine, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
         if (day == 17) {
             saints = "Sfântul Gheorghe Pelerinul";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Pe nevoitorul cel mare și următorul sihaștrilor, pe fericitul pelerin al lui Hristos în cântări să-l cinstim, strigându-i cu evlavie: Sfinte Gheorghe, prin rugăciunile tale, luminează calea vieții noastre!";
         }
 
@@ -491,8 +491,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 30) {
             saints = "Sfântul Ierarh Varlaam, Mitropolitul Moldovei";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Vrednic slujitor al lui Hristos și înțelept apărător al dreptei credințe, mare cinstitor al Sfintei Cuvioase Parascheva și credincios luminător al neamului românesc, Sfinte Ierarhe Varlaam, roagă pe Hristos-Dumnezeu să ocrotească și să mântuiască sufletele noastre.";
         }
 
@@ -530,8 +530,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 3) {
             saints = "Sfinţii Cuvioşi Neofit şi Meletie de la Mănăstirea Stânișoara";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "De Dumnezeu iubitorilor Părinţi, suindu-vă în munţii faptelor bune, locaşuri Preasfântului Duh v-aţi arătat şi acum ca făclia în sfeşnic luminaţi în lume, Cuvioşilor Neofit şi Meletie; rugaţi-vă lui Hristos-Dumnezeu să mântuiască sufletele noastre!";
         }
 
@@ -558,8 +558,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 7) {
             saints = "Sfinţii Cuvioşi Părinţi Simeon şi Amfilohie de la Pângăraţi";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Cuvioşilor Părinţi Simeon şi Amfilohie, cei ce aţi luminat pădurile Carpaţilor cu rugăciunile voastre şi aţi umplut de mireasmă duhovnicească toată valea Bistriţei, sfetnici de taină ai voievozilor şi făclii luminoase ale călugărilor şi credincioşilor evlavioşi, rugaţi-vă lui Dumnezeu pentru noi, cei ce săvârşim cu dragoste sfântă pomenirea voastră!";
         }
 
@@ -600,8 +600,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 13) {
             saints = "Sfântul Cuvios Ioan de la Prislop";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Iubitorule de nevoinţă şi râvnitorule întru cele sfinte, Cuvioase Părinte Ioan, părăsit-ai cele trecătoare şi ai ales pe cele veşnice; luat-ai jugul lui Hristos în Mănăstirea Prislop şi în peşteră pustnicească, împreună cu îngerii, L-ai slăvit pe Dumnezeu. Pentru aceasta, nu înceta a te ruga pentru sufletele noastre.";
         }
 
@@ -614,8 +614,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 15) {
             saints = "Sfântul Ierarh Iosif cel Nou de la Partoş, Mitropolitul Banatului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Din tinereţe cu totul te-ai supus Domnului, cu rugăciunile şi cu ostenelile şi cu postul. Pentru aceasta, văzând Dumnezeu nevoinţele tale, arhiereu şi păstor Bisericii Sale te-a rânduit; şi după moarte, în cetele sfinţilor te-a sălăşluit, Sfinte Părinte Iosif. Roagă-te lui Hristos Dumnezeu să ne dăruiască iertare de greşeli nouă, celor ce cu credinţă şi cu dragoste săvârşim sfântă pomenirea ta.";
         }
 
@@ -663,8 +663,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 22) {
             saints = "Sfântul Sfințit Mucenic Teodosie de la Mănăstirea Brazi";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Arătatu-te-ai, Sfinte Ierarhe Teodosie, sfeşnic pururea luminos şi mare apărător al Bisericii lui Hristos. Strălucit-ai prin slujire şi mucenicie, ca o jertfă preacurată aducându-te Stăpânului tuturor; slăvim pomenirea ta, rugând pe Dumnezeu să dăruiască sufletelor noastre pace şi mare milă.";
         }
 
@@ -691,15 +691,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 26) {
             saints = "Sfântul Voievod Neagoe Basarab";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Domnitor preaînţelept între căpeteniile neamului românesc, ctitor de lăcaşuri sfinte, prieten al Sfinţilor Părinţi, învăţător luminat de Duhul Sfânt şi mare iubitor de pace, Sfinte Neagoe Voievod, roagă-L pe Hristos Dumnezeu să mântuiască sufletele noastre!";
         }
 
         if (day == 27) {
             saints = "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Sfinte Părinte Ierarhe Antim, după vrednicie ai fost rânduit păstor şi învăţător turmei tale, şi cu înţelepciune dumnezeiască ai revărsat râurile sfintelor tale cuvinte. Viaţa ai pus-o pentru păstoriţii tăi şi cununa muceniciei ai dobândit de la Hristos Dumnezeu, pe Care roagă-L, Sfinte Părinte Ierarhe Antim, să dăruiască pace şi mare milă celor ce săvârşesc sfântă pomenirea ta.";
         }
 
@@ -767,8 +767,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 5) {
             saints = "Sfinţii Cuvioşi Daniil şi Misail, de la Mănăstirea Turnu";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Dascăli ai rugăciunii neîncetate şi ai luptelor duhovniceşti v-aţi arătat, Cuvioşilor Daniil şi Misail, că de iubirea Mântuitorului Hristos, nedespărţiţi fiind, cu apostolească râvnă Preasfintei Treimi aţi slujit cu osârdie, în peşteri nevoindu-vă. Pentru aceasta, cerem, cu smerenie: Rugaţi-vă, să se mântuiască sufletele noastre.";
         }
 
@@ -823,8 +823,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 13) {
             saints = "Aducerea moaștelor Sfântului Apostol Andrei la Iași";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Fiu al Galileei şi frate al lui Petru, dintre pescari în soborul Apostolilor întâi ai fost chemat, Andrei cel minunat, iar de la mormântul tău din Patra chemi popoarele la Dumnezeu şi atunci ne-ai umplut de bucurie când în România iarăşi ai venit, unde pe Hristos Domnul L-ai propovăduit.";
         }
 
@@ -928,8 +928,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 28) {
             saints = "Sfântul Ierarh Iachint, Mitropolitul Țării Românești";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Vrednic următor al ierarhilor dobrogeni şi întâiule între mitropoliţii Ţării Româneşti, Sfinte Ierarhe Iachint, te-ai arătat mărturisitor al dreptei credinţe, lucrător al virtuţilor şi rugător pentru sufletele noastre.";
         }
 
@@ -1063,8 +1063,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 15) {
             saints = "Sfântul Cuvios Paisie de la Neamț";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Apărătorule al dreptei credințe și lauda monahilor, Cuvioase Părinte Paisie, din pruncie iubind pe Hristos, ca un alt Avraam ai părăsit patria ta, în Muntele Athosului nevoindu-te; și, adunând ceată de ucenici, te-ai așezat în țara Moldovei cea binecuvântată și Mănăstirea Neamțului rai pământesc ai făcut-o. Pentru aceasta, împreună cu îngerii, nu înceta a te ruga lui Dumnezeu pentru sufletele noastre.";
         }
 
@@ -1119,8 +1119,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 23) {
             saints = "Sfântul Cuvios Antonie de la Iezerul Vâlcea";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Purtătorule de dumnezeiescul dor al rugăciunii neîncetate, Sfinte Părinte Noule Antonie, povăţuitorule al călugărilor, ajutătorule al celor din nevoi şi făcătorule de minuni, locuitorul raiului celui de sus, dar nedespărţit de cei de jos, roagă pe Milostivul Dumnezeu să ne dăruiască nouă pace şi mare milă.";
         }
 
@@ -1198,8 +1198,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 3) {
             saints = "Sfântul Cuvios Gheorghe de la Cernica";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Următor al cuvioşilor părinţi şi împlinitor al virtuţilor sihăstreşti, rugător neîncetat şi înnoitor al monahismului românesc te-ai arătat, Sfinte Cuvioase Părinte Gheorghe. Roagă-te lui Hristos Dumnezeu să ne dăruiască nouă mare milă.";
         }
 
@@ -1226,8 +1226,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 7) {
             saints = "Sfânta Muceniță Filofteia de la Curtea de Argeș";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Întru răbdarea ta ţi-ai agonisit plata ta, Fericită Filofteia, întru ispite neîncetat răbdând, bătăi suferind, în necazuri binevoind, pe săraci miluindu-i şi pe flămânzi săturându-i; roagă-te lui Hristos Dumnezeu, bună fecioară, să mântuiască sufletele noastre.";
         }
 
@@ -1268,8 +1268,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 13) {
             saints = "Sfântul Ierarh Dosoftei, Mitropolitul Moldovei ";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Apărătorule al Ortodoxiei și învățătorule al sfințeniei, păstor blând ca un miel și mare dascăl al Sfintei Liturghii, Părinte Ierarhe Dosoftei, roagă pe Hristos-Dumnezeu să mântuiască sufletele noastre!";
         }
 
@@ -1303,8 +1303,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 18) {
             saints = "Sfântul Cuvios Daniil Sihastrul";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Întru tine, Părinte, cu osârdie s-a mântuit cel după chip; căci luând Crucea, ai urmat lui Hristos; și luptând, ai învățat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta și cu îngerii se bucură, Preacuvioase Părinte Daniile, duhul tău.";
         }
 
@@ -1331,8 +1331,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 22) {
             saints = "Sfântul Ierarh Petru Movilă, Mitropolitul Kievului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Apărătorule și mărturisitorule al Ortodoxiei, luminătorule al neamurilor, fiule al Moldovei și Părinte al Ucrainei, Sfinte Ierarhe Petru, mult nevoitorule, roagă-te lui Hristos Dumnezeu, să ne apere credința și să mântuiască sufletele noastre.";
         }
 
@@ -1495,8 +1495,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 13) {
             saints = "Sfinţii Mucenici Ermil şi Stratonic";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Mucenicii Tăi, Doamne, Ermil şi Stratonic, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
@@ -1586,8 +1586,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 26) {
             saints = "Sfântul Ierarh Iosif cel Milostiv, Mitropolitul Moldovei";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Curăția ta și rugăciunea, milostenia și înfrânarea vas ales al Sfântului Duh te-au făcut; pentru aceasta, Moldovei fiind păstor, urmai cu totul Păstorului Celui bun; Sfinte mare Ierarhe, milostive Iosife, roagă pe Hristos Dumnezeu să ne dăruiască nouă mare milă.";
         }
 
@@ -2147,15 +2147,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 11) {
             saints = "Sfântul Ierarh Calinic de la Cernica, Episcopul Râmnicului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "De Dumnezeu purtătorule, părintele nostru Calinic, povăţuitorule al călugărilor, podoaba cuvioşilor şi lauda arhiereilor, ajutătorule al celor din nevoi şi făcătorule de minuni! Cu nevoinţele tale chip de sfinţenie te-ai arătat, iar acum cu îngerii în ceruri te veseleşti; cu care roagă pe Milostivul Dumnezeu să ne dăruiască nouă pace şi mare milă.";
         }
 
         if (day == 12) {
             saints = "Sfântul Mucenic Sava de la Buzău";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Purtătorule de chinuri Sfinte Mucenice Sava, cel ce în apă ai fost omorât de către goţii păgâni, roagă pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.";
         }
 
@@ -2168,8 +2168,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 14) {
             saints = "Sfântul Ierarh Pahomie de la Gledin, Episcopul Romanului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Stea mult-luminoasă, răsărită în ținutul Gledinului, ai strălucit ca un semn dumnezeiesc în pământul Moldovei, luminând inimile credincioșilor. Stâlp neclintit al rugăciunii curate, podoabă aleasă a ierarhilor români și ctitor al Schitului Pocrov din lavra Neamțului, Sfinte Ierarhe Pahomie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
@@ -2210,8 +2210,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 20) {
             saints = "Sfântul Ierarh Teotim, Episcopul Tomisului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Teotim, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
@@ -2238,15 +2238,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 24) {
             saints = "Sfântul Ierarh Sava Brancovici, Mitropolitul Transilvaniei şi Sfântul Ierarh Sava Brancovici, Mitropolitul Transilvaniei";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Mărturisitori ai Ortodoxiei şi buni arhipăstori ai Bisericii lui Hristos, îndreptători ai poporului, prea­fericiţi ierarhi purtători de biruinţă, Sfinţilor Iorest şi Sava, cei ce v-aţi învrednicit de cununa vieţii, rugaţi-vă Domnului să se mântuiască sufletele noastre.";
         }
 
         if (day == 25) {
             saints = "Sfântul Apostol și Evanghelist Marcu și Sfântul Cuvios Vasile de la Poiana Mărului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Învăţat fiind de Apostolul Petru, te-ai făcut Apostol al lui Hristos şi ca un soare ai strălucit marginilor, podoaba alexandri­nilor ai fost, fericite, căci prin tine Egiptul s-a eliberat de înşelăciune şi ca un stâlp al Bisericii, prin învăţătura ta cea Evanghelică pe toţi ai luminat. Pentru aceasta luminat cinstind, pomenirea ta prăznuim, de Dumnezeu grăitorule Sfinte Apostol Marcu; roagă pe Dumnezeu Cel Înduple­cat prin tine, să dăruiască iertare de greşeli sufletelor noastre.";
         }
 
@@ -2305,15 +2305,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 2) {
             saints = "Sfântul Ierarh Atanasie al III-lea, Patriarhul Constantinopolului";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Dumnezeiască odraslă a cretanilor, păstor al cetăţii celei împărăteşti şi povăţuitor sfinţit al creştinilor de la Dunăre, comoara cea de mult preţ a Harkovului, Atanasie înţelepte, primit-ai har bogat de Sus, cu nume nemuritor fiind. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
         }
 
         if (day == 3) {
             saints = "Sfântul Cuvios Irodion de la Lainici";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Pe luceafărul nostru cel din Oltenia, cu închinare de taină, ca pe un părinte ales să-l slăvim acum noi, ucenicii lui; că înainte-văzător s-a făcut Sfântul Irodion, de boli pe toţi vindecându-i şi duhovnic dumnezeiesc s-a arătat în viaţa sa.";
         }
 
@@ -2375,8 +2375,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 12) {
             saints = "Sfântul Mucenic Ioan Valahul";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Astăzi duhovniceşte prăznuieşte Biserica dreptcredincioşilor, şi cu bucurie strigă: Veniţi, iubitorilor de mucenici, să prăznuim pomenirea cea de peste an a luptelor noului mucenic Ioan! Că acesta, dintre noi cu voia lui Dumnezeu răsărind, în împărăteasca cetate a lui Constantin a înflorit minunat, aducând Stăpânului rod bogat şi bine primit, prin mucenicie. Iar acum se roagă neîncetat în ceruri, să se mântuiască sufletele noastre.";
         }
 
@@ -2531,8 +2531,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 2) {
             saints = "Sfântul Mare Mucenic Ioan cel Nou de la Suceava";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Viaţa ta pe pământ bine cârmuind, pătimitorule, cu milostenii şi cu neîncetate rugăciuni şi lacrimi şi iarăşi către pătimire bărbăteşte pornindu-te, necredinţa persienească ai mustrat. Drept aceea Bisericii te-ai făcut întărire şi creştinilor laudă, Sfinte Ioane pururea pomenite.";
         }
 
@@ -2545,8 +2545,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 4) {
             saints = "Sfinții Mucenici: Zotic, Atal, Camasie și Filip de la Niculițel";
-            colors = "lightskyblue";
-            colorCross = "lightskyblue";
+            colors = "cornflowerblue";
+            colorCross = "cornflowerblue";
             religiousSongs = "Mucenicii Tăi, Doamne, Zotic, Atal, Camasie și Filip, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
