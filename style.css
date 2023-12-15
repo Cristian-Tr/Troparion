@@ -11,7 +11,7 @@ body {
   font-weight: 900;
   text-align: center;
   position: fixed;
-  bottom: .1px;
+  bottom: .2px;
   left: -1px;
   z-index: 100;
   background-color: transparent;
@@ -20,12 +20,12 @@ body {
 }
 
 #bottom-right-button {
-  font-size: 2.15em;
+  font-size: 2.3em;
   font-weight: 900;
   text-align: center;
   position: fixed;
   bottom: -3.7px;
-  right: -1.2px;
+  right: 1px;
   z-index: 100;
   background-color: transparent;
   border: none;
