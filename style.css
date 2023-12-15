@@ -23,12 +23,12 @@ body {
 }
 
 .links-home {
-  padding-left: 17px;
+  padding-left: 23px;
   background-color: transparent;
 }
 
 .links {
-  margin-top:-.2em;
+  margin-top: -.2em;
   padding-left: 21px;
   font-size: 2.5em;
   width: 2.5em;
@@ -222,16 +222,14 @@ article .page {
 }
 
 .reload {
-  font-size: 1.5em;
+  font-size: 1.7em;
   font-weight: 900;
   text-align: center;
   position: fixed;
-  color: white;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
   padding: .1em;
   padding-top: .3em;
   bottom: 5px;
-  left: 5px;
+  left: 1px;
   width: 35px;
   height: 35px;
   background-color: transparent;
@@ -240,15 +238,13 @@ article .page {
 }
 
 .up-arrow {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 900;
   text-align: center;
-  color: white;
-  text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 10px 10px rgba(0, 0, 255, 0.2);
   padding: .1em;
   position: fixed;
   bottom: 5px;
-  right: 5px;
+  right: 1px;
   width: 35px;
   height: 35px;
   background-color: transparent;
