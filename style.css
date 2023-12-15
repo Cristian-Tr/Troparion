@@ -7,10 +7,11 @@ body {
 .flex-container {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
   width: 100%;
-  height: 3.5em;
+  height: 2.1em;
   border: none;
   background-color: white;
   position: fixed;
+  margin-top: -49px;
   margin-left: 0;
   font-size: 15px;
   font-weight: 500;
@@ -23,16 +24,16 @@ body {
 }
 
 .links-home {
-  padding-left: 23px;
+  padding-left: 9px;
   background-color: transparent;
 }
 
 .links {
-  margin-top: -.2em;
-  padding-left: 21px;
-  font-size: 2.5em;
-  width: 2.5em;
-  height: 2.5em;
+  margin-top: -.15em;
+  padding-right: 1px;
+  font-size: 1.8em;
+  width: 1.8em;
+  height: 1.8em;
   background-color: transparent;
 }
 
