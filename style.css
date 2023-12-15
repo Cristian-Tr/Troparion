@@ -23,16 +23,16 @@ body {
 }
 
 .links-home {
-  padding-left: 22px;
+  padding-left: 17px;
   background-color: transparent;
 }
 
 .links {
-  margin-top:.1em;
-  padding-right: 45px;
-  font-size: 2em;
-  width: 2em;
-  height: 2em;
+  margin-top:.01em;
+  padding-left: 21px;
+  font-size: 2.5em;
+  width: 2.5em;
+  height: 2.5em;
   background-color: transparent;
 }
 
