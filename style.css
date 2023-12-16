@@ -7,11 +7,11 @@ body {
 /* TOP LEFT & RIGHT BUTTONS */
 
 #bottom-left-button {
-  font-size: 1.7em;
+  font-size: 1.8em;
   font-weight: 900;
   text-align: center;
   position: fixed;
-  bottom: 3.9px;
+  bottom: 4.5px;
   left: -.7px;
   z-index: 100;
   background-color: transparent;
