@@ -118,6 +118,22 @@ main {
   text-align: center;
 }
 
+.saint {
+  font-size: 1.25em;
+  font-weight: 700;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  margin-top: -20px;
+  text-shadow: .7px .7px .7px white, .7px .7px .7px black;
+}
+
+@media (min-width: 768px) {
+  .saint {
+    padding-left: 531px;
+    padding-right: 531px;
+    text-align: center;
+  }
+}
+
 .margin {
   margin-bottom: 45px;
 }
@@ -208,6 +224,13 @@ article .page {
   font-weight: 100;
   color: white;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
+}
+
+@media (min-width: 768px) {
+  .category dd p {
+    padding-left: 531px;
+    padding-right: 531px;
+  }
 }
 
 .reload {
