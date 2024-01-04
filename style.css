@@ -32,7 +32,6 @@ body {
   cursor: pointer;
 }
 
-
 /* h styles */
 
 h1 {
@@ -55,7 +54,7 @@ h2 {
 
 h3 {
   color: cornflowerblue;
-  font-weight: 900;
+  font-weight: 700;
   padding-top: 1px;
   text-align: center;
   text-shadow: .1px .1px .1px white, .1px .1px .1px black;
@@ -94,6 +93,21 @@ main {
   margin-top: 53px;
 }
 
+.saint {
+  font-size: 1.25em;
+  font-weight: 300;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  margin-top: -20px;
+  text-shadow: .7px .7px .7px white, .7px .7px .7px black;
+}
+
+@media (min-width: 768px) {
+  .saint {
+    padding-left: 450px;
+    padding-right: 450px;
+    text-align: center;
+  }
+}
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
 #biblicalTeachings {
   background-color: transparent;
@@ -112,26 +126,12 @@ main {
   width: 100%;
   height: 53px;
   font-size: 1.2em;
-  font-weight: 700;
+  font-weight: 300;
+  padding-left: 7px;
+  padding-right: 7px;
   margin: 0.1em auto;
   color: white;
   text-align: center;
-}
-
-.saint {
-  font-size: 1.25em;
-  font-weight: 700;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
-  margin-top: -20px;
-  text-shadow: .7px .7px .7px white, .7px .7px .7px black;
-}
-
-@media (min-width: 768px) {
-  .saint {
-    padding-left: 531px;
-    padding-right: 531px;
-    text-align: center;
-  }
 }
 
 .margin {
@@ -204,6 +204,7 @@ article .page {
 
 .category dt b {
   font-size: 1.2em;
+  font-weight: 100;
   color: white;
   line-height: 27px;
 }
