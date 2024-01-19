@@ -48,7 +48,6 @@ h2 {
   margin-top: -25px;
   margin-bottom: 5px;
   text-align: center;
-  text-shadow: .1px .1px .1px white, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -57,35 +56,31 @@ h3 {
   font-weight: 700;
   padding-top: 1px;
   text-align: center;
-  text-shadow: .1px .1px .1px white, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h4 {
-  color: white;
   font-weight: 700;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: .1px .1px .1px #ccc, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
+
 h5 {
-  font-weight: 700;
+  color: cornflowerblue;
   text-align: center;
-  text-shadow: .1px .1px .1px #ccc, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h6 {
   text-align: center;
-  text-shadow: .1px .1px .1px #ccc, .1px .1px .1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .container-fluid {
-  padding: 0;
   background: white;
+  padding: 0;
 }
 
 main {
@@ -96,9 +91,7 @@ main {
 .saint {
   font-size: 1.2em;
   font-weight: 300;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
   margin-top: -20px;
-  text-shadow: .7px .7px .7px white, .7px .7px .7px black;
 }
 
 @media (min-width: 768px) {
@@ -108,29 +101,33 @@ main {
     text-align: center;
   }
 }
+
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
 #biblicalTeachings {
-  background-color: transparent;
+  background: linear-gradient(lightskyblue, blue);
   width: 100%;
   min-height: 198px;
   margin: auto;
   border: 1px solid dimgray;
-  background: linear-gradient(lightskyblue, blue);
   pointer-events: none;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1.15em;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
+@media (min-width: 768px) {
+  #biblicalTeachings {
+    font-size: 1.53em;
+  }
+}
+
 .biblical-Teachings {
+  color: white;
   width: 100%;
   height: 53px;
-  font-size: 1.2em;
-  font-weight: 300;
   padding-left: 7px;
   padding-right: 7px;
   margin: 0.1em auto;
-  color: white;
   text-align: center;
 }
 
@@ -191,7 +188,6 @@ article .page {
 }
 
 .category dt {
-  font-size: 1.35em;
   line-height: 27px;
   font-weight: 700;
   height: 53px;
@@ -203,39 +199,45 @@ article .page {
 }
 
 .category dt b {
-  font-size: 1.15em;
-  font-weight: 100;
   color: white;
+  font-size: 1.15em;
+  font-weight: 500;
   line-height: 27px;
 }
 
+@media (min-width: 768px) {
+  .category dt b {
+    font-size: 1.53em;
+  }
+}
+
 .category dd {
-  font-size: 1.2em;
-  font-weight: 100;
-  color: white;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
-  text-shadow: 1px 1px 1px black;
-  text-align: left;
-  text-justify: inter-word;
   margin: auto;
   padding: 9px;
   background-color: blue;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 .category dd p {
+  color: white;
   font-size: 1.08em;
   font-weight: 100;
-  color: white;
+  text-shadow: 1px 1px 1px black;
+  text-align: left;
+  text-justify: inter-word;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 @media (min-width: 768px) {
   .category dd p {
+    font-size: 1.5em;
     padding-left: 531px;
     padding-right: 531px;
   }
 }
 
+
+/* RELOAD & UP-ARROW BUTTONS 
 .reload {
   font-size: 1.7em;
   font-weight: 900;
@@ -266,7 +268,7 @@ article .page {
   border: none;
   cursor: pointer;
 }
-
+*/
 
 /* TROPARION SIGN - T SVG - ANIMATION 
 .my-logo {
