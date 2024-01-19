@@ -38,7 +38,7 @@ h1 {
   color: white;
   font-weight: 900;
   text-align: center;
-  text-shadow: .1px .1px .1px white, .1px .1px .1px black;
+  text-shadow: 1px 1px 1px white, 1px 1px 1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -100,10 +100,9 @@ main {
 
 @media (min-width: 768px) {
   .saint {
-    font-size: 1.53em;
-    padding-left: 450px;
-    padding-right: 450px;
-    text-align: center;
+    font-size: 1.35em;
+    padding-left: 531px;
+    padding-right: 531px;
   }
 }
 
@@ -116,13 +115,13 @@ main {
   border: 1px solid dimgray;
   pointer-events: none;
   text-align: center;
-  font-size: 1.15em;
+  font-size: 1.25em;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 @media (min-width: 768px) {
   #biblicalTeachings {
-    font-size: 1.53em;
+    font-size: 1.35em;
   }
 }
 
@@ -225,7 +224,7 @@ article .page {
 
 .category dd p {
   color: white;
-  font-size: 1.2em;
+  font-size: 1.25em;
   font-weight: 100;
   text-shadow: .3px .3px .3px black;
   text-align: left;
@@ -235,7 +234,7 @@ article .page {
 
 @media (min-width: 768px) {
   .category dd p {
-    font-size: 1.5em;
+    font-size: 1.35em;
     padding-left: 531px;
     padding-right: 531px;
   }
