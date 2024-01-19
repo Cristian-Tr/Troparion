@@ -63,6 +63,7 @@ h4 {
   font-weight: 700;
   text-align: justify;
   text-justify: inter-word;
+  text-shadow: .7px .7px .7px cornflowerblue;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -89,12 +90,17 @@ main {
 }
 
 .saint {
+  font-size: 1.25em;;
   font-weight: 500;
   margin-top: -20px;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 @media (min-width: 768px) {
   .saint {
+    font-size: 1.53em;
     padding-left: 450px;
     padding-right: 450px;
     text-align: center;
@@ -105,7 +111,7 @@ main {
 #biblicalTeachings {
   background: linear-gradient(lightskyblue, blue);
   width: 100%;
-  min-height: 198px;
+  min-height: 153px;
   margin: auto;
   border: 1px solid dimgray;
   pointer-events: none;
