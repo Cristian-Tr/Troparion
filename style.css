@@ -94,7 +94,7 @@ main {
 }
 
 .saint {
-  font-size: 1.25em;
+  font-size: 1.2em;
   font-weight: 300;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
   margin-top: -20px;
@@ -203,7 +203,7 @@ article .page {
 }
 
 .category dt b {
-  font-size: 1.2em;
+  font-size: 1.15em;
   font-weight: 100;
   color: white;
   line-height: 27px;
@@ -211,7 +211,9 @@ article .page {
 
 .category dd {
   font-size: 1.2em;
+  font-weight: 100;
   color: white;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
   text-shadow: 1px 1px 1px black;
   text-align: left;
   text-justify: inter-word;
@@ -221,7 +223,7 @@ article .page {
 }
 
 .category dd p {
-  font-size: 1.2em;
+  font-size: 1.08em;
   font-weight: 100;
   color: white;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
