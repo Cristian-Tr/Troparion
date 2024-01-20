@@ -49,159 +49,159 @@
 
     <section id="logo" class="container-fluid text-center">
 
+      <div id="candle" style="width: 100%;">
+        <svg width="351" height="153" viewbox="0 0 100 200" style="margin-top: -41px;">
+          <filter id="goo">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="9.8" result="color-matrix-blur">
+            </feGaussianBlur>
+            <feColorMatrix in="blur" mode="matrix" result="color-matrix-filter"
+              values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 22 -15"></feColorMatrix>
+            <feComposite in="SourceGraphic" in2="filter" operator="atop"></feComposite>
+          </filter>
+          <filter id="f2" x="-200%" y="-200%" width="1000%" height="1000%">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
+          </filter>
 
-      <svg id="candle" width="351" height="153" viewbox="0 0 100 200" style="margin-top: -41px;">
-        <filter id="goo">
-          <feGaussianBlur in="SourceGraphic" stdDeviation="9.8" result="color-matrix-blur">
-          </feGaussianBlur>
-          <feColorMatrix in="blur" mode="matrix" result="color-matrix-filter"
-            values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 22 -15"></feColorMatrix>
-          <feComposite in="SourceGraphic" in2="filter" operator="atop"></feComposite>
-        </filter>
-        <filter id="f2" x="-200%" y="-200%" width="1000%" height="1000%">
-          <feGaussianBlur in="SourceGraphic" stdDeviation="8" />
-        </filter>
+          <g class="fluid" filter="url(#goo)">
+            <circle r="25" fill="hsl(53,100%,71%)" cx="54%" cy="58%" filter="url(#goo)">
+              <animate attributeName="cx" begin="-1s" values="46%; 53%; 46%" dur="5s" begin="-4s"
+                repeatCount="indefinite"></animate>
+              <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="7s" begin="-5s"
+                repeatCount="indefinite"></animate>
+            </circle>
+            <circle r="25" fill="hsl(53,100%,71%)" cx="49%" cy="27%" filter="url(#goo)">
+              <animate attributeName="cx" begin="-1s" values="46%; 54%; 46%" dur="7s" begin="-5s"
+                repeatCount="indefinite"></animate>
+              <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="5s" begin="-4s"
+                repeatCount="indefinite"></animate>
+            </circle>
+            <circle r="20" fill="hsl(23,100%,50%)" cy="60%">
+              <animate attributeName="cx" begin="-10s" values="50%; 50%; 50%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="19.5" fill="hsl(24,100%,50%)" cy="59%">
+              <animate attributeName="cx" begin="-9.99s" values="49.8%; 50.2%; 49.8%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="19" fill="hsl(25,100%,50%)" cy="58%">
+              <animate attributeName="cx" begin="-9.98s" values="49.6%; 50.4%; 49.6%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="18.5" fill="hsl(26,100%,50%)" cy="57%">
+              <animate attributeName="cx" begin="-9.97s" values="49.4%; 50.6%; 49.4%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="18" fill="hsl(27,100%,50%)" cy="56%">
+              <animate attributeName="cx" begin="-9.96s" values="49.2%; 50.8%; 49.2%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="17.5" fill="hsl(28,100%,50%)" cy="55%">
+              <animate attributeName="cx" begin="-9.95s" values="49%; 51%; 49%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="17" fill="hsl(29,100%,50%)" cy="54%">
+              <animate attributeName="cx" begin="-9.94s" values="48.8%; 51.2%; 48.8%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="16.5" fill="hsl(30,100%,50%)" cy="53%">
+              <animate attributeName="cx" begin="-9.93s" values="48.6%; 51.4%; 48.6%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="16" fill="hsl(31,100%,50%)" cy="52%">
+              <animate attributeName="cx" begin="-9.92s" values="48.4%; 51.6%; 48.4%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="15.5" fill="hsl(32,100%,50%)" cy="51%">
+              <animate attributeName="cx" begin="-9.91s" values="48.2%; 51.8%; 48.2%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="15" fill="hsl(33,100%,50%)" cy="50%">
+              <animate attributeName="cx" begin="-9.9s" values="48%; 52%; 48%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="14.5" fill="hsl(34,100%,50%)" cy="49%">
+              <animate attributeName="cx" begin="-9.89s" values="47.8%; 52.2%; 47.8%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="14" fill="hsl(35,100%,50%)" cy="48%">
+              <animate attributeName="cx" begin="-9.88s" values="47.6%; 52.4%; 47.6%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="13.5" fill="hsl(36,100%,50%)" cy="47%">
+              <animate attributeName="cx" begin="-9.87s" values="47.4%; 52.6%; 47.4%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="13" fill="hsl(37,100%,50%)" cy="46%">
+              <animate attributeName="cx" begin="-9.86s" values="47.2%; 52.8%; 47.2%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="12.5" fill="hsl(38,100%,50%)" cy="45%">
+              <animate attributeName="cx" begin="-9.85s" values="47%; 53%; 47%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="12" fill="hsl(39,100%,50%)" cy="44%">
+              <animate attributeName="cx" begin="-9.84s" values="46.8%; 53.2%; 46.8%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="11.5" fill="hsl(40,100%,50%)" cy="43%">
+              <animate attributeName="cx" begin="-9.83s" values="46.6%; 53.4%; 46.6%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="11" fill="hsl(41,100%,50%)" cy="42%">
+              <animate attributeName="cx" begin="-9.82s" values="46.4%; 53.6%; 46.4%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="10.5" fill="hsl(42,100%,50%)" cy="41%">
+              <animate attributeName="cx" begin="-9.81s" values="46.2%; 53.8%; 46.2%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="10" fill="hsl(43,100%,50%)" cy="40%">
+              <animate attributeName="cx" begin="-9.8s" values="46%; 54%; 46%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="9.5" fill="hsl(44,100%,50%)" cy="39%">
+              <animate attributeName="cx" begin="-9.79s" values="45.8%; 54.2%; 45.8%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="9" fill="hsl(45,100%,50%)" cy="38%">
+              <animate attributeName="cx" begin="-9.78s" values="45.6%; 54.4%; 45.6%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="8.5" fill="hsl(46,100%,50%)" cy="37%">
+              <animate attributeName="cx" begin="-9.77s" values="45.4%; 54.6%; 45.4%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="8" fill="hsl(47,100%,50%)" cy="36%">
+              <animate attributeName="cx" begin="-9.76s" values="45.2%; 54.8%; 45.2%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="7.5" fill="hsl(48,100%,50%)" cy="35%">
+              <animate attributeName="cx" begin="-9.75s" values="45%; 55%; 45%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
+            <circle r="7" fill="hsl(49,100%,50%)" cy="34%">
+              <animate attributeName="cx" begin="-9.74s" values="44.8%; 55.2%; 44.8%" dur="3s" repeatCount="indefinite">
+              </animate>
+            </circle>
 
-        <g class="fluid" filter="url(#goo)">
-          <circle r="25" fill="hsl(53,100%,71%)" cx="54%" cy="58%" filter="url(#goo)">
-            <animate attributeName="cx" begin="-1s" values="46%; 53%; 46%" dur="5s" begin="-4s"
-              repeatCount="indefinite"></animate>
-            <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="7s" begin="-5s"
-              repeatCount="indefinite"></animate>
-          </circle>
-          <circle r="25" fill="hsl(53,100%,71%)" cx="49%" cy="27%" filter="url(#goo)">
-            <animate attributeName="cx" begin="-1s" values="46%; 54%; 46%" dur="7s" begin="-5s"
-              repeatCount="indefinite"></animate>
-            <animate attributeName="cy" begin="-1s" values="54%; 58%; 54%" dur="5s" begin="-4s"
-              repeatCount="indefinite"></animate>
-          </circle>
-          <circle r="20" fill="hsl(23,100%,50%)" cy="60%">
-            <animate attributeName="cx" begin="-10s" values="50%; 50%; 50%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="19.5" fill="hsl(24,100%,50%)" cy="59%">
-            <animate attributeName="cx" begin="-9.99s" values="49.8%; 50.2%; 49.8%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="19" fill="hsl(25,100%,50%)" cy="58%">
-            <animate attributeName="cx" begin="-9.98s" values="49.6%; 50.4%; 49.6%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="18.5" fill="hsl(26,100%,50%)" cy="57%">
-            <animate attributeName="cx" begin="-9.97s" values="49.4%; 50.6%; 49.4%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="18" fill="hsl(27,100%,50%)" cy="56%">
-            <animate attributeName="cx" begin="-9.96s" values="49.2%; 50.8%; 49.2%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="17.5" fill="hsl(28,100%,50%)" cy="55%">
-            <animate attributeName="cx" begin="-9.95s" values="49%; 51%; 49%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="17" fill="hsl(29,100%,50%)" cy="54%">
-            <animate attributeName="cx" begin="-9.94s" values="48.8%; 51.2%; 48.8%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="16.5" fill="hsl(30,100%,50%)" cy="53%">
-            <animate attributeName="cx" begin="-9.93s" values="48.6%; 51.4%; 48.6%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="16" fill="hsl(31,100%,50%)" cy="52%">
-            <animate attributeName="cx" begin="-9.92s" values="48.4%; 51.6%; 48.4%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="15.5" fill="hsl(32,100%,50%)" cy="51%">
-            <animate attributeName="cx" begin="-9.91s" values="48.2%; 51.8%; 48.2%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="15" fill="hsl(33,100%,50%)" cy="50%">
-            <animate attributeName="cx" begin="-9.9s" values="48%; 52%; 48%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="14.5" fill="hsl(34,100%,50%)" cy="49%">
-            <animate attributeName="cx" begin="-9.89s" values="47.8%; 52.2%; 47.8%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="14" fill="hsl(35,100%,50%)" cy="48%">
-            <animate attributeName="cx" begin="-9.88s" values="47.6%; 52.4%; 47.6%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="13.5" fill="hsl(36,100%,50%)" cy="47%">
-            <animate attributeName="cx" begin="-9.87s" values="47.4%; 52.6%; 47.4%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="13" fill="hsl(37,100%,50%)" cy="46%">
-            <animate attributeName="cx" begin="-9.86s" values="47.2%; 52.8%; 47.2%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="12.5" fill="hsl(38,100%,50%)" cy="45%">
-            <animate attributeName="cx" begin="-9.85s" values="47%; 53%; 47%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="12" fill="hsl(39,100%,50%)" cy="44%">
-            <animate attributeName="cx" begin="-9.84s" values="46.8%; 53.2%; 46.8%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="11.5" fill="hsl(40,100%,50%)" cy="43%">
-            <animate attributeName="cx" begin="-9.83s" values="46.6%; 53.4%; 46.6%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="11" fill="hsl(41,100%,50%)" cy="42%">
-            <animate attributeName="cx" begin="-9.82s" values="46.4%; 53.6%; 46.4%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="10.5" fill="hsl(42,100%,50%)" cy="41%">
-            <animate attributeName="cx" begin="-9.81s" values="46.2%; 53.8%; 46.2%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="10" fill="hsl(43,100%,50%)" cy="40%">
-            <animate attributeName="cx" begin="-9.8s" values="46%; 54%; 46%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="9.5" fill="hsl(44,100%,50%)" cy="39%">
-            <animate attributeName="cx" begin="-9.79s" values="45.8%; 54.2%; 45.8%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="9" fill="hsl(45,100%,50%)" cy="38%">
-            <animate attributeName="cx" begin="-9.78s" values="45.6%; 54.4%; 45.6%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="8.5" fill="hsl(46,100%,50%)" cy="37%">
-            <animate attributeName="cx" begin="-9.77s" values="45.4%; 54.6%; 45.4%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="8" fill="hsl(47,100%,50%)" cy="36%">
-            <animate attributeName="cx" begin="-9.76s" values="45.2%; 54.8%; 45.2%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="7.5" fill="hsl(48,100%,50%)" cy="35%">
-            <animate attributeName="cx" begin="-9.75s" values="45%; 55%; 45%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
-          <circle r="7" fill="hsl(49,100%,50%)" cy="34%">
-            <animate attributeName="cx" begin="-9.74s" values="44.8%; 55.2%; 44.8%" dur="3s" repeatCount="indefinite">
-            </animate>
-          </circle>
+            <circle r="20" fill="hsl(53,100%,71%)" cx="49%" cy="30%" filter="url(#goo)">
+              <animate attributeName="cx" begin="-1s" values="47%; 53%; 47%" dur=".5s" begin="-1s"
+                repeatCount="indefinite"></animate>
+              <animate attributeName="cy" begin="-1s" values="30%; 31%; 30%" dur=".7s" begin="-1.1s"
+                repeatCount="indefinite"></animate>
+            </circle>
+          </g>
 
-          <circle r="20" fill="hsl(53,100%,71%)" cx="49%" cy="30%" filter="url(#goo)">
-            <animate attributeName="cx" begin="-1s" values="47%; 53%; 47%" dur=".5s" begin="-1s"
-              repeatCount="indefinite"></animate>
-            <animate attributeName="cy" begin="-1s" values="30%; 31%; 30%" dur=".7s" begin="-1.1s"
-              repeatCount="indefinite"></animate>
-          </circle>
-        </g>
-
-        <!-- T-CANDLE SIGN WICK -->
-        <path d="M 49 132 L 51 132 L 51 135 L 49 135  L 49 132 Z" fill="black" stroke-width="1" stroke="black" />
+          <!-- T-CANDLE SIGN WICK -->
+          <path d="M 49 132 L 51 132 L 51 135 L 49 135  L 49 132 Z" fill="black" stroke-width="1" stroke="black" />
 
 
-        <!-- T-CANDLE SIGN -->
-        <path d="M 95 153 L 61 153 L 61 217 L 39 217  L 39 153  L 3 153  L 18 133 L 80 133  L 95 153 Z"
-          fill="cornflowerblue" stroke-width="0.1" stroke="cornflowerblue" />
+          <!-- T-CANDLE SIGN -->
+          <path d="M 95 153 L 61 153 L 61 217 L 39 217  L 39 153  L 3 153  L 18 133 L 80 133  L 95 153 Z"
+            fill="cornflowerblue" stroke-width="0.1" stroke="cornflowerblue" />
 
-      </svg>
-
+        </svg>
+      </div>
 
       <!-- CALENDAR -->
       <div class="container-fluid text-center" id="calendar">
