@@ -12,7 +12,7 @@ body {
   text-align: center;
   position: fixed;
   bottom: 4.5px;
-  left: -.7px;
+  left: -0.7px;
   z-index: 100;
   background-color: transparent;
   border: none;
@@ -64,7 +64,7 @@ h4 {
   font-weight: 700;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: .7px .7px .7px cornflowerblue;
+  text-shadow: 0.7px 0.7px 0.7px cornflowerblue;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -99,8 +99,8 @@ section {
 }
 
 .saint {
-  font-size: 1.15em;
-  font-weight: 700;
+  font-size: 1.2em;
+  font-weight: 300;
   margin-top: -20px;
   text-align: justify;
   text-justify: inter-word;
@@ -125,11 +125,6 @@ section {
   text-align: center;
   font-size: 1.25em;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
-}
-
-#biblicalTeachings .container-fluid {
-  padding-left: 1px;
-  padding-right: 1px;
 }
 
 @media (min-width: 768px) {
