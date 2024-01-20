@@ -84,8 +84,21 @@ main {
   margin-top: 53px;
 }
 
+section {
+  width: 100%;
+  margin: auto;
+  background: blue;
+  border: 1px solid cornflowerblue;
+}
+
+@media (min-width: 768px) {
+  section {
+    width: 53%;
+  }
+}
+
 .saint {
-  font-size: 1.2em;;
+  font-size: 1.2em;
   font-weight: 700;
   margin-top: -20px;
   text-align: justify;
@@ -107,9 +120,15 @@ main {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
+#biblicalTeachings .container-fluid {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
 @media (min-width: 768px) {
   #biblicalTeachings {
     font-size: 1.35em;
+    width: 71%;
   }
 }
 
@@ -117,9 +136,9 @@ main {
   color: white;
   width: 100%;
   height: 53px;
-  padding-left: 7px;
-  padding-right: 7px;
-  margin: 0.1em auto;
+  padding-left: 1px;
+  padding-right: 1px;
+  margin: auto;
   text-align: center;
 }
 
@@ -127,38 +146,7 @@ main {
   margin-bottom: 45px;
 }
 
-.bg-1 {
-  background-color: rgb(252, 252, 252);
-  color: black;
-}
-
 /* SPIRITUAL EBOOK styles */
-
-.panel {
-  border: 3px solid transparent !important;
-  border-radius: 0 !important;
-  transition: box-shadow 0.5s;
-}
-
-.panel:hover {
-  box-shadow: 5px 0px 40px rgba(0, 0, 0, 0.2);
-}
-
-.panel-heading {
-  background: linear-gradient(cornflowerblue, blue);
-  padding: 1px;
-  border-bottom: 1px solid transparent;
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-}
-
-.panel-body {
-  background: white;
-  border: 3px solid blue;
-}
-
 article {
   margin-top: 90px;
   background-color: white;
@@ -187,7 +175,7 @@ article .page {
   cursor: pointer;
   color: white;
   text-shadow: 1px 1px 1px black;
-  background: linear-gradient(lightskyblue, blue);
+  background: linear-gradient(cornflowerblue, blue);
 }
 
 .category dt b {
