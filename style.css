@@ -38,7 +38,7 @@ h1 {
   color: white;
   font-weight: 900;
   text-align: center;
-  text-shadow: 1px 1px 1px white, 1px 1px 1px black;
+  text-shadow: .1px .1px .1px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -56,26 +56,28 @@ h3 {
   font-weight: 700;
   padding-top: 1px;
   text-align: center;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: .1px .1px .1px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h4 {
-  font-weight: 700;
+  font-weight: 100;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: 0.7px 0.7px 0.7px cornflowerblue;
+  text-shadow:  .1px .1px .1px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 
 h5 {
+  font-weight: 100;
   color: cornflowerblue;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h6 {
+  font-weight: 100;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
@@ -84,6 +86,7 @@ h6 {
   padding-left: 1px;
   padding-right: 1px;
 }
+
 main {
   width: 100%;
   margin-top: 53px;
@@ -94,6 +97,7 @@ section {
   margin: auto;
   background: blue;
   border: 1px solid cornflowerblue;
+  border-radius: 45% 45% 0% 0%;
 }
 
 @media (min-width: 768px) {
@@ -103,18 +107,18 @@ section {
 }
 
 .saint {
-  font-size: 1.2em;
-  font-weight: 300;
+  font-size: 1.25em;
+  font-weight: 100;
   margin-top: -20px;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: .1px .1px .1px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 @media (min-width: 768px) {
   .saint {
-    font-size: 1.25em;
+    font-size: 1.35em;
   }
 }
 
