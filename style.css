@@ -80,6 +80,10 @@ h6 {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
+#calendar {
+  padding-left: 1px;
+  padding-right: 1px;
+}
 main {
   width: 100%;
   margin-top: 53px;
@@ -180,7 +184,7 @@ article .page {
   background: linear-gradient(cornflowerblue, blue);
 }
 
-.category dt b {
+.category dt p {
   color: white;
   font-size: 1.25em;
   font-weight: 500;
@@ -188,7 +192,7 @@ article .page {
 }
 
 @media (min-width: 768px) {
-  .category dt b {
+  .category dt p {
     font-size: 1.53em;
   }
 }
