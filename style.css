@@ -95,7 +95,7 @@ main {
 section {
   width: 88%;
   margin: auto;
-  background: linear-gradient(blue, dodgerblue, blue);
+  background: linear-gradient(blue, lightskyblue, blue);
   border: 1px solid cornflowerblue;
 }
 
@@ -117,7 +117,7 @@ section {
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
 #biblicalTeachings {
   color: white;
-  background: linear-gradient(blue, dodgerblue, blue);
+  background: linear-gradient(blue, lightskyblue, blue);
   width: 100%;
   min-height: 153px;
   margin: auto;
@@ -178,7 +178,7 @@ article .page {
   padding: 12px;
   cursor: pointer;
   text-shadow: .1px .3px .5px black;
-  background: linear-gradient(dodgerblue, blue);
+  background: linear-gradient(lightskyblue, blue);
 }
 
 .category dt h4 {
