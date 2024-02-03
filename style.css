@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 /* TOP LEFT & RIGHT BUTTONS */
@@ -37,7 +38,6 @@ h1 {
   color: white;
   font-weight: 900;
   text-align: center;
-  text-shadow: .1px .3px .5px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -47,7 +47,6 @@ h2 {
   margin-top: -25px;
   margin-bottom: 5px;
   text-align: center;
-  text-shadow: .1px .3px .5px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -56,7 +55,6 @@ h3 {
   font-weight: 700;
   padding-top: 1px;
   text-align: center;
-  text-shadow: .1px .3px .5px white, .1px .3px .5px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -69,7 +67,6 @@ h4 {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
-
 h5 {
   font-weight: 100;
   color: cornflowerblue;
@@ -81,6 +78,10 @@ h6 {
   font-weight: 100;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
+}
+
+b {
+  margin-top: -100px;
 }
 
 #calendar {

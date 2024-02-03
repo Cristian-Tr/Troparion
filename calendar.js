@@ -322,7 +322,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            saints = "Schimbarea la Faţă a Domnului";
+            saints = "SCHIMBAREA LA FAȚĂ A DOMNULUI";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Schimbatu-Te-ai la Faţă în munte, Hristoase Dumnezeule, arătând ucenicilor Tăi Slava Ta, pe cât li se putea. Strălucească şi nouă, păcătoşilor, lumina Ta cea pururea fiitoare, pentru rugăciunile Născătoarei de Dumnezeu, Dătătorule de lumină, slavă Ţie.";
@@ -385,7 +385,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            saints = "Adormirea Maicii Domnului";
+            saints = "ADORMIREA MAICII DOMNULUI";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Întru naştere Fecioria ai păzit, întru Adormire lumea nu ai părăsit, de Dumnezeu Născătoare; mutatu-te-ai la Viaţă, fiind Maica Vieţii şi cu rugăciunile tale, izbăveşti din moarte sufletele noastre.";
@@ -564,7 +564,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            saints = "Naşterea Maicii Domnului";
+            saints = "NAȘTEREA MAICII DOMNULUI";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Naşterea ta, de Dumnezeu Născătoare Fecioară, bucurie a vestit la toată lumea; că din tine a Răsărit Soarele dreptăţii, Hristos Dumnezeul nostru. Şi dezlegând blestemul, a dat binecuvântare; şi stricând moartea, ne-a dăruit nouă viaţă veşnică.";
@@ -1104,7 +1104,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            saints = "Intrarea în biserică a Maicii Domnului (Dezlegare la pește)";
+            saints = "INTRAREA ÎN BISERICĂ A MAICII DOMNULUI (Dezlegare la pește)";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Astăzi, înainte însemnarea bunăvoinţei lui Dumnezeu şi propovăduirea mântuirii oamenilor, în Templul lui Dumnezeu luminat Fecioara se arată şi pe Hristos tuturor mai înainte Îl vesteşte. Acesteia şi noi cu mare glas să-i strigăm: Bucură-te, Împlinirea rânduielii Ziditorului.";
@@ -1351,7 +1351,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            saints = "Nașterea Domnului (Crăciunul)";
+            saints = "NAȘTEREA DOMNULUI (Crăciunul)";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Naşterea Ta, Hristoase, Dumnezeul nostru, răsărit-a lumii lumina cunoştinţei; că întru dânsa cei ce slujeau stelelor de la Stea s-au învăţat să se închine Ţie, Soarelui dreptăţii şi să Te cunoască pe Tine, Răsăritul Cel de sus, Doamne, Slavă Ţie!";
@@ -1410,7 +1410,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 0) {
 
         if (day == 1) {
-            saints = "Tăierea împrejur cea după trup a Domnului";
+            saints = "TĂIEREA ÎMPREJUR CEA DUPĂ TRUP A DOMNULUI";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Cel Ce şezi pe Scaunul cel în chipul focului, întru cele de sus, împreună cu Părintele Cel fără de început şi cu Dumnezeiescul Duh, ai binevoit a Te naşte pe pământ din Fecioară, Maica Ta, care nu ştie de bărbat, Mântuitorule Iisuse. Pentru aceasta ai şi fost tăiat împrejur a opta zi ca un Om. Slavă Sfatului Tău Celui Preabun; Slavă rânduielii Tale; Slavă smereniei Tale, Unule Iubitorule de oameni.";
@@ -1445,7 +1445,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            saints = "Botezul Domnului (Boboteaza - Dumnezeiasca Arătare)";
+            saints = "BOTEZUL DOMNULUI (Boboteaza - Dumnezeiasca Arătare)";
             colors = "red";
             colorCross = "red";
             religiousSongs = "În Iordan Botezându-Te Tu, Doamne, închinarea Treimii s-a arătat. Că Glasul Părintelui a mărturisit Ţie, Fiu Iubit pe Tine numindu-Te; şi Duhul, în Chip de Porumbel, a adeverit întărirea Cuvântului, Cel Ce Te-ai arătat, Hristoase Dumnezeule şi lumea ai luminat, Slavă Ţie.";
@@ -1644,7 +1644,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            saints = "Întâmpinarea Domnului";
+            saints = "ÎNTÂMPINAREA DOMNULUI";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Bucură-te, Ceea ce eşti Plină de har, Născătoare de Dumnezeu Fecioară; că din tine a Răsărit Soarele dreptăţii, Hristos Dumnezeul nostru, luminând pe cei dintru întuneric. Veseleşte-te şi tu, bătrânule drepte, cel ce ai primit în braţe pe Izbăvitorul sufletelor noastre, Cel Ce ne-a dăruit nouă şi Învierea.";
@@ -2018,7 +2018,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            saints = "Buna Vestire";
+            saints = "BUNA VESTIRE";
             colors = "red";
             colorCross = "red";
             religiousSongs = "Astăzi este începutul mântuirii noastre şi arătarea Tainei celei din veac. Fiul lui Dumnezeu, Fiu Fecioarei Se face şi Gavriil Harul Îl binevesteşte. Pentru aceasta şi noi, împreună cu Dânsul, Născătoarei de Dumnezeu să-i strigăm: Bucură-te, cea Plină de har, Domnul este cu tine!";
@@ -2736,55 +2736,60 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
 
-    if (year == 2023) {
+    if (year == 2024) {
 
-        //INVIEREA DOMNULUI
+        //INTRAREA DOMNULUI IN IERUSALIM
 
         if (month == 3) {
 
-            if (day == 9) {
-                saints = "Intrarea Domnului în Ierusalim";
+            if (day == 28) {
+                saints = "INTRAREA DOMNULUI ÎN IERUSALIM";
                 colors = "red";
                 colorCross = "red";
                 religiousSongs = "Învierea cea de obşte mai înainte de Patima Ta încredinţând-o, pe Lazăr din morţi l-ai sculat, Hristoase Dumnezeule. Pentru aceasta şi noi, ca pruncii, semnele biruinţei purtând, Ţie Biruitorului morţii strigăm: Osana Celui dintru înălţime, bine eşti cuvântat, Cel ce vine întru numele Domnului.";
             }
 
-            if (day == 16) {
-                saints = "Învierea Domnului (Sfintele Paști)";
-                colors = "red";
-                colorCross = "red";
-                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
-            }
-
-            if (day == 17) {
-                saints = "Învierea Domnului (Sfintele Paști)";
-                colors = "red";
-                colorCross = "red";
-                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
-            }
-
-            if (day == 18) {
-                saints = "Învierea Domnului (Sfintele Paști)";
-                colors = "red";
-                colorCross = "red";
-                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
-            }
-
-            if (day == 21) {
-                saints = "Izvorul Tămăduirii";
-                colors = "red";
-                colorCross = "red";
-                religiousSongs = "Fecioară Curată, ca un izvor de viață făcător ai zămislit Roua cea după fire necuprinsă și ai izvorât pentru noi nectar de neîncetată bucurie, ce dimpreună cu apa vieții veșnice, din izvorul tău se revarsă în bogate râuri și nesfârșite; pentru care, cu toți bucurându-ne, strigăm: Bucură-te, Izvor al vieții tuturor.";
-            }
-
         }
 
 
-        //ÎNĂLȚAREA DOMNULUI
+ //INVIEREA DOMNULUI
         if (month == 4) {
 
-            if (day == 25) {
-                saints = "Înălțarea Domnului (Ziua Eroilor)";
+        if (day == 5) {
+            saints = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+        }
+
+        if (day == 6) {
+            saints = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+        }
+
+        if (day == 7) {
+            saints = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+        }
+
+        if (day == 10) {
+            saints = "IZVORUL TĂMĂDUIRII";
+            colors = "red";
+            colorCross = "red";
+            religiousSongs = "Fecioară Curată, ca un izvor de viață făcător ai zămislit Roua cea după fire necuprinsă și ai izvorât pentru noi nectar de neîncetată bucurie, ce dimpreună cu apa vieții veșnice, din izvorul tău se revarsă în bogate râuri și nesfârșite; pentru care, cu toți bucurându-ne, strigăm: Bucură-te, Izvor al vieții tuturor.";
+        }
+    }
+
+
+        //ÎNĂLȚAREA DOMNULUI
+        if (month == 5) {
+
+            if (day == 13) {
+                saints = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
                 colors = "red";
                 colorCross = "red";
                 religiousSongs = "Înălțatu-Te-ai întru slavă, Hristoase, Dumnezeul nostru, bucurie făcând Ucenicilor, cu făgăduința Sfântului Duh, încredințându-se ei, prin binecuvântare, că Tu ești Fiul lui Dumnezeu, Izbăvitorul lumii.";
@@ -2795,15 +2800,15 @@ document.addEventListener('DOMContentLoaded', function () {
         //POGORÂREA SFÂNTULUI DUH ȘI SFÂNTA TREIME
         if (month == 5) {
 
-            if (day == 4) {
-                saints = "Pogorârea Sfântului Duh (Cincizecimea sau Rusaliile)";
+            if (day == 23) {
+                saints = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
                 colors = "red";
                 colorCross = "red";
                 religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
             }
 
-            if (day == 5) {
-                saints = "Sfânta Treime";
+            if (day == 24) {
+                saints = "SFÂNTA TREIME";
                 colors = "red";
                 colorCross = "red";
                 religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
