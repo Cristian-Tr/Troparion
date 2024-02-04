@@ -2837,8 +2837,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     document.querySelector("#troparion").innerHTML = "<br>" + religiousSongs + "<br>";
 
-    document.querySelector("#troparion").style.color = colors;
-
 
 
 }); 
