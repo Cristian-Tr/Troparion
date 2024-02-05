@@ -107,9 +107,8 @@ section {
   }
 }
 
-.saint {
+.celebrationDay {
   font-weight: 100;
-  margin-top: -20px;
   text-align: justify;
   text-justify: inter-word;
   text-shadow: .1px .1px .1px white, 1px 1px 1px black;
