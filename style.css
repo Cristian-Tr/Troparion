@@ -35,10 +35,11 @@ body {
 
 /* h styles */
 h1 {
-  color: white;
-  font-weight: 900;
+  color: blueviolet !important;
+  text-shadow: .3px .7px .9px white, 1px 1px 1px black !important;
+  font-weight: 900 !important;
   text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 h2 {
@@ -51,11 +52,12 @@ h2 {
 }
 
 h3 {
-  color: cornflowerblue;
+  color: blueviolet !important;
+  text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 700;
   padding-top: 1px;
   text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 h4 {
@@ -68,10 +70,11 @@ h4 {
 }
 
 h5 {
-  font-weight: 100;
-  color: cornflowerblue;
+  color: blueviolet !important;
+  text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
+  font-weight: 100 !important;
   text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 h6 {
@@ -97,7 +100,7 @@ main {
 section {
   width: 88%;
   margin: auto;
-  background: linear-gradient(lightskyblue, blue);
+  background: linear-gradient(cornflowerblue, blue);
   border: 1px solid cornflowerblue;
 }
 
@@ -118,7 +121,7 @@ section {
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
 #biblicalTeachings {
   color: white;
-  background: linear-gradient(lightskyblue, blue);
+  background: linear-gradient(cornflowerblue, blue) !important;
   width: 100%;
   min-height: 171px;
   margin: auto;
@@ -179,7 +182,8 @@ article .page {
   padding: 12px;
   cursor: pointer;
   text-shadow: 1px 1px 1px black;
-  background: linear-gradient(lightskyblue, blue);
+  border: 1px solid cornflowerblue;
+  background: linear-gradient(cornflowerblue, blue);
 }
 
 .category dt h4 {
