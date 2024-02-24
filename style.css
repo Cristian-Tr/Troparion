@@ -35,7 +35,7 @@ body {
 
 /* h styles */
 h1 {
-  color: slateblue !important;
+  color: cornflowerblue !important;
   text-shadow: .3px .7px .9px white, 1px 1px 1px black !important;
   font-weight: 900 !important;
   text-align: center;
@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  color: blueviolet !important;
+  color: cornflowerblue !important;
   font-weight: 100;
   margin-top: -25px;
   margin-bottom: 5px;
@@ -52,7 +52,7 @@ h2 {
 }
 
 h3 {
-  color: slateblue !important;
+  color: cornflowerblue !important;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 700;
   padding-top: 1px;
@@ -70,7 +70,7 @@ h4 {
 }
 
 h5 {
-  color: slateblue !important;
+  color: cornflowerblue !important;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 100 !important;
   text-align: center;
@@ -100,7 +100,7 @@ main {
 section {
   width: 88%;
   margin: auto;
-  background: linear-gradient(slateblue, blue);
+  background: linear-gradient(cornflowerblue, blue);
   border: 1px solid cornflowerblue;
 }
 
