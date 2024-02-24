@@ -125,7 +125,7 @@ section {
   width: 100%;
   min-height: 171px;
   margin: auto;
-  border: 1px solid red;
+  border: 1px solid cornflowerblue;
   border-style: solid none solid none;
 
   pointer-events: none;
