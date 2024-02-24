@@ -101,7 +101,7 @@ section {
   width: 88%;
   margin: auto;
   background: linear-gradient(cornflowerblue, blue);
-  border: 1px solid blue;
+  border: 1px solid cornflowerblue;
 }
 
 @media (min-width: 768px) {
@@ -125,7 +125,7 @@ section {
   width: 100%;
   min-height: 171px;
   margin: auto;
-  border: 1px solid blue;
+  border: 1px solid cornflowerblue;
   pointer-events: none;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
@@ -182,7 +182,7 @@ article .page {
   padding: 12px;
   cursor: pointer;
   text-shadow: 1px 1px 1px black;
-  border: 1px solid blue;
+  border: 1px solid cornflowerblue;
   background: linear-gradient(cornflowerblue, blue);
 }
 
