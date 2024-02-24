@@ -35,7 +35,7 @@ body {
 
 /* h styles */
 h1 {
-  color: blueviolet !important;
+  color: orange !important;
   text-shadow: .3px .7px .9px white, 1px 1px 1px black !important;
   font-weight: 900 !important;
   text-align: center;
