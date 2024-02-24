@@ -115,7 +115,7 @@ section {
   text-align: justify;
   text-justify: inter-word;
   text-shadow: .1px .1px .1px white, 1px 1px 1px black;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
@@ -126,11 +126,9 @@ section {
   min-height: 171px;
   margin: auto;
   border: 1px solid cornflowerblue;
-  border-style: solid none solid none;
-
   pointer-events: none;
   text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 @media (min-width: 768px) {
