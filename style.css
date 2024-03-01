@@ -35,7 +35,7 @@ body {
 
 /* h styles */
 h1 {
-  color: cornflowerblue !important;
+  color: cyan !important;
   text-shadow: .3px .7px .9px white, 1px 1px 1px black !important;
   font-weight: 900 !important;
   text-align: center;
@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  color: cornflowerblue !important;
+  color: cyan !important;
   font-weight: 100;
   margin-top: -25px;
   margin-bottom: 5px;
@@ -52,7 +52,7 @@ h2 {
 }
 
 h3 {
-  color: cornflowerblue !important;
+  color: cyan !important;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 700;
   padding-top: 1px;
@@ -70,7 +70,7 @@ h4 {
 }
 
 h5 {
-  color: cornflowerblue !important;
+  color: cyan !important;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 100 !important;
   text-align: center;
@@ -100,7 +100,7 @@ main {
 section {
   width: 88%;
   margin: auto;
-  background: linear-gradient(cornflowerblue, blue);
+  background: linear-gradient(cyan, blue);
   border: 1px solid cornflowerblue;
 }
 
@@ -121,7 +121,7 @@ section {
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
 #biblicalTeachings {
   color: white;
-  background: linear-gradient(cornflowerblue, blue) !important;
+  background: linear-gradient(cyan, blue) !important;
   width: 100%;
   min-height: 171px;
   margin: auto;
@@ -183,9 +183,9 @@ article .page {
   cursor: pointer;
   text-shadow: 1px 1px 1px black;
   border-width: 1px;
-  border-color: cornflowerblue transparent cornflowerblue transparent;
+  border-color: cyan transparent cyan transparent;
   border-style: solid none solid none;
-  background: linear-gradient(cornflowerblue, blue);
+  background: linear-gradient(cyan, blue);
 }
 
 .category dt h4 {
