@@ -2738,7 +2738,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (year == 2024) {
 
-        //INTRAREA DOMNULUI IN IERUSALIM
+        //INTRAREA DOMNULUI IN IERUSALIM (APRILIE)
 
         if (month == 3) {
 
@@ -2752,7 +2752,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
 
-        //INVIEREA DOMNULUI
+        //INVIEREA DOMNULUI (MAI)
         if (month == 4) {
 
             if (day == 5) {
@@ -2785,7 +2785,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
 
-        //ÎNĂLȚAREA DOMNULUI
+        //ÎNĂLȚAREA DOMNULUI (IUNIE)
         if (month == 5) {
 
             if (day == 13) {
@@ -2797,7 +2797,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
 
-        //POGORÂREA SFÂNTULUI DUH ȘI SFÂNTA TREIME
+        //POGORÂREA SFÂNTULUI DUH ȘI SFÂNTA TREIME (IUNIE)
         if (month == 5) {
 
             if (day == 23) {
@@ -2816,6 +2816,366 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
     }
+
+
+
+
+    if (year == 2025) {
+
+        //INTRAREA DOMNULUI IN IERUSALIM (APRILIE)
+
+        if (month == 3) {
+
+            if (day == 13) {
+                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Învierea cea de obşte mai înainte de Patima Ta încredinţând-o, pe Lazăr din morţi l-ai sculat, Hristoase Dumnezeule. Pentru aceasta şi noi, ca pruncii, semnele biruinţei purtând, Ţie Biruitorului morţii strigăm: Osana Celui dintru înălţime, bine eşti cuvântat, Cel ce vine întru numele Domnului.";
+            }
+
+        }
+
+
+        //INVIEREA DOMNULUI (APRILIE)
+        if (month == 3) {
+
+            if (day == 20) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 21) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 22) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 25) {
+                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Fecioară Curată, ca un izvor de viață făcător ai zămislit Roua cea după fire necuprinsă și ai izvorât pentru noi nectar de neîncetată bucurie, ce dimpreună cu apa vieții veșnice, din izvorul tău se revarsă în bogate râuri și nesfârșite; pentru care, cu toți bucurându-ne, strigăm: Bucură-te, Izvor al vieții tuturor.";
+            }
+        }
+
+
+        //ÎNĂLȚAREA DOMNULUI (MAI)
+        if (month == 4) {
+
+            if (day == 29) {
+                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Înălțatu-Te-ai întru slavă, Hristoase, Dumnezeul nostru, bucurie făcând Ucenicilor, cu făgăduința Sfântului Duh, încredințându-se ei, prin binecuvântare, că Tu ești Fiul lui Dumnezeu, Izbăvitorul lumii.";
+            }
+        }
+
+
+        //POGORÂREA SFÂNTULUI DUH ȘI SFÂNTA TREIME (IUNIE)
+        if (month == 5) {
+
+            if (day == 8) {
+                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+
+            if (day == 9) {
+                celebrationDay = "SFÂNTA TREIME";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+        }
+
+    }
+
+
+
+
+
+
+    if (year == 2026) {
+
+        //INTRAREA DOMNULUI IN IERUSALIM (APRILIE)
+
+        if (month == 3) {
+
+            if (day == 5) {
+                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Învierea cea de obşte mai înainte de Patima Ta încredinţând-o, pe Lazăr din morţi l-ai sculat, Hristoase Dumnezeule. Pentru aceasta şi noi, ca pruncii, semnele biruinţei purtând, Ţie Biruitorului morţii strigăm: Osana Celui dintru înălţime, bine eşti cuvântat, Cel ce vine întru numele Domnului.";
+            }
+
+        }
+
+
+        //INVIEREA DOMNULUI (APRILIE)
+        if (month == 3) {
+
+            if (day == 12) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 13) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 14) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 17) {
+                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Fecioară Curată, ca un izvor de viață făcător ai zămislit Roua cea după fire necuprinsă și ai izvorât pentru noi nectar de neîncetată bucurie, ce dimpreună cu apa vieții veșnice, din izvorul tău se revarsă în bogate râuri și nesfârșite; pentru care, cu toți bucurându-ne, strigăm: Bucură-te, Izvor al vieții tuturor.";
+            }
+        }
+
+
+        //ÎNĂLȚAREA DOMNULUI (MAI)
+        if (month == 4) {
+
+            if (day == 21) {
+                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Înălțatu-Te-ai întru slavă, Hristoase, Dumnezeul nostru, bucurie făcând Ucenicilor, cu făgăduința Sfântului Duh, încredințându-se ei, prin binecuvântare, că Tu ești Fiul lui Dumnezeu, Izbăvitorul lumii.";
+            }
+
+            //POGORÂREA SFÂNTULUI DUH 
+            if (day == 31) {
+                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+        }
+
+
+        //SFÂNTA TREIME (IUNIE)
+        if (month == 5) {
+
+
+
+            if (day == 1) {
+                celebrationDay = "SFÂNTA TREIME";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+        }
+
+    }
+
+
+
+
+
+
+
+
+
+    if (year == 2027) {
+
+        //INTRAREA DOMNULUI IN IERUSALIM (APRILIE)
+
+        if (month == 3) {
+
+            if (day == 25) {
+                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Învierea cea de obşte mai înainte de Patima Ta încredinţând-o, pe Lazăr din morţi l-ai sculat, Hristoase Dumnezeule. Pentru aceasta şi noi, ca pruncii, semnele biruinţei purtând, Ţie Biruitorului morţii strigăm: Osana Celui dintru înălţime, bine eşti cuvântat, Cel ce vine întru numele Domnului.";
+            }
+
+        }
+
+
+        //INVIEREA DOMNULUI (MAI)
+        if (month == 4) {
+
+            if (day == 2) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 3) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 4) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 7) {
+                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Fecioară Curată, ca un izvor de viață făcător ai zămislit Roua cea după fire necuprinsă și ai izvorât pentru noi nectar de neîncetată bucurie, ce dimpreună cu apa vieții veșnice, din izvorul tău se revarsă în bogate râuri și nesfârșite; pentru care, cu toți bucurându-ne, strigăm: Bucură-te, Izvor al vieții tuturor.";
+            }
+        }
+
+
+        //ÎNĂLȚAREA DOMNULUI (MAI)
+        if (month == 5) {
+
+            if (day == 10) {
+                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Înălțatu-Te-ai întru slavă, Hristoase, Dumnezeul nostru, bucurie făcând Ucenicilor, cu făgăduința Sfântului Duh, încredințându-se ei, prin binecuvântare, că Tu ești Fiul lui Dumnezeu, Izbăvitorul lumii.";
+            }
+
+
+        }
+
+
+        //POGORÂREA SFÂNTULUI DUH SI SFÂNTA TREIME (IUNIE)
+        if (month == 5) {
+
+
+            if (day == 20) {
+                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+
+            if (day == 21) {
+                celebrationDay = "SFÂNTA TREIME";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+        }
+
+    }
+
+
+
+
+
+
+
+    if (year == 2028) {
+
+        //INTRAREA DOMNULUI IN IERUSALIM (APRILIE)
+
+        if (month == 3) {
+
+            if (day == 9) {
+                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Învierea cea de obşte mai înainte de Patima Ta încredinţând-o, pe Lazăr din morţi l-ai sculat, Hristoase Dumnezeule. Pentru aceasta şi noi, ca pruncii, semnele biruinţei purtând, Ţie Biruitorului morţii strigăm: Osana Celui dintru înălţime, bine eşti cuvântat, Cel ce vine întru numele Domnului.";
+            }
+
+        }
+
+
+        //INVIEREA DOMNULUI (APRILIE)
+        if (month == 3) {
+
+            if (day == 16) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 17) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 18) {
+                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Hristos a înviat din morți, Cu moartea pre moarte călcând, Și celor din morminte, Viață dăruindu-le!.";
+            }
+
+            if (day == 21) {
+                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Fecioară Curată, ca un izvor de viață făcător ai zămislit Roua cea după fire necuprinsă și ai izvorât pentru noi nectar de neîncetată bucurie, ce dimpreună cu apa vieții veșnice, din izvorul tău se revarsă în bogate râuri și nesfârșite; pentru care, cu toți bucurându-ne, strigăm: Bucură-te, Izvor al vieții tuturor.";
+            }
+        }
+
+
+        //ÎNĂLȚAREA DOMNULUI (MAI)
+        if (month == 4) {
+
+            if (day == 25) {
+                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Înălțatu-Te-ai întru slavă, Hristoase, Dumnezeul nostru, bucurie făcând Ucenicilor, cu făgăduința Sfântului Duh, încredințându-se ei, prin binecuvântare, că Tu ești Fiul lui Dumnezeu, Izbăvitorul lumii.";
+            }
+
+
+        }
+
+
+        //POGORÂREA SFÂNTULUI DUH SI SFÂNTA TREIME (IUNIE)
+        if (month == 5) {
+
+
+            if (day == 4) {
+                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+            
+            if (day == 5) {
+                celebrationDay = "SFÂNTA TREIME";
+                colors = "red";
+                colorCross = "red";
+                religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
+            }
+        }
+
+    }
+
+
+
+
+
 
 
     //COLORARE CRUCE, NUME SFÂNT ȘI TEXT TROPAR ÎN ROȘU DACĂ ESTE DUMINICĂ
