@@ -216,18 +216,18 @@ article .page {
 
 .bottom-navbar li {
   flex: 1 0 auto;
-  height: 25px;
+  height: 2em;
 }
 
 .bottom-navbar a {
-  font-size: 1.25em;
+  font-size: 1.43em;
   font-weight: 900;
   padding-top: 3px;
   color: cyan;
   display: flex;
   justify-content: center;
   text-align: center;
-  line-height: 17px;
+  line-height: 1.1em;
 }
 
 .bottom-navbar a:hover {
