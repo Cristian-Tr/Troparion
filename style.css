@@ -5,45 +5,18 @@ body {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
-/* TOP LEFT & RIGHT BUTTONS */
-
-#bottom-left-button {
-  font-size: 1.7em;
-  font-weight: 900;
-  text-align: center;
-  position: fixed;
-  bottom: 4.5px;
-  left: -0.7px;
-  z-index: 100;
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-}
-
-#bottom-right-button {
-  font-size: 2.5em;
-  font-weight: 900;
-  text-align: center;
-  position: fixed;
-  bottom: -3.7px;
-  right: 1px;
-  z-index: 100;
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-}
-
 /* h styles */
 h1 {
   color: cyan !important;
   text-shadow: .3px .7px .9px white, 1px 1px 1px black !important;
   font-weight: 900 !important;
+  letter-spacing: 2px;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 h2 {
-  color: cyan !important;
+  color: cornflowerblue !important;
   font-weight: 100;
   margin-top: -25px;
   margin-bottom: 5px;
@@ -52,7 +25,7 @@ h2 {
 }
 
 h3 {
-  color: cyan !important;
+  color: cornflowerblue;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 700;
   padding-top: 1px;
@@ -71,8 +44,8 @@ h4 {
 
 h5 {
   color: cyan !important;
-  text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
-  font-weight: 100 !important;
+  text-shadow: .3px .3px .3px black !important;
+  font-weight: 700 !important;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
@@ -100,7 +73,7 @@ main {
 section {
   width: 88%;
   margin: auto;
-  background: linear-gradient(cyan, blue);
+  background: linear-gradient(cornflowerblue, blue);
   border: 1px solid cornflowerblue;
 }
 
@@ -120,8 +93,7 @@ section {
 
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
 #biblicalTeachings {
-  color: white;
-  background: linear-gradient(cyan, blue) !important;
+  background: linear-gradient(cornflowerblue, blue);
   width: 100%;
   min-height: 171px;
   margin: auto;
@@ -138,7 +110,7 @@ section {
 }
 
 .biblical-Teachings {
-  color: white;
+  color: gold;
   font-weight: 700;
   width: 100%;
   height: 53px;
@@ -185,7 +157,7 @@ article .page {
   border-width: 1px;
   border-color: cyan transparent cyan transparent;
   border-style: solid none solid none;
-  background: linear-gradient(cyan, blue);
+  background: linear-gradient(cornflowerblue, blue);
 }
 
 .category dt h4 {
@@ -219,6 +191,80 @@ article .page {
   }
 }
 
+.bottom-navbar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  margin: 12px auto 0;
+  text-align: center;
+  background-color: blue;
+  border-width: 1px;
+  border-color: cyan transparent cyan transparent;
+  border-style: solid none solid none;
+  z-index: 100;
+}
+
+.bottom-navbar ul {
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.bottom-navbar li {
+  flex: 1 0 auto;
+  height: 35px;
+}
+
+.bottom-navbar a {
+  font-size: 1.7em;
+  font-weight: 900;
+  padding-top: 7px;
+  color: cyan;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  line-height: 21px;
+}
+
+.bottom-navbar a:hover {
+  text-decoration: none;
+  cursor: pointer;
+  color: cyan;
+}
+
+
+/* BOTTOM LEFT & RIGHT BUTTONS 
+
+#bottom-left-button {
+  font-size: 1.7em;
+  font-weight: 900;
+  text-align: center;
+  position: fixed;
+  bottom: 4.5px;
+  left: -0.7px;
+  z-index: 100;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+#bottom-right-button {
+  font-size: 2.5em;
+  font-weight: 900;
+  text-align: center;
+  position: fixed;
+  bottom: -3.7px;
+  right: 1px;
+  z-index: 100;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+*/
 
 /* RELOAD & UP-ARROW BUTTONS 
 .reload {
