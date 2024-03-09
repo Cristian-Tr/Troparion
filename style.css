@@ -216,13 +216,13 @@ article .page {
 
 .bottom-navbar li {
   flex: 1 0 auto;
-  height: 2.1em;
+  height: 2.5em;
 }
 
 .bottom-navbar a {
   font-size: 1.43em;
   font-weight: 900;
-  padding-top: 3px;
+  padding-top: .3em;
   color: cyan;
   display: flex;
   justify-content: center;
