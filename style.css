@@ -216,7 +216,7 @@ article .page {
 
 .bottom-navbar li {
   flex: 1 0 auto;
-  height: 2em;
+  height: 2.1em;
 }
 
 .bottom-navbar a {
@@ -227,7 +227,7 @@ article .page {
   display: flex;
   justify-content: center;
   text-align: center;
-  line-height: 1.1em;
+  line-height: 1.2em;
 }
 
 .bottom-navbar a:hover {
