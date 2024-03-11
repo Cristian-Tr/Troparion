@@ -5,6 +5,47 @@ body {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
+/*Greetings animation*/
+#initial-greeting,
+#middle-greeting,
+#final-greeting {
+  font-family: "Pacifico", "Lato", "Times New Roman";
+  color: cyan;
+  /*animation: greeting 7.7s linear infinite;*/
+}
+
+/*OPTIONAL animation
+@keyframes greeting {
+  0% {
+    color: magenta;
+  }
+
+  32.8% {
+    color: magenta;
+  }
+
+  33% {
+    color: springgreen;
+  }
+
+  65.8% {
+    color: springgreen;
+  }
+
+  66% {
+    color: cyan;
+  }
+
+  99.8% {
+    color: cyan;
+  }
+
+  100% {
+    color: magenta;
+  }
+}
+*/
+
 /* h styles */
 h1 {
   color: cyan !important;
@@ -216,18 +257,18 @@ article .page {
 
 .bottom-navbar li {
   flex: 1 0 auto;
-  height: 2.5em;
+  height: 1.7em;
 }
 
 .bottom-navbar a {
-  font-size: 1.43em;
+  font-size: 1em;
   font-weight: 900;
   padding-top: .3em;
   color: cyan;
   display: flex;
   justify-content: center;
   text-align: center;
-  line-height: 1.2em;
+  line-height: 1em;
 }
 
 .bottom-navbar a:hover {
@@ -236,6 +277,14 @@ article .page {
   color: cyan;
 }
 
+#bottom-title {
+  width: 100%;
+  height: 17px;
+  letter-spacing: 25px;
+  font-size: 12px;
+  margin-left: 10.7px;
+  font-weight: 100;
+}
 
 /* BOTTOM LEFT & RIGHT BUTTONS 
 
@@ -360,6 +409,84 @@ article .page {
     stroke-width: 1.8px;
     fill: none;
     stroke-dashoffset: 100;
+  }
+}
+*/
+
+
+/*OPTIONAL Greetings
+.editor-message {
+  margin: auto;
+  font-weight: 800;
+  text-align: center;
+  width: 100%;
+  height: 71px;
+  color: blue;
+  text-shadow: 1px 1px 1px blue;
+}
+
+.editor-message:after {
+  content: "";
+  animation: editor-message 8s linear infinite;
+}
+
+@keyframes editor-message {
+  0% {
+    content: "Eu sunt WALLY";
+    color: cyan;
+  }
+
+  35% {
+    content: "Bine ai venit!";
+    color: magenta;
+  }
+
+  71% {
+    content: "Hai să învățăm!";
+    color: yellow;
+  }
+
+  100% {
+    content: "Eu sunt WALLY";
+    color: springgreen;
+  }
+}
+
+
+.site-message {
+  margin: auto;
+  font-weight: 800;
+  text-align: center;
+  width: 100%;
+  height: 71px;
+  color: blue;
+  text-shadow: 1px 1px 1px blue;
+}
+
+.site-message:after {
+  content: "";
+  animation: dog-message 8s linear infinite;
+}
+
+@keyframes site-message {
+  0% {
+    content: "Eu sunt LUNA";
+    color: cyan;
+  }
+
+  35% {
+    content: "Sper să mai vii!";
+    color: magenta;
+  }
+
+  71% {
+    content: "La revedere!";
+    color: yellow;
+  }
+
+  100% {
+    content: "Eu sunt LUNA";
+    color: springgreen;
   }
 }
 */

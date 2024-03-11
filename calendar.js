@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     //Data curenta in limba romana
     var date = new Date();
-
     var dayNumber = date.getDate();
 
     var monthName = new Array(7);
@@ -3161,7 +3160,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 colorCross = "red";
                 religiousSongs = "Binecuvântat ești, Hristoase, Dumnezeul nostru, Cela ce preaînțelepți pe pescari ai arătat, trimițându-le lor Duhul Sfânt și printr-înșii lumea ai vânat, Iubitorule de oameni, mărire Ție.";
             }
-            
+
             if (day == 5) {
                 celebrationDay = "SFÂNTA TREIME";
                 colors = "red";
@@ -3197,6 +3196,37 @@ document.addEventListener('DOMContentLoaded', function () {
 
     document.querySelector("#tropar").innerHTML = "<br>" + religiousSongs + "<br>";
 
+
+
+    var hour = date.getHours();
+    var initialGreeting;
+    var middleGreeting;
+    var finalGreeting;
+
+    if (hour > 22 && hour <= 5) {
+        initialGreeting = "Salut!";
+        middleGreeting = "Dumnezeu să vă ocrotească în această noapte!";
+        finalGreeting = "Noapte bună!";
+    }
+    if (hour > 5 && hour <= 10) {
+        initialGreeting = "Bună dimineața!";
+        middleGreeting = "Dumnezeu să vă ocrotească pe parcursul întregii zile!";
+        finalGreeting = "O dimineață plăcută!";
+    }
+    else if (hour > 10 && hour <= 18) {
+        initialGreeting = 'Bună ziua!';
+        middleGreeting = "Dumnezeu să vă ocrotească pe parcursul întregii zile!";
+        finalGreeting = "O zi bună!";
+    }
+    else if (hour > 18 && hour <= 22) {
+        initialGreeting = "Bună seara!";
+        middleGreeting = "Dumnezeu să vă ocrotească în noaptea aceasta!";
+        finalGreeting = "O seară frumoasă!";
+    }
+
+    document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>";
+    document.querySelector("#middle-greeting").innerHTML = "<br>" + middleGreeting + "<br>";
+    document.querySelector("#final-greeting").innerHTML = "Doamne ajută <br>" + finalGreeting + "<br>";
 
 
 }); 
