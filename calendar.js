@@ -3203,22 +3203,22 @@ document.addEventListener('DOMContentLoaded', function () {
     var middleGreeting;
     var finalGreeting;
 
-    if (hour > 22 && hour <= 5) {
-        initialGreeting = "Salut!";
+    if (hour < 5) {
+        initialGreeting = "Bine ați venit!";
         middleGreeting = "Dumnezeu să vă ocrotească în această noapte!";
         finalGreeting = "Noapte bună!";
     }
-    if (hour > 5 && hour <= 10) {
+    if (hour < 10) {
         initialGreeting = "Bună dimineața!";
-        middleGreeting = "Dumnezeu să vă ocrotească pe parcursul întregii zile!";
+        middleGreeting = "Dumnezeu să vă ocrotească în dimineața aceasta!";
         finalGreeting = "O dimineață plăcută!";
     }
-    else if (hour > 10 && hour <= 18) {
+    else if (hour < 18) {
         initialGreeting = 'Bună ziua!';
-        middleGreeting = "Dumnezeu să vă ocrotească pe parcursul întregii zile!";
+        middleGreeting = "Dumnezeu să vă ocrotească în această zi!";
         finalGreeting = "O zi bună!";
     }
-    else if (hour > 18 && hour <= 22) {
+    else if (hour < 24) {
         initialGreeting = "Bună seara!";
         middleGreeting = "Dumnezeu să vă ocrotească în noaptea aceasta!";
         finalGreeting = "O seară frumoasă!";
@@ -3226,7 +3226,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>";
     document.querySelector("#middle-greeting").innerHTML = "<br>" + middleGreeting + "<br>";
-    document.querySelector("#final-greeting").innerHTML = "Doamne ajută <br>" + finalGreeting + "<br>";
+    document.querySelector("#final-greeting").innerHTML = "Doamne ajută! <br>" + finalGreeting + "<br>";
 
 
 }); 
