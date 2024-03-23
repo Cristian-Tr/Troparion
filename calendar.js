@@ -1985,7 +1985,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfinții Cuvioși Mucenici din Mănăstirea Sfântului Sava cel Sfințit";
             colors = "white";
             colorCross = "transparent";
-            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Mucenicii Tăi, Doamne, din Mănăstirea Sfântului Cuvios Sava cel Sfințit, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 21) {
@@ -2006,7 +2006,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfântul Cuvios Mucenic Nicon și cei 199 de ucenici ai lui";
             colors = "white";
             colorCross = "transparent";
-            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Mucenicii Tăi, Doamne, Nicon și cei 199 de ucenici ai lui, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 24) {
@@ -3200,32 +3200,26 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var hour = date.getHours();
     var initialGreeting;
-    var middleGreeting;
     var finalGreeting;
 
     if (hour < 5) {
         initialGreeting = "Bine ați venit!";
-        middleGreeting = "Dumnezeu să vă ocrotească în această noapte!";
         finalGreeting = "Noapte bună!";
     }
     if (hour < 10) {
         initialGreeting = "Bună dimineața!";
-        middleGreeting = "Dumnezeu să vă ocrotească în dimineața aceasta!";
         finalGreeting = "O dimineață plăcută!";
     }
     else if (hour < 18) {
         initialGreeting = 'Bună ziua!';
-        middleGreeting = "Dumnezeu să vă ocrotească în această zi!";
         finalGreeting = "O zi bună!";
     }
     else if (hour < 24) {
         initialGreeting = "Bună seara!";
-        middleGreeting = "Dumnezeu să vă ocrotească în noaptea aceasta!";
         finalGreeting = "O seară frumoasă!";
     }
 
-    document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>";
-    document.querySelector("#middle-greeting").innerHTML = "<br>" + middleGreeting + "<br>";
+    document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>" + "Dumnezeu să vă ocrotească!";
     document.querySelector("#final-greeting").innerHTML = "Doamne ajută! <br>" + finalGreeting + "<br>";
 
 
