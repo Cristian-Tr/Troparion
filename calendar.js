@@ -356,7 +356,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Ierarh Nifon, Patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Nifon, Patriarh la Constantinopol";
             colors = "gray";
             colorCross = "gray";
             religiousSongs = "Cu faptele dreptei credinţe strălucind toată Biserica ai luminat, însoţindu-te cu smerenia cea dătătoare de înălţare, tu, cinstea cea mărită a celor două sfinte locaşuri, podoaba şi înfrumuseţarea patriarhilor, Mărite Ierarhe Nifon. Iar acum umple de dumnezeieşti daruri pe cei ce cu credinţă te măresc pe tine.";
@@ -521,7 +521,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Ierarh Ioan Postitorul, Patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Ioan Postitorul, Patriarh la Constantinopol";
             colors = "white";
             colorCross = "transparent";
             religiousSongs = "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Ioan, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.";
@@ -998,7 +998,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Pavel Mărturisitorul, Patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Pavel Mărturisitorul, Patriarh la Constantinopol";
             colors = "white";
             colorCross = "transparent";
             religiousSongs = "Pentru mărturisirea Dumnezeieştii credinţe, alt Pavel pe tine Biserica te-a arătat râvnitor între preoţi. Strigă împreună cu tine şi Abel către Domnul şi sângele cel drept al lui Zaharia. Părinte cuvioase, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.";
@@ -1047,7 +1047,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscopul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscop la Constantinopol";
             colors = "gray";
             colorCross = "gray";
             religiousSongs = "Din gura ta ca o lumină de foc strălucind harul, lumea a luminat. Vistieriile neiubirii de argint lumii a câştigat. Înălţimea gândului smerit nouă ne-a arătat. Şi cu cuvintele tale învăţându-ne, Sfinte Părinte Ioan Gură de Aur, roagă pe Cuvântul Hristos Dumnezeu să mântuiască sufletele noastre.";
@@ -1577,7 +1577,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfântul Ierarh Grigorie Teologul, Arhiepiscopul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Grigorie Teologul, Arhiepiscop la Constantinopol";
             colors = "gray";
             colorCross = "gray";
             religiousSongs = "Fluierul cel păstoresc al teologiei tale a biruit trâmbiţele ritorilor; că ţie, celui ce ai încercat adâncurile duhului, ţi s-au adăugat şi Frumuseţile Cuvântului. Ci, roagă pe Hristos Dumnezeu, Sfinte Părinte Grigorie, să mântuiască sufletele noastre.";
@@ -1671,7 +1671,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Fotie, patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Fotie, Patriarh la Constantinopol";
             colors = "white";
             colorCross = "transparent";
             religiousSongs = "Ca cel ce ești cu apostolii în ceruri împreună locuitor și ortodocșilor mare apărător, lumii drept învățător, iar eresurilor latinești dârz împotrivitor, Sfinte Fotie, pe Hristos Dumnezeu roagă-L cu dinadinsul să mântuiască sufletele noastre.";
@@ -1804,7 +1804,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfântul Ierarh Tarasie, Patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Tarasie, Patriarh la Constantinopol";
             colors = "white";
             colorCross = "transparent";
             religiousSongs = "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Tarasie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
@@ -1933,7 +1933,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Aducerea moaștelor Sfântului Ierarh Nichifor, Patriarhul Constantinopolului";
+            celebrationDay = "Aducerea moaștelor Sfântului Ierarh Nichifor, Patriarh la Constantinopol";
             colors = "white";
             colorCross = "transparent";
             religiousSongs = "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Nichifor, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
@@ -2045,10 +2045,10 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfinţii Sfinţiţi Mucenici Marcu, Episcopul Aretuselor, Chiril, diaconul şi al celor împreună cu dânşii";
+            celebrationDay = "Sfinţii Sfinţiţi Mucenici Marcu, Episcopul Aretuselor şi Chiril, diaconul";
             colors = "white";
             colorCross = "transparent";
-            religiousSongs = "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            religiousSongs = "Mucenicii Tăi, Doamne, Marcu, Episcopul Aretuselor şi Chiril, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
         }
 
         if (day == 30) {
@@ -2099,7 +2099,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfântul Cuvios Iosif Imnograful";
             colors = "white";
             colorCross = "transparent";
-            religiousSongs = "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Gherasim, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.";
+            religiousSongs = "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Iosif, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.";
         }
 
         if (day == 5) {
@@ -2110,7 +2110,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Eutihie, Patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Eutihie, Patriarh la Constantinopol";
             colors = "white";
             colorCross = "transparent";
             religiousSongs = "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Eutihie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
@@ -2303,7 +2303,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Ierarh Atanasie al III-lea, Patriarhul Constantinopolului";
+            celebrationDay = "Sfântul Ierarh Atanasie al III-lea, Patriarh la Constantinopol";
             colors = "gray";
             colorCross = "gray";
             religiousSongs = "Dumnezeiască odraslă a cretanilor, păstor al cetăţii celei împărăteşti şi povăţuitor sfinţit al creştinilor de la Dunăre, comoara cea de mult preţ a Harkovului, Atanasie înţelepte, primit-ai har bogat de Sus, cu nume nemuritor fiind. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
@@ -3219,8 +3219,8 @@ document.addEventListener('DOMContentLoaded', function () {
         finalGreeting = "O seară frumoasă!";
     }
 
-    document.querySelector("#initial-greeting").innerHTML = "<br>" + initialGreeting + "<br>" + "Dumnezeu să vă ocrotească!";
-    document.querySelector("#final-greeting").innerHTML = "Doamne ajută! <br>" + finalGreeting + "<br>";
+    document.querySelector("#initial-greeting").innerHTML = initialGreeting + "<br>" + "Dumnezeu să vă ocrotească!";
+    document.querySelector("#final-greeting").innerHTML = "Doamne ajută!" + "<br>"  + finalGreeting + "<br>" + "Dumnezeu să vă ocrotească!";
 
 
 }); 
