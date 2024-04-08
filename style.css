@@ -141,8 +141,8 @@ section {
   background-image: url(./papirus-2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  width: 71%;
-  min-height: 215px;
+  width: 88%;
+  min-height: 251px;
   margin: auto;
   border: none;
   pointer-events: none;
@@ -152,8 +152,7 @@ section {
 
 @media (min-width: 768px) {
   #biblicalTeachings {
-    width: 25%;
-    min-height: 251px;
+    width: 27%;
   }
 }
 
@@ -165,6 +164,7 @@ section {
   padding-top: 9px;
   padding-left: 17px;
   padding-right: 19px;
+  padding-bottom: 9px
   margin: auto;
   text-align: center;
 }
