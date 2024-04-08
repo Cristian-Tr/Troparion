@@ -2127,7 +2127,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfinţii Apostoli Irodion, Agav, Ruf, Flegon, Asincrit şi Ermis";
             colors = "white";
             colorCross = "transparent";
-            religiousSongs = "Sfinţilor Apostoli rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
+            religiousSongs = "Sfinţilor Apostoli Irodion, Agav, Ruf, Flegon, Asincrit şi Ermis, rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 9) {
