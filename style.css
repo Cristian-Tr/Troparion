@@ -141,7 +141,7 @@ section {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: 81%;
-  height: 315px;
+  height: 214px;
   margin: auto;
   border: none;
   pointer-events: none;
@@ -152,7 +152,7 @@ section {
 
 @media (min-width: 768px) {
   #biblicalTeachings {
-    width: 299px;
+    width: 286px;
   }
 }
 
@@ -162,7 +162,7 @@ section {
   font-weight: 700;
   width: 100%;
   height: 53px;
-  padding-top: 71px;
+  padding-top: 25px;
   padding-left: 17px;
   padding-right: 19px;
   padding-bottom: 9px;
