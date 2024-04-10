@@ -102,13 +102,20 @@ section {
 }
 
 #tropar-today {
-  width: 349px;
+  width: 93%;
   min-height: 299px;
   margin-top: -20px;
   background: linear-gradient(cornflowerblue, blue);
   background-image: url(./papirus-1.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+  #tropar-today {
+    width: 349px;
+    min-height: 299px;
+  }
 }
 
 .celebrationDay {
@@ -133,13 +140,21 @@ section {
   background-image: url(./papirus-2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  width: 299px;
+  width: 71%;
   height: 349px;
   margin: auto;
   border: none;
   pointer-events: none;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
+}
+
+
+@media (min-width: 768px) {
+  #biblicalTeachings {
+    width: 299px;
+    height: 349px;
+  }
 }
 
 
@@ -156,11 +171,6 @@ section {
   text-align: center;
 }
 
-@media (min-width: 768px) {
-  .biblicalTeachings {
-    padding-top: 39px;
-  }
-}
 
 /* SPIRITUAL EBOOK styles */
 article {
