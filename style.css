@@ -140,8 +140,8 @@ section {
   background-image: url(./papirus-2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  width: 71%;
-  height: 349px;
+  width: 81%;
+  height: 315px;
   margin: auto;
   border: none;
   pointer-events: none;
@@ -153,7 +153,6 @@ section {
 @media (min-width: 768px) {
   #biblicalTeachings {
     width: 299px;
-    height: 349px;
   }
 }
 
