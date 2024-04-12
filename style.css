@@ -12,7 +12,6 @@ body {
 
 /*Greetings animation*/
 #initial-greeting,
-#middle-greeting,
 #final-greeting {
   font-family: "Pacifico", "Lato", "Times New Roman";
   color: cyan;
@@ -102,7 +101,7 @@ section {
 }
 
 #tropar-today {
-  width: 97%;
+  width: 98%;
   min-height: 299px;
   margin-top: -20px;
   background: linear-gradient(cornflowerblue, blue);
@@ -113,8 +112,8 @@ section {
 
 @media (min-width: 768px) {
   #tropar-today {
-    width: 349px;
-    min-height: 299px;
+    width: 385px;
+    min-height: 327px;
   }
 }
 
@@ -124,13 +123,6 @@ section {
   text-justify: inter-word;
   text-shadow: .1px .1px .1px white, 1px 1px 1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
-}
-
-.greetings {
-  width: 100%;
-  height: 90px;
-  margin: auto;
-  background: transparent;
 }
 
 
@@ -159,7 +151,6 @@ section {
 
 .biblical-Teachings {
   color: white;
-  font-weight: 700;
   width: 100%;
   height: 53px;
   padding-top: 12px;
@@ -209,6 +200,7 @@ article .page {
 .category dt h4 {
   color: white;
   text-shadow: 1px 1px 1px black;
+  font-size: 1.35em;
   font-weight: 700;
   text-align: center;
   margin-top: 3.5px;
