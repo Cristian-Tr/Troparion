@@ -3219,7 +3219,7 @@ document.addEventListener('DOMContentLoaded', function () {
         finalGreeting = "O seară frumoasă!";
     }
 
-    document.querySelector("#initial-greeting").innerHTML = "🕊️" + "<br>" + initialGreeting + "<br>" + "Pace și bunăvoire!";
+    document.querySelector("#initial-greeting").innerHTML = initialGreeting + "<br>" + "Pace și bunăvoire!";
     document.querySelector("#final-greeting").innerHTML = finalGreeting + "<br>" + "Dumnezeu să vă ocrotească!";
 
 
