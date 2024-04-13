@@ -55,7 +55,7 @@ h4 {
 }
 
 h5 {
-  color: cyan !important;
+  color: cyan;
   text-shadow: .1px .1px .1px white, 1px 1px 1px black !important;
   font-weight: 700 !important;
   text-align: center;
@@ -200,7 +200,6 @@ article .page {
 .category dt h4 {
   color: white;
   text-shadow: 1px 1px 1px black;
-  font-size: 21px;
   font-weight: 700;
   text-align: center;
   margin-top: 3.5px;

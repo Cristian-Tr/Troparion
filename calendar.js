@@ -831,7 +831,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfânta Cuvioasă Parascheva";
             colors = "red";
             colorCross = "red";
-            religiousSongs = "Întru tine, Maică, cu osârdie s-a mân­tuit cel după chip, că luând Crucea, ai urmat lui Hristos și lucrând ai în­vă­țat să nu se uite la trup, căci este trecător, ci să poarte grijă de suflet, de lucrul cel ne­muritor. Pentru aceasta și cu îngerii împreună se bucură, Cuvioasă Maică Parascheva, duhul tău.";
+            religiousSongs = "Întru tine, Maică, cu osârdie s-a mân­tuit cel după chip, căci luând Crucea, ai urmat lui Hristos și lucrând ai în­vă­țat să nu se uite la trup, căci este trecător, ci să poarte grijă de suflet, de lucrul cel ne­muritor. Pentru aceasta și cu îngerii împreună se bucură, Cuvioasă Maică Parascheva, duhul tău.";
         }
 
         if (day == 15) {
@@ -922,7 +922,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfântul Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor";
             colors = "red";
             colorCross = "red";
-            religiousSongs = "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Dimitrie, duhul tău.";
+            religiousSongs = "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; căci luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Dimitrie, duhul tău.";
         }
 
         if (day == 28) {
