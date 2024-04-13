@@ -200,7 +200,7 @@ article .page {
 .category dt h4 {
   color: white;
   text-shadow: 1px 1px 1px black;
-  font-size: 1.35em;
+  font-size: 21px;
   font-weight: 700;
   text-align: center;
   margin-top: 3.5px;
@@ -235,7 +235,7 @@ article .page {
   bottom: 0;
   right: 0;
   width: 100%;
-  margin: 12px auto 0;
+  margin: 3px auto 0;
   text-align: center;
   color: cyan;
   text-shadow: .3px 0.3px 0.3px white, 1px 1px 1px black;
