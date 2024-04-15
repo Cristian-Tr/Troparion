@@ -2176,7 +2176,7 @@ document.addEventListener('DOMContentLoaded', function () {
             celebrationDay = "Sfinţii Apostoli Aristarh, Pud şi Trofim";
             colors = "white";
             colorCross = "transparent";
-            religiousSongs = "Sfinţilor Apostoli Aristarh, Pud şi Trofim, rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre..";
+            religiousSongs = "Sfinţilor Apostoli Aristarh, Pud şi Trofim, rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.";
         }
 
         if (day == 16) {
