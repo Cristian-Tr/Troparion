@@ -52,33 +52,33 @@ $(document).ready(function () {
   $(document).ready(function () {
     textsTeachings();
   });
-  
+
   $(document).ready(function () {
     imagesForGreatings();
   });
 
   var greatingsImage = new Array ();
-  greatingsImage[0] = "../1.png";
-  greatingsImage[1] = "../2.png";
-  greatingsImage[2] = "../3.png";
-  greatingsImage[3] = "../4.png";
-  greatingsImage[4] = "../5.png";
-  greatingsImage[5] = "../6.png";
-  greatingsImage[6] = "../7.png";
-  greatingsImage[7] = "../8.png";
-  greatingsImage[8] = "../9.png";
-  greatingsImage[9] = "../10.png";
-  greatingsImage[10] = "..11.png";
-  greatingsImage[11] = "../12.png";
-  greatingsImage[12] = "../13.png";
-  greatingsImage[13] = "../14.png";
-  greatingsImage[14] = "../15.png";
-  greatingsImage[15] = "../16.png";
-  greatingsImage[16] = "../17.png";
-  greatingsImage[17] = "../18.png";
-  greatingsImage[18] = "../19.png";
-  greatingsImage[19] = "../20.png";
-  greatingsImage[20] = "../21.png";
+  greatingsImage[0] = "../f1.png";
+  greatingsImage[1] = "../f2.png";
+  greatingsImage[2] = "../f3.png";
+  greatingsImage[3] = "../f4.png";
+  greatingsImage[4] = "../f5.png";
+  greatingsImage[5] = "../f6.png";
+  greatingsImage[6] = "../f7.png";
+  greatingsImage[7] = "../f8.png";
+  greatingsImage[8] = "../f9.png";
+  greatingsImage[9] = "../f10.png";
+  greatingsImage[10] = "../f11.png";
+  greatingsImage[11] = "../f12.png";
+  greatingsImage[12] = "../f13.png";
+  greatingsImage[13] = "../f14.png";
+  greatingsImage[14] = "../f15.png";
+  greatingsImage[15] = "../f16.png";
+  greatingsImage[16] = "../f17.png";
+  greatingsImage[17] = "../f18.png";
+  greatingsImage[18] = "../f19.png";
+  greatingsImage[19] = "../f20.png";
+  greatingsImage[20] = "../f21.png";
   var size = greatingsImage.length
   var x = Math.floor(size*Math.random())
   
