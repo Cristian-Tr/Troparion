@@ -11,18 +11,25 @@ body {
 }
 
 /*Greetings animation*/
-#initial-greeting,
-#final-greeting {
+#greetingsForYou {
   font-family: "Pacifico", "Lato", "Times New Roman";
-  color: white;
+  color: cyan;
   font-weight: 100;
-  margin-top: 1px;
+  text-shadow: 1.2px 1.2px 1.2px white, 1.2px 1.2px 1.2px black;
+  margin-top: -50px;
   text-align: center;
-  padding: 0 12px 0 12px;
-  display: inline-block;
-  background-color: cyan;
-  line-height: 35px;
-  /*animation: greeting 7.7s linear infinite;*/
+}
+
+img {
+  width: 100%;
+  margin: auto;
+}
+
+@media (min-width: 768px) {
+  img {
+    width: 350px;
+    min-height: 70px;
+  }
 }
 
 h1 {
@@ -128,7 +135,7 @@ section {
   font-weight: 100;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: .1px .1px .1px white, 1px 1px 1px black;
+  text-shadow: .1px .1px .1px white, 1.2px 1.2px 1.2px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 

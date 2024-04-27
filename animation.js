@@ -2,6 +2,8 @@ $(document).ready(function () {
 
 
 
+
+
   //Text animat cu invataturi biblice
   var teachings = ['Eu sunt Domnul Dumnezeul Tău... să nu ai alți dumnezei afară de Mine', 'Să nu-ți faci chip cioplit şi nici un fel de asemănare a niciunui lucru... Să nu te închini lor, nici să le slujeşti...', 'Să nu iei numele Domnului Dumnezeului tău în deșert, ...', ' Adu-ți aminte de ziua odihnei, ca să o sfinţeşti...', 'Cinstește pe tatăl tău și pe mama ta, ca să-ți fie bine și să trăiești ani mulți ...', 'Să nu ucizi!', 'Să nu fii desfrânat!', 'Să nu furi!', 'Să nu mărturiseşti strâmb împotriva aproapelui tău!', 'Să nu doreşti casa aproapelui tău; să nu doreşti femeia aproapelui tău... şi nimic din câte are aproapele tău!', 'Să iubeşti pe Domnul Dumnezeul tău din toată inima ta, din tot sufletul tău, din tot cugetul tău şi din toată puterea ta!', 'Să iubeşti pe aproapele tău ca pe tine însuţi!', 'Să nu vă jurați nicidecum!', 'Adunați-vă comori în cer!', 'Când faci milostenie, nu trâmbiţa înaintea ta...', 'Când postiți, nu fiți triști, ca fățarnicii!', 'Nu judecați, ca să nu fiți judecați!', 'Cu judecata cu care judecați, cu aceea veți fi judecați!', 'Cereți și vi se va da!', 'Căutați și veți afla!', 'Bateți și vi se va deschide!', 'Iubiți pe vrăjmașii voștri!', 'Binecuvântați pe cei ce vă blestemă!', 'Faceți bine celor ce vă urăsc!', 'Rugați-vă pentru cei ce vă vatămă și vă prigonesc!', 'Căutați mai întâi Împărăția lui Dumnezeu!', 'Cel ce vine la Mine nu va flămânzi!', 'Cel ce crede în Mine are viață veșnică!', 'Pe cel ce vine la Mine nu-l voi scoate afară!', 'Nu judecați după înfățișare!', 'Să vă iubiţi unul pe altul, precum v-am iubit Eu!', 'Voi sunteţi prietenii Mei, dacă faceţi ceea ce vă poruncesc!', 'Dacă păziţi poruncile Mele, veţi rămâne întru iubirea Mea!', 'Cel ce crede în Mine, chiar dacă va muri, va trăi!', 'Dacă păziţi poruncile Mele, veţi rămâne întru iubirea Mea!', 'De Mă iubiţi, păziţi poruncile Mele!', 'Ce-i folosește omului să câștige lumea întreagă, dacă își pierde sufletul?', 'Ce ar putea să dea omul, în schimb, pentru sufletul său?', 'La Dumnezeu toate sunt cu putinţă!', 'Cel ce va crede şi se va boteza se va mântui!', 'Cel ce nu va crede se va osândi!', 'Cel ce nu-și ia crucea și nu-Mi urmeză Mie nu este vrednic de Mine!', 'Veniți la Mine toți cei osteniți și împovărați, și Eu vă voi odihni pe voi!', 'Pentru orice cuvânt deșert pe care-l vor rosti, oamenii vor da socoteală în ziua judecății!'],
     part,
@@ -50,36 +52,39 @@ $(document).ready(function () {
   $(document).ready(function () {
     textsTeachings();
   });
+  
+  $(document).ready(function () {
+    imagesForGreatings();
+  });
+
+  var greatingsImage = new Array ();
+  greatingsImage[0] = "../1.png";
+  greatingsImage[1] = "../2.png";
+  greatingsImage[2] = "../3.png";
+  greatingsImage[3] = "../4.png";
+  greatingsImage[4] = "../5.png";
+  greatingsImage[5] = "../6.png";
+  greatingsImage[6] = "../7.png";
+  greatingsImage[7] = "../8.png";
+  greatingsImage[8] = "../9.png";
+  greatingsImage[9] = "../10.png";
+  greatingsImage[10] = "..11.png";
+  greatingsImage[11] = "../12.png";
+  greatingsImage[12] = "../13.png";
+  greatingsImage[13] = "../14.png";
+  greatingsImage[14] = "../15.png";
+  greatingsImage[15] = "../16.png";
+  greatingsImage[16] = "../17.png";
+  greatingsImage[17] = "../18.png";
+  greatingsImage[18] = "../19.png";
+  greatingsImage[19] = "../20.png";
+  greatingsImage[20] = "../21.png";
+  var size = greatingsImage.length
+  var x = Math.floor(size*Math.random())
+  
+  $('#randomImagesForGreatings').attr('src',greatingsImage[x]);
 
 
-
-  //Animatie SVG litera T 
-  var iterationCount = $('.t-logo').css("animation-iteration-count");
-  animate(iterationCount - 1)
-
-  function animate(count) {
-    if (count == 0) {
-      $('.t-logo').css({
-        'animation': 'draw1 3.5s',
-      });
-    }
-    if (count == 1) {
-      $('.t-logo').css({
-        'animation': 'draw2 3.5s',
-      });
-    }
-    if (count == 2) {
-      $('.t-logo').css({
-        'animation': 'draw3 3.5s',
-      });
-    }
-    $('.t-logo:first').one("animationend", function () {
-      if (count > 0)
-        animate(count - 1)
-      else
-        animate(iterationCount - 1)
-    })
-  }
 
 
   /*Carusel cugetari crestine
