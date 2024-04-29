@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var nameDay = calendarDates.getDate();
     var month = calendarDates.getMonth();
     var calendarYears = calendarDates.getFullYear();
-    var celebrationDay;
+    var saintDay;
     var saintName;
     var colors;
     var colorCross;
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 6) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Ierarh Leontie de la Rădăuţi";
+            saintDay = "Sfântul Ierarh Leontie de la Rădăuţi";
             saintName = "Sfântul Leontie";
             colors = "gray";
             colorCross = "gray";
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Voievod Ștefan cel Mare";
+            saintDay = "Sfântul Voievod Ștefan cel Mare";
             saintName = "Sfântul Ștefan";
             colors = "gray";
             colorCross = "gray";
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Mucenic Iachint";
+            saintDay = "Sfântul Mucenic Iachint";
             saintName = "Sfântul Iachint";
             colors = "white";
             colorCross = "transparent";
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Ierarh Andrei, Arhiepiscopul Cretei";
+            saintDay = "Sfântul Ierarh Andrei, Arhiepiscopul Cretei";
             saintName = "Sfântul Andrei";
             colors = "white";
             colorCross = "transparent";
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfântul Cuvios Atanasie Athonitul";
+            saintDay = "Sfântul Cuvios Atanasie Athonitul";
             saintName = "Sfântul Atanasie";
             colors = "gray";
             colorCross = "gray";
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Cuvios Sisoe cel Mare";
+            saintDay = "Sfântul Cuvios Sisoe cel Mare";
             saintName = "Sfântul Sisoe";
             colors = "white";
             colorCross = "transparent";
@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfânta Mare Muceniță Chiriachi";
+            saintDay = "Sfânta Mare Muceniță Chiriachi";
             saintName = "Sfânta Chiriachi";
             colors = "gray";
             colorCross = "gray";
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfinții Mucenici Epictet și Astion ";
+            saintDay = "Sfinții Mucenici Epictet și Astion ";
             saintName = "Sfântul Astion ";
             colors = "gray";
             colorCross = "gray";
@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Sfinţit Mucenic Pangratie, Episcopul Taorminei";
+            saintDay = "Sfântul Sfinţit Mucenic Pangratie, Episcopul Taorminei";
             saintName = "Sfântul Pangratie";
             colors = "white";
             colorCross = "transparent";
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfinții 45 de Mucenici din Nicopolea Armeniei";
+            saintDay = "Sfinții 45 de Mucenici din Nicopolea Armeniei";
             saintName = "Sfinții 45 Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfânta Mare Muceniță Eufimia";
+            saintDay = "Sfânta Mare Muceniță Eufimia";
             saintName = "Sfânta Eufimia";
             colors = "white";
             colorCross = "transparent";
@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Cuvios Paisie Aghioritul";
+            saintDay = "Sfântul Cuvios Paisie Aghioritul";
             saintName = "Sfântul Paisie";
             colors = "gray";
             colorCross = "gray";
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Soborul Sfântului Arhanghel Gavriil";
+            saintDay = "Soborul Sfântului Arhanghel Gavriil";
             saintName = "Arhanghelul Gavriil";
             colors = "white";
             colorCross = "transparent";
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Cuvios Nicodim Aghioritul";
+            saintDay = "Sfântul Cuvios Nicodim Aghioritul";
             saintName = "Sfântul Nicodim";
             colors = "white";
             colorCross = "transparent";
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfânții Mucenici Chiric și Iulita";
+            saintDay = "Sfânții Mucenici Chiric și Iulita";
             saintName = "Sfântul Chiric";
             colors = "white";
             colorCross = "transparent";
@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Sfinţit Mucenic Atinoghen, cu cei 10 ucenici ai săi";
+            saintDay = "Sfântul Sfinţit Mucenic Atinoghen, cu cei 10 ucenici ai săi";
             saintName = "Sfântul Atinoghen";
             colors = "white";
             colorCross = "transparent";
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfânta Mare Muceniță Marina";
+            saintDay = "Sfânta Mare Muceniță Marina";
             saintName = "Sfânta Marina";
             colors = "white";
             colorCross = "transparent";
@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Mucenic Emilian de la Durostorum";
+            saintDay = "Sfântul Mucenic Emilian de la Durostorum";
             saintName = "Sfântul Emilian";
             colors = "gray";
             colorCross = "gray";
@@ -205,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfânta Cuvioasă Macrina";
+            saintDay = "Sfânta Cuvioasă Macrina";
             saintName = "Sfânta Macrina";
             colors = "white";
             colorCross = "transparent";
@@ -213,7 +213,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul și slăvitul Proroc Ilie Tesviteanul";
+            saintDay = "Sfântul și slăvitul Proroc Ilie Tesviteanul";
             saintName = "Sfântul Proroc Ilie";
             colors = "red";
             colorCross = "red";
@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfinţii Cuvioşi Partenie şi Rafail de la Agapia Veche";
+            saintDay = "Sfinţii Cuvioşi Partenie şi Rafail de la Agapia Veche";
             saintName = "Sfântul Partenie";
             colors = "gray";
             colorCross = "gray";
@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfânta Mironosiță întocmai cu Apostolii Maria Magdalena";
+            saintDay = "Sfânta Mironosiță întocmai cu Apostolii Maria Magdalena";
             saintName = "Sfânta Magdalena";
             colors = "white";
             colorCross = "transparent";
@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Aducerea moaștelor Sfântului Sfințit Mucenic Foca";
+            saintDay = "Aducerea moaștelor Sfântului Sfințit Mucenic Foca";
             saintName = "Sfântul Foca";
             colors = "white";
             colorCross = "transparent";
@@ -245,7 +245,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfânta Mare Muceniță Hristina";
+            saintDay = "Sfânta Mare Muceniță Hristina";
             saintName = "Sfânta Hristina";
             colors = "white";
             colorCross = "transparent";
@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Adormirea Sfintei Ana, mama Maicii Domnului";
+            saintDay = "Adormirea Sfintei Ana, mama Maicii Domnului";
             saintName = "Sfânta Ana";
             colors = "white";
             colorCross = "transparent";
@@ -261,7 +261,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Cuvios Ioanichie de la Muscel";
+            saintDay = "Sfântul Cuvios Ioanichie de la Muscel";
             saintName = "Sfântul Ioanichie";
             colors = "gray";
             colorCross = "gray";
@@ -269,7 +269,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Mare Mucenic și tămăduitor Pantelimon";
+            saintDay = "Sfântul Mare Mucenic și tămăduitor Pantelimon";
             saintName = "Sfântul Pantelimon";
             colors = "gray";
             colorCross = "gray";
@@ -277,7 +277,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfinții Apostoli și Diaconi Prohor, Nicanor, Timon și Parmena";
+            saintDay = "Sfinții Apostoli și Diaconi Prohor, Nicanor, Timon și Parmena";
             saintName = "Sfântul Prohor";
             colors = "white";
             colorCross = "transparent";
@@ -285,7 +285,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfântul Mucenic Calinic";
+            saintDay = "Sfântul Mucenic Calinic";
             saintName = "Sfântul Calinic";
             colors = "white";
             colorCross = "transparent";
@@ -293,7 +293,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfinţii Apostoli Sila, Silvan, Crescent, Epenet şi Andronic";
+            saintDay = "Sfinţii Apostoli Sila, Silvan, Crescent, Epenet şi Andronic";
             saintName = "Sfântul Andronic";
             colors = "white";
             colorCross = "transparent";
@@ -301,7 +301,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Sfântul și Dreptul Evdochim";
+            saintDay = "Sfântul și Dreptul Evdochim";
             saintName = "Sfântul Evdochim";
             colors = "white";
             colorCross = "transparent";
@@ -318,7 +318,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 7) {
 
         if (day == 1) {
-            celebrationDay = "Sfinții 7 frați Mucenici Macabei cu mama lor Solomoni și dascălul Eleazar";
+            saintDay = "Sfinții 7 frați Mucenici Macabei cu mama lor Solomoni și dascălul Eleazar";
             saintName = "Sfinții Macabei";
             colors = "white";
             colorCross = "transparent";
@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Aducerea moaştelor Sfântului întâiului Mucenic şi Arhidiacon Ştefan";
+            saintDay = "Aducerea moaştelor Sfântului întâiului Mucenic şi Arhidiacon Ştefan";
             saintName = "Sfântul Ştefan";
             colors = "white";
             colorCross = "transparent";
@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfinţii Cuvioşi Isaachie, Dalmat şi Faust";
+            saintDay = "Sfinţii Cuvioşi Isaachie, Dalmat şi Faust";
             saintName = "Sfântul Isaachie";
             colors = "white";
             colorCross = "transparent";
@@ -342,7 +342,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfinţii 7 tineri din Efes";
+            saintDay = "Sfinţii 7 tineri din Efes";
             saintName = "Sfinţii 7 tineri";
             colors = "white";
             colorCross = "transparent";
@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfântul Cuvios Ioan Iacob de la Neamț";
+            saintDay = "Sfântul Cuvios Ioan Iacob de la Neamț";
             saintName = "Sfântul Ioan Iacob";
             colors = "gray";
             colorCross = "gray";
@@ -358,7 +358,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "SCHIMBAREA LA FAȚĂ A DOMNULUI";
+            saintDay = "SCHIMBAREA LA FAȚĂ A DOMNULUI";
             saintName = "Domnul Iisus Hristos";
             colors = "red";
             colorCross = "red";
@@ -366,7 +366,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfânta Cuvioasă Teodora de la Sihla";
+            saintDay = "Sfânta Cuvioasă Teodora de la Sihla";
             saintName = "Sfânta Teodora";
             colors = "gray";
             colorCross = "gray";
@@ -374,7 +374,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfântul Ierarh Emilian Mărturisitorul, Episcopul Cizicului";
+            saintDay = "Sfântul Ierarh Emilian Mărturisitorul, Episcopul Cizicului";
             saintName = "Sfântul Emilian";
             colors = "white";
             colorCross = "transparent";
@@ -382,7 +382,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Apostol Matia";
+            saintDay = "Sfântul Apostol Matia";
             saintName = "Sfântul Matia";
             colors = "white";
             colorCross = "transparent";
@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfântul Mucenic Laurențiu Arhidiaconul";
+            saintDay = "Sfântul Mucenic Laurențiu Arhidiaconul";
             saintName = "Sfântul Laurențiu";
             colors = "white";
             colorCross = "transparent";
@@ -398,7 +398,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Ierarh Nifon, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Nifon, Patriarh la Constantinopol";
             saintName = "Sfântul Nifon";
             colors = "gray";
             colorCross = "gray";
@@ -406,7 +406,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfinţii Mucenici Fotie şi Anichit";
+            saintDay = "Sfinţii Mucenici Fotie şi Anichit";
             saintName = "Sfântul Anichit";
             colors = "white";
             colorCross = "transparent";
@@ -414,7 +414,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Mutarea moaștelor Sfântului Cuvios Maxim Mărturisitorul";
+            saintDay = "Mutarea moaștelor Sfântului Cuvios Maxim Mărturisitorul";
             saintName = "Sfântul Maxim";
             colors = "white";
             colorCross = "transparent";
@@ -422,7 +422,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Proroc Miheia";
+            saintDay = "Sfântul Proroc Miheia";
             saintName = "Sfântul Miheia";
             colors = "white";
             colorCross = "transparent";
@@ -430,7 +430,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "ADORMIREA MAICII DOMNULUI";
+            saintDay = "ADORMIREA MAICII DOMNULUI";
             saintName = "Maica Domnului";
             colors = "red";
             colorCross = "red";
@@ -438,7 +438,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfinții Martiri Brâncoveni: Constantin Vodă cu fii săi Constantin, Ștefan, Radu, Matei și cu sfetnicul Ianache";
+            saintDay = "Sfinții Martiri Brâncoveni: Constantin Vodă cu fii săi Constantin, Ștefan, Radu, Matei și cu sfetnicul Ianache";
             saintName = "Sfinții Brâncoveni";
             colors = "gray";
             colorCross = "gray";
@@ -446,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Gheorghe Pelerinul";
+            saintDay = "Sfântul Gheorghe Pelerinul";
             saintName = "Sfântul Gheorghe";
             colors = "gray";
             colorCross = "gray";
@@ -454,7 +454,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfinţii Mucenici Flor şi Lavru";
+            saintDay = "Sfinţii Mucenici Flor şi Lavru";
             saintName = "Sfântul Lavru";
             colors = "white";
             colorCross = "transparent";
@@ -462,7 +462,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Mucenic Andrei Stratilat";
+            saintDay = "Sfântul Mucenic Andrei Stratilat";
             saintName = "Sfântul Andrei";
             colors = "white";
             colorCross = "transparent";
@@ -470,7 +470,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Proroc Samuel";
+            saintDay = "Sfântul Proroc Samuel";
             saintName = "Sfântul Samuel";
             colors = "white";
             colorCross = "transparent";
@@ -478,7 +478,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Apostol Tadeu";
+            saintDay = "Sfântul Apostol Tadeu";
             saintName = "Sfântul Tadeu";
             colors = "white";
             colorCross = "transparent";
@@ -486,7 +486,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Mucenic Agatonic";
+            saintDay = "Sfântul Mucenic Agatonic";
             saintName = "Sfântul Agatonic";
             colors = "white";
             colorCross = "transparent";
@@ -494,7 +494,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Mucenic Lup";
+            saintDay = "Sfântul Mucenic Lup";
             saintName = "Sfântul Mc. Lup";
             colors = "white";
             colorCross = "transparent";
@@ -502,7 +502,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfântul Sfințit Mucenic Cosma Etolul";
+            saintDay = "Sfântul Sfințit Mucenic Cosma Etolul";
             saintName = "Sfântul Cosma";
             colors = "white";
             colorCross = "transparent";
@@ -510,7 +510,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfântul Apostol Tit";
+            saintDay = "Sfântul Apostol Tit";
             saintName = "Sfântul Tit";
             colors = "white";
             colorCross = "transparent";
@@ -518,7 +518,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfinţii Mucenici Adrian şi Natalia, soţia sa";
+            saintDay = "Sfinţii Mucenici Adrian şi Natalia, soţia sa";
             saintName = "Sfântul Adrian";
             colors = "white";
             colorCross = "transparent";
@@ -526,7 +526,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Cuvios Pimen cel Mare";
+            saintDay = "Sfântul Cuvios Pimen cel Mare";
             saintName = "Sfântul Pimen";
             colors = "white";
             colorCross = "transparent";
@@ -534,7 +534,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Cuvios Moise Etiopianul";
+            saintDay = "Sfântul Cuvios Moise Etiopianul";
             saintName = "Sfântul Moise";
             colors = "white";
             colorCross = "transparent";
@@ -542,7 +542,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Tăierea Capului Sfântului Proroc Ioan Botezătorul (Post)";
+            saintDay = "Tăierea Capului Sfântului Proroc Ioan Botezătorul (Post)";
             saintName = "Sfântul Ioan";
             colors = "red";
             colorCross = "red";
@@ -550,7 +550,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Ierarh Varlaam, Mitropolitul Moldovei";
+            saintDay = "Sfântul Ierarh Varlaam, Mitropolitul Moldovei";
             saintName = "Sfântul Varlaam";
             colors = "gray";
             colorCross = "gray";
@@ -558,7 +558,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Așezarea în raclă a brâului Maicii Domnului";
+            saintDay = "Așezarea în raclă a brâului Maicii Domnului";
             saintName = "Maica Domnului";
             colors = "white";
             colorCross = "transparent";
@@ -577,7 +577,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 8) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Cuvios Simeon Stâlpnicul";
+            saintDay = "Sfântul Cuvios Simeon Stâlpnicul";
             saintName = "Sfântul Simeon";
             colors = "white";
             colorCross = "transparent";
@@ -585,7 +585,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Ierarh Ioan Postitorul, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Ioan Postitorul, Patriarh la Constantinopol";
             saintName = "Sfântul Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -593,7 +593,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfinţii Cuvioşi Neofit şi Meletie de la Mănăstirea Stânișoara";
+            saintDay = "Sfinţii Cuvioşi Neofit şi Meletie de la Mănăstirea Stânișoara";
             saintName = "Sfântul Meletie";
             colors = "gray";
             colorCross = "gray";
@@ -601,7 +601,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Proroc Moise";
+            saintDay = "Sfântul Proroc Moise";
             saintName = "Sfântul Moise";
             colors = "white";
             colorCross = "transparent";
@@ -609,7 +609,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfântul Prooroc Zaharia";
+            saintDay = "Sfântul Prooroc Zaharia";
             saintName = "Sfântul Zaharia";
             colors = "white";
             colorCross = "transparent";
@@ -617,7 +617,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Pomenirea minunii Sfântului Arhanghel Mihail în Colose";
+            saintDay = "Pomenirea minunii Sfântului Arhanghel Mihail în Colose";
             saintName = "Arhanghelul Mihail";
             colors = "white";
             colorCross = "transparent";
@@ -625,7 +625,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfinţii Cuvioşi Părinţi Simeon şi Amfilohie de la Pângăraţi";
+            saintDay = "Sfinţii Cuvioşi Părinţi Simeon şi Amfilohie de la Pângăraţi";
             saintName = "Sfântul Amfilohie";
             colors = "gray";
             colorCross = "gray";
@@ -633,7 +633,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "NAȘTEREA MAICII DOMNULUI";
+            saintDay = "NAȘTEREA MAICII DOMNULUI";
             saintName = "Maica Domnului";
             colors = "red";
             colorCross = "red";
@@ -641,7 +641,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfinţii şi Drepţii Dumnezeieşti Părinţi Ioachim şi Ana";
+            saintDay = "Sfinţii şi Drepţii Dumnezeieşti Părinţi Ioachim şi Ana";
             saintName = "Sfinţii Ioachim şi Ana";
             colors = "white";
             colorCross = "transparent";
@@ -649,7 +649,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfânta Împărăteasă Pulheria";
+            saintDay = "Sfânta Împărăteasă Pulheria";
             saintName = "Sfânta Pulheria";
             colors = "white";
             colorCross = "transparent";
@@ -657,7 +657,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfânta Cuvioasă Teodora din Alexandria";
+            saintDay = "Sfânta Cuvioasă Teodora din Alexandria";
             saintName = "Sfânta Teodora";
             colors = "white";
             colorCross = "transparent";
@@ -665,7 +665,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Mucenic Avtonom";
+            saintDay = "Sfântul Mucenic Avtonom";
             saintName = "Sfântul Avtonom";
             colors = "white";
             colorCross = "transparent";
@@ -673,7 +673,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfântul Cuvios Ioan de la Prislop";
+            saintDay = "Sfântul Cuvios Ioan de la Prislop";
             saintName = "Sfântul Ioan";
             colors = "gray";
             colorCross = "gray";
@@ -681,7 +681,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Înălţarea Sfintei Cruci";
+            saintDay = "Înălţarea Sfintei Cruci";
             saintName = "Sfânta Cruce";
             colors = "red";
             colorCross = "red";
@@ -689,7 +689,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Ierarh Iosif cel Nou de la Partoş, Mitropolitul Banatului";
+            saintDay = "Sfântul Ierarh Iosif cel Nou de la Partoş, Mitropolitul Banatului";
             saintName = "Sfântul Iosif";
             colors = "gray";
             colorCross = "gray";
@@ -697,7 +697,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfânta Mare Muceniţă Eufimia";
+            saintDay = "Sfânta Mare Muceniţă Eufimia";
             saintName = "Sfânta Eufimia";
             colors = "white";
             colorCross = "transparent";
@@ -705,7 +705,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfânta Muceniţă Sofia cu fiicele sale: Pistis, Elpis şi Agapis";
+            saintDay = "Sfânta Muceniţă Sofia cu fiicele sale: Pistis, Elpis şi Agapis";
             saintName = "Sfânta Sofia";
             colors = "white";
             colorCross = "transparent";
@@ -713,7 +713,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Ierarh Eumenie, Episcopul Gortinei";
+            saintDay = "Sfântul Ierarh Eumenie, Episcopul Gortinei";
             saintName = "Sfântul Eumenie";
             colors = "white";
             colorCross = "transparent";
@@ -721,7 +721,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfinţii Mucenici Trofim, Savatie şi Dorimedont";
+            saintDay = "Sfinţii Mucenici Trofim, Savatie şi Dorimedont";
             saintName = "Sfântul Trofim";
             colors = "white";
             colorCross = "transparent";
@@ -729,7 +729,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Mare Mucenic Eustatie cu soţia sa Teopisti și cei doi fii ai lor Agapie şi Teopist";
+            saintDay = "Sfântul Mare Mucenic Eustatie cu soţia sa Teopisti și cei doi fii ai lor Agapie şi Teopist";
             saintName = "Sfântul Eustatie";
             colors = "white";
             colorCross = "transparent";
@@ -737,7 +737,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Apostol Codrat din Magnesta";
+            saintDay = "Sfântul Apostol Codrat din Magnesta";
             saintName = "Sfântul Codrat";
             colors = "white";
             colorCross = "transparent";
@@ -745,7 +745,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Sfințit Mucenic Teodosie de la Mănăstirea Brazi";
+            saintDay = "Sfântul Sfințit Mucenic Teodosie de la Mănăstirea Brazi";
             saintName = "Sfântul Teodosie";
             colors = "gray";
             colorCross = "gray";
@@ -753,7 +753,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Zămislirea Sfântului Prooroc Ioan Botezătorul";
+            saintDay = "Zămislirea Sfântului Prooroc Ioan Botezătorul";
             saintName = "Sfântul Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -761,7 +761,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfântul Cuvios Siluan Athonitul";
+            saintDay = "Sfântul Cuvios Siluan Athonitul";
             saintName = "Sfântul Siluan";
             colors = "white";
             colorCross = "transparent";
@@ -769,7 +769,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfânta Cuvioasă Eufrosina";
+            saintDay = "Sfânta Cuvioasă Eufrosina";
             saintName = "Sfânta Eufrosina";
             colors = "white";
             colorCross = "transparent";
@@ -777,7 +777,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Voievod Neagoe Basarab";
+            saintDay = "Sfântul Voievod Neagoe Basarab";
             saintName = "Sfântul Neagoe";
             colors = "gray";
             colorCross = "gray";
@@ -785,7 +785,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești";
+            saintDay = "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești";
             saintName = "Sfântul Antim";
             colors = "gray";
             colorCross = "gray";
@@ -793,7 +793,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Cuvios Hariton Mărturisitorul";
+            saintDay = "Sfântul Cuvios Hariton Mărturisitorul";
             saintName = "Sfântul Hariton";
             colors = "gray";
             colorCross = "gray";
@@ -801,7 +801,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfântul Mucenic Trifon";
+            saintDay = "Sfântul Mucenic Trifon";
             saintName = "Sfântul Trifon";
             colors = "white";
             colorCross = "transparent";
@@ -809,7 +809,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Ierarh Grigorie Luminătorul, Arhiepiscopul Armeniei";
+            saintDay = "Sfântul Ierarh Grigorie Luminătorul, Arhiepiscopul Armeniei";
             saintName = "Sfântul Grigorie";
             colors = "white";
             colorCross = "transparent";
@@ -830,7 +830,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 9) {
 
         if (day == 1) {
-            celebrationDay = "Acoperământul Maicii Domnului";
+            saintDay = "Acoperământul Maicii Domnului";
             saintName = "Maica Domnului";
             colors = "red";
             colorCross = "red";
@@ -838,7 +838,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Sfinţit Mucenic Ciprian";
+            saintDay = "Sfântul Sfinţit Mucenic Ciprian";
             saintName = "Sfântul Ciprian";
             colors = "white";
             colorCross = "transparent";
@@ -846,7 +846,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Sfinţit Mucenic Dionisie Areopagitul";
+            saintDay = "Sfântul Sfinţit Mucenic Dionisie Areopagitul";
             saintName = "Sfântul Dionisie";
             colors = "white";
             colorCross = "transparent";
@@ -854,7 +854,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Sfinţit Mucenic Ierotei, Episcopul Atenei";
+            saintDay = "Sfântul Sfinţit Mucenic Ierotei, Episcopul Atenei";
             saintName = "Sfântul Ierotei";
             colors = "white";
             colorCross = "transparent";
@@ -862,7 +862,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfinţii Cuvioşi Daniil şi Misail, de la Mănăstirea Turnu";
+            saintDay = "Sfinţii Cuvioşi Daniil şi Misail, de la Mănăstirea Turnu";
             saintName = "Sfântul Daniil";
             colors = "gray";
             colorCross = "gray";
@@ -870,7 +870,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Apostol Toma";
+            saintDay = "Sfântul Apostol Toma";
             saintName = "Sfântul Apostol Toma";
             colors = "white";
             colorCross = "transparent";
@@ -878,7 +878,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfinţii Mari Mucenici Serghie şi Vah";
+            saintDay = "Sfinţii Mari Mucenici Serghie şi Vah";
             saintName = "Sfântul Serghie";
             colors = "gray";
             colorCross = "gray";
@@ -886,7 +886,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfânta Cuvioasă Pelaghia";
+            saintDay = "Sfânta Cuvioasă Pelaghia";
             saintName = "Sfânta Pelaghia";
             colors = "white";
             colorCross = "transparent";
@@ -894,7 +894,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Apostol Iacob al lui Alfeu";
+            saintDay = "Sfântul Apostol Iacob al lui Alfeu";
             saintName = "Sfântul Apostol Iacob";
             colors = "white";
             colorCross = "transparent";
@@ -902,7 +902,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfinţii Mucenici Evlampie şi Evlampia, sora lui";
+            saintDay = "Sfinţii Mucenici Evlampie şi Evlampia, sora lui";
             saintName = "Sfântul Evlampie";
             colors = "white";
             colorCross = "transparent";
@@ -910,7 +910,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Apostol Filip, unul din cei 7 diaconi";
+            saintDay = "Sfântul Apostol Filip, unul din cei 7 diaconi";
             saintName = "Sfântul Apostol Filip";
             colors = "white";
             colorCross = "transparent";
@@ -918,7 +918,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfinţii Mucenici Prov, Tarah şi Andronic";
+            saintDay = "Sfinţii Mucenici Prov, Tarah şi Andronic";
             saintName = "Sfântul Prov";
             colors = "white";
             colorCross = "transparent";
@@ -926,7 +926,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Aducerea moaștelor Sfântului Apostol Andrei la Iași";
+            saintDay = "Aducerea moaștelor Sfântului Apostol Andrei la Iași";
             saintName = "Sfântul Andrei";
             colors = "gray";
             colorCross = "gray";
@@ -934,7 +934,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfânta Cuvioasă Parascheva";
+            saintDay = "Sfânta Cuvioasă Parascheva";
             saintName = "Sfânta Parascheva";
             colors = "red";
             colorCross = "red";
@@ -942,7 +942,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Mucenic Luchian preotul";
+            saintDay = "Sfântul Mucenic Luchian preotul";
             saintName = "Sfântul Luchian";
             colors = "white";
             colorCross = "transparent";
@@ -950,7 +950,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Mucenic Longhin Sutașul";
+            saintDay = "Sfântul Mucenic Longhin Sutașul";
             saintName = "Sfântul Longhin";
             colors = "white";
             colorCross = "transparent";
@@ -958,7 +958,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Proroc Osea";
+            saintDay = "Sfântul Proroc Osea";
             saintName = "Sfântul Osea";
             colors = "white";
             colorCross = "transparent";
@@ -966,7 +966,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Apostol și Evanghelist Luca";
+            saintDay = "Sfântul Apostol și Evanghelist Luca";
             saintName = "Sfântul Apostol Luca";
             colors = "white";
             colorCross = "transparent";
@@ -974,7 +974,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Proroc Ioil";
+            saintDay = "Sfântul Proroc Ioil";
             saintName = "Sfântul Ioil";
             colors = "white";
             colorCross = "transparent";
@@ -982,7 +982,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Mare Mucenic Artemie";
+            saintDay = "Sfântul Mare Mucenic Artemie";
             saintName = "Sfântul Artemie";
             colors = "white";
             colorCross = "transparent";
@@ -990,7 +990,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfinţii Cuvioşi Mărturisitori Visarion şi Sofronie şi al Sfântului Mucenic Oprea";
+            saintDay = "Sfinţii Cuvioşi Mărturisitori Visarion şi Sofronie şi al Sfântului Mucenic Oprea";
             saintName = "Sfântul Visarion";
             colors = "white";
             colorCross = "transparent";
@@ -998,7 +998,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Ierarh, întocmai cu apostolii, Averchie, Episcopul Ierapolei";
+            saintDay = "Sfântul Ierarh, întocmai cu apostolii, Averchie, Episcopul Ierapolei";
             saintName = "Sfântul Averchie";
             colors = "white";
             colorCross = "transparent";
@@ -1006,7 +1006,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Apostol Iacob, rudenia Domnului, primul episcop al Ierusalimului";
+            saintDay = "Sfântul Apostol Iacob, rudenia Domnului, primul episcop al Ierusalimului";
             saintName = "Sfântul Apostol Iacob";
             colors = "white";
             colorCross = "transparent";
@@ -1014,7 +1014,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfântul Mare Mucenic Areta şi al celor împreună cu dânsul";
+            saintDay = "Sfântul Mare Mucenic Areta şi al celor împreună cu dânsul";
             saintName = "Sfântul Areta";
             colors = "white";
             colorCross = "transparent";
@@ -1022,7 +1022,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfinţii Mucenici Marcian şi Martirie";
+            saintDay = "Sfinţii Mucenici Marcian şi Martirie";
             saintName = "Sfântul Marcian";
             colors = "white";
             colorCross = "transparent";
@@ -1030,7 +1030,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Mare Mucenic Dimitrie, Izvorâtorul de mir";
+            saintDay = "Sfântul Mare Mucenic Dimitrie, Izvorâtorul de mir";
             saintName = "Sfântul Dimitrie";
             colors = "red";
             colorCross = "red";
@@ -1038,7 +1038,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor";
+            saintDay = "Sfântul Cuvios Dimitrie cel Nou, Ocrotitorul Bucureștilor";
             saintName = "Sfântul Dimitrie";
             colors = "red";
             colorCross = "red";
@@ -1046,7 +1046,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Ierarh Iachint, Mitropolitul Țării Românești";
+            saintDay = "Sfântul Ierarh Iachint, Mitropolitul Țării Românești";
             saintName = "Sfântul Iachint";
             colors = "gray";
             colorCross = "gray";
@@ -1054,7 +1054,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfânta Mare Muceniță Anastasia Romana";
+            saintDay = "Sfânta Mare Muceniță Anastasia Romana";
             saintName = "Sfânta Anastasia";
             colors = "white";
             colorCross = "transparent";
@@ -1062,7 +1062,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Apostol Cleopa";
+            saintDay = "Sfântul Apostol Cleopa";
             saintName = "Sfântul Apostol Cleopa";
             colors = "white";
             colorCross = "transparent";
@@ -1070,7 +1070,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis";
+            saintDay = "Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis";
             saintName = "Sfântul Apostol Narcis";
             colors = "white";
             colorCross = "transparent";
@@ -1087,7 +1087,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 10) {
 
         if (day == 1) {
-            celebrationDay = "Sfinţii Mucenici doctori fără de arginţi Cosma şi Damian";
+            saintDay = "Sfinţii Mucenici doctori fără de arginţi Cosma şi Damian";
             saintName = "Sfântul Damian";
             colors = "white";
             colorCross = "transparent";
@@ -1095,7 +1095,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfinţii Mucenici Achindin, Pigasie, Aftonie, Elpidifor şi Anempodist";
+            saintDay = "Sfinţii Mucenici Achindin, Pigasie, Aftonie, Elpidifor şi Anempodist";
             saintName = "Sfântul Achindin";
             colors = "white";
             colorCross = "transparent";
@@ -1103,7 +1103,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfinţii Sfinţiţi Mucenici Achepsima, episcopul, Iosif, preotul şi Aitala, diaconul";
+            saintDay = "Sfinţii Sfinţiţi Mucenici Achepsima, episcopul, Iosif, preotul şi Aitala, diaconul";
             saintName = "Sfântul Iosif";
             colors = "white";
             colorCross = "transparent";
@@ -1111,7 +1111,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Cuvios Gheorghe, Mărturisitorul din Drama";
+            saintDay = "Sfântul Cuvios Gheorghe, Mărturisitorul din Drama";
             saintName = "Sfântul Gheorghe";
             colors = "white";
             colorCross = "transparent";
@@ -1119,7 +1119,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfinţii Mucenici Galaction şi Epistimia";
+            saintDay = "Sfinţii Mucenici Galaction şi Epistimia";
             saintName = "Sfântul Galaction";
             colors = "white";
             colorCross = "transparent";
@@ -1127,7 +1127,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Pavel Mărturisitorul, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Pavel Mărturisitorul, Patriarh la Constantinopol";
             saintName = "Sfântul Pavel";
             colors = "white";
             colorCross = "transparent";
@@ -1135,7 +1135,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfinţii 33 de Mucenici din Melitina";
+            saintDay = "Sfinţii 33 de Mucenici din Melitina";
             saintName = "Sfinţii 33 Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -1143,7 +1143,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Soborul Sfinților Arhangheli Mihail și Gavriil şi a tuturor puterilor cereşti";
+            saintDay = "Soborul Sfinților Arhangheli Mihail și Gavriil şi a tuturor puterilor cereşti";
             saintName = "Sfinții Arhangheli";
             colors = "red";
             colorCross = "red";
@@ -1151,7 +1151,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Ierarh Nectarie din Eghina";
+            saintDay = "Sfântul Ierarh Nectarie din Eghina";
             saintName = "Sfântul Nectarie";
             colors = "gray";
             colorCross = "gray";
@@ -1159,7 +1159,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfinţii Apostoli Olimp, Rodion, Sosipatru, Erast, Terţiu şi Cvart";
+            saintDay = "Sfinţii Apostoli Olimp, Rodion, Sosipatru, Erast, Terţiu şi Cvart";
             saintName = "Sfântul Apostol Rodion";
             colors = "white";
             colorCross = "transparent";
@@ -1167,7 +1167,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Mare Mucenic Mina";
+            saintDay = "Sfântul Mare Mucenic Mina";
             saintName = "Sfântul Mina";
             colors = "gray";
             colorCross = "gray";
@@ -1175,7 +1175,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei";
+            saintDay = "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei";
             saintName = "Sfântul Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -1183,7 +1183,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscop la Constantinopol";
+            saintDay = "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscop la Constantinopol";
             saintName = "Sfântul Ioan Gură de Aur";
             colors = "gray";
             colorCross = "gray";
@@ -1191,7 +1191,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului";
+            saintDay = "Sfântul Ierarh Grigorie Palama, Arhiepiscopul Tesalonicului";
             saintName = "Sfântul Grigorie";
             colors = "white";
             colorCross = "transparent";
@@ -1199,7 +1199,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Cuvios Paisie de la Neamț (Post)";
+            saintDay = "Sfântul Cuvios Paisie de la Neamț (Post)";
             saintName = "Sfântul Paisie";
             colors = "gray";
             colorCross = "gray";
@@ -1207,7 +1207,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Apostol şi Evanghelist Matei (Post)";
+            saintDay = "Sfântul Apostol şi Evanghelist Matei (Post)";
             saintName = "Sfântul Apostol Matei";
             colors = "white";
             colorCross = "transparent";
@@ -1215,7 +1215,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei (Post)";
+            saintDay = "Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei (Post)";
             saintName = "Sfântul Grigorie";
             colors = "white";
             colorCross = "transparent";
@@ -1223,7 +1223,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfinții Mucenici Platon şi Roman, diaconul (Post)";
+            saintDay = "Sfinții Mucenici Platon şi Roman, diaconul (Post)";
             saintName = "Sfântul Roman";
             colors = "white";
             colorCross = "transparent";
@@ -1231,7 +1231,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Proroc Avdie (Post)";
+            saintDay = "Sfântul Proroc Avdie (Post)";
             saintName = "Sfântul Avdie";
             colors = "white";
             colorCross = "transparent";
@@ -1239,7 +1239,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Cuvios Grigorie Decapolitul (Post)";
+            saintDay = "Sfântul Cuvios Grigorie Decapolitul (Post)";
             saintName = "Sfântul Grigorie";
             colors = "white";
             colorCross = "transparent";
@@ -1247,7 +1247,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "INTRAREA ÎN BISERICĂ A MAICII DOMNULUI (Dezlegare la pește)";
+            saintDay = "INTRAREA ÎN BISERICĂ A MAICII DOMNULUI (Dezlegare la pește)";
             saintName = "Maica Domnului";
             colors = "red";
             colorCross = "red";
@@ -1255,7 +1255,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfinţii Apostoli Filimon, Arhip şi Onisim (Post)";
+            saintDay = "Sfinţii Apostoli Filimon, Arhip şi Onisim (Post)";
             saintName = "Sfântul Apostol Arhip";
             colors = "white";
             colorCross = "transparent";
@@ -1263,7 +1263,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Cuvios Antonie de la Iezerul Vâlcea (Post)";
+            saintDay = "Sfântul Cuvios Antonie de la Iezerul Vâlcea (Post)";
             saintName = "Sfântul Antonie";
             colors = "gray";
             colorCross = "gray";
@@ -1271,7 +1271,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfinţii Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei (Post)";
+            saintDay = "Sfinţii Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei (Post)";
             saintName = "Sfântul Clement";
             colors = "white";
             colorCross = "transparent";
@@ -1279,7 +1279,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfânta Mare Muceniță Ecaterina (Post)";
+            saintDay = "Sfânta Mare Muceniță Ecaterina (Post)";
             saintName = "Sfânta Ecaterina";
             colors = "gray";
             colorCross = "gray";
@@ -1287,7 +1287,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Cuvios Stelian Paflagonul, ocrotitorul pruncilor (Post)";
+            saintDay = "Sfântul Cuvios Stelian Paflagonul, ocrotitorul pruncilor (Post)";
             saintName = "Sfântul Stelian";
             colors = "white";
             colorCross = "transparent";
@@ -1295,7 +1295,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Mare Mucenic Iacob Persul (Post)";
+            saintDay = "Sfântul Mare Mucenic Iacob Persul (Post)";
             saintName = "Sfântul Iacob";
             colors = "white";
             colorCross = "transparent";
@@ -1303,7 +1303,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Mucenic Irinarh (Post)";
+            saintDay = "Sfântul Mucenic Irinarh (Post)";
             saintName = "Sfântul Irinarh";
             colors = "white";
             colorCross = "transparent";
@@ -1311,7 +1311,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfântul Mucenic Paramon (Post)";
+            saintDay = "Sfântul Mucenic Paramon (Post)";
             saintName = "Sfântul Paramon";
             colors = "white";
             colorCross = "transparent";
@@ -1319,7 +1319,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Apostol Andrei, cel Întâi Chemat, Ocrotitorul României (Dezlegare la pește)";
+            saintDay = "Sfântul Apostol Andrei, cel Întâi Chemat, Ocrotitorul României (Dezlegare la pește)";
             saintName = "Sfântul Apostol Andrei";
             colors = "red";
             colorCross = "red";
@@ -1336,7 +1336,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 11) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Proroc Naum (Post)";
+            saintDay = "Sfântul Proroc Naum (Post)";
             saintName = "Sfântul Naum";
             colors = "white";
             colorCross = "transparent";
@@ -1344,7 +1344,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Cuvios Porfirie Kafsokalivitul (Post)";
+            saintDay = "Sfântul Cuvios Porfirie Kafsokalivitul (Post)";
             saintName = "Sfântul Porfirie";
             colors = "white";
             colorCross = "transparent";
@@ -1352,7 +1352,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Cuvios Gheorghe de la Cernica (Dezlegare la pește)";
+            saintDay = "Sfântul Cuvios Gheorghe de la Cernica (Dezlegare la pește)";
             saintName = "Sfântul Gheorghe";
             colors = "gray";
             colorCross = "gray";
@@ -1360,7 +1360,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfânta Mare Muceniță Varvara (Dezlegare la pește)";
+            saintDay = "Sfânta Mare Muceniță Varvara (Dezlegare la pește)";
             saintName = "Sfânta Varvara";
             colors = "gray";
             colorCross = "gray";
@@ -1368,7 +1368,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfântul Cuvios Sava cel Sfințit (Dezlegare la pește)";
+            saintDay = "Sfântul Cuvios Sava cel Sfințit (Dezlegare la pește)";
             saintName = "Sfântul Sava";
             colors = "gray";
             colorCross = "gray";
@@ -1376,7 +1376,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Nicolae, Arhiepiscopul Mirelor Lichiei (Dezlegare la pește)";
+            saintDay = "Sfântul Ierarh Nicolae, Arhiepiscopul Mirelor Lichiei (Dezlegare la pește)";
             saintName = "Sfântul Nicolae";
             colors = "red";
             colorCross = "red";
@@ -1384,7 +1384,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfânta Muceniță Filofteia de la Curtea de Argeș (Post)";
+            saintDay = "Sfânta Muceniță Filofteia de la Curtea de Argeș (Post)";
             saintName = "Sfânta Filofteia";
             colors = "gray";
             colorCross = "gray";
@@ -1392,7 +1392,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfântul Cuvios Patapie (Post)";
+            saintDay = "Sfântul Cuvios Patapie (Post)";
             saintName = "Sfântul Patapie";
             colors = "white";
             colorCross = "transparent";
@@ -1400,7 +1400,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Zămislirea Sfintei Fecioare Maria de către Sfânta Ana (Dezlegare la pește)";
+            saintDay = "Zămislirea Sfintei Fecioare Maria de către Sfânta Ana (Dezlegare la pește)";
             saintName = "Sfânta Ana";
             colors = "white";
             colorCross = "transparent";
@@ -1408,7 +1408,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfinţii Mucenici Mina, Ermoghen şi Evgraf (Post)";
+            saintDay = "Sfinţii Mucenici Mina, Ermoghen şi Evgraf (Post)";
             saintName = "Sfântul Ermoghen";
             colors = "white";
             colorCross = "transparent";
@@ -1416,7 +1416,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Cuvios Daniil Stâlpnicul (Post)";
+            saintDay = "Sfântul Cuvios Daniil Stâlpnicul (Post)";
             saintName = "Sfântul Daniil";
             colors = "white";
             colorCross = "transparent";
@@ -1424,7 +1424,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Ierarh Spiridon, Episcopul Trimitundei (Dezlegare la pește)";
+            saintDay = "Sfântul Ierarh Spiridon, Episcopul Trimitundei (Dezlegare la pește)";
             saintName = "Sfântul Spiridon";
             colors = "gray";
             colorCross = "gray";
@@ -1432,7 +1432,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfântul Ierarh Dosoftei, Mitropolitul Moldovei (Post)";
+            saintDay = "Sfântul Ierarh Dosoftei, Mitropolitul Moldovei (Post)";
             saintName = "Sfântul Dosoftei";
             colors = "gray";
             colorCross = "gray";
@@ -1440,7 +1440,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfinţii Mucenici Tirs, Levchie, Calinic, Filimon, Apolonie şi Arian (Post)";
+            saintDay = "Sfinţii Mucenici Tirs, Levchie, Calinic, Filimon, Apolonie şi Arian (Post)";
             saintName = "Sfântul Apolonie";
             colors = "white";
             colorCross = "transparent";
@@ -1448,7 +1448,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Sfințit Mucenic Elefterie, Episcopul Iliriei (Post)";
+            saintDay = "Sfântul Sfințit Mucenic Elefterie, Episcopul Iliriei (Post)";
             saintName = "Sfântul Elefterie";
             colors = "white";
             colorCross = "transparent";
@@ -1456,7 +1456,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Proroc Agheu (Post)";
+            saintDay = "Sfântul Proroc Agheu (Post)";
             saintName = "Sfântul Proroc Agheu";
             colors = "white";
             colorCross = "transparent";
@@ -1464,7 +1464,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Proroc Daniel și Sfinții trei tineri Anania, Azaria și Misail (Post)";
+            saintDay = "Sfântul Proroc Daniel și Sfinții trei tineri Anania, Azaria și Misail (Post)";
             saintName = "Sfântul Proroc Daniel";
             colors = "white";
             colorCross = "transparent";
@@ -1472,7 +1472,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Cuvios Daniil Sihastrul (Post)";
+            saintDay = "Sfântul Cuvios Daniil Sihastrul (Post)";
             saintName = "Sfântul Daniil";
             colors = "gray";
             colorCross = "gray";
@@ -1480,7 +1480,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Mucenic Bonifatie (Post)";
+            saintDay = "Sfântul Mucenic Bonifatie (Post)";
             saintName = "Sfântul Bonifatie";
             colors = "white";
             colorCross = "transparent";
@@ -1488,7 +1488,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Sfințit Mucenic Ignatie Teoforul, Episcopul Antiohiei (Post)";
+            saintDay = "Sfântul Sfințit Mucenic Ignatie Teoforul, Episcopul Antiohiei (Post)";
             saintName = "Sfântul Ignatie";
             colors = "white";
             colorCross = "transparent";
@@ -1496,7 +1496,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfânta Muceniță Iuliana din Nicomidia (Post)";
+            saintDay = "Sfânta Muceniță Iuliana din Nicomidia (Post)";
             saintName = "Sfânta Iuliana";
             colors = "white";
             colorCross = "transparent";
@@ -1504,7 +1504,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Ierarh Petru Movilă, Mitropolitul Kievului (Post)";
+            saintDay = "Sfântul Ierarh Petru Movilă, Mitropolitul Kievului (Post)";
             saintName = "Sfântul Petru";
             colors = "gray";
             colorCross = "gray";
@@ -1512,7 +1512,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Cuvios Naum (Post)";
+            saintDay = "Sfântul Cuvios Naum (Post)";
             saintName = "Sfântul Naum";
             colors = "white";
             colorCross = "transparent";
@@ -1520,7 +1520,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfânta Muceniță Eugenia (Post)";
+            saintDay = "Sfânta Muceniță Eugenia (Post)";
             saintName = "Sfânta Eugenia";
             colors = "white";
             colorCross = "transparent";
@@ -1528,7 +1528,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "NAȘTEREA DOMNULUI (Crăciunul)";
+            saintDay = "NAȘTEREA DOMNULUI (Crăciunul)";
             saintName = "Domnul Iisus Hristos";
             colors = "red";
             colorCross = "red";
@@ -1536,7 +1536,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Cuvios Nicodim de la Tismana";
+            saintDay = "Sfântul Cuvios Nicodim de la Tismana";
             saintName = "Sfântul Nicodim";
             colors = "red";
             colorCross = "red";
@@ -1544,7 +1544,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Apostol, Întâiul Mucenic și Arhidiacon Ștefan";
+            saintDay = "Sfântul Apostol, Întâiul Mucenic și Arhidiacon Ștefan";
             saintName = "Sfântul Apostol Ștefan";
             colors = "red";
             colorCross = "red";
@@ -1552,7 +1552,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfinții 20.000 de Mucenici arși în Nicomidia";
+            saintDay = "Sfinții 20.000 de Mucenici arși în Nicomidia";
             saintName = "Sfinții Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -1560,7 +1560,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfinții 14.000 de prunci uciși din porunca lui Irod";
+            saintDay = "Sfinții 14.000 de prunci uciși din porunca lui Irod";
             saintName = "Sfinții prunci";
             colors = "white";
             colorCross = "transparent";
@@ -1568,7 +1568,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfânta Muceniță Anisia fecioara";
+            saintDay = "Sfânta Muceniță Anisia fecioara";
             saintName = "Sfânta Anisia";
             colors = "white";
             colorCross = "transparent";
@@ -1576,7 +1576,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Sfânta Cuvioasă Melania Romana";
+            saintDay = "Sfânta Cuvioasă Melania Romana";
             saintName = "Sfânta Melania";
             colors = "white";
             colorCross = "transparent";
@@ -1594,7 +1594,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 0) {
 
         if (day == 1) {
-            celebrationDay = "TĂIEREA ÎMPREJUR CEA DUPĂ TRUP A DOMNULUI";
+            saintDay = "TĂIEREA ÎMPREJUR CEA DUPĂ TRUP A DOMNULUI";
             saintName = "Domnul Iisus Hristos";
             colors = "red";
             colorCross = "red";
@@ -1602,7 +1602,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Ierarh Silvestru, Episcopul Romei";
+            saintDay = "Sfântul Ierarh Silvestru, Episcopul Romei";
             saintName = "Sfântul Silvestru";
             colors = "white";
             colorCross = "transparent";
@@ -1610,7 +1610,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Proroc Maleahi";
+            saintDay = "Sfântul Proroc Maleahi";
             saintName = "Sfântul Maleahi";
             colors = "white";
             colorCross = "transparent";
@@ -1618,7 +1618,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Soborul Sfinților 70 de Apostoli";
+            saintDay = "Soborul Sfinților 70 de Apostoli";
             saintName = "Sfinții 70 Apostoli";
             colors = "white";
             colorCross = "transparent";
@@ -1626,7 +1626,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfinţii Mucenici Teopempt şi Teonas (Post)";
+            saintDay = "Sfinţii Mucenici Teopempt şi Teonas (Post)";
             saintName = "Sfântul Teonas";
             colors = "white";
             colorCross = "transparent";
@@ -1634,7 +1634,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "BOTEZUL DOMNULUI (Boboteaza - Dumnezeiasca Arătare)";
+            saintDay = "BOTEZUL DOMNULUI (Boboteaza - Dumnezeiasca Arătare)";
             saintName = "Domnul Iisus Hristos";
             colors = "red";
             colorCross = "red";
@@ -1642,7 +1642,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Soborul Sfântului Proroc Ioan Botezătorul și Înaintemergătorul Domnului";
+            saintDay = "Soborul Sfântului Proroc Ioan Botezătorul și Înaintemergătorul Domnului";
             saintName = "Sfântul Ioan";
             colors = "red";
             colorCross = "red";
@@ -1650,7 +1650,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfântul Cuvios Gheorghe Hozevitul";
+            saintDay = "Sfântul Cuvios Gheorghe Hozevitul";
             saintName = "Sfântul Gheorghe";
             colors = "white";
             colorCross = "transparent";
@@ -1658,7 +1658,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Mucenic Polieuct";
+            saintDay = "Sfântul Mucenic Polieuct";
             saintName = "Sfântul Polieuct";
             colors = "white";
             colorCross = "transparent";
@@ -1666,7 +1666,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfântul Ierarh Grigorie, Episcopul Nissei";
+            saintDay = "Sfântul Ierarh Grigorie, Episcopul Nissei";
             saintName = "Sfântul Grigorie";
             colors = "white";
             colorCross = "transparent";
@@ -1674,7 +1674,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Cuvios Teodosie cel Mare, începătorul vieții călugărești de obște din Palestina";
+            saintDay = "Sfântul Cuvios Teodosie cel Mare, începătorul vieții călugărești de obște din Palestina";
             saintName = "Sfântul Teodosie";
             colors = "gray";
             colorCross = "gray";
@@ -1682,7 +1682,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfânta Muceniță Tatiana, diaconița";
+            saintDay = "Sfânta Muceniță Tatiana, diaconița";
             saintName = "Sfânta Tatiana";
             colors = "white";
             colorCross = "transparent";
@@ -1690,7 +1690,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfinţii Mucenici Ermil şi Stratonic";
+            saintDay = "Sfinţii Mucenici Ermil şi Stratonic";
             saintName = "Sfântul Stratonic";
             colors = "gray";
             colorCross = "gray";
@@ -1698,7 +1698,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfinții Cuvioși Mucenici din Sinai și Rait";
+            saintDay = "Sfinții Cuvioși Mucenici din Sinai și Rait";
             saintName = "Sfinții Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -1706,7 +1706,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Cuvios Pavel Tebeul";
+            saintDay = "Sfântul Cuvios Pavel Tebeul";
             saintName = "Sfântul Pavel";
             colors = "white";
             colorCross = "transparent";
@@ -1714,7 +1714,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Cinstirea lanțului Sfântului Apostol Petru";
+            saintDay = "Cinstirea lanțului Sfântului Apostol Petru";
             saintName = "Sfântul Apostol Petru";
             colors = "white";
             colorCross = "transparent";
@@ -1722,7 +1722,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Cuvios Antonie cel Mare";
+            saintDay = "Sfântul Cuvios Antonie cel Mare";
             saintName = "Sfântul Antonie";
             colors = "gray";
             colorCross = "gray";
@@ -1730,7 +1730,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Ierarh Atanasie, Arhiepiscopul Alexandriei";
+            saintDay = "Sfântul Ierarh Atanasie, Arhiepiscopul Alexandriei";
             saintName = "Sfântul Atanasie";
             colors = "gray";
             colorCross = "gray";
@@ -1738,7 +1738,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Ierarh Marcu, Mitropolitul Efesului";
+            saintDay = "Sfântul Ierarh Marcu, Mitropolitul Efesului";
             saintName = "Sfântul Ierarh Marcu";
             colors = "white";
             colorCross = "transparent";
@@ -1746,7 +1746,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Cuvios Eftimie cel Mare";
+            saintDay = "Sfântul Cuvios Eftimie cel Mare";
             saintName = "Sfântul Eftimie";
             colors = "gray";
             colorCross = "gray";
@@ -1754,7 +1754,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Cuvios Maxim Mărturisitorul";
+            saintDay = "Sfântul Cuvios Maxim Mărturisitorul";
             saintName = "Sfântul Maxim";
             colors = "white";
             colorCross = "transparent";
@@ -1762,7 +1762,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Apostol Timotei";
+            saintDay = "Sfântul Apostol Timotei";
             saintName = "Sfântul Timotei";
             colors = "white";
             colorCross = "transparent";
@@ -1770,7 +1770,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Sfințit Mucenic Clement, Episcopul Ancirei";
+            saintDay = "Sfântul Sfințit Mucenic Clement, Episcopul Ancirei";
             saintName = "Sfântul Clement";
             colors = "white";
             colorCross = "transparent";
@@ -1778,7 +1778,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfânta Cuvioasă Xenia";
+            saintDay = "Sfânta Cuvioasă Xenia";
             saintName = "Sfânta Xenia";
             colors = "white";
             colorCross = "transparent";
@@ -1786,7 +1786,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfântul Ierarh Grigorie Teologul, Arhiepiscop la Constantinopol";
+            saintDay = "Sfântul Ierarh Grigorie Teologul, Arhiepiscop la Constantinopol";
             saintName = "Sfântul Grigorie";
             colors = "gray";
             colorCross = "gray";
@@ -1794,7 +1794,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Ierarh Iosif cel Milostiv, Mitropolitul Moldovei";
+            saintDay = "Sfântul Ierarh Iosif cel Milostiv, Mitropolitul Moldovei";
             saintName = "Sfântul Iosif";
             colors = "gray";
             colorCross = "gray";
@@ -1802,7 +1802,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Aducerea moaștelor Sfântului Ioan Gură de Aur";
+            saintDay = "Aducerea moaștelor Sfântului Ioan Gură de Aur";
             saintName = "Sfântul Ioan Gură de Aur";
             colors = "gray";
             colorCross = "gray";
@@ -1810,7 +1810,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Cuvios Efrem Sirul";
+            saintDay = "Sfântul Cuvios Efrem Sirul";
             saintName = "Sfântul Efrem";
             colors = "white";
             colorCross = "transparent";
@@ -1818,7 +1818,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Aducerea moaștelor Sfântului Sfințit Mucenic Ignatie Teoforul";
+            saintDay = "Aducerea moaștelor Sfântului Sfințit Mucenic Ignatie Teoforul";
             saintName = "Sfântul Ignatie";
             colors = "white";
             colorCross = "transparent";
@@ -1826,7 +1826,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfinții Trei Ierarhi: Vasile cel Mare, Grigorie Teologul și Ioan Gură de Aur";
+            saintDay = "Sfinții Trei Ierarhi: Vasile cel Mare, Grigorie Teologul și Ioan Gură de Aur";
             saintName = "Sfinții Trei Ierarhi";
             colors = "red";
             colorCross = "red";
@@ -1834,7 +1834,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Sfinţii Mucenici doctori fără de arginţi Chir şi Ioan";
+            saintDay = "Sfinţii Mucenici doctori fără de arginţi Chir şi Ioan";
             saintName = "Sfinţii Chir şi Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -1852,7 +1852,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 1) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Mucenic Trifon";
+            saintDay = "Sfântul Mucenic Trifon";
             saintName = "Sfântul Trifon";
             colors = "white";
             colorCross = "transparent";
@@ -1860,7 +1860,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "ÎNTÂMPINAREA DOMNULUI";
+            saintDay = "ÎNTÂMPINAREA DOMNULUI";
             saintName = "Domnul Iisus Hristos";
             colors = "red";
             colorCross = "red";
@@ -1868,7 +1868,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Ansgar, luminătorul Danemarcei și al Suediei";
+            saintDay = "Sfântul Ansgar, luminătorul Danemarcei și al Suediei";
             saintName = "Sfântul Ansgar";
             colors = "white";
             colorCross = "transparent";
@@ -1876,7 +1876,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Cuvios Isidor Pelusiotul";
+            saintDay = "Sfântul Cuvios Isidor Pelusiotul";
             saintName = "Sfântul Isidor";
             colors = "white";
             colorCross = "transparent";
@@ -1884,7 +1884,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfânta Muceniță Agata";
+            saintDay = "Sfânta Muceniță Agata";
             saintName = "Sfânta Agata";
             colors = "white";
             colorCross = "transparent";
@@ -1892,7 +1892,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Fotie, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Fotie, Patriarh la Constantinopol";
             saintName = "Sfântul Fotie";
             colors = "white";
             colorCross = "transparent";
@@ -1900,7 +1900,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfântul Ierarh Partenie, Episcopul Lampsacului";
+            saintDay = "Sfântul Ierarh Partenie, Episcopul Lampsacului";
             saintName = "Sfântul Partenie";
             colors = "white";
             colorCross = "transparent";
@@ -1908,7 +1908,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfântul Mare Mucenic Teodor Stratilat";
+            saintDay = "Sfântul Mare Mucenic Teodor Stratilat";
             saintName = "Sfântul Teodor";
             colors = "white";
             colorCross = "transparent";
@@ -1916,7 +1916,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Mucenic Nichifor";
+            saintDay = "Sfântul Mucenic Nichifor";
             saintName = "Sfântul Nichifor";
             colors = "white";
             colorCross = "transparent";
@@ -1924,7 +1924,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfântul Sfințit Mucenic Haralambie";
+            saintDay = "Sfântul Sfințit Mucenic Haralambie";
             saintName = "Sfântul Haralambie";
             colors = "gray";
             colorCross = "gray";
@@ -1932,7 +1932,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Ierarh Vlasie, Episcopul Sevastiei";
+            saintDay = "Sfântul Ierarh Vlasie, Episcopul Sevastiei";
             saintName = "Sfântul Vlasie";
             colors = "white";
             colorCross = "transparent";
@@ -1940,7 +1940,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Ierarh Meletie, Arhiepiscopul Antiohiei celei Mari";
+            saintDay = "Sfântul Ierarh Meletie, Arhiepiscopul Antiohiei celei Mari";
             saintName = "Sfântul Meletie";
             colors = "white";
             colorCross = "transparent";
@@ -1948,7 +1948,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfântul Cuvios Martinian";
+            saintDay = "Sfântul Cuvios Martinian";
             saintName = "Sfântul Martinian";
             colors = "white";
             colorCross = "transparent";
@@ -1956,7 +1956,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Cuvios Auxenție";
+            saintDay = "Sfântul Cuvios Auxenție";
             saintName = "Sfântul Auxenție";
             colors = "white";
             colorCross = "transparent";
@@ -1964,7 +1964,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Apostol Onisim";
+            saintDay = "Sfântul Apostol Onisim";
             saintName = "Sfântul Apostol Onisim";
             colors = "white";
             colorCross = "transparent";
@@ -1972,7 +1972,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Cinstirea lanțului Sfântului Apostol Petru";
+            saintDay = "Cinstirea lanțului Sfântului Apostol Petru";
             saintName = "Sfântul Apostol Petru";
             colors = "white";
             colorCross = "transparent";
@@ -1980,7 +1980,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Mare Mucenic Teodor Tiron";
+            saintDay = "Sfântul Mare Mucenic Teodor Tiron";
             saintName = "Sfântul Teodor Tiron";
             colors = "white";
             colorCross = "transparent";
@@ -1988,7 +1988,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Ierarh Leon, Episcopul Romei";
+            saintDay = "Sfântul Ierarh Leon, Episcopul Romei";
             saintName = "Sfântul Leon";
             colors = "gray";
             colorCross = "gray";
@@ -1996,7 +1996,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Apostol Arhip";
+            saintDay = "Sfântul Apostol Arhip";
             saintName = "Sfântul Apostol Arhip";
             colors = "white";
             colorCross = "transparent";
@@ -2004,7 +2004,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Ierarh Leon, Episcopul Cataniei";
+            saintDay = "Sfântul Ierarh Leon, Episcopul Cataniei";
             saintName = "Sfântul Leon";
             colors = "white";
             colorCross = "transparent";
@@ -2012,7 +2012,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Cuvios Timotei";
+            saintDay = "Sfântul Cuvios Timotei";
             saintName = "Sfântul Timotei";
             colors = "white";
             colorCross = "transparent";
@@ -2020,7 +2020,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Aflarea moaștelor Sfinților Mucenici din Constantinopol";
+            saintDay = "Aflarea moaștelor Sfinților Mucenici din Constantinopol";
             saintName = "Sfinții Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -2028,7 +2028,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Sfințit Mucenic Policarp, Episcopul Smirnei";
+            saintDay = "Sfântul Sfințit Mucenic Policarp, Episcopul Smirnei";
             saintName = "Sfântul Policarp";
             colors = "white";
             colorCross = "transparent";
@@ -2036,7 +2036,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Întâia și a doua aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului";
+            saintDay = "Întâia și a doua aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului";
             saintName = "Sfântul Ioan";
             colors = "gray";
             colorCross = "gray";
@@ -2044,7 +2044,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfântul Ierarh Tarasie, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Tarasie, Patriarh la Constantinopol";
             saintName = "Sfântul Tarasie";
             colors = "white";
             colorCross = "transparent";
@@ -2052,7 +2052,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Ierarh Porfirie, Episcopul Gazei";
+            saintDay = "Sfântul Ierarh Porfirie, Episcopul Gazei";
             saintName = "Sfântul Porfirie";
             colors = "white";
             colorCross = "transparent";
@@ -2060,7 +2060,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Cuvios Mărturisitor Procopie";
+            saintDay = "Sfântul Cuvios Mărturisitor Procopie";
             saintName = "Sfântul Procopie";
             colors = "white";
             colorCross = "transparent";
@@ -2068,7 +2068,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Cuvios Vasile Mărturisitorul";
+            saintDay = "Sfântul Cuvios Vasile Mărturisitorul";
             saintName = "Sfântul Vasile";
             colors = "white";
             colorCross = "transparent";
@@ -2076,7 +2076,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfântul Cuvios Ioan Casian";
+            saintDay = "Sfântul Cuvios Ioan Casian";
             saintName = "Sfântul Ioan Casian";
             colors = "white";
             colorCross = "transparent";
@@ -2094,7 +2094,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 2) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Cuvioasă Muceniţă Evdochia";
+            saintDay = "Sfântul Cuvioasă Muceniţă Evdochia";
             saintName = "Sfântul Evdochia";
             colors = "white";
             colorCross = "transparent";
@@ -2102,7 +2102,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Sfințit Mucenic Teodot, Episcopul Chiriniei";
+            saintDay = "Sfântul Sfințit Mucenic Teodot, Episcopul Chiriniei";
             saintName = "Sfântul Teodot";
             colors = "white";
             colorCross = "transparent";
@@ -2110,7 +2110,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfinţii Mucenici Eutropie, Cleonic şi Vasilisc";
+            saintDay = "Sfinţii Mucenici Eutropie, Cleonic şi Vasilisc";
             saintName = "Sfântul Eutropie";
             colors = "white";
             colorCross = "transparent";
@@ -2118,7 +2118,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Cuvios Gherasim de la Iordan";
+            saintDay = "Sfântul Cuvios Gherasim de la Iordan";
             saintName = "Sfântul Gherasim";
             colors = "white";
             colorCross = "transparent";
@@ -2126,7 +2126,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfântul Mucenic Conon din Isauria";
+            saintDay = "Sfântul Mucenic Conon din Isauria";
             saintName = "Sfântul Conon";
             colors = "white";
             colorCross = "transparent";
@@ -2134,7 +2134,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfinții 42 de Mucenici din Amoreea";
+            saintDay = "Sfinții 42 de Mucenici din Amoreea";
             saintName = "Sfinții Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -2142,7 +2142,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfântul Sfințit Mucenic Efrem, Episcopul Tomisului";
+            saintDay = "Sfântul Sfințit Mucenic Efrem, Episcopul Tomisului";
             saintName = "Sfântul Efrem";
             colors = "white";
             colorCross = "transparent";
@@ -2150,7 +2150,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfântul Ierarh Teofilact Mărturisitorul, Episcopul Nicomidiei";
+            saintDay = "Sfântul Ierarh Teofilact Mărturisitorul, Episcopul Nicomidiei";
             saintName = "Sfântul Teofilact";
             colors = "white";
             colorCross = "transparent";
@@ -2158,7 +2158,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfinții 40 de Mucenici din Sevastia";
+            saintDay = "Sfinții 40 de Mucenici din Sevastia";
             saintName = "Sfinții Mucenici";
             colors = "gray";
             colorCross = "gray";
@@ -2166,7 +2166,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfinţii Mucenici Codrat, Ciprian şi Dionisie";
+            saintDay = "Sfinţii Mucenici Codrat, Ciprian şi Dionisie";
             saintName = "Sfântul Dionisie";
             colors = "white";
             colorCross = "transparent";
@@ -2174,7 +2174,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Ierarh Sofronie, Patriarhul Ierusalimului";
+            saintDay = "Sfântul Ierarh Sofronie, Patriarhul Ierusalimului";
             saintName = "Sfântul Sofronie";
             colors = "white";
             colorCross = "transparent";
@@ -2182,7 +2182,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Cuvios Teofan Mărturisitorul";
+            saintDay = "Sfântul Cuvios Teofan Mărturisitorul";
             saintName = "Sfântul Teofan";
             colors = "white";
             colorCross = "transparent";
@@ -2190,7 +2190,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Aducerea moaștelor Sfântului Ierarh Nichifor, Patriarh la Constantinopol";
+            saintDay = "Aducerea moaștelor Sfântului Ierarh Nichifor, Patriarh la Constantinopol";
             saintName = "Sfântul Nichifor";
             colors = "white";
             colorCross = "transparent";
@@ -2198,7 +2198,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Cuvios Benedict de Nursia";
+            saintDay = "Sfântul Cuvios Benedict de Nursia";
             saintName = "Sfântul Benedict";
             colors = "white";
             colorCross = "transparent";
@@ -2206,7 +2206,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfinţii Mucenici Agapie, Plisie şi Timolau";
+            saintDay = "Sfinţii Mucenici Agapie, Plisie şi Timolau";
             saintName = "Sfântul Agapie";
             colors = "white";
             colorCross = "transparent";
@@ -2214,7 +2214,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Mucenic Sabin Egipteanul";
+            saintDay = "Sfântul Mucenic Sabin Egipteanul";
             saintName = "Sfântul Sabin";
             colors = "white";
             colorCross = "transparent";
@@ -2222,7 +2222,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Cuvios Alexie, omul lui Dumnezeu";
+            saintDay = "Sfântul Cuvios Alexie, omul lui Dumnezeu";
             saintName = "Sfântul Alexie";
             colors = "white";
             colorCross = "transparent";
@@ -2230,7 +2230,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Ierarh Chiril, Arhiepiscopul Ierusalimului";
+            saintDay = "Sfântul Ierarh Chiril, Arhiepiscopul Ierusalimului";
             saintName = "Sfântul Chiril";
             colors = "white";
             colorCross = "transparent";
@@ -2238,7 +2238,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfinţii Mucenici Hrisant şi Daria";
+            saintDay = "Sfinţii Mucenici Hrisant şi Daria";
             saintName = "Sfântul Hrisant";
             colors = "white";
             colorCross = "transparent";
@@ -2246,7 +2246,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfinții Cuvioși Mucenici din Mănăstirea Sfântului Sava cel Sfințit";
+            saintDay = "Sfinții Cuvioși Mucenici din Mănăstirea Sfântului Sava cel Sfințit";
             saintName = "Sfinții Mucenici";
             colors = "white";
             colorCross = "transparent";
@@ -2254,7 +2254,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Ierarh Iacob Mărturisitorul";
+            saintDay = "Sfântul Ierarh Iacob Mărturisitorul";
             saintName = "Sfântul Iacob";
             colors = "white";
             colorCross = "transparent";
@@ -2262,7 +2262,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Sfințit Mucenic Vasile, preotul din Ancira";
+            saintDay = "Sfântul Sfințit Mucenic Vasile, preotul din Ancira";
             saintName = "Sfântul Vasile";
             colors = "white";
             colorCross = "transparent";
@@ -2270,7 +2270,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Cuvios Mucenic Nicon și cei 199 de ucenici ai lui";
+            saintDay = "Sfântul Cuvios Mucenic Nicon și cei 199 de ucenici ai lui";
             saintName = "Sfântul Nicon";
             colors = "white";
             colorCross = "transparent";
@@ -2278,7 +2278,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Înainte-prăznuirea Bunei Vestiri";
+            saintDay = "Înainte-prăznuirea Bunei Vestiri";
             saintName = "Maica Domnului";
             colors = "white";
             colorCross = "transparent";
@@ -2286,7 +2286,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "BUNA VESTIRE";
+            saintDay = "BUNA VESTIRE";
             saintName = "Maica Domnului";
             colors = "red";
             colorCross = "red";
@@ -2294,7 +2294,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Soborul Sfântului Arhanghel Gavriil";
+            saintDay = "Soborul Sfântului Arhanghel Gavriil";
             saintName = "Arhanghelul Gavriil";
             colors = "white";
             colorCross = "transparent";
@@ -2302,7 +2302,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfânta Muceniță Matrona din Tesalonic";
+            saintDay = "Sfânta Muceniță Matrona din Tesalonic";
             saintName = "Sfânta Matrona";
             colors = "white";
             colorCross = "transparent";
@@ -2310,7 +2310,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Cuvios Ilarion cel Nou, egumenul Pelechitului";
+            saintDay = "Sfântul Cuvios Ilarion cel Nou, egumenul Pelechitului";
             saintName = "Sfântul Ilarion";
             colors = "white";
             colorCross = "transparent";
@@ -2318,7 +2318,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfinţii Sfinţiţi Mucenici Marcu, Episcopul Aretuselor şi Chiril, diaconul";
+            saintDay = "Sfinţii Sfinţiţi Mucenici Marcu, Episcopul Aretuselor şi Chiril, diaconul";
             saintName = "Sfântul Marcu";
             colors = "white";
             colorCross = "transparent";
@@ -2326,7 +2326,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Cuvios Ioan Scărarul";
+            saintDay = "Sfântul Cuvios Ioan Scărarul";
             saintName = "Sfântul Ioan Scărarul";
             colors = "white";
             colorCross = "transparent";
@@ -2334,7 +2334,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Sfântul Sfințit Mucenic Ipatie, Episcopul Gangrei";
+            saintDay = "Sfântul Sfințit Mucenic Ipatie, Episcopul Gangrei";
             saintName = "Sfântul Ipatie";
             colors = "white";
             colorCross = "transparent";
@@ -2351,7 +2351,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 3) {
 
         if (day == 1) {
-            celebrationDay = "Sfânta Cuvioasă Maria Egipteanca";
+            saintDay = "Sfânta Cuvioasă Maria Egipteanca";
             saintName = "Sfânta Maria Egipteanca";
             colors = "white";
             colorCross = "transparent";
@@ -2359,7 +2359,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Cuvios Tit, făcătorul de minuni";
+            saintDay = "Sfântul Cuvios Tit, făcătorul de minuni";
             saintName = "Sfântul Tit";
             colors = "white";
             colorCross = "transparent";
@@ -2367,7 +2367,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Cuvios Nichita Mărturisitorul, Egumenul Mănăstirii Midichiei";
+            saintDay = "Sfântul Cuvios Nichita Mărturisitorul, Egumenul Mănăstirii Midichiei";
             saintName = "Sfântul Nichita";
             colors = "white";
             colorCross = "transparent";
@@ -2375,7 +2375,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfântul Cuvios Iosif Imnograful";
+            saintDay = "Sfântul Cuvios Iosif Imnograful";
             saintName = "Sfântul Iosif";
             colors = "white";
             colorCross = "transparent";
@@ -2383,7 +2383,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfinţii Mucenici Teodul şi Agatopod";
+            saintDay = "Sfinţii Mucenici Teodul şi Agatopod";
             saintName = "Sfântul Teodul";
             colors = "white";
             colorCross = "transparent";
@@ -2391,7 +2391,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Ierarh Eutihie, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Eutihie, Patriarh la Constantinopol";
             saintName = "Sfântul Eutihie";
             colors = "white";
             colorCross = "transparent";
@@ -2399,7 +2399,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfântul Mucenic Caliopie";
+            saintDay = "Sfântul Mucenic Caliopie";
             saintName = "Sfântul Caliopie";
             colors = "white";
             colorCross = "transparent";
@@ -2407,7 +2407,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfinţii Apostoli Irodion, Agav, Ruf, Flegon, Asincrit şi Ermis";
+            saintDay = "Sfinţii Apostoli Irodion, Agav, Ruf, Flegon, Asincrit şi Ermis";
             saintName = "Sfântul Apostol Ruf";
             colors = "white";
             colorCross = "transparent";
@@ -2415,7 +2415,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Mucenic Eupsihie din Cezareea Capadociei";
+            saintDay = "Sfântul Mucenic Eupsihie din Cezareea Capadociei";
             saintName = "Sfântul Eupsihie";
             colors = "white";
             colorCross = "transparent";
@@ -2423,7 +2423,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfinţii Mucenici Terentie, Pompei, African, Maxim, Macarie şi Dima";
+            saintDay = "Sfinţii Mucenici Terentie, Pompei, African, Maxim, Macarie şi Dima";
             saintName = "Sfântul Macarie";
             colors = "white";
             colorCross = "transparent";
@@ -2431,7 +2431,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Ierarh Calinic de la Cernica, Episcopul Râmnicului";
+            saintDay = "Sfântul Ierarh Calinic de la Cernica, Episcopul Râmnicului";
             saintName = "Sfântul Calinic";
             colors = "red";
             colorCross = "red";
@@ -2439,7 +2439,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Mucenic Sava de la Buzău";
+            saintDay = "Sfântul Mucenic Sava de la Buzău";
             saintName = "Sfântul Sava";
             colors = "gray";
             colorCross = "gray";
@@ -2447,7 +2447,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfântul Sfințit Mucenic Artemon preotul, din Laodiceea";
+            saintDay = "Sfântul Sfințit Mucenic Artemon preotul, din Laodiceea";
             saintName = "Sfântul Artemon";
             colors = "white";
             colorCross = "transparent";
@@ -2455,7 +2455,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Ierarh Pahomie de la Gledin, Episcopul Romanului";
+            saintDay = "Sfântul Ierarh Pahomie de la Gledin, Episcopul Romanului";
             saintName = "Sfântul Pahomie";
             colors = "gray";
             colorCross = "gray";
@@ -2463,7 +2463,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfinţii Apostoli Aristarh, Pud şi Trofim";
+            saintDay = "Sfinţii Apostoli Aristarh, Pud şi Trofim";
             saintName = "Sfântul Apostol Trofim";
             colors = "white";
             colorCross = "transparent";
@@ -2471,7 +2471,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfintele Muceniţe fecioare Agapia, Irina şi Hionia";
+            saintDay = "Sfintele Muceniţe fecioare Agapia, Irina şi Hionia";
             saintName = "Sfânta Agapia";
             colors = "white";
             colorCross = "transparent";
@@ -2479,7 +2479,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Sfințit Mucenic Simeon, Episcopul Persiei";
+            saintDay = "Sfântul Sfințit Mucenic Simeon, Episcopul Persiei";
             saintName = "Sfântul Simeon";
             colors = "white";
             colorCross = "transparent";
@@ -2487,7 +2487,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Cuvios Ioan, ucenicul Sfântului Grigorie Decapolitul";
+            saintDay = "Sfântul Cuvios Ioan, ucenicul Sfântului Grigorie Decapolitul";
             saintName = "Sfântul Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -2495,7 +2495,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Cuvios Ioan de la Lavra Veche";
+            saintDay = "Sfântul Cuvios Ioan de la Lavra Veche";
             saintName = "Sfântul Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -2503,7 +2503,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Ierarh Teotim, Episcopul Tomisului";
+            saintDay = "Sfântul Ierarh Teotim, Episcopul Tomisului";
             saintName = "Sfântul Teotim";
             colors = "gray";
             colorCross = "gray";
@@ -2511,7 +2511,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Sfinţit Mucenic Ianuarie, Episcop de Benevent şi al celor împreună cu dânsul";
+            saintDay = "Sfântul Sfinţit Mucenic Ianuarie, Episcop de Benevent şi al celor împreună cu dânsul";
             saintName = "Sfântul Mucenic Ianuarie";
             colors = "white";
             colorCross = "transparent";
@@ -2519,7 +2519,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Ierarh Teodor Sicheotul, Episcopul Anastasiopolei";
+            saintDay = "Sfântul Ierarh Teodor Sicheotul, Episcopul Anastasiopolei";
             saintName = "Sfântul Ierah Teodor";
             colors = "white";
             colorCross = "transparent";
@@ -2527,7 +2527,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Mare Mucenic Gheorghe, Purtătorul de biruință";
+            saintDay = "Sfântul Mare Mucenic Gheorghe, Purtătorul de biruință";
             saintName = "Sfântul Mucenic Gheorghe";
             colors = "red";
             colorCross = "red";
@@ -2535,7 +2535,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfinții Ierarhi Ilie Iorest, Simion Ștefan şi Sava Brancovici, mitropoliții Transilvaniei";
+            saintDay = "Sfinții Ierarhi Ilie Iorest, Simion Ștefan şi Sava Brancovici, mitropoliții Transilvaniei";
             saintName = "Sfântul Simion Ștefan";
             colors = "gray";
             colorCross = "gray";
@@ -2543,7 +2543,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfântul Apostol și Evanghelist Marcu";
+            saintDay = "Sfântul Apostol și Evanghelist Marcu";
             saintName = "Sfântul Apostol Marcu";
             colors = "gray";
             colorCross = "gray";
@@ -2551,7 +2551,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Sfințit Mucenic Vasilevs, Episcopul Amasiei";
+            saintDay = "Sfântul Sfințit Mucenic Vasilevs, Episcopul Amasiei";
             saintName = "Sfântul Mucenic Vasilevs";
             colors = "white";
             colorCross = "transparent";
@@ -2559,7 +2559,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Sfințit Mucenic Simeon, rudenia Domnului";
+            saintDay = "Sfântul Sfințit Mucenic Simeon, rudenia Domnului";
             saintName = "Sfântul Mucenic Simeon";
             colors = "white";
             colorCross = "transparent";
@@ -2567,7 +2567,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfinții Mucenici Maxim, Cvintilian și Dadas din Ozovia";
+            saintDay = "Sfinții Mucenici Maxim, Cvintilian și Dadas din Ozovia";
             saintName = "Sfântul Mucenic Maxim";
             colors = "white";
             colorCross = "transparent";
@@ -2575,7 +2575,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfinții 9 Mucenici din Cizic, Teognid, Ruf, Antipatru, Teostih, Artema, Magn, Teodot, Tavmasie și Filimon";
+            saintDay = "Sfinții 9 Mucenici din Cizic, Teognid, Ruf, Antipatru, Teostih, Artema, Magn, Teodot, Tavmasie și Filimon";
             saintName = "Sfinții 9 Mucenici din Cizic";
             colors = "white";
             colorCross = "transparent";
@@ -2583,7 +2583,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Apostol Iacob, fratele Sfântului Apostol Ioan Evanghelistul";
+            saintDay = "Sfântul Apostol Iacob, fratele Sfântului Apostol Ioan Evanghelistul";
             saintName = "Sfântul Apostol Iacob";
             colors = "white";
             colorCross = "transparent";
@@ -2602,7 +2602,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 4) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Prooroc Ieremia";
+            saintDay = "Sfântul Prooroc Ieremia";
             saintName = "Sfântul Proroc Ieremia";
             colors = "white";
             colorCross = "transparent";
@@ -2610,7 +2610,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Ierarh Atanasie al III-lea, Patriarh la Constantinopol";
+            saintDay = "Sfântul Ierarh Atanasie al III-lea, Patriarh la Constantinopol";
             saintName = "Sfântul Ierarh Atanasie";
             colors = "gray";
             colorCross = "gray";
@@ -2618,7 +2618,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Cuvios Irodion de la Lainici";
+            saintDay = "Sfântul Cuvios Irodion de la Lainici";
             saintName = "Sfântul Cuvios Irodion";
             colors = "gray";
             colorCross = "gray";
@@ -2626,7 +2626,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfânta Muceniță Pelaghia";
+            saintDay = "Sfânta Muceniță Pelaghia";
             saintName = "Sfânta Muceniță Pelaghia";
             colors = "white";
             colorCross = "transparent";
@@ -2634,7 +2634,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfânta Mare Muceniță Irina";
+            saintDay = "Sfânta Mare Muceniță Irina";
             saintName = "Sfânta Irina";
             colors = "white";
             colorCross = "transparent";
@@ -2642,7 +2642,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul și Dreptul Iov, mult răbdătorul";
+            saintDay = "Sfântul și Dreptul Iov, mult răbdătorul";
             saintName = "Sfântul Iov";
             colors = "white";
             colorCross = "transparent";
@@ -2650,7 +2650,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Arătarea semnului Sfintei Cruci la Ierusalim";
+            saintDay = "Arătarea semnului Sfintei Cruci la Ierusalim";
             saintName = "Sfânta Cruce";
             colors = "white";
             colorCross = "transparent";
@@ -2658,7 +2658,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Sfântul Apostol și Evanghelist Ioan";
+            saintDay = "Sfântul Apostol și Evanghelist Ioan";
             saintName = "Sfântul Apostol Ioan";
             colors = "gray";
             colorCross = "gray";
@@ -2666,7 +2666,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Proroc Isaia";
+            saintDay = "Sfântul Proroc Isaia";
             saintName = "Sfântul Proroc Isaia";
             colors = "white";
             colorCross = "transparent";
@@ -2674,7 +2674,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfântul Apostol Simon Zilotul";
+            saintDay = "Sfântul Apostol Simon Zilotul";
             saintName = "Sfântul Apostol Simon";
             colors = "white";
             colorCross = "transparent";
@@ -2682,7 +2682,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Sfințit Mucenic Mochie";
+            saintDay = "Sfântul Sfințit Mucenic Mochie";
             saintName = "Sfântul Mochie";
             colors = "white";
             colorCross = "transparent";
@@ -2690,7 +2690,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Mucenic Ioan Valahul";
+            saintDay = "Sfântul Mucenic Ioan Valahul";
             saintName = "Sfântul Ioan Valahul";
             colors = "gray";
             colorCross = "gray";
@@ -2698,7 +2698,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfânta Muceniță Glicheria";
+            saintDay = "Sfânta Muceniță Glicheria";
             saintName = "Sfânta Glicheria";
             colors = "white";
             colorCross = "transparent";
@@ -2706,7 +2706,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Mucenic Isidor din Hiosi";
+            saintDay = "Sfântul Mucenic Isidor din Hiosi";
             saintName = "Sfântul Isidor";
             colors = "white";
             colorCross = "transparent";
@@ -2714,7 +2714,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Cuvios Pahomie cel Mare";
+            saintDay = "Sfântul Cuvios Pahomie cel Mare";
             saintName = "Sfântul Pahomie";
             colors = "white";
             colorCross = "transparent";
@@ -2722,7 +2722,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Cuvios Teodor cel Sfințit";
+            saintDay = "Sfântul Cuvios Teodor cel Sfințit";
             saintName = "Sfântul Teodor";
             colors = "white";
             colorCross = "transparent";
@@ -2730,7 +2730,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfântul Apostol Andronic și soția sa, Iunia";
+            saintDay = "Sfântul Apostol Andronic și soția sa, Iunia";
             saintName = "Sfântul Ap. Andronic";
             colors = "white";
             colorCross = "transparent";
@@ -2738,7 +2738,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfinţii Mucenici Petru, Dionisie, Paulin, Teodot şi cele şapte fecioare din Ancira";
+            saintDay = "Sfinţii Mucenici Petru, Dionisie, Paulin, Teodot şi cele şapte fecioare din Ancira";
             saintName = "Sfântul Paulin";
             colors = "white";
             colorCross = "transparent";
@@ -2746,7 +2746,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Sfințit Mucenic Patrichie, Episcopul Prusei";
+            saintDay = "Sfântul Sfințit Mucenic Patrichie, Episcopul Prusei";
             saintName = "Sfântul Patrichie";
             colors = "white";
             colorCross = "transparent";
@@ -2754,7 +2754,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Mucenic Talaleu";
+            saintDay = "Sfântul Mucenic Talaleu";
             saintName = "Sfântul Talaleu";
             colors = "white";
             colorCross = "transparent";
@@ -2762,7 +2762,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfinții Împărați și întocmai cu Apostolii Constantin și mama sa, Elena";
+            saintDay = "Sfinții Împărați și întocmai cu Apostolii Constantin și mama sa, Elena";
             saintName = "Sfinții Constantin și Elena";
             colors = "red";
             colorCross = "red";
@@ -2770,7 +2770,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Mucenic Vasilisc";
+            saintDay = "Sfântul Mucenic Vasilisc";
             saintName = "Sfântul Mucenic Vasilisc";
             colors = "white";
             colorCross = "transparent";
@@ -2778,7 +2778,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfântul Ierarh Mihail Mărturisitorul, Episcopul Sinadei";
+            saintDay = "Sfântul Ierarh Mihail Mărturisitorul, Episcopul Sinadei";
             saintName = "Sfântul Ierarh Mihail";
             colors = "white";
             colorCross = "transparent";
@@ -2786,7 +2786,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Sfântul Cuvios Simeon cel din Muntele Minunat";
+            saintDay = "Sfântul Cuvios Simeon cel din Muntele Minunat";
             saintName = "Sfântul Cuvios Simeon";
             colors = "white";
             colorCross = "transparent";
@@ -2794,7 +2794,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "A treia aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului";
+            saintDay = "A treia aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului";
             saintName = "Sfântul Proroc Ioan";
             colors = "gray";
             colorCross = "gray";
@@ -2802,7 +2802,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Apostol Carp";
+            saintDay = "Sfântul Apostol Carp";
             saintName = "Sfântul Apostol Carp";
             colors = "white";
             colorCross = "transparent";
@@ -2810,7 +2810,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Mărturisitor Ioan Rusul";
+            saintDay = "Sfântul Mărturisitor Ioan Rusul";
             saintName = "Sfântul Mucenic Ioan Rusul";
             colors = "white";
             colorCross = "transparent";
@@ -2818,7 +2818,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Sfântul Ierarh Nichita Mărturisitorul, Episcopul Calcedonului";
+            saintDay = "Sfântul Ierarh Nichita Mărturisitorul, Episcopul Calcedonului";
             saintName = "Sfântul Ierarh Nichita";
             colors = "white";
             colorCross = "transparent";
@@ -2826,7 +2826,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfânta Muceniță Teodosia, fecioara";
+            saintDay = "Sfânta Muceniță Teodosia, fecioara";
             saintName = "Sfânta Muceniță Teodosia";
             colors = "white";
             colorCross = "transparent";
@@ -2834,7 +2834,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Sfântul Cuvios Isaachie Mărturisitorul";
+            saintDay = "Sfântul Cuvios Isaachie Mărturisitorul";
             saintName = "Sfântul Cuvios Isaachie";
             colors = "white";
             colorCross = "transparent";
@@ -2842,7 +2842,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 31) {
-            celebrationDay = "Sfântul Mucenic Ermie";
+            saintDay = "Sfântul Mucenic Ermie";
             saintName =
                 colors = "white";
             colorCross = "transparent";
@@ -2859,7 +2859,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (month == 5) {
 
         if (day == 1) {
-            celebrationDay = "Sfântul Mucenic Iustin Martirul şi Filosoful și a altui Mucenic Iustin";
+            saintDay = "Sfântul Mucenic Iustin Martirul şi Filosoful și a altui Mucenic Iustin";
             saintName = "Sfântul Mucenic Iustin";
             colors = "white";
             colorCross = "transparent";
@@ -2867,7 +2867,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 2) {
-            celebrationDay = "Sfântul Mare Mucenic Ioan cel Nou de la Suceava";
+            saintDay = "Sfântul Mare Mucenic Ioan cel Nou de la Suceava";
             saintName = "Sfântul Mucenic Ioan cel Nou";
             colors = "gray";
             colorCross = "gray";
@@ -2875,7 +2875,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 3) {
-            celebrationDay = "Sfântul Mucenic Luchilian şi cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie";
+            saintDay = "Sfântul Mucenic Luchilian şi cei împreună cu el patru tineri: Ipatie, Paul, Dionisie și Claudie";
             saintName = "Sfântul Mucenic Luchilian";
             colors = "white";
             colorCross = "transparent";
@@ -2883,7 +2883,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 4) {
-            celebrationDay = "Sfinții Mucenici: Zotic, Atal, Camasie și Filip de la Niculițel";
+            saintDay = "Sfinții Mucenici: Zotic, Atal, Camasie și Filip de la Niculițel";
             saintName = "Sfântul Mucenic Zotic";
             colors = "gray";
             colorCross = "gray";
@@ -2891,7 +2891,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 5) {
-            celebrationDay = "Sfântul Sfințit Mucenic Dorotei, Episcopul Tirului";
+            saintDay = "Sfântul Sfințit Mucenic Dorotei, Episcopul Tirului";
             saintName = "Sfântul Mucenic Dorotei";
             colors = "white";
             colorCross = "transparent";
@@ -2899,7 +2899,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 6) {
-            celebrationDay = "Sfântul Cuvios Ilarion cel Nou, egumenul Mănăstirii Dalmaților";
+            saintDay = "Sfântul Cuvios Ilarion cel Nou, egumenul Mănăstirii Dalmaților";
             saintName = "Sfântul Cuvios Ilarion";
             colors = "white";
             colorCross = "transparent";
@@ -2907,7 +2907,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 7) {
-            celebrationDay = "Sfântul Sfințit Mucenic Teodot, Episcopul Ancirei";
+            saintDay = "Sfântul Sfințit Mucenic Teodot, Episcopul Ancirei";
             saintName = "Sfântul Mucenic Teodot";
             colors = "white";
             colorCross = "transparent";
@@ -2915,7 +2915,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 8) {
-            celebrationDay = "Aducerea moaștelor Sfântului Mare Mucenic Teodor Stratilat";
+            saintDay = "Aducerea moaștelor Sfântului Mare Mucenic Teodor Stratilat";
             saintName = "Sfântul Mucenic Teodor";
             colors = "white";
             colorCross = "transparent";
@@ -2923,7 +2923,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 9) {
-            celebrationDay = "Sfântul Ierarh Chiril, Arhiepiscopul Alexandriei";
+            saintDay = "Sfântul Ierarh Chiril, Arhiepiscopul Alexandriei";
             saintName = "Sfântul Ierarh Chiril";
             colors = "white";
             colorCross = "transparent";
@@ -2931,7 +2931,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 10) {
-            celebrationDay = "Sfântul Sfințit Mucenic Timotei, Episcopul Prusiei, Sfântul Mucenic Alexandru și Sfânta Muceniță Antonina";
+            saintDay = "Sfântul Sfințit Mucenic Timotei, Episcopul Prusiei, Sfântul Mucenic Alexandru și Sfânta Muceniță Antonina";
             saintName = "Sfântul Mucenic Timotei";
             colors = "white";
             colorCross = "transparent";
@@ -2939,7 +2939,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 11) {
-            celebrationDay = "Sfântul Ierarh Luca, Arhiepiscopul Crimeei";
+            saintDay = "Sfântul Ierarh Luca, Arhiepiscopul Crimeei";
             saintName = "Sfântul Ierarh Luca";
             colors = "white";
             colorCross = "transparent";
@@ -2947,7 +2947,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 12) {
-            celebrationDay = "Sfântul Cuvios Onufrie cel Mare";
+            saintDay = "Sfântul Cuvios Onufrie cel Mare";
             saintName = "Sfântul Cuvios Onufrie";
             colors = "white";
             colorCross = "transparent";
@@ -2955,7 +2955,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 13) {
-            celebrationDay = "Sfânta Muceniță Achilina";
+            saintDay = "Sfânta Muceniță Achilina";
             saintName = "Sfânta Muceniță Achilina";
             colors = "white";
             colorCross = "transparent";
@@ -2963,7 +2963,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            celebrationDay = "Sfântul Proroc Elisei";
+            saintDay = "Sfântul Proroc Elisei";
             saintName = "Sfântul Proroc Elisei";
             colors = "white";
             colorCross = "transparent";
@@ -2971,7 +2971,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 15) {
-            celebrationDay = "Sfântul Proroc Amos";
+            saintDay = "Sfântul Proroc Amos";
             saintName = "Sfântul Proroc Amos";
             colors = "white";
             colorCross = "transparent";
@@ -2979,7 +2979,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 16) {
-            celebrationDay = "Sfântul Ierarh Tihon, Episcopul Amatundei";
+            saintDay = "Sfântul Ierarh Tihon, Episcopul Amatundei";
             saintName = "Sfântul Ierarh Tihon";
             colors = "white";
             colorCross = "transparent";
@@ -2987,7 +2987,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 17) {
-            celebrationDay = "Sfinţii Mucenici Manuil, Savel şi Ismail";
+            saintDay = "Sfinţii Mucenici Manuil, Savel şi Ismail";
             saintName = "Sfântul Mucenic Manuil";
             colors = "white";
             colorCross = "transparent";
@@ -2995,7 +2995,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 18) {
-            celebrationDay = "Sfântul Mucenic Leontie";
+            saintDay = "Sfântul Mucenic Leontie";
             saintName = "Sfântul Mucenic Leontie";
             colors = "white";
             colorCross = "transparent";
@@ -3003,7 +3003,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 19) {
-            celebrationDay = "Sfântul Apostol Iuda, rudenia Domnului";
+            saintDay = "Sfântul Apostol Iuda, rudenia Domnului";
             saintName = "Sfântul Apostol Iuda";
             colors = "white";
             colorCross = "transparent";
@@ -3011,7 +3011,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 20) {
-            celebrationDay = "Sfântul Sfințit Mucenic Metodie, Episcopul Patarelor";
+            saintDay = "Sfântul Sfințit Mucenic Metodie, Episcopul Patarelor";
             saintName = "Sfântul Mucenic Metodie";
             colors = "white";
             colorCross = "transparent";
@@ -3019,7 +3019,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 21) {
-            celebrationDay = "Sfântul Mucenic Iulian din Tars";
+            saintDay = "Sfântul Mucenic Iulian din Tars";
             saintName = "Sfântul Mucenic Iulian";
             colors = "white";
             colorCross = "transparent";
@@ -3027,7 +3027,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 22) {
-            celebrationDay = "Sfântul Ierarh Grigorie Dascălul, Mitropolitul Țării Românești";
+            saintDay = "Sfântul Ierarh Grigorie Dascălul, Mitropolitul Țării Românești";
             saintName = "Sfântul Ierarh Grigorie";
             colors = "white";
             colorCross = "transparent";
@@ -3035,7 +3035,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 23) {
-            celebrationDay = "Sfânta Muceniță Agripina";
+            saintDay = "Sfânta Muceniță Agripina";
             saintName = "Sfânta Muceniță Agripina";
             colors = "white";
             colorCross = "transparent";
@@ -3043,7 +3043,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 24) {
-            celebrationDay = "Nașterea Sfântului Ioan Botezătorul (Sânzienele - Drăgaica)";
+            saintDay = "Nașterea Sfântului Ioan Botezătorul (Sânzienele - Drăgaica)";
             saintName = "Sfântul Proroc Ioan";
             colors = "red";
             colorCross = "red";
@@ -3051,7 +3051,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 25) {
-            celebrationDay = "Sfânta Mare Muceniță Fevronia";
+            saintDay = "Sfânta Mare Muceniță Fevronia";
             saintName = "Sfânta Muceniță Fevronia";
             colors = "white";
             colorCross = "transparent";
@@ -3059,7 +3059,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 26) {
-            celebrationDay = "Sfântul Cuvios David din Tesalonic";
+            saintDay = "Sfântul Cuvios David din Tesalonic";
             saintName = "Sfântul Cuvios David";
             colors = "white";
             colorCross = "transparent";
@@ -3067,7 +3067,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 27) {
-            celebrationDay = "Sfântul Cuvios Samson, primitorul de străini";
+            saintDay = "Sfântul Cuvios Samson, primitorul de străini";
             saintName = "Sfântul Cuvios Samson";
             colors = "white";
             colorCross = "transparent";
@@ -3075,7 +3075,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 28) {
-            celebrationDay = "Aducerea moaștelor Sfinților Mucenici Doctori fără de arginți Chir și Ioan";
+            saintDay = "Aducerea moaștelor Sfinților Mucenici Doctori fără de arginți Chir și Ioan";
             saintName = "Sfinții Mucenici Chir și Ioan";
             colors = "white";
             colorCross = "transparent";
@@ -3083,7 +3083,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 29) {
-            celebrationDay = "Sfinții Apostoli Petru și Pavel";
+            saintDay = "Sfinții Apostoli Petru și Pavel";
             saintName = "Sfinții Petru și Pavel";
             colors = "red";
             colorCross = "red";
@@ -3091,7 +3091,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 30) {
-            celebrationDay = "Soborul Sfinților 12 Apostoli";
+            saintDay = "Soborul Sfinților 12 Apostoli";
             saintName = "Sfinții 12 Apostoli";
             colors = "gray";
             colorCross = "gray";
@@ -3109,7 +3109,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 28) {
-                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                saintDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3123,7 +3123,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 4) {
 
             if (day == 5) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3131,7 +3131,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 6) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3139,7 +3139,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 7) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3147,7 +3147,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 10) {
-                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                saintDay = "IZVORUL TĂMĂDUIRII";
                 saintName = "Maica Domnului";
                 colors = "red";
                 colorCross = "red";
@@ -3160,7 +3160,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 5) {
 
             if (day == 13) {
-                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                saintDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3173,7 +3173,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 5) {
 
             if (day == 23) {
-                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                saintDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
                 saintName = "Sfântul Duh";
                 colors = "red";
                 colorCross = "red";
@@ -3181,7 +3181,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 24) {
-                celebrationDay = "SFÂNTA TREIME";
+                saintDay = "SFÂNTA TREIME";
                 saintName = "Sfânta Treime";
                 colors = "red";
                 colorCross = "red";
@@ -3201,7 +3201,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 13) {
-                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                saintDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3215,7 +3215,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 20) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3223,7 +3223,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 21) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3231,7 +3231,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 22) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3239,7 +3239,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 25) {
-                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                saintDay = "IZVORUL TĂMĂDUIRII";
                 saintName = "Maica Domnului";
                 colors = "red";
                 colorCross = "red";
@@ -3252,7 +3252,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 4) {
 
             if (day == 29) {
-                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                saintDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3265,7 +3265,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 5) {
 
             if (day == 8) {
-                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                saintDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
                 saintName = "Sfântul Duh";
                 colors = "red";
                 colorCross = "red";
@@ -3273,7 +3273,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 9) {
-                celebrationDay = "SFÂNTA TREIME";
+                saintDay = "SFÂNTA TREIME";
                 saintName = "Sfânta Treime";
                 colors = "red";
                 colorCross = "red";
@@ -3295,7 +3295,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 5) {
-                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                saintDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3309,7 +3309,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 12) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3317,7 +3317,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 13) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3325,7 +3325,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 14) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3333,7 +3333,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 17) {
-                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                saintDay = "IZVORUL TĂMĂDUIRII";
                 saintName = "Maica Domnului";
                 colors = "red";
                 colorCross = "red";
@@ -3346,7 +3346,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 4) {
 
             if (day == 21) {
-                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                saintDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3355,7 +3355,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             //POGORÂREA SFÂNTULUI DUH 
             if (day == 31) {
-                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                saintDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
                 saintName = "Sfântul Duh";
                 colors = "red";
                 colorCross = "red";
@@ -3370,7 +3370,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
             if (day == 1) {
-                celebrationDay = "SFÂNTA TREIME";
+                saintDay = "SFÂNTA TREIME";
                 saintName = "Sfânta Treime";
                 colors = "red";
                 colorCross = "red";
@@ -3395,7 +3395,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 25) {
-                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                saintDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3409,7 +3409,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 4) {
 
             if (day == 2) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3417,7 +3417,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 3) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3425,7 +3425,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 4) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3433,7 +3433,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 7) {
-                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                saintDay = "IZVORUL TĂMĂDUIRII";
                 saintName = "Maica Domnului";
                 colors = "red";
                 colorCross = "red";
@@ -3446,7 +3446,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 5) {
 
             if (day == 10) {
-                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                saintDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3462,7 +3462,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
             if (day == 20) {
-                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                saintDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
                 saintName = "Sfântul Duh";
                 colors = "red";
                 colorCross = "red";
@@ -3470,7 +3470,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 21) {
-                celebrationDay = "SFÂNTA TREIME";
+                saintDay = "SFÂNTA TREIME";
                 saintName = "Sfânta Treime";
                 colors = "red";
                 colorCross = "red";
@@ -3493,7 +3493,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 9) {
-                celebrationDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
+                saintDay = "INTRAREA DOMNULUI ÎN IERUSALIM";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3507,7 +3507,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 3) {
 
             if (day == 16) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3515,7 +3515,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 17) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3523,7 +3523,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 18) {
-                celebrationDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
+                saintDay = "ÎNVIEREA DOMNULUI (Sfintele Paști)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3531,7 +3531,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 21) {
-                celebrationDay = "IZVORUL TĂMĂDUIRII";
+                saintDay = "IZVORUL TĂMĂDUIRII";
                 saintName = "Maica Domnului";
                 colors = "red";
                 colorCross = "red";
@@ -3544,7 +3544,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (month == 4) {
 
             if (day == 25) {
-                celebrationDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
+                saintDay = "ÎNĂLȚAREA DOMNULUI (Ziua Eroilor)";
                 saintName = "Domnul Iisus Hristos";
                 colors = "red";
                 colorCross = "red";
@@ -3560,7 +3560,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
             if (day == 4) {
-                celebrationDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
+                saintDay = "POGORÂREA SFÂNTULUI DUH (Cincizecimea sau Rusaliile)";
                 saintName = "Sfântul Duh";
                 colors = "red";
                 colorCross = "red";
@@ -3568,7 +3568,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (day == 5) {
-                celebrationDay = "SFÂNTA TREIME";
+                saintDay = "SFÂNTA TREIME";
                 saintName = "Sfânta Treime";
                 colors = "red";
                 colorCross = "red";
@@ -3595,9 +3595,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     document.querySelector("#todayDate").style.color = colors;
 
-    document.querySelector(".celebrationDay").innerHTML = celebrationDay;
+    document.querySelector(".saintDay").innerHTML = saintDay;
 
-    document.querySelector(".celebrationDay").style.color = colors;
+    document.querySelector(".saintDay").style.color = colors;
 
     document.querySelector("#colorCross").style.color = colorCross;
 

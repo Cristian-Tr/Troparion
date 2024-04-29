@@ -57,6 +57,8 @@ $(document).ready(function () {
     imagesForGreatings();
   });
 
+
+  /*Imagini random
   var greatingsImage = new Array ();
   greatingsImage[0] = "../F1.png";
   greatingsImage[1] = "../F2.png";
@@ -83,7 +85,7 @@ $(document).ready(function () {
   var x = Math.floor(size*Math.random())
   
   $('#randomImagesForGreatings').attr('src',greatingsImage[x]);
-
+*/
 
 
 
