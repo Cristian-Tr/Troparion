@@ -60,7 +60,7 @@ h4 {
 h5 {
   color: cyan;
   text-shadow: .1px .1px .1px white, .1px .1px .1px black !important;
-  font-weight: 700 !important;
+  font-weight: 100 !important;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
