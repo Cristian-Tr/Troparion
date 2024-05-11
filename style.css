@@ -17,8 +17,11 @@ body {
   font-weight: 100;
   text-shadow: .1px .1px .1px white, 1.2px 1.2px 1.2px black;
   margin-top: 1px;
+  margin-left: .5%;
+  margin-right: 3%;
   padding-bottom: 10px;
   text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
 h1 {
@@ -92,7 +95,7 @@ section {
 }
 
 
-#papyrus {
+#papirus {
   width: 98%;
   min-height: 278px;
   margin-top: -20px;
@@ -104,9 +107,9 @@ section {
 }
 
 @media (min-width: 768px) {
-  #papyrus {
+  #papirus {
     width: 32%;
-    min-height: 253px;
+    min-height: 287px;
   }
 }
 

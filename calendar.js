@@ -2617,7 +2617,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "gray";
             colorCross = "gray";
             tropar = "Dumnezeiască odraslă a cretanilor, păstor al cetăţii celei împărăteşti şi povăţuitor sfinţit al creştinilor de la Dunăre, comoara cea de mult preţ a Harkovului, Atanasie înţelepte, primit-ai har bogat de Sus, cu nume nemuritor fiind. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
-            condac ="Ale Ortodoxiei învăţături sădind, spinii relei socotinţe ai tăiat, înmulţind sămânţa credinţei cu plouarea Duhului cuvioase. Pentru aceasta lăudăm pomenirea ta.";
+            condac = "Ale Ortodoxiei învăţături sădind, spinii relei socotinţe ai tăiat, înmulţind sămânţa credinţei cu plouarea Duhului cuvioase. Pentru aceasta lăudăm pomenirea ta Sfinte Ierarh Atanasie.";
         }
 
         if (day == 3) {
@@ -2644,7 +2644,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Mieluşeaua Ta, Iisuse, Irina, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc, și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.";
-            condac = "Fiind împodobită cu frumu seţile fecioriei, Fecioară, şi încununându-te cu stema mucenicilor, Irina, şi stropită fiind cu sângele muceniciei, şi strălucită cu minunile tămăduirilor, cu dreaptă credinţă muceniţă ai primit harul de biruinţă pentru chinuirea ta.";
+            condac = "Fiind împodobită cu frumuseţile fecioriei, Fecioară, şi încununându-te cu stema mucenicilor, Irina, şi stropită fiind cu sângele muceniciei, şi strălucită cu minunile tămăduirilor, cu dreaptă credinţă muceniţă ai primit harul de biruinţă pentru chinuirea ta.";
         }
 
         if (day == 6) {
@@ -2689,7 +2689,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Sfinte Apostol Simone, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
-            condac ="Pe cel ce cu tărie a pus învăţăturile înţelepciunii în sufletele binecredincioşilor, cu laudă să fericim toţi pe Simon de Dumnezeu grăitorul, că înaintea scaunului slavei acum stă, şi cu cei fără de trupuri se veseleşte, rugându-se neîncetat pentru noi toţi.";
+            condac = "Pe cel ce cu tărie a pus învăţăturile înţelepciunii în sufletele binecredincioşilor, cu laudă să fericim toţi pe Simon de Dumnezeu grăitorul, că înaintea scaunului slavei acum stă, şi cu cei fără de trupuri se veseleşte, rugându-se neîncetat pentru noi toţi.";
         }
 
         if (day == 11) {
@@ -2707,7 +2707,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "gray";
             colorCross = "gray";
             tropar = "Astăzi duhovniceşte prăznuieşte Biserica dreptcredincioşilor, şi cu bucurie strigă: Veniţi, iubitorilor de mucenici, să prăznuim pomenirea cea de peste an a luptelor noului mucenic Ioan! Că acesta, dintre noi cu voia lui Dumnezeu răsărind, în împărăteasca cetate a lui Constantin a înflorit minunat, aducând Stăpânului rod bogat şi bine primit, prin mucenicie. Iar acum se roagă neîncetat în ceruri, să se mântuiască sufletele noastre.";
-            condac =  "tatu-s-a nouă astăzi, cel preaînfrumuseţat cu curăţia, tânărul ostaş al Mântuitorului, luminând pe toţi cei ce strigă: Bucură-te, Ioane, mare mucenice al lui Hristos!";
+            condac = "Arătatu-s-a nouă astăzi, cel preaînfrumuseţat cu curăţia, tânărul ostaş al Mântuitorului, luminând pe toţi cei ce strigă: Bucură-te, Ioane, mare mucenice al lui Hristos!";
         }
 
         if (day == 13) {
@@ -2743,7 +2743,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Teodor; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; Slavă Celui ce lucrează prin tine tuturor tămăduiri.";
-            condac = "În casa lui Dumnezeu ca un finic ai înflorit, roade de fapte bune, Domnului aducând prin prea bună pustnicia ta, părinte cuvioase. Pentru aceasta te şi fericeşti, ca cel întocmai stătător cu cei fără de trupuri.";
+            condac = "În casa lui Dumnezeu ca un finic ai înflorit, roade de fapte bune, Domnului aducând prin prea bună pustnicia ta, părinte cuvioase Teodor. Pentru aceasta te şi fericeşti, ca cel întocmai stătător cu cei fără de trupuri.";
         }
 
         if (day == 17) {
@@ -2770,6 +2770,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Patrichie întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            condac = "Ca o sfinţită vistierie a lui lisus, Patrichie, Biserica primind trupul tău, bucurându-se strigă ţie: prin tine toată lumea în pace adâncă se ţine, şi se acoperă de tot eresul nevătămată ca o nebiruită.";
         }
 
         if (day == 20) {
@@ -2778,6 +2779,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Talaleu, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            condac = "Împreună cu mucenicii arătându-te pătimitor te-ai făcut ostaş întrarmat ales împăratului slavei, prin osteneli şi prin chinuri, călcând trufia închinătorilor la idoli. Pentru aceea lăudăm cinstită pomenirea ta, înţelepte Talaleu.";
         }
 
         if (day == 21) {
@@ -2786,6 +2788,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "red";
             colorCross = "red";
             tropar = "Chipul Crucii Tale pe cer văzându-l şi ca Pavel chemarea nu de la oameni luând, cel între împăraţi Apostolul Tău, Doamne, împărăteasca cetate în mâinile Tale o a pus. Pe care pazeşte-o totdeauna în pace, pentru rugăciunile Născătoarei de Dumnezeu, Unule Iubitorule de oameni.";
+            condac = "Constantin astăzi, cu maica sa Elena, Crucea a arătat, lemnul cel preacinstit, care este ruşinarea tuturor iudeilor şi armă credincioşilor împăraţi asupra celor potrivnici. Că pentru noi s-a arătat semn mare, şi în războaie înfricoşător.";
         }
 
         if (day == 22) {
@@ -2794,6 +2797,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Vasilisc, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            condac = "Întru răbdare tare şi ca un bărbat te-ai arătat şi întru minuni prea minunat, arătat purtând înainte numele lui Hristos, ai ruşinat pe chinuitor. Pentru aceasta te cinstim pe tine, Sfinte Vasilisc preacinstite, pururea strigând: Bucură-te frumuseţea cea luminoasă a mucenicilor.";
         }
 
         if (day == 23) {
@@ -2802,6 +2806,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Mihail, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.";
+            condac = "Ca un soare mare răsărind, ai luminat pe toţi cu lumina faptelor tale celor bune şi cu strălucirile minunilor, purtătorule de minuni, cel ce eşti numit cu nume îngeresc.";
         }
 
         if (day == 24) {
@@ -2810,6 +2815,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Al răbdării stâlp ai fost râvnind cuvioase, părinţilor celor mai dinainte: lui Iov întru patimi, lui losif întru ispite şi vieţii celor fără de trup fiind în trup. Simeoane părintele nostru, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
+            condac = "Cele de sus dorind, pe cele de jos ai lepădat şi ca un cer stâlpul făcându-ţi, printr-însul ai strălucit cu raza minunilor cuvioase, şi lui Hristos Dumnezeului tuturor te rogi neîncetat pentru noi toţi.";
         }
 
         if (day == 25) {
@@ -2818,6 +2824,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "gray";
             colorCross = "gray";
             tropar = "Ca pe o dumnezeiască vistierie ascunsă în pământ, Hristos a descoperit capul tău nouă, Proorocule şi Înaintemergătorule; deci toţi adunându-ne întru aflarea lui, cu cântări de Dumnezeu grăitoare pe Mântuitorul lăudăm, Cel Ce ne mântuieşte pe noi din stricăciune cu rugăciunile tale.";
+            condac = "Stâlpul cel luminos şi dumnezeiesc, care s-a arătat în lume, sfeşnicul cel mergător înaintea Soarelui, arătând în toate marginile lumii luminatul şi cinstitul său cap, sfinţeşte pe cei ce cu credinţă se închină lui, şi strigă: înţelepte Botezătorule al lui Hristos, miluieşte-ne pe noi pe toţi.";
         }
 
         if (day == 26) {
@@ -2826,14 +2833,16 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Sfinte Apostol Carp, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
+            condac = "Ca pe o stea prealuminoasă câştigându-te Biserica pe tine, apostole Carp, cu darea cea multă a minunilor tale pururea se luminează; mântuieşte pe cei ce cu credinţă cinstesc pomenirea ta.";
         }
 
         if (day == 27) {
-            saintDay = "Sfântul Mărturisitor Ioan Rusul";
-            saintName = "Sfântul Mucenic Ioan Rusul";
+            saintDay = "Sfântul Mucenic Iuliu Veteranul";
+            saintName = "Sfântul Mucenic Iuliu";
             colors = "white";
             colorCross = "transparent";
-            tropar = "Cel ce te-a chemat pe tine de pe pământ la lumea cea cerească, ține și după moarte, neschimbat, trupul tău, Sfinte. Căci tu în Asia ai fost dus prizonier și acolo te-ai unit cu Hristos, Ioane. Deci pe Acela roagă-l să mântuiască sufletele noastre.";
+            tropar = "Cu podoaba virtuților strălucind și împodobit cu lumina muceniciei fiind, Sfinte Iuliu, strălucești mai mult decât soarele, diamantule slăvit, luminând pe cei ce-ți fac cu dragoste pomenirea cea de lumină-purtătoare, de-Hristos încununatule.";
+            condac = "Pe Mucenicul cel destoinic și preaînțelept, pe Sfântul Iuliu, pe ostașul Ziditorului, să-l cinstim după dreptate toți credincioșii; că îndrăzneală dobândind la Împăratul ceresc, mijlocește celor care îl laudă, zicând: Bucură-te, de Hristos încununatule.";
         }
 
         if (day == 28) {
@@ -2842,6 +2851,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Nichita, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.";
+            condac = "Strălucind cu lumina faptelor tale, te-ai făcut moştenitor scaunului celui apostolesc, preacuvioase Nichita şi ca un soare ai luminat turma ta, părinte, umplând pe toţi de dumnezeieştile învăţături. Pentru aceasta strigăm Ţie: Bucură-te înfrumuseţarea Calcedonului.";
         }
 
         if (day == 29) {
@@ -2850,6 +2860,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "La fapta bună muceniţă, cu osârdie deprinzându-te, te-ai făcut vas iubit al lui Hristos şi locaş iubit al Preasfântului Duh. Pentru aceasta ai ruşinat pe vrăjmaşul, cel ce se luptă cu neamul omenesc, bine pătimind şi arătat cu sabia credinţei ai ucis pe cel cu nume de fiară, Teodosia; şi bucurându-te te-ai mutat la cer, cerând pururea mare milă, celor ce cu credinţă te cinstesc pe tine.";
+            condac = "Cu ostenelile ai câştigat viaţa cea fără osteneală şi în sângiurile tale ai înecat pe vrăjmaşul cel spurcat al Bisericii lui Hristos, prealăudată şi te bucuri cu oştile cele de sus, acoperind pe cei ce săvârşesc pomenirea ta.";
         }
 
         if (day == 30) {
@@ -2858,14 +2869,16 @@ document.addEventListener('DOMContentLoaded', function () {
             colors = "white";
             colorCross = "transparent";
             tropar = "Întru tine părinte cu osârdie s-a mântuit cel după chip; că luând crucea ai urmat lui Hristos; şi lucrând ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Isaachie, duhul tău.";
+            condac = "Ca un credincios plăcut al lui Dumnezeu, aprinzându-te cu râvnă, pentru Biserica lui Hristos, zăbalele lui Valent ai ţinut şi pentru închiderea Bisericii, moartea lui cea pierzătoare prooroceşte mai înainte ai spus, preacuvioase. Pentru aceasta roagă-te pururea pentru noi, cei ce te cinstim, Preafericite Isaachie.";
         }
 
         if (day == 31) {
             saintDay = "Sfântul Mucenic Ermie";
-            saintName =
-                colors = "white";
+            saintName = "Sfântul Mucenic Ermie";
+            colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Ermie, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            condac = "Chinuindu-te cu osârdie pentru Hristos, întru bătrâneţile cele vitejeşti, ţi-ai câştigat bărbăţie mucenice Ermie şi călcând cugetul cel rău al celor fără de lege, ai rămas nevătămat de adăpările cele cu otravă, strigând: Dumnezeu este cu mine şi nimeni împotriva mea.";
         }
 
 
@@ -3665,7 +3678,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
-    document.querySelector("#greetingsForYou").innerHTML = greetings + " " + saintName + " să vă ocrotească!";
+    document.querySelector("#greetingsForYou").innerHTML = greetings + "</br>" + saintName + " să vă ocrotească!";
 
 
 }); 
