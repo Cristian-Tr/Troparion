@@ -33,15 +33,9 @@ h1 {
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
-h2 {
-  color: cornflowerblue !important;
-  font-weight: 100;
-  margin-top: -25px;
-  margin-bottom: 5px;
-  text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato';
+h2{
+  color: transparent;
 }
-
 h3 {
   color: cornflowerblue;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
@@ -76,6 +70,7 @@ h6 {
 
 b {
   margin-top: -100px;
+  margin: auto;
 }
 
 .container-fluid text-center {
