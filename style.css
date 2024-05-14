@@ -16,10 +16,10 @@ body {
   color: white;
   font-weight: 100;
   text-shadow: .1px .1px .1px white, 1.2px 1.2px 1.2px black;
-  margin-top: 1px;
-  margin-left: 3%;
-  margin-right: 5%;
-  padding-bottom: 21px;
+  margin-top: 9px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 12px;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
@@ -35,10 +35,13 @@ h1 {
 
 h2{
   color: transparent;
+  font-size: 2.5em; 
+  text-align: center; 
+  font-weight: 100;
 }
 
 h3 {
-  color: cornflowerblue;
+  color: cyan;
   text-shadow: .1px .3px .5px white, 1px 1px 1px black !important;
   font-weight: 700;
   padding-top: 1px;
@@ -69,18 +72,13 @@ h6 {
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
-b {
-  margin-top: -100px;
-  margin: auto;
-}
-
 .container-fluid text-center {
   background: white;
 }
 
 main {
   width: 100%;
-  margin-top: 53px;
+  margin-top: 35px;
   background: white;
 }
 
@@ -91,21 +89,24 @@ section {
 }
 
 
-#papirus {
+#papirus-1 {
   width: 98%;
-  min-height: 278px;
+  min-height: 305px;
   margin-top: -20px;
   margin: 10px;
   background: linear-gradient(cornflowerblue, blue);
   background-image: url(./papirus-1.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  border: none;
+  pointer-events: none;
+  text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 @media (min-width: 768px) {
-  #papirus {
-    width: 32%;
-    min-height: 287px;
+  #papirus-1 {
+    width: 23.9%;
   }
 }
 
@@ -119,34 +120,26 @@ section {
 
 
 /* BIBLICAL TEACHINGS - TEXT ANIMATION */
-#commands {
-  padding-top: 1px;
-}
 
-@media (min-width: 768px) {
-  #commands {
-    padding-top: 21px;
-  }
-}
 
-#biblicalTeachings {
+#papirus-2 {
+  width: 98%;
+  min-height: 305px;
+  margin-top: -20px;
+  margin: 10px;
   background: linear-gradient(cornflowerblue, blue);
   background-image: url(./papirus-2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  width: 93%;
-  height: 214px;
-  margin: auto;
   border: none;
   pointer-events: none;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
-
 @media (min-width: 768px) {
-  #biblicalTeachings {
-    width: 286px;
+  #papirus-2 {
+    width: 23.9%;
   }
 }
 
@@ -154,20 +147,16 @@ section {
 .biblical-Teachings {
   color: white;
   width: 100%;
-  height: 53px;
-  padding-top: 1px;
-  padding-left: 12px;
-  padding-right: 14px;
-  padding-bottom: 9px;
+  height: 205px;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-top: 23px;
+  padding-left: 1px;
+  padding-right: 1px;
   margin: auto;
   text-align: center;
 }
 
-@media (min-width: 768px) {
-  .biblical-Teachings {
-    padding-top: 21px;
-  }
-}
 
 /* SPIRITUAL EBOOK styles */
 article {
@@ -175,7 +164,6 @@ article {
   margin-top: 90px;
   overflow: auto;
   width: 100%;
-  transform: translate3d(0, 1px, 0);
 }
 
 article .page {

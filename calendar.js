@@ -2712,7 +2712,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 13) {
             saintDay = "Sfânta Muceniță Glicheria";
-            saintName = "Sfânta Glicheria";
+            saintName = "Sfânta Muceniță Glicheria";
             colors = "white";
             colorCross = "transparent";
             tropar = "Mieluşeaua Ta, Iisuse, Glicheria, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc, și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.";
@@ -2721,10 +2721,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 14) {
             saintDay = "Sfântul Mucenic Isidor din Hiosi";
-            saintName = "Sfântul Isidor";
+            saintName = "Sfântul Mucenic Isidor";
             colors = "white";
             colorCross = "transparent";
-            tropar = "Mucenicul Tău, Doamne, Isidor, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru.; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            tropar = "Mucenicul Tău, Doamne, Isidor, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru. Că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
             condac = "Îndreptător prea mare lumii tu te-ai arătat, sfinte, cu rugăciunile tale cele către Dumnezeu. Pentru aceasta te lăudăm pe tine astăzi, mucenice de Dumnezeu înţelepţite, mărite Isidor.";
         }
 
@@ -2739,7 +2739,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 16) {
             saintDay = "Sfântul Cuvios Teodor cel Sfințit";
-            saintName = "Sfântul Teodor";
+            saintName = "Sfântul Cuvios Teodor";
             colors = "white";
             colorCross = "transparent";
             tropar = "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Teodor; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; Slavă Celui ce lucrează prin tine tuturor tămăduiri.";
@@ -2757,7 +2757,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 18) {
             saintDay = "Sfinţii Mucenici Petru, Dionisie, Paulin, Teodot şi cele şapte fecioare din Ancira";
-            saintName = "Sfântul Paulin";
+            saintName = "Sfântul Mucenic Paulin";
             colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicii Tăi, Doamne, Petru, Dionisie, Paulin, Teodot şi cele şapte fecioare din Ancira, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
@@ -2766,7 +2766,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 19) {
             saintDay = "Sfântul Sfințit Mucenic Patrichie, Episcopul Prusei";
-            saintName = "Sfântul Patrichie";
+            saintName = "Sfântul Mucenic Patrichie";
             colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Patrichie întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
@@ -2775,7 +2775,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (day == 20) {
             saintDay = "Sfântul Mucenic Talaleu";
-            saintName = "Sfântul Talaleu";
+            saintName = "Sfântul mucenic Talaleu";
             colors = "white";
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Talaleu, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
