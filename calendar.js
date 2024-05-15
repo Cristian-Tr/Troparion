@@ -1,6 +1,55 @@
 document.addEventListener('DOMContentLoaded', function () {
 
 
+    var commands = ['Să iubeşti pe aproapele tău ca pe tine însuţi!', 'Să nu vă jurați nicidecum!', 'Adunați-vă comori în cer!', 'Când faci milostenie, nu trâmbiţa înaintea ta!', 'Când postiți, nu fiți triști, ca fățarnicii!', 'Nu judecați, ca să nu fiți judecați!', 'Cu judecata cu care judecați, cu aceea veți fi judecați!', 'Cereți și vi se va da!', 'Căutați și veți afla!', 'Bateți și vi se va deschide!', 'Iubiți pe vrăjmașii voștri!', 'Binecuvântați pe cei ce vă blestemă!', 'Faceți bine celor ce vă urăsc!', 'Rugați-vă pentru cei ce vă vatămă și vă prigonesc!', 'Căutați mai întâi Împărăția lui Dumnezeu!', 'Cel ce vine la Mine nu va flămânzi!', 'Cel ce crede în Mine are viață veșnică!', 'Nu judecați după înfățișare!', 'Să vă iubiţi unul pe altul, precum v-am iubit Eu!', 'Voi sunteţi prietenii Mei, dacă faceţi ceea ce vă poruncesc!', 'Cel ce crede în Mine, chiar dacă va muri, va trăi!', 'Dacă păziţi poruncile Mele, veţi rămâne întru iubirea Mea!', 'De Mă iubiţi, păziţi poruncile Mele!', 'Ce-i folosește omului să câștige lumea întreagă, dacă își pierde sufletul?', 'Ce ar putea să dea omul, în schimb, pentru sufletul său?', 'Cel ce va crede şi se va boteza se va mântui!', 'Cel ce nu va crede se va osândi!', 'Cel ce nu-și ia crucea și nu-Mi urmeză Mie nu este vrednic de Mine!', 'Veniți la Mine toți cei osteniți și împovărați, și Eu vă voi odihni pe voi!', 'Pentru orice cuvânt deșert pe care-l vor rosti, oamenii vor da socoteală în ziua judecății!'];
+
+    var scrollingText = function (el, leftToRightScroll, period) {
+        this.leftToRightScroll = leftToRightScroll;
+        this.el = el;
+        this.startCommandNumber = Math.floor(Math.random() * commands.length);
+        this.period = parseInt(period, 100) || 4000;
+        this.txt = '';
+        this.tick();
+        this.deleting = false;
+    };
+
+    scrollingText.prototype.tick = function () {
+        var i = this.startCommandNumber % this.leftToRightScroll.length;
+        var fullTxt = this.leftToRightScroll[i];
+
+        if (this.deleting) {
+            this.txt = fullTxt.substring(0, this.txt.length - 1);
+        } else {
+            this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+
+        this.el.innerHTML = this.txt;
+
+        var that = this;
+        var delta = 15 - Math.random() * 100;
+
+        if (this.deleting) { delta /= 2; }
+
+        if (!this.deleting && this.txt === fullTxt) {
+            delta = this.period;
+            this.deleting = true;
+        } else if (this.deleting && this.txt === '') {
+            this.deleting = false;
+            this.startCommandNumber++;
+            delta = 10;
+        }
+
+        setTimeout(function () {
+            that.tick();
+        }, delta);
+    };
+    window.onload = function () {
+        var element = document.querySelectorAll('.biblical-Teachings');
+        new scrollingText(element[0], commands, 4500);
+    }
+
+
+
 
     //Data curenta in limba romana
     var date = new Date();
@@ -2720,7 +2769,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (day == 14) {
-            saintDay = "Sfântul Mucenic Isidor din Hiosi";
+            saintDay = "Sfântul Mucenic Isidor din Chios";
             saintName = "Sfântul Mucenic Isidor";
             colors = "white";
             colorCross = "transparent";
@@ -2732,8 +2781,8 @@ document.addEventListener('DOMContentLoaded', function () {
             saintDay = "Sfântul Cuvios Pahomie cel Mare";
             saintName = "Sfântul Cuvios Pahomie";
             colors = "white";
-            colorCross = "transparent";
-            tropar = "Arătatu-te-ai mai mare turmei Păstorului celui mare, în dreptând turmele sihastrilor la staulul cel ceresc, părinte Pahomie, şi schima cea de acolo, cuvioase, pustnicilor deprin zând, şi pe aceasta iarăţi o ai învăţat; şi acum împreună cu aceia te bucuri şi te veseleşti în cereştile locaşuri.";
+            colorCross = "red";
+            tropar = "Arătatu-te-ai mai mare turmei Păstorului celui mare, îndreptând turmele sihaștrilor la staulul cel ceresc, părinte Pahomie, şi schima cea de acolo, cuvioase, pustnicilor deprinzând, şi pe aceasta iarăși o ai învăţat; şi acum împreună cu aceia te bucuri şi te veseleşti în cereştile locaşuri.";
             condac = "Luminător luminos te-ai arătat marginilor lumii şi pustiul l-ai făcut cetate cu mulţime de călugări. Pe tine însuţi te-ai răstignit, Crucea ta pe umere luându-ţi şi cu înfrânarea trupul ţi-ai topit, rugându-te neîncetat pentru noi toţi.";
         }
 
