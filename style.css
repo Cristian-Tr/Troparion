@@ -54,7 +54,7 @@ h4 {
   font-weight: 100;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: .1px .1px .1px white, 1.8px 1.2px 1.2px black;
+  text-shadow: 1.8px 1.2px 1px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato';
 }
 
@@ -114,7 +114,6 @@ section {
   font-weight: 100;
   text-align: justify;
   text-justify: inter-word;
-  text-shadow: .1px .1px .1px white, 1.8px 1.2px 1.2px black;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
