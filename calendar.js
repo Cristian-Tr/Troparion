@@ -2781,7 +2781,7 @@ document.addEventListener('DOMContentLoaded', function () {
             saintDay = "Sfântul Cuvios Pahomie cel Mare";
             saintName = "Sfântul Cuvios Pahomie";
             colors = "white";
-            colorCross = "red";
+            colorCross = "transparent";
             tropar = "Arătatu-te-ai mai mare turmei Păstorului celui mare, îndreptând turmele sihaștrilor la staulul cel ceresc, părinte Pahomie, şi schima cea de acolo, cuvioase, pustnicilor deprinzând, şi pe aceasta iarăși o ai învăţat; şi acum împreună cu aceia te bucuri şi te veseleşti în cereştile locaşuri.";
             condac = "Luminător luminos te-ai arătat marginilor lumii şi pustiul l-ai făcut cetate cu mulţime de călugări. Pe tine însuţi te-ai răstignit, Crucea ta pe umere luându-ţi şi cu înfrânarea trupul ţi-ai topit, rugându-te neîncetat pentru noi toţi.";
         }
