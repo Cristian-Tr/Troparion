@@ -3689,7 +3689,7 @@ document.addEventListener('DOMContentLoaded', function () {
         this.leftToRightScroll = leftToRightScroll;
         this.el = el;
         this.startCommandNumber = Math.floor(Math.random() * commands.length);
-        this.period = parseInt(period, 100) || 4000;
+        this.period = parseInt(period, 100) || 5300;
         this.txt = '';
         this.tick();
         this.deleting = false;
@@ -3727,7 +3727,7 @@ document.addEventListener('DOMContentLoaded', function () {
     };
     window.onload = function () {
         var element = document.querySelectorAll('.biblical-Teachings');
-        new scrollingText(element[0], commands, 4500);
+        new scrollingText(element[0], commands, 15300);
     }
 
 
