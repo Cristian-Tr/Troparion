@@ -177,14 +177,6 @@ article .page {
   background: linear-gradient(cornflowerblue, blue);
 }
 
-.category dt h4 {
-  color: white;
-  text-shadow: 1px 1px 1px black;
-  font-weight: 700;
-  text-align: center;
-  margin-top: 3.5px;
-}
-
 .category dd {
   margin: auto;
   padding: 9px;
