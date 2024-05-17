@@ -177,6 +177,15 @@ article .page {
   background: linear-gradient(cornflowerblue, blue);
 }
 
+.category dt h4 {
+  color: white;
+  font-size: 1.4em;
+  font-weight: 100;
+  font-weight: 700; 
+  text-align: center; 
+  margin-top: 3.5px;
+}
+
 .category dd {
   margin: auto;
   padding: 9px;
