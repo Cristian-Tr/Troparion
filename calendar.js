@@ -3711,7 +3711,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelector("#condac").innerHTML = condac;
 
 
-    document.getElementById('videoTropar').innerHTML = "<iframe title='YouTube video player'   type=\'text/html\' width='560' height='315' align=middle frameborder='0' allowFullScreen  "  + videoTropar + " ></iframe>"
+    document.getElementById('videoTropar').innerHTML = "<iframe title='YouTube video player'   type=\'text/html\' frameborder='0' allowFullScreen  "  + videoTropar + " ></iframe>"
 
 
 

@@ -157,10 +157,18 @@ section {
  
 }
 iframe {
+  width: 94%;
+  height: 315px;
   display: block;
   margin: 0 auto;
+  padding-left: 1%;
 }
 
+@media (min-width: 768px) {
+  iframe {
+    width: 23.9%;
+  }
+}
 /* SPIRITUAL EBOOK styles */
 article {
   background: white;
