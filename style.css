@@ -91,7 +91,7 @@ section {
 
 #papirus-1 {
   width: 95.4%;
-  min-height: 359px;
+  min-height: 372px;
   margin-top: -20px;
   margin: .5%;
   background: linear-gradient(cornflowerblue, blue);
@@ -122,7 +122,7 @@ section {
 
 #papirus-2 {
   width: 95.4%;
-  min-height: 359px;
+  min-height: 372px;
   margin-top: -20px;
   margin: .5%;
   background: linear-gradient(cornflowerblue, blue);
@@ -139,7 +139,6 @@ section {
     width: 19%;
   }
 }
-
 
 iframe {
   width: 93%;
