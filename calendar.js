@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-
     //DATA ÎN LIMBA ROMÂNĂ
     var date = new Date();
     var dayNumber = date.getDate();
@@ -30,13 +29,18 @@ document.addEventListener('DOMContentLoaded', function () {
     weekDay[4] = "Joi";
     weekDay[5] = "Vineri";
     weekDay[6] = "Sâmbătă";
+
+    
+    var hour = date.getHours();
+   
+
     var dayName = weekDay[date.getDay()];
 
     var year = date.getFullYear();
 
     var todayDate = dayName + "<br>" + dayNumber + " " + monthNames + " " + year;
 
-    document.querySelector('#todayDate').innerHTML = todayDate;
+   
 
 
 
@@ -49,11 +53,12 @@ document.addEventListener('DOMContentLoaded', function () {
     var calendarYears = calendarDates.getFullYear();
     var saintDay;
     var saintName;
+    var greetings;
     var colors;
     var colorCross;
     var tropar;
     var condac
-
+    var videoTropar
 
 
 
@@ -2607,6 +2612,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "A proorocului Tău, Doamne, Ieremia pomenire prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre.";
             condac = "Curăţindu-ţi cu duhul inima ta cea dătătoare de lumină, mărite mare prooroc şi mucenic Ieremia, ai primit de sus harul proorociei, şi la margini cu mare glas ai strigat: iată Dumnezeul nostru, şi nu este asemenea ca Dânsul; căci Acesta întrupându-Se S-a arătat pe pământ.";
+            videoTropar = "src='https://www.youtube.com/embed/XLHMfdiMEWk?si=Cau-CMw_jkvyBnF5'";
         }
 
         if (day == 2) {
@@ -2616,6 +2622,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "gray";
             tropar = "Dumnezeiască odraslă a cretanilor, păstor al cetăţii celei împărăteşti şi povăţuitor sfinţit al creştinilor de la Dunăre, comoara cea de mult preţ a Harkovului, Atanasie înţelepte, primit-ai har bogat de Sus, cu nume nemuritor fiind. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.";
             condac = "Ale Ortodoxiei învăţături sădind, spinii relei socotinţe ai tăiat, înmulţind sămânţa credinţei cu plouarea Duhului cuvioase. Pentru aceasta lăudăm pomenirea ta Sfinte Ierarh Atanasie.";
+            videoTropar = "src='https://www.youtube.com/embed/NKNVAP64sbdnCOKr'";
         }
 
         if (day == 3) {
@@ -2625,6 +2632,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "gray";
             tropar = "Pe luceafărul nostru cel din Oltenia, cu închinare de taină, ca pe un părinte ales să-l slăvim acum noi, ucenicii lui; că înainte-văzător s-a făcut Sfântul Irodion, de boli pe toţi vindecându-i şi duhovnic dumnezeiesc s-a arătat în viaţa sa.";
             condac = "Cel ce ai fost vrednic cinstitor al Preacuratei Maici a Domnului, încredinţându-te ei ca un fiu, ai ajuns în lăcaşurile Domnului jertfelnic sfânt al Dumnezeirii; că aprins fiind de focul Duhului Sfânt, ai întărit în rugăciune pe ucenicii tăi, cu care te bucuri în veci Părinte Irodioane!";
+            videoTropar = "src='https://www.youtube.com/embed/lazSIpsfC1k?si=VD9h5N08DgaL_zZZ'";
         }
 
         if (day == 4) {
@@ -2634,6 +2642,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mieluşeaua Ta, Iisuse, Pelaghia, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc, și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește/mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.";
             condac = "Urând cele vremelnice, şi împărtăşindu-te de bunătăţile cele cereşti, pentru chinuire ai primit cunună, preacinstită Pelaghia, şi pâraiele sângiurilor ca un dar ai adus Stăpânului Hristos. Roagă-te să ne mântuiască pe noi din nevoi, cei ce cinstim pomenirea ta.";
+            videoTropar = "src='https://www.youtube.com/embed/K5sKxSRbMV8?si=HivKQtjrJtafSeB0'";
         }
 
         if (day == 5) {
@@ -2643,6 +2652,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mieluşeaua Ta, Iisuse, Irina, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc, și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.";
             condac = "Fiind împodobită cu frumuseţile fecioriei, Fecioară, şi încununându-te cu stema mucenicilor, Irina, şi stropită fiind cu sângele muceniciei, şi strălucită cu minunile tămăduirilor, cu dreaptă credinţă muceniţă ai primit harul de biruinţă pentru chinuirea ta.";
+            videoTropar = "src='https://www.youtube.com/embed/0yeHh7sb56c?si=NfPD-0AXRO4BCeIg'";
         }
 
         if (day == 6) {
@@ -2652,15 +2662,17 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Bogăţia virtuţilor lui Iov văzând-o vrăjmaşul drepţilor, a uneltit a o fura, şi rupând turnul trupului, vistieria duhului nu o a furat; căci a aflat întrarmat sufletul celui fără prihană, iar pe mine şi golindu-mă m-a robit. Deci mai înainte de sfârşit întâmpinându-mă, izbăveşte-mă de cel viclean, Mântuitorule, şi mă mântuieşte.";
             condac = "Ca un adevărat şi drept, de Dumnezeu cinstitor şi fără prihană, şi sfinţit arătându-te preamărite, sluga lui Dumnezeu cea adevărată, ai luminat lumea cu răbdarea ta, prearăbdătorule şi preaviteazule; pentru aceasta toţi, de Dumnezeu înţelepţite Iov, lăudăm pomenirea ta.";
+            videoTropar = "src='https://www.youtube.com/embed/vX7R9t4IcYc?si=Wf7v9VxR8ZAHMFTy'";
         }
 
         if (day == 7) {
-            saintDay = "Arătarea semnului Sfintei Cruci la Ierusalim";
-            saintName = "Sfânta Cruce";
+            saintDay = "Sfântul Mucenic Acachie";
+            saintName = "Sfântul Mucenic Acachie";
             colors = "white";
             colorCross = "transparent";
-            tropar = "Chipul Crucii Tale acum mai mult decât soarele a strălucit, care de la Sfântul Munte până la locul Căpăţânii o ai întins, şi într-însa a Ta putere, Mântuitorule, ai luminat, printr-însa întărind şi pe bine credincioşii împăraţi, pe care îi şi mântuieşte totdeauna în pace, pentru rugăciunile Născătoarei de Dumnezeu, Hristoase Mântuitorule, mântuieşte-ne şi pe noi.";
-            condac = "O, de trei ori fericită şi preacinstită Cruce, pe tine lăudându-te şi închinându-mă ţie, acum mă sfinţesc; pe care Hristos înălţându-Se, a mântuit lumea. Deci întâmpină şi mă mântuieşte cu puterea ta şi din toate nevoile mă slobozeşte, ca să strig ţie: Bucură-te lemn fericit.";
+            tropar = "Mucenicul Tău, Doamne, Acachie, întru nevoinţa sa, cununa nesctricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            condac = "În pâraiele sângiurilor tale, mucenice Acachie, ai înecat pe vrăjmaşul, ruşinând toate oştirile tiranilor. Şi ajungând la cetele cele fără trupuri ale îngerilor, ai primit cununa cea neveştejită a neputrejunii. Pentru aceasta prin rugăciunile tale, izbăveşte-ne pe noi din primejdii.";
+            videoTropar = "src='https://www.youtube.com/embed/fLWiaA-6iOw?si=fE6eLA6yH-SkhUyz'";
         }
 
         if (day == 8) {
@@ -2670,15 +2682,17 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "gray";
             tropar = "Apostole al lui Hristos de Dumnezeu iubite, grăbeşte de izbăveşte pe poporul cel fără de răspuns. Că te primeşte când cazi către El, Cel ce te-a primit când te-ai rezemat pe pieptu-I; pe Care roagă-L, de Dumnezeu cuvântătorule, şi norul păgânilor cel pus asupra noastră să-l risipească, cerându-ne nouă pace şi mare milă.";
             condac = "Măririle tale, iubitorule de feciorie, cine le va spune? Că verşi minuni şi izvorăşti tămăduiri, şi te rogi pentru sufletele noastre, ca un cuvântător de Dumnezeu şi prieten al lui Hristos.";
+            videoTropar = "src='https://www.youtube.com/embed/U0vedo2u14M?si=9M3uzNKengUUX4Ch'";
         }
 
         if (day == 9) {
-            saintDay = "Sfântul Proroc Isaia";
-            saintName = "Sfântul Proroc Isaia";
+            saintDay = "Sfântul Mucenic Hristofor";
+            saintName = "Sfântul Mucenic Hristofor";
             colors = "white";
             colorCross = "transparent";
-            tropar = "A proorocului Tău, Doamne, Isaia pomenire prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre.";
-            condac = "Primind darul proorociri, proorocule şi mucenice Isaia, de Dumnezeu propovăduitorule, tuturor de faţă ai arătat întruparea Domnului la toate marginile pământului cu glas mare strigând: Iată, Fecioara în pântece va lua.";
+            tropar = "Cu haine din sângiuiri împodobindu-te, stai înaintea Domnului împăratul puterilor, Hristofore pururea-mărite, unde cu cetele celor fără de trupuri şi ale mucenicilor cânţi dulce cântare întreit-sfântă şi înfricoşătoare; pentru aceasta prin rugăciunile tale mântuieşte turma ta.";
+            condac = "Săvârşind nevoinţa muceniciei, ai primit de la Dumnezeu cununa biruinţei, fericite Hristofor; pe Care roagă-L, din nevoi să ne izbăvim noi.";
+            videoTropar = "src='https://www.youtube.com/embed/ZxRKFdjfKlY?si=PiUmfEpCxgHteBas'";
         }
 
         if (day == 10) {
@@ -2688,6 +2702,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Sfinte Apostol Simone, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
             condac = "Pe cel ce cu tărie a pus învăţăturile înţelepciunii în sufletele binecredincioşilor, cu laudă să fericim toţi pe Simon de Dumnezeu grăitorul, că înaintea scaunului slavei acum stă, şi cu cei fără de trupuri se veseleşte, rugându-se neîncetat pentru noi toţi.";
+            videoTropar = "src='https://www.youtube.com/embed/HaD_KCvvpvo?si=5AmnvZCyiUm2ue4q'";
         }
 
         if (day == 11) {
@@ -2697,6 +2712,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Mochie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
             condac = "Întrarmându-te cu pavăza dreptei credinţe, taberele necredincioşilor le-ai sfărâmat, sfinţite mucenice, şi cunună de la Domnul ai primit, Mochie; pentru aceasta şi cu îngerii bucurându-te, izbăveşte de primejdii pe cei ce te laudă pe tine, rugându-te neîncetat pentru noi toţi.";
+            videoTropar = "src='https://www.youtube.com/embed/7ZUke72lUR8?si=3dYFH1fcycjABX5E'";
         }
 
         if (day == 12) {
@@ -2706,6 +2722,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "gray";
             tropar = "Astăzi duhovniceşte prăznuieşte Biserica dreptcredincioşilor, şi cu bucurie strigă: Veniţi, iubitorilor de mucenici, să prăznuim pomenirea cea de peste an a luptelor noului mucenic Ioan! Că acesta, dintre noi cu voia lui Dumnezeu răsărind, în împărăteasca cetate a lui Constantin a înflorit minunat, aducând Stăpânului rod bogat şi bine primit, prin mucenicie. Iar acum se roagă neîncetat în ceruri, să se mântuiască sufletele noastre.";
             condac = "Arătatu-s-a nouă astăzi, cel preaînfrumuseţat cu curăţia, tânărul ostaş al Mântuitorului, luminând pe toţi cei ce strigă: Bucură-te, Ioane, mare mucenice al lui Hristos!";
+            videoTropar = "src='https://www.youtube.com/embed/p-u8a0E9U2g?si=sLE0siFzo2iR0rbu'";
         }
 
         if (day == 13) {
@@ -2715,6 +2732,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mieluşeaua Ta, Iisuse, Glicheria, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc, și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.";
             condac = "Pe Fecioara şi de Dumnezeu Născătoarea Maria iubind, ţi-ai păzit fecioria ta nestricată, şi din dragostea cea către Domnul îndemnându-te, cu bărbătesc cuget ai pătimit până la moarte. Pentru aceasta Glicheria, cu îndoită cunună, te-a încununat pe tine Hristos Dumnezeu.";
+            videoTropar = "src='https://www.youtube.com/embed/jVT0tajaX0w?si=TLAo29p99XcqIcjqY'";
         }
 
         if (day == 14) {
@@ -2724,6 +2742,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Isidor, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru. Că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
             condac = "Îndreptător prea mare lumii tu te-ai arătat, sfinte, cu rugăciunile tale cele către Dumnezeu. Pentru aceasta te lăudăm pe tine astăzi, mucenice de Dumnezeu înţelepţite, mărite Isidor.";
+            videoTropar = "src='https://www.youtube.com/embed/QJg8OUFZ2wg?si=vJe08oVSLlIne_7P'";
         }
 
         if (day == 15) {
@@ -2733,6 +2752,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Arătatu-te-ai mai mare turmei Păstorului celui mare, îndreptând turmele sihaștrilor la staulul cel ceresc, părinte Pahomie, şi schima cea de acolo, cuvioase, pustnicilor deprinzând, şi pe aceasta iarăși o ai învăţat; şi acum împreună cu aceia te bucuri şi te veseleşti în cereştile locaşuri.";
             condac = "Luminător luminos te-ai arătat marginilor lumii şi pustiul l-ai făcut cetate cu mulţime de călugări. Pe tine însuţi te-ai răstignit, Crucea ta pe umere luându-ţi şi cu înfrânarea trupul ţi-ai topit, rugându-te neîncetat pentru noi toţi.";
+            videoTropar = "src='https://www.youtube.com/embed/3IAKx71vN8A?si=-LarmZjP29FMcwLM'";
         }
 
         if (day == 16) {
@@ -2742,6 +2762,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Teodor; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui ce ţi-a dat ţie putere; slavă Celui ce te-a încununat pe tine; Slavă Celui ce lucrează prin tine tuturor tămăduiri.";
             condac = "În casa lui Dumnezeu ca un finic ai înflorit, roade de fapte bune, Domnului aducând prin prea bună pustnicia ta, părinte cuvioase Teodor. Pentru aceasta te şi fericeşti, ca cel întocmai stătător cu cei fără de trupuri.";
+            videoTropar = "src='https://www.youtube.com/embed/YRWDTlsXPPE?si=by2hW5dTd5O_ZU9L'";
         }
 
         if (day == 17) {
@@ -2751,15 +2772,17 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Sfinte Apostol Andronic roagă pe milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.";
             condac = "Pe steaua cea prealuminoasă, care cu lumina dumnezeieştii înţelepciuni a luminat neamurile, pe Andronic, apostolul lui Hristos, împreună cu înţeleapta Iunia, care s-a nevoit cu dânsul în propovăduire, să-i lăudăm, strigând: rugaţi-vă neîncetat lui Hristos pentru noi toţi.";
+            videoTropar = "src='https://www.youtube.com/embed/BoDuB-g6GNk?si=JrNCdwKXjZINKMZI'";
         }
 
         if (day == 18) {
-            saintDay = "Sfinţii Mucenici Petru, Dionisie, Paulin, Teodot şi cele şapte fecioare din Ancira";
-            saintName = "Sfântul Mucenic Paulin";
+            saintDay = "Sfinţii Mucenici Petru şi Teodot";
+            saintName = "Sfinţii Mucenici Petru şi Teodot";
             colors = "white";
             colorCross = "transparent";
-            tropar = "Mucenicii Tăi, Doamne, Petru, Dionisie, Paulin, Teodot şi cele şapte fecioare din Ancira, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
-            condac = "Luminători străluciţi v-aţi arătat dumnezeieşti mucenici cei opt la număr, şi prin strălucirile minunilor luminaţi toată făptura, neîncetat izgonind noaptea cea adâncă a neputinţelor, şi unui Hristos Dumnezeu rugându-vă, ca să dăruiască nouă mare milă.";
+            tropar = "Mucenicii Tăi, Doamne, Petru şi Teodot, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
+            condac = "Luminători străluciţi v-aţi arătat dumnezeieşti mucenici  Petru şi Teodot, şi prin strălucirile minunilor luminaţi toată făptura, neîncetat izgonind noaptea cea adâncă a neputinţelor, şi unui Hristos Dumnezeu rugându-vă, ca să dăruiască nouă mare milă.";
+            videoTropar = "src='https://www.youtube.com/embed/I02OmKfdMY4?si=zOw6qR05ioYcdW98'";
         }
 
         if (day == 19) {
@@ -2769,6 +2792,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Patrichie întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
             condac = "Ca o sfinţită vistierie a lui lisus, Patrichie, Biserica primind trupul tău, bucurându-se strigă ţie: prin tine toată lumea în pace adâncă se ţine, şi se acoperă de tot eresul nevătămată ca o nebiruită.";
+            videoTropar = "src='https://www.youtube.com/embed/UFEROKh7FMY?si=4r8cGeakaaObSZA3'";
         }
 
         if (day == 20) {
@@ -2778,6 +2802,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Talaleu, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
             condac = "Împreună cu mucenicii arătându-te pătimitor te-ai făcut ostaş întrarmat ales împăratului slavei, prin osteneli şi prin chinuri, călcând trufia închinătorilor la idoli. Pentru aceea lăudăm cinstită pomenirea ta, înţelepte Talaleu.";
+            videoTropar = "src='https://www.youtube.com/embed/uX_6IJV31JM?si=TyA0iUX3JuigNnWe'";
         }
 
         if (day == 21) {
@@ -2787,6 +2812,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "red";
             tropar = "Chipul Crucii Tale pe cer văzându-l şi ca Pavel chemarea nu de la oameni luând, cel între împăraţi Apostolul Tău, Doamne, împărăteasca cetate în mâinile Tale o a pus. Pe care pazeşte-o totdeauna în pace, pentru rugăciunile Născătoarei de Dumnezeu, Unule Iubitorule de oameni.";
             condac = "Constantin astăzi, cu maica sa Elena, Crucea a arătat, lemnul cel preacinstit, care este ruşinarea tuturor iudeilor şi armă credincioşilor împăraţi asupra celor potrivnici. Că pentru noi s-a arătat semn mare, şi în războaie înfricoşător.";
+            videoTropar = "src='https://www.youtube.com/embed/fChYLBJfyAs?si=bEYmr0zPwccdu7bA'";
         }
 
         if (day == 22) {
@@ -2796,6 +2822,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Vasilisc, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
             condac = "Întru răbdare tare şi ca un bărbat te-ai arătat şi întru minuni prea minunat, arătat purtând înainte numele lui Hristos, ai ruşinat pe chinuitor. Pentru aceasta te cinstim pe tine, Sfinte Vasilisc preacinstite, pururea strigând: Bucură-te frumuseţea cea luminoasă a mucenicilor.";
+            videoTropar = "src='https://www.youtube.com/embed/7Ffsd71l9Rc?si=y31k51TuYLm1K1RV'";
         }
 
         if (day == 23) {
@@ -2805,6 +2832,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Mihail, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.";
             condac = "Ca un soare mare răsărind, ai luminat pe toţi cu lumina faptelor tale celor bune şi cu strălucirile minunilor, purtătorule de minuni, cel ce eşti numit cu nume îngeresc.";
+            videoTropar = "src='https://www.youtube.com/embed/kJHhS2At6l0?si=7cath3__HjGUSM1Q'";
         }
 
         if (day == 24) {
@@ -2814,6 +2842,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Al răbdării stâlp ai fost râvnind cuvioase, părinţilor celor mai dinainte: lui Iov întru patimi, lui losif întru ispite şi vieţii celor fără de trup fiind în trup. Simeoane părintele nostru, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.";
             condac = "Cele de sus dorind, pe cele de jos ai lepădat şi ca un cer stâlpul făcându-ţi, printr-însul ai strălucit cu raza minunilor cuvioase, şi lui Hristos Dumnezeului tuturor te rogi neîncetat pentru noi toţi.";
+            videoTropar = "src='https://www.youtube.com/embed/lzw4qndJf5M?si=yE0ajC35xiTfGQsw'";
         }
 
         if (day == 25) {
@@ -2823,6 +2852,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "gray";
             tropar = "Ca pe o dumnezeiască vistierie ascunsă în pământ, Hristos a descoperit capul tău nouă, Proorocule şi Înaintemergătorule; deci toţi adunându-ne întru aflarea lui, cu cântări de Dumnezeu grăitoare pe Mântuitorul lăudăm, Cel Ce ne mântuieşte pe noi din stricăciune cu rugăciunile tale.";
             condac = "Stâlpul cel luminos şi dumnezeiesc, care s-a arătat în lume, sfeşnicul cel mergător înaintea Soarelui, arătând în toate marginile lumii luminatul şi cinstitul său cap, sfinţeşte pe cei ce cu credinţă se închină lui, şi strigă: înţelepte Botezătorule al lui Hristos, miluieşte-ne pe noi pe toţi.";
+            videoTropar = "src='https://www.youtube.com/embed/tUEbiBPsy_k?si=OMhjZX7m1ElD530c'";
         }
 
         if (day == 26) {
@@ -2832,15 +2862,17 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Sfinte Apostol Carp, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.";
             condac = "Ca pe o stea prealuminoasă câştigându-te Biserica pe tine, apostole Carp, cu darea cea multă a minunilor tale pururea se luminează; mântuieşte pe cei ce cu credinţă cinstesc pomenirea ta.";
+            videoTropar = "src='https://www.youtube.com/embed/npg2CSvnii4?si=zKutPNB6Q-6jyDD7'";
         }
 
         if (day == 27) {
-            saintDay = "Sfântul Mucenic Iuliu Veteranul";
-            saintName = "Sfântul Mucenic Iuliu";
+            saintDay = "Sfântul Mărturisitor Ioan Rusul";
+            saintName = "Sfântul Ioan Rusul";
             colors = "white";
             colorCross = "transparent";
-            tropar = "Cu podoaba virtuților strălucind și împodobit cu lumina muceniciei fiind, Sfinte Iuliu, strălucești mai mult decât soarele, diamantule slăvit, luminând pe cei ce-ți fac cu dragoste pomenirea cea de lumină-purtătoare, de-Hristos încununatule.";
+            tropar = "Cel ce te-a chemat pe tine de pe pământ la lumea cea cerească, ține și după moarte, neschimbat, trupul tău, Sfinte. Căci tu în Asia ai fost dus prizonier și acolo te-ai unit cu Hristos, Ioane. Deci pe Acela roagă-l să mântuiască sufletele noastre.";
             condac = "Pe Mucenicul cel destoinic și preaînțelept, pe Sfântul Iuliu, pe ostașul Ziditorului, să-l cinstim după dreptate toți credincioșii; că îndrăzneală dobândind la Împăratul ceresc, mijlocește celor care îl laudă, zicând: Bucură-te, de Hristos încununatule.";
+            videoTropar = "src='https://www.youtube.com/embed/yOz5AH7CWUU?si=eS8NOFZUSZ5lZ9bu'";
         }
 
         if (day == 28) {
@@ -2850,6 +2882,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Nichita, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.";
             condac = "Strălucind cu lumina faptelor tale, te-ai făcut moştenitor scaunului celui apostolesc, preacuvioase Nichita şi ca un soare ai luminat turma ta, părinte, umplând pe toţi de dumnezeieştile învăţături. Pentru aceasta strigăm Ţie: Bucură-te înfrumuseţarea Calcedonului.";
+            videoTropar = "src='https://www.youtube.com/embed/EbzYqP1UaAw?si=EkPVaYwCnF1k9QUo'";
         }
 
         if (day == 29) {
@@ -2859,6 +2892,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "La fapta bună muceniţă, cu osârdie deprinzându-te, te-ai făcut vas iubit al lui Hristos şi locaş iubit al Preasfântului Duh. Pentru aceasta ai ruşinat pe vrăjmaşul, cel ce se luptă cu neamul omenesc, bine pătimind şi arătat cu sabia credinţei ai ucis pe cel cu nume de fiară, Teodosia; şi bucurându-te te-ai mutat la cer, cerând pururea mare milă, celor ce cu credinţă te cinstesc pe tine.";
             condac = "Cu ostenelile ai câştigat viaţa cea fără osteneală şi în sângiurile tale ai înecat pe vrăjmaşul cel spurcat al Bisericii lui Hristos, prealăudată şi te bucuri cu oştile cele de sus, acoperind pe cei ce săvârşesc pomenirea ta.";
+            videoTropar = "src='https://www.youtube.com/embed/5WoeHbiGw4U?si=D09dCjJvKZMydJDa'";
         }
 
         if (day == 30) {
@@ -2868,6 +2902,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Întru tine părinte cu osârdie s-a mântuit cel după chip; că luând crucea ai urmat lui Hristos; şi lucrând ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Isaachie, duhul tău.";
             condac = "Ca un credincios plăcut al lui Dumnezeu, aprinzându-te cu râvnă, pentru Biserica lui Hristos, zăbalele lui Valent ai ţinut şi pentru închiderea Bisericii, moartea lui cea pierzătoare prooroceşte mai înainte ai spus, preacuvioase. Pentru aceasta roagă-te pururea pentru noi, cei ce te cinstim, Preafericite Isaachie.";
+            videoTropar = "src='https://www.youtube.com/embed/BI05TLo9QwU?si=r6w5KFXS5kqqnnXe'";
         }
 
         if (day == 31) {
@@ -2877,6 +2912,7 @@ document.addEventListener('DOMContentLoaded', function () {
             colorCross = "transparent";
             tropar = "Mucenicul Tău, Doamne, Ermie, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.";
             condac = "Chinuindu-te cu osârdie pentru Hristos, întru bătrâneţile cele vitejeşti, ţi-ai câştigat bărbăţie mucenice Ermie şi călcând cugetul cel rău al celor fără de lege, ai rămas nevătămat de adăpările cele cu otravă, strigând: Dumnezeu este cu mine şi nimeni împotriva mea.";
+            videoTropar = "src='https://www.youtube.com/embed/cW2dT32pkkw?si=qTz57nH_OkrpiJ1r'";
         }
 
 
@@ -3640,25 +3676,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-
-    document.querySelector("#todayDate").style.color = colors;
-
-    document.querySelector(".saintDay").innerHTML = saintDay;
-
-    document.querySelector(".saintDay").style.color = colors;
-
-    document.querySelector("#colorCross").style.color = colorCross;
-
-    document.querySelector("#tropar").innerHTML = tropar;
-
-    document.querySelector("#condac").innerHTML = condac;
-
-
-
-    var hour = date.getHours();
-    var greetings;
-
-
     if (hour < 5) {
         greetings = "Bine ați venit!";
 
@@ -3676,7 +3693,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
+
+    document.querySelector("#colorCross").style.color = colorCross;
+
+    document.querySelector('#todayDate').innerHTML = todayDate;
+
+    document.querySelector("#todayDate").style.color = colors;
+
+    document.querySelector(".saintDay").innerHTML = saintDay;
+
+    document.querySelector(".saintDay").style.color = colors;
+
     document.querySelector("#greetingsForYou").innerHTML = greetings + "</br>" + saintName + " să vă ocrotească!";
+
+    document.querySelector("#tropar").innerHTML = tropar;
+
+    document.querySelector("#condac").innerHTML = condac;
+
+
+    document.getElementById('videoTropar').innerHTML = "<iframe title='YouTube video player'   type=\'text/html\' width='560' height='315' align=middle frameborder='0' allowFullScreen  "  + videoTropar + " ></iframe>"
 
 
 

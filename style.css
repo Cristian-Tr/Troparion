@@ -142,6 +142,24 @@ section {
   }
 }
 
+#video {
+  width: 700px;
+  min-height: 345px;
+  margin-top: 20px;
+  margin: 10px;
+  background: linear-gradient(cornflowerblue, blue);
+  background-image: url(./papirus-2.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border: none;
+  pointer-events: none;
+  text-align: center;
+ 
+}
+iframe {
+  display: block;
+  margin: 0 auto;
+}
 
 /* SPIRITUAL EBOOK styles */
 article {
