@@ -91,22 +91,21 @@ section {
 
 #papirus-1 {
   width: 95.4%;
-  min-height: 345px;
+  min-height: 305px;
   margin-top: -20px;
-  margin: 10px;
+  margin: .5%;
   background: linear-gradient(cornflowerblue, blue);
   background-image: url(./papirus-1.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border: none;
-  pointer-events: none;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 @media (min-width: 768px) {
   #papirus-1 {
-    width: 23.9%;
+    width: 19%;
   }
 }
 
@@ -123,52 +122,31 @@ section {
 
 #papirus-2 {
   width: 95.4%;
-  min-height: 345px;
+  min-height: 305px;
   margin-top: -20px;
-  margin: 10px;
+  margin: .5%;
   background: linear-gradient(cornflowerblue, blue);
   background-image: url(./papirus-2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border: none;
-  pointer-events: none;
   text-align: center;
   font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
 }
 
 @media (min-width: 768px) {
   #papirus-2 {
-    width: 23.9%;
+    width: 19%;
   }
 }
 
-#video {
-  width: 700px;
-  min-height: 345px;
-  margin-top: 20px;
-  margin: 10px;
-  background: linear-gradient(cornflowerblue, blue);
-  background-image: url(./papirus-2.png);
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  border: none;
-  pointer-events: none;
-  text-align: center;
- 
-}
+
 iframe {
-  width: 94%;
-  height: 315px;
+  width: 93%;
   display: block;
-  margin: 0 auto;
-  padding-left: 1%;
+  margin: 5px auto;
 }
 
-@media (min-width: 768px) {
-  iframe {
-    width: 23.9%;
-  }
-}
 /* SPIRITUAL EBOOK styles */
 article {
   background: white;
