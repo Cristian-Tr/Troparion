@@ -88,20 +88,14 @@ section {
   border: none;
 }
 
-.saintDay {
-  font-weight: 100;
-  text-align: justify;
-  text-justify: inter-word;
-  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
-}
 
-#papirus {
+#papirus-vertical {
   width: 100%;
-  min-height: 480px;
+  min-height: 471px;
   margin-top: -20px;
   margin: .5%;
   background: linear-gradient(cornflowerblue, blue);
-  background-image: url(./papirus.png);
+  background-image: url(./vertical-papirus.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border: none;
@@ -110,14 +104,41 @@ section {
 }
 
 @media (min-width: 768px) {
-  #papirus {
+  #papirus-vertical {
+    width: 19%;
+  }
+}
+
+.saintDay {
+  font-weight: 100;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
+}
+
+#papirus-horizontal {
+  width: 100%;
+  min-height: 471px;
+  margin-top: -20px;
+  margin: .5%;
+  background: linear-gradient(cornflowerblue, blue);
+  background-image: url(./horizontal-papirus.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border: none;
+  text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', 'Lato' !important;
+}
+
+@media (min-width: 768px) {
+  #papirus-horizontal {
     width: 19%;
   }
 }
 
 #videoTropar iframe {
   width: 100%;
-  height: 295px;
+  height: 291px;
   display: block;
   margin: 5px auto;
 }
