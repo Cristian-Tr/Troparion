@@ -89,7 +89,7 @@ b {
     max-width: 850px;
     min-height: 350px;
     margin: 20px auto;
-    background-image: url('./papirus-vertical.png');
+    background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
     padding: 25px 17px 45px 17px;
     color: white;
@@ -133,7 +133,7 @@ article.column-page li {
 }
 
 .category dt {
-    background-image: url('./papirus-half.png');
+    background-image: url('./papirus-half.webp');
     background-size: 100% 100%;
     padding: 7px;
     margin-top: 1px;
@@ -149,7 +149,7 @@ article.column-page li {
 }
 
 .category dd {
-    background-image: url('./papirus-background.png');
+    background-image: url('./papirus-background.webp');
     background-size: 100% 100%;
     padding: 17px 7px 7px 7px;
     margin-top: 1px;
