@@ -96,7 +96,7 @@ b {
 #papirusTitle {
     width: 95%;
     max-width: 850px;
-    margin: 20px auto;
+    margin: 17px auto;
     background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
     /* Lăsăm 100% 100% ca să se întindă complet */
@@ -111,7 +111,7 @@ b {
         /* Ajustează valoarea asta ca să arate complet papirusul pe desktop */
     }
 
-        padding: 25px 17px 45px 17px;
+        padding: 28px 17px 53px 17px;
         color: white;
         }
 
