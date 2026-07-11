@@ -239,7 +239,7 @@ window.dateCitate = [
 
                           Copiii evlavioși sunt cea mai mare mângâiere pentru părinții evlavioși: sunt cea mai bună împodobire a părinților vii și cel mai bun monument al părinților morți.
                           
-                          Ascultarea poveștilor lumești să fie pentru tine ca o gustare amară iar vieșile sfinților ca un fagure de miere.
+                          Ascultarea poveștilor lumești să fie pentru tine ca o gustare amară iar viețile sfinților ca un fagure de miere.
                           
                           Omul nu poate fi cu desăvârșire liber de patimi; dar le poate stăpâni.
                           
