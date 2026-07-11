@@ -18,7 +18,7 @@ Link: https://cristian-tr.github.io/Troparion/
 
 Testat pe modurile white/dark pe mai multe browser-e bazate pe Chromium engine.
 
-🖼️ Imagini de Nouă Generație: Resursele grafice au fost convertite în format WebP pentru o încărcare instantanee, reducând dimensiunea fișierelor cu peste 80%.
+🖼️ Imagini de Nouă Generație: Resursele grafice au fost convertite în format WebP pentru încărcare instantanee.
 
 ⚡ LCP & FCP Optimization: Am implementat fetchpriority="high" și preload pentru elementele critice (LCP), asigurând o experiență de utilizare fluidă.
 
@@ -26,4 +26,4 @@ Testat pe modurile white/dark pe mai multe browser-e bazate pe Chromium engine.
 
 📦 Non-blocking Assets: Toate fișierele mari de date JavaScript sunt încărcate folosind `defer` pentru a elibera firul principal de execuție al browserului.
 
-🏗️ Structură & Accesibilitate: Structură impecabilă și continuă a titlurilor (`<h1>` -> `<h2>` -> `<h3>`) aprobată de standardele stricte Google Lighthouse.
+🏗️ Structură & Accesibilitate: Structură impecabilă și continuă a titlurilor (`<h1>` -> `<h2>` -> `<h3>`) aprobată de standardele stricte de audit Google Lighthouse.
