@@ -1505,6 +1505,29 @@ Pentru rugăciunile Preasfintei Născătoare de Dumnezeu și pururea Fecioarei M
 
     },
     {
+        subjectName: "Rugăciunea inimii",
+        rugaciune: `Rugăciunea lui Iisus
+
+ Doamne, Iisuse Hristoase, miluiește-mă! (Varianta scurtă)
+
+Doamne, Iisuse Hristoase, Fiul lui Dumnezeu, miluiește-mă pe mine, păcătosul! (Varianta completă)
+
+Rugăciunea inimii sau a lui Iisus este o rugăciune isihastă care își are rădăcinile în primele secole creștine (sec. IV-V), fiind inspirată de poruncile Noului Testament de a ne ruga neîncetat!
+Această rugăciune a fost rostită de mari sfinți precum Ioan Casian, Marcu Ascetul, Ioan Scărarul, Maxim Mărturisitorul, Grigorie Sinaitul, Grigorie Palama, Nicodim Aghioritul și Paisie Velicicovschi.
+Putem rosti aceasta rugăciune în toată vremea (la serviciu, în călătorie, acasă, etc) dar este recomandată practicarea ei sub îndrumarea unui duhovnic, pentru a evita rătăcirea spirituală și mândria.
+
+Rugăciunea inimii poate fi sincronixată cu respirația astfel:
+
+- cand inspirăm rostim:
+Doamne, Iisuse Hristoase, sau
+Doamne, Iisuse Hristoase, Fiul lui Dumnezeu,
+
+- când expirăm rostim:
+miluiește-mă! sau
+miluiește-mă pe mine, păcătosul!
+`
+    },
+    {
         subjectName: "Rugăciunile copiilor",
         rugaciune: `Rugăciunile copiilor
 

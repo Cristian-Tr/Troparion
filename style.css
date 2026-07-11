@@ -1,6 +1,3 @@
-/* --- RESETARE ȘI BAZĂ --- */
-/* Opțional: Pentru a face pagina să nu "sară" când apare scroll-ul principal în dreapta */
-
 body {
     margin: 0;
     padding: 0;
@@ -16,7 +13,8 @@ h1 {
 
 h3 {
     color: cyan;
-    padding-bottom: 3px;
+    padding-top: 5px;
+    padding-bottom: 7px;
     text-shadow: 1px 1px 1px black;
 }
 
@@ -31,7 +29,19 @@ b {
     text-shadow: 1px 1px 1px black;
 }
 
-/* /* ANIMATIE LITERA T */
+/* Stil special pentru a repara structura Lighthouse fără a afecta designul grafic */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+/* ANIMATIE LITERA T */
 .stralucire-contur {
     animation: culoare-contur 8s ease-in-out infinite;
 }
@@ -78,7 +88,6 @@ b {
     50% {
         stroke-width: 1px;
         filter: drop-shadow(0 0 1px rgba(255, 255, 255, .8));
-        /* aură albă în spate */
         text-shadow: 0 0 4px rgba(255, 255, 255, .8);
     }
 }
@@ -106,7 +115,7 @@ b {
     max-width: 100%;
 }
 
-/* --- BUTOANE MENIU (STUDII, ACTIVITATE etc.) --- */
+/* --- BUTOANE MENIU --- */
 .menu-1,
 .menu-2 {
     background: linear-gradient(to bottom, #1e90ff, #001020);
@@ -117,9 +126,8 @@ b {
     margin-bottom: 0;
 }
 
-/* --- LISTELE ASCUNSE --- */
-article.column-page li {
-    list-style: none;
+/* --- SECȚIUNILE ASCUNSE --- */
+article.column-page .menu-content {
     display: none;
     padding: 0;
     margin: 0;
@@ -136,35 +144,46 @@ article.column-page li {
     background-image: url('./papirus-half.webp');
     background-size: 100% 100%;
     padding: 7px;
-    margin-top: 1px;
+    margin-top: 1.2px;
     cursor: pointer;
     position: relative;
+    display: block;
 }
 
-.category dt h4 {
+/* Replicare exactă h4 pentru titlu listă */
+.category dt .titlu-subiect {
     color: black !important;
     font-weight: 700;
-    margin: 0;
-    padding: 0;
+    font-size: 1.35em;
+    margin-top: .3em;
+    margin-bottom: -.2em;
+    margin-left: 0;
+    margin-right: 0;
+    display: block;
 }
 
 .category dd {
     background-image: url('./papirus-background.webp');
     background-size: 100% 100%;
     padding: 17px 7px 7px 7px;
-    margin-top: 1px;
+    margin-top: 1.2px;
     display: none;
     text-align: justify;
     z-index: 1;
 }
 
-.category dd h4 {
+/* Replicare exactă h4 pentru textul listei */
+.category dd .text-continut {
     color: black !important;
     font-weight: 700;
+    font-size: 1.2em;
     text-align: justify;
     white-space: pre-line;
     word-wrap: break-word;
-    margin: 0;
+    margin-bottom: .3em;
+    margin-left: 0;
+    margin-right: 0;
+    display: block;
 }
 
 .category dl {
@@ -241,15 +260,11 @@ main {
     padding-bottom: 25px;
 }
 
-
-/* Blocare inversare culori de catre browser */
 :root {
     color-scheme: light only;
 }
 
-
-
-/* Declanșarea animațiilor pe un ciclu infinit de 8 secunde */
+/* ANIMATII 8 SECUNDE */
 .cod1 {
     animation: animatie-1 8s ease-in-out infinite;
 }
@@ -258,7 +273,6 @@ main {
     animation: animatie-2 8s ease-in-out infinite;
 }
 
-/* Mâinile apar la secunda 0, stau fixe 1 secundă, dispar la secunda 4 */
 @keyframes animatie-1 {
     0% {
         stroke-dashoffset: 3500;
@@ -281,7 +295,6 @@ main {
     }
 }
 
-/* Cartea apare la secunda 4, stă fixă 1 secundă, dispare la secunda 8 */
 @keyframes animatie-2 {
     0% {
         stroke-dashoffset: 3500;
