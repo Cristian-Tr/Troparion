@@ -8,6 +8,14 @@ body {
 
 h1 {
     color: cyan !important;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: cyan !important;
+    font-weight: 900;
     text-transform: uppercase;
 }
 
@@ -31,17 +39,6 @@ b {
 small {
     color: cyan;
 }
-/* Stil special pentru a repara structura Lighthouse fără a afecta designul grafic */
-.sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    border: 0;
-}
 
 /* ANIMATIE LITERA T */
 .stralucire-contur {
@@ -49,7 +46,6 @@ small {
 }
 
 @keyframes culoare-contur {
-
     0%,
     100% {
         stroke-width: 1px;
@@ -57,15 +53,15 @@ small {
     }
 
     50% {
-        stroke-width: 2.5px;
-        filter: drop-shadow(0 0 5px rgba(255, 255, 255, 1));
+        stroke-width: 1.2px;
+        filter: drop-shadow(0 0 2px rgba(255, 255, 255, 1));
     }
 }
 
 .contur-animat {
     fill: none !important;
     stroke: cyan !important;
-    stroke-width: 20px;
+    stroke-width: 17px;
     stroke-linecap: round;
     stroke-linejoin: round;
     stroke-dasharray: 3500;
@@ -89,8 +85,8 @@ small {
 
     50% {
         stroke-width: 1px;
-        filter: drop-shadow(0 0 1px rgba(255, 255, 255, .8));
-        text-shadow: 0 0 4px rgba(255, 255, 255, .8);
+        filter: drop-shadow(0 0 1px rgba(255, 255, 255, .7));
+        text-shadow: 0 0 4px rgba(255, 255, 255, .7);
     }
 }
 
