@@ -478,7 +478,7 @@ Primele două slugi au inmulțit talanții și de aceea Dumnezeu i-a răsplătit
 Iar pe cea de-a treia slugă a pedepsit-o prin aruncarea "în întuneriul cel mai din afară".
 Oare în vremurile noastre nu regăsim aceleași categorii de persoane?
 Oare astăzi nu putem vedea astăzi profesori indiferenți care nu vor să îi ajute pe elevi să dobândească mai ușor noțiunile necesare cu scopul de a-i determina să meargă la meditații plătite?
-Oare nu vedem în mass-media cazuri de medici care i-au vindecat pe oamenii aflați doar după ce au primit mită?
+Oare nu vedem în mass-media cazuri de medici care i-au vindecat pe oamenii aflați în suferință doar după ce au primit mită?
 Oare nu putem observa și profesori, medici, ingineri, alectricieni, mecanici, șoferi și militari care pun pasiune în tot ceea ce fac în meseria lor fără să aștepte în schimb decât salariul promis de către angajator.
 Evanghelia aceasta îi îndeamnă pe oameni să pună în slujba semenilor calitățile pe care le-au primit de la Dumnezeu, adică să cultive talentul cu care au fost înzestrați.
 Căci dacă oamenii înmulțesc talantul primit în folosul comunității în care își desfășoară activitatea, aceștia aduc bucurie atât semenilor cât și lui Dumnezeu.
@@ -515,9 +515,9 @@ Iar după ce primim ajutorul de la Dumnezeu să nu uităm să îi mulțumim Lui,
         subjectName: "Virtuțile",
         reflectie: `Virtuțile sunt darurile oferite nouă de Dumnezeu și vom răspunde în fața Lui, dacă le-am cultivat sau nu.
 De aceea, trebuie să descoperim care sunt aceste calități și să ne străduim să le punem în slujba semenilor.
-Cu alte cuvinte dacă Dumnezeu a dăruit cuiva calități pentru a deveni un medic bun atunci acesta are datoria de a ajuta pe cei aflați în suferință fără a cere sau primi mită.
-Sau dacă un profesor a devenit apreciat de colegi și elevi prin calitățile pedagogice dăruite de Dumnezeu atunci are și ele datoria să îi ajute pe elevi să învețe mai ușor cunooștințele becesare fără a se gândi cum să obțină venituri suplimentare de la ei. 
-Ne va fi de ajutor în cultivarea virtuților, dacă vom lua ca exemplu de urmat pe unul dintre sfinți care au avut profesia respectivă sau dacă ne vom alege modele de urmat unul sau mai mulți profesioniști virtuoși (credincioși, modești, etc).
+Cu alte cuvinte dacă Dumnezeu a dăruit unei persoane calități pentru a deveni un medic bun, atunci acesta are datoria de a-i ajuta pe cei aflați în suferință fără a cere sau primi mită.
+Dacă un profesor a devenit apreciat de colegi și elevi prin calitățile pedagogice dăruite de Dumnezeu, atunci are și el datoria să îi ajute pe elevi să învețe mai ușor cunooștințele școlare, fără a se gândi cum să obțină venituri suplimentare de la ei. 
+Ne va fi de ajutor în cultivarea virtuților, dacă vom lua ca exemplu de urmat pe unul dintre sfinți care au avut profesia respectivă sau dacă ne vom alege modele de urmat unul sau mai mulți profesioniști virtuoși care excelează în domeniul în care profesăm (credincioși, modești, etc).
 `
     },
     {
