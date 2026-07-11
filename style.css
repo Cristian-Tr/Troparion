@@ -15,12 +15,13 @@ h1 {
 
 h2 {
     color: cyan !important;
-    font-weight: 900;
+    font-weight: 400;
     text-transform: uppercase;
 }
 
 h3 {
     color: cyan;
+    font-weight: 400;
     padding-top: 5px;
     padding-bottom: 7px;
     text-shadow: 1px 1px 1px black;
@@ -36,6 +37,7 @@ b {
     text-transform: uppercase;
     text-shadow: .7px .7px .7px black;
 }
+
 small {
     color: cyan;
 }
@@ -53,8 +55,8 @@ small {
     }
 
     50% {
-        stroke-width: 1.2px;
-        filter: drop-shadow(0 0 2px rgba(255, 255, 255, 1));
+        stroke-width: 1px;
+        filter: drop-shadow(0 0 1px rgba(255, 255, 255, .7));
     }
 }
 
