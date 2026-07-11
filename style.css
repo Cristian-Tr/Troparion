@@ -96,13 +96,24 @@ b {
 #papirusTitle {
     width: 95%;
     max-width: 850px;
-    min-height: 350px;
     margin: 20px auto;
     background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
-    padding: 25px 17px 45px 17px;
-    color: white;
-}
+    /* Lăsăm 100% 100% ca să se întindă complet */
+
+    /* Înălțimea minimă va fi dinamică (35% din lățimea ecranului). 
+       Previne scurtarea excesivă a imaginii când textul e foarte scurt. */
+    min-height: 35vw;
+
+    /* Pentru ecrane foarte mari (peste 850px), blocăm înălțimea minimă fixă */
+    @media (min-width: 850px) {
+        min-height: 300px;
+        /* Ajustează valoarea asta ca să arate complet papirusul pe desktop */
+    }
+
+        padding: 25px 17px 45px 17px;
+        color: white;
+        }
 
 #colorStar {
     transition: all 0.3s ease;
