@@ -1,0 +1,305 @@
+/* --- RESETARE ȘI BAZĂ --- */
+/* Opțional: Pentru a face pagina să nu "sară" când apare scroll-ul principal în dreapta */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000 !important;
+    overflow-x: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+h1 {
+    color: cyan !important;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: cyan;
+    padding-bottom: 3px;
+    text-shadow: 1px 1px 1px black;
+}
+
+h4 {
+    font-weight: 100;
+    color: cyan;
+}
+
+b {
+    color: cyan;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px black;
+}
+
+/* /* ANIMATIE LITERA T */
+.stralucire-contur {
+    animation: culoare-contur 8s ease-in-out infinite;
+}
+
+@keyframes culoare-contur {
+
+    0%,
+    100% {
+        stroke-width: 1px;
+        filter: drop-shadow(0 0 0px rgba(255, 255, 255, 0));
+    }
+
+    50% {
+        stroke-width: 2.5px;
+        filter: drop-shadow(0 0 5px rgba(255, 255, 255, 1));
+    }
+}
+
+.contur-animat {
+    fill: none !important;
+    stroke: cyan !important;
+    stroke-width: 20px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 3500;
+    stroke-dashoffset: 3500;
+}
+
+/* ANIMATIE TITLU */
+.stralucire-h1 {
+    color: cyan;
+    animation: pulseazaAlb 8s ease-in-out infinite;
+}
+
+@keyframes pulseazaAlb {
+
+    0%,
+    100% {
+        stroke-width: 1px;
+        filter: drop-shadow(0 0 0px rgba(255, 255, 255, 0));
+        text-shadow: 0 0 0px rgba(255, 255, 255, 0);
+    }
+
+    50% {
+        stroke-width: 1px;
+        filter: drop-shadow(0 0 1px rgba(255, 255, 255, .8));
+        /* aură albă în spate */
+        text-shadow: 0 0 4px rgba(255, 255, 255, .8);
+    }
+}
+
+/* --- PAPIRUS HEADER --- */
+#papirusTitle {
+    width: 95%;
+    max-width: 850px;
+    min-height: 350px;
+    margin: 20px auto;
+    background-image: url('./papirus-vertical.png');
+    background-size: 100% 100%;
+    padding: 25px 17px 45px 17px;
+    color: white;
+}
+
+#colorStar {
+    transition: all 0.3s ease;
+    visibility: hidden;
+    opacity: 0;
+}
+
+#todayDescription {
+    text-align: justify;
+    max-width: 100%;
+}
+
+/* --- BUTOANE MENIU (STUDII, ACTIVITATE etc.) --- */
+.menu-1,
+.menu-2 {
+    background: linear-gradient(to bottom, #1e90ff, #001020);
+    color: cyan;
+    padding: 1px;
+    cursor: pointer;
+    border: 1px solid #1e90ff;
+    margin-bottom: 0;
+}
+
+/* --- LISTELE ASCUNSE --- */
+article.column-page li {
+    list-style: none;
+    display: none;
+    padding: 0;
+    margin: 0;
+}
+
+.category dl {
+    margin: 0;
+    padding: 0;
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+.category dt {
+    background-image: url('./papirus-half.png');
+    background-size: 100% 100%;
+    padding: 7px;
+    margin-top: 1px;
+    cursor: pointer;
+    position: relative;
+}
+
+.category dt h4 {
+    color: black !important;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.category dd {
+    background-image: url('./papirus-background.png');
+    background-size: 100% 100%;
+    padding: 17px 7px 7px 7px;
+    margin-top: 1px;
+    display: none;
+    text-align: justify;
+    z-index: 1;
+}
+
+.category dd h4 {
+    color: black !important;
+    font-weight: 700;
+    text-align: justify;
+    white-space: pre-line;
+    word-wrap: break-word;
+    margin: 0;
+}
+
+.category dl {
+    max-height: none !important;
+    overflow-y: visible !important;
+    padding-right: 0;
+}
+
+.menu-1 {
+    background: linear-gradient(to bottom, #003366, #000a1a);
+    color: #00ffff;
+    padding: 12px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    transition: all 0.01s;
+}
+
+.menu-2 {
+    background: linear-gradient(to bottom, #4d0000, #1a0000);
+    color: #ffcc66;
+    padding: 12px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.menu-1,
+.menu-2 {
+    transition: filter 0.3s ease, transform 0.2s ease !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.menu-1:hover,
+.menu-2:hover {
+    filter: brightness(1.3) contrast(1.1);
+    transform: translateY(-2px);
+}
+
+.menu-1:hover h3,
+.menu-2:hover h3 {
+    color: white !important;
+}
+
+.menu-1 h3,
+.menu-2 h3 {
+    margin: 0;
+    transition: color 0.1s ease;
+}
+
+@keyframes fadeInEfect {
+    from {
+        opacity: 0;
+        transform: translateY(7px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+header,
+main {
+    animation: fadeInEfect 1s ease-out;
+}
+
+#papirusTitle {
+    animation: fadeInEfect 1s ease-out;
+}
+
+.footer-vintage {
+    padding-bottom: 25px;
+}
+
+
+/* Blocare inversare culori de catre browser */
+:root {
+    color-scheme: light only;
+}
+
+
+
+/* Declanșarea animațiilor pe un ciclu infinit de 8 secunde */
+.cod1 {
+    animation: animatie-1 8s ease-in-out infinite;
+}
+
+.cod2 {
+    animation: animatie-2 8s ease-in-out infinite;
+}
+
+/* Mâinile apar la secunda 0, stau fixe 1 secundă, dispar la secunda 4 */
+@keyframes animatie-1 {
+    0% {
+        stroke-dashoffset: 3500;
+    }
+
+    20% {
+        stroke-dashoffset: 0;
+    }
+
+    32.5% {
+        stroke-dashoffset: 0;
+    }
+
+    50% {
+        stroke-dashoffset: 3500;
+    }
+
+    100% {
+        stroke-dashoffset: 3500;
+    }
+}
+
+/* Cartea apare la secunda 4, stă fixă 1 secundă, dispare la secunda 8 */
+@keyframes animatie-2 {
+    0% {
+        stroke-dashoffset: 3500;
+    }
+
+    50% {
+        stroke-dashoffset: 3500;
+    }
+
+    70% {
+        stroke-dashoffset: 0;
+    }
+
+    82.5% {
+        stroke-dashoffset: 0;
+    }
+
+    100% {
+        stroke-dashoffset: 3500;
+    }
+}
