@@ -28,7 +28,9 @@ b {
     text-transform: uppercase;
     text-shadow: .7px .7px .7px black;
 }
-
+small {
+    color: cyan;
+}
 /* Stil special pentru a repara structura Lighthouse fără a afecta designul grafic */
 .sr-only {
     position: absolute;
