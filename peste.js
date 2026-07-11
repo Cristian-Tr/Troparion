@@ -221,18 +221,6 @@ window.datePeste = [
                           Se poate servi pe felii de pâine prăjită unse cu salată de roșii cu ceapă.
 `
     },
-
-    {
-        subjectName: "Pește marinat la cuptor",
-        retetaPeste: `Curățăm și spălăm bine 1 kg pește eviscerat și îl tăiem în rondele mai groase.
-                          Punem într-o oală 100 ml de oțet de 9 grade, 1 litru apă, 1 lingură cu sare,
-                          1 lingură zeamă de lămâie.
-                          Introducem peștele în oală și îl lăsăm la fiert la foc mic timp de 1 oră
-                          apoi îl punem într-o tavă din sticlă termorezistentă împreună cu 100 ml ulei,
-                          1 ceapă tocată, 200 ml bulion, rozmarin, busuioc sau cimbru uscat și îl
-                          introducem în cuptor timp de 25 de minute la 180 grade Celsius.
-`
-    },
     {
         subjectName: "Pește chiftele",
         retetaPeste: `Se dă prin mașina de tocat 1 kg de file de pește pe care îl amestecăm într-un

@@ -1,6 +1,6 @@
 window.dateOvolacto = [
     {
-        subjectName: "Cartofi natur cu brânză",
+        subjectName: "Cartofi natur",
         retetaOvolacto: `Se fierb în apă cu puțină sare câțiva cartofi (5 - 10 bucăți) curățați și tăiați
                           cubulețe până devin moi dar fără să se sfărâme.
                           Se strecoară într-o sită și se așează pe o farfurie plată peste care
@@ -108,7 +108,7 @@ window.dateOvolacto = [
 `
     },
     {
-        subjectName: "Plăcintă cu urdă și stafide",
+        subjectName: "Plăcintă cu urdă",
         retetaOvolacto: `Se pun într-un vas 1 kg urdă, 250 grame stafide, 250 grame zahăr și le amestecăm bine. 
                           Într-o tavă unsă cu unt topit, se pun 4 foi de plăcintă din comerț peste care punem
                           jumătate din compoziție apoi peste primul strat de urdă și stafide punem încă 4 foi precum

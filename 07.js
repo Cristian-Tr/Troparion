@@ -84,7 +84,7 @@ window.dateLuna = {
     "09": {
         nume: "Sfântul Sfinţit Mucenic Pangratie, Episcopul Taorminei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Pangratie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
-        culoare: "red"
+        culoare: "incolor"
     },
 
     // ============================================================
@@ -101,7 +101,7 @@ window.dateLuna = {
     // ============================================================
     "11": {
         nume: "Sfânta Mare Muceniță Eufimia",
-        tropar: "Foarte ai veselit pe ortodocşi şi ai ruşinat pe cei rău slăvitori, Eufimia, a lui Hristos preafumoasă fecioară. Căci dogmele Soborului al patrulea le-ai întărity, pe care părinţii bine le-au dogmatisit. Muceniţă slăvită, roagă-L pe Hristos Dumnezeu să se dăruiască nouă mare milă.",
+        tropar: "Foarte ai veselit pe ortodocşi şi ai ruşinat pe cei rău slăvitori, Eufimia, a lui Hristos preafumoasă fecioară. Căci dogmele Soborului al patrulea le-ai întărit, pe care părinţii bine le-au dogmatisit. Muceniţă slăvită, roagă-L pe Hristos Dumnezeu să se dăruiască nouă mare milă.",
         culoare: "incolor"
     },
 

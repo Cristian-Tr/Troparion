@@ -159,7 +159,7 @@ window.datePost = [
 `
     },
     {
-        subjectName: "Fasole verde cu usturoi",
+        subjectName: "Fasole verde",
         retetaPost: `Fierbem fasolea verde cu o ceapă tăiată mărunt, sare și piper după gust.
                           La final adăugăm 2 căței de usturoi zdrobit in 3 linguri cu apă, 2 linguri
                           cu ulei de măsline și 1 lingură de susan prăjit 3 minute în tigaie (opțional).
@@ -202,8 +202,8 @@ window.datePost = [
 `
     },
     {
-        subjectName: "Lobodă cu zeamă de varză",
-        retetaPost: `                          Spălăm bine în chiuveta plină cu apă 1 kg de lobodă proaspătă și îi tăiem cotoarele.
+        subjectName: "Lobodă ciorbă",
+        retetaPost: `Spălăm bine în chiuveta plină cu apă 1 kg de lobodă proaspătă și îi tăiem cotoarele.
                           Apoi luăm frunzele și le opărim timp de 3 minute într-o oală cu 1 litru de apă și
                           1 linguriță cu sare. După ce s-au înmuiat frunzele, le strecurăm într-o sită și turnăm
                           peste ele apă rece apoi le tăiem în fâșii.
@@ -270,7 +270,7 @@ window.datePost = [
 `
     },
     {
-        subjectName: "Orez cu legume mexicane",
+        subjectName: "Orez cu legume",
         retetaPost: `Mai întâi se sotează la foc mic timp de 5 minute într-o oală cu capac 1 pungă (400 grame)
                           cu legume mexicane congelate, 3 linguri cu ulei și 1 lingură de condimente la plic.
                           Într-o altă oală cu 3 căni de apă fierbem 1 cană cu orez cu bob rotund, camolino sau basmatic
@@ -292,7 +292,7 @@ window.datePost = [
 `
     },
     {
-        subjectName: "Orez cu lapte de ovăz",
+        subjectName: "Orez cu lapte ovăz",
         retetaPost: `Se pun într-o oală 1 cană cu orez (200 mg - bob rotund sau camolino). Se adaugă 1 cană cu apă
                           (250 ml) și 1/2 linguriță cu sare.
                           Se fierbe la foc mic timp de 5 minute amestecând periodic pentru a nu se prinde.
@@ -470,7 +470,7 @@ window.datePost = [
 `
     },
     {
-        subjectName: "Spanac cu sos de roșii",
+        subjectName: "Spanac cu sos",
         retetaPost: `Spălăm bine în chiuveta plină cu apă 1 kg de spanac proaspăt și îi tăiem cotoarele.
                           Apoi luăm frunzele și le opărim timp de 3 minute într-o oală cu 1 litru de apă și
                           1 linguriță cu sare. După ce s-au înmuiat frunzele, le strecurăm într-o sită și turnăm

@@ -810,7 +810,7 @@ Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în veci
 
     },
     {
-        subjectName: "Acatistul Sfântului Acoperământ",
+        subjectName: "Acatistul Sf. Acoperământ",
         rugaciune: ` Acatistul Sfântului Acoperământ al Maicii Domnului nostru Iisus Hristos
 
 Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase, Fiul lui Dumnezeu, miluiește-ne pe noi.

@@ -18,17 +18,17 @@ window.dateCitate = [
                           Iar când te rogi, nu fi ca fățarnicii, cărora le place, prin sinagogi și pe la colțurile piețelor, stând în picioare, să  se roage, ca să se arate oamenilor; adevărat grăiesc vouă: și-au luat plata lor.
                           Tu însă, când te rogi, intră în cămara ta și, închizând ușa, roagă-te Tatălui tău, Care este în ascuns, și Tatăl tău, Care vede în ascuns, îți va răsplăti ție. (Matei 6, 3)   
 
-                          Zis-a Domnul: Nu judecați, ca să nu fiți judecați; căci cu judecata cu care judecați veți fi judecați, și cu măsura cu care măsurați vi se va măsura. De ce vezi paiul din ochiul fratelui tău, iar bârna din ochiul tău nu o iei în seamă? Sau cum vei zice fratelui tău: Lasă să scot paiul din ochiul tău și, iată, bârna este în ochiul tău? Fățarnice, scoate întâi bârna din ochiul tău și atunci vei vedea să scoți paiul din ochiul fratelui tău.
+                          Nu judecați, ca să nu fiți judecați; căci cu judecata cu care judecați veți fi judecați, și cu măsura cu care măsurați vi se va măsura. De ce vezi paiul din ochiul fratelui tău, iar bârna din ochiul tău nu o iei în seamă? Sau cum vei zice fratelui tău: Lasă să scot paiul din ochiul tău și, iată, bârna este în ochiul tău? Fățarnice, scoate întâi bârna din ochiul tău și atunci vei vedea să scoți paiul din ochiul fratelui tău.
                           Nu dați cele sfinte câinilor, nici nu puneți mărgăritarele voastre înaintea porcilor, ca nu cumva să le calce în picioarele și, întorcându-se, să vă sfâșie pe voi. Cereți și vi se va da; căutați și veți afla; bateți și vi se va deschide.
                           Că oricine cere ia, cel care caută află și celui care bate i se va deschide. (Matei 7, 1-8)
 
-                          Zis-a Domnul: Celui care cere de la tine, dă-i; și pe cel ce voiește să se împrumute de la tine, nu întoarce fața ta. Ați auzit că s-a zis: «Să iubești pe aproapele tău și să urăști pe vrăjmașul tău».
+                          Celui care cere de la tine, dă-i; și pe cel ce voiește să se împrumute de la tine, nu întoarce fața ta. Ați auzit că s-a zis: «Să iubești pe aproapele tău și să urăști pe vrăjmașul tău».
                           Iar Eu vă zic vouă: Iubiți pe vrăjmașii voștri, binecuvântați pe cei ce vă blestemă, faceți bine celor ce vă urăsc și rugați-vă pentru cei ce vă vatămă și vă prigonesc, ca să fiți fiii
                           Tatălui vostru Celui din ceruri, că El face să răsară soarele peste cei răi și peste cei buni și trimite ploaie peste cei drepți și peste cei nedrepți. Căci, dacă iubiți pe cei ce vă iubesc, ce răsplată veți avea?
                           Oare nu fac și vameșii același lucru? Și, dacă îmbrățișați numai pe frații voștri, ce faceți mai mult?
                           Oare nu fac și păgânii același lucru? Fiți, dar, voi desăvârșiți, precum și Tatăl vostru Cel ceresc desăvârșit este. (Matei 5, 42-48)  
 
-                          Zis-a Domnul: Cel ce iubește pe tată ori pe mamă mai mult decât pe Mine nu este vrednic de Mine; cel ce iubește pe fiu, ori pe fiică mai mult decât pe Mine nu este vrednic de Mine, și cel ce nu-și ia crucea și nu-Mi urmează Mie nu este vrednic de Mine. (Matei 10, 37)
+                          Cel ce iubește pe tată ori pe mamă mai mult decât pe Mine nu este vrednic de Mine; cel ce iubește pe fiu, ori pe fiică mai mult decât pe Mine nu este vrednic de Mine, și cel ce nu-și ia crucea și nu-Mi urmează Mie nu este vrednic de Mine. (Matei 10, 37)
                           
                           Vă spun că pentru orice cuvânt deșert pe care-l vor rosti, oamenii vor da socoteală în ziua judecății. Căci din cuvintele tale vei fi găsit drept și din cuvintele tale vei fi osândit. (Matei 12. 36-37)   
 
@@ -59,39 +59,26 @@ window.dateCitate = [
 
                           Fiţi milostivi, precum şi Tatăl vostru este milostiv. Nu judecaţi şi nu veţi fi judecaţi; nu osândiţi şi nu veţi fi osândiţi; iertaţi şi veţi fi iertaţi. Daţi şi se va da. (Luca 6, 36-38)
                           
-                          Nu este ucenic mai presus decât învăţătorul său; dar orice ucenic desăvârşit va fi ca învăţătorul său. De ce vezi paiul din ochiul fratelui tău, iar bârna din ochiul tău nu o iei în seamă? Sau cum poţi să zici fratelui tău: Frate, lasă să scot paiul din ochiul tău, nevăzând bârna care  este în ochiul tău? Făţarnice, scoate mai întâi bârna din ochiul tău şi atunci vei vedea să scoţi paiul din ochiul fratelui tău. Căci nu este pom bun care să facă roade rele şi, iarăşi, nici pom rău care să facă roade bune. Căci fiecare pom se cunoaşte după roadele lui.
-                          Că nu se adună smochine din mărăcini şi nici nu se culeg struguri din spini. Omul bun, din vistieria cea bună a inimii sale, scoate cele bune, pe când omul rău, din vistieria cea rea a inimii lui, scoate cele rele. Căci din prisosul inimii grăieşte gura lui.
-                          Şi pentru ce Mă chemaţi: Doamne, Doamne, şi nu faceţi ce vă spun? (Luca 6, 40-46)
+                          Pentru ce Mă chemați: Doamne, Doamne, și nu faceți ce vă spun? Oricine vine la Mine și aude cuvintele Mele și le face, vă voi arăta cu cine se aseamănă: Asemenea este unui om care, zidindu-și casă, a săpat, a adâncit și i-a pus temelia pe piatră; și, venind apele mari și puhoiul izbind în casa aceea, n-a putut s-o clintească, fiindcă era bine clădită pe piatră. Iar cel ce aude, dar nu face, este asemenea omului care și-a zidit casa pe pământ, fără temelie, și, izbind în ea puhoiul de ape, îndată a căzut și prăbușirea acelei case a fost mare. (Luca 6, 46-49)
                           
                           Cel ce nu este cu Mine este împotriva Mea; şi cel ce nu adună cu Mine risipeşte. (Luca 11, 23)      
 
-                       
                           ... fericiţi sunt cei ce ascultă cuvântul lui Dumnezeu şi-l păzesc. (Luca 11, 28)
                           
                           Şi zic vouă: Oricine va mărturisi pentru Mine înaintea oamenilor, şi Fiul Omului va mărturisi pentru  el înaintea îngerilor lui Dumnezeu. Iar cel ce se va lepăda de Mine înaintea oamenilor, lepădat va fi înaintea îngerilor lui Dumnezeu. Oricui va spune vreun cuvânt împotriva Fiului Omului, i se va ierta; dar celui ce va huli împotriva Duhului Sfânt, nu i se va ierta. (Luca 12, 8-10)      
 
-                          ... să nu căutaţi ce veţi mânca sau ce veţi bea şi nu fiţi îngrijoraţi. Căci toate acestea păgâni lumii le caută; dar Tatăl vostru ştie că aveţi nevoie de acestea; Căutaţi mai întâi Împărăţia Lui.
-                          Şi toate acestea se vor adăuga vouă. (Luca 12, 29-31)
 `
     },
     {
         subjectName: "Evanghelia de la Ioan",
         citat: `Învățături din Evanghelia de la Ioan
 
-                          Căci Dumnezeu aşa a iubit lumea, încât pe Fiul Său Cel Unul-Născut L-a dat ca oricine crede în El să nu piară, ci să aibă viaţă veşnică. Căci n-a trimis Dumnezeu pe Fiul Său în lume ca să judece lumea, ci ca să se mântuiască, prin El, lumea.
-                          Cel ce crede în El nu este judecat, iar cel ce nu crede a şi fost judecat, fiindcă nu a crezut în numele Celui Unuia-Născut, Fiul lui Dumnezeu. Iar aceasta este judecata, că Lumina a venit în lume şi oamenii au iubit întunericul mai mult decât Lumina.
-                          Căci faptele lor erau rele. Că oricine face rele urăşte Lumina şi nu vine la Lumină, pentru ca faptele lui să nu se vădească. Dar cel care lucrează adevărul vine la Lumină, ca să se arate faptele lui, că în Dumnezeu sunt săvârşite. (Ioan 3, 16-21)      
+                          Zis-a Domnul către ucenicii Săi: Căci Dumnezeu așa a iubit lumea, încât pe Fiul Său Cel Unul-Născut L-a dat ca oricine crede în El să nu piară, ci să aibă viață veșnică. Căci n-a trimis Dumnezeu pe Fiul Său în lume ca să judece lumea, ci ca să se mântuiască, prin El, lumea. (Ioan 3, 16-17)
 
                           Tatăl iubeşte pe Fiul şi toate le-a dat în mâna Lui. Cel ce crede în Fiul are viaţă veşnică, iar cel ce nu ascultă de Fiul nu va vedea viaţa, ci mânia lui Dumnezeu rămâne peste el. (Ioan 3, 35-26)  
 
-                          Zis-a Domnul către iudeii care crezuseră într-Însul: Eu sunt Pâinea vieții; cel ce vine la Mine nu va flămânzi și cel ce crede în Mine nu va înseta niciodată.
-                          Dar am spus vouă că M-ați și văzut și nu credeți.
+                          Zis-a Domnul către iudeii care crezuseră într-Însul: Eu sunt Pâinea vieții; cel ce vine la Mine nu va flămânzi și cel ce crede în Mine nu va înseta niciodată. (Ioan 6, 35)
                           
-                          Eu am păzit poruncile Tatălui Meu şi rămân în dragostea Sa. Acestea vi le-am spus vouă pentru ca bucuria Mea să rămână în voi şi bucuria voastră să fie deplină. Aceasta este porunca Mea: să vă iubiţi
-                          unul pe altul, cum v-am iubit şi Eu pe voi. Mai mare dragoste decât aceasta nimeni nu are, ca viaţa lui să şi-o pună pentru prietenii săi. Voi sunteţi prietenii Mei, dacă faceţi ceea ce vă poruncesc Eu.
-                          De acum nu vă mai zic slujitori, căci slujitorul nu ştie ce face stăpânul său, ci v-am numit pe voi prieteni, pentru că toate câte am auzit de la Tatăl Meu, vi le-am arătat vouă.
-                          Nu voi M-aţi ales pe Mine, ci Eu v-am ales pe voi şi v-am rânduit să mergeţi şi roadă să aduceţi, şi roada voastră să rămână, pentru ca Tatăl să vă dea tot ce veţi cere da la Dânsul în numele Meu. (Ioan 15, 9-16)
-
                           Eu sunt învierea și Viața; cel ce crede în Mine, chiar dacă va muri, va trăi. Și oricine trăiește și crede în Mine nu va muri în veac. (Ioan Cap. 11)    
 
                           De Mă iubiţi, păziţi poruncile Mele. (Ioan 14, 15)   
