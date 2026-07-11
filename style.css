@@ -26,7 +26,7 @@ h4 {
 b {
     color: cyan;
     text-transform: uppercase;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: .7px .7px .7px black;
 }
 
 /* Stil special pentru a repara structura Lighthouse fără a afecta designul grafic */
@@ -275,7 +275,7 @@ main {
     color-scheme: light only;
 }
 
-/* ANIMATII 8 SECUNDE */
+/* ANIMATII */
 .cod1 {
     animation: animatie-1 8s ease-in-out infinite;
 }
