@@ -109,8 +109,8 @@ window.dateLuna = {
     // 12 IULIE: Sfântul Cuvios Mihail Maleinul
     // ============================================================
     "12": {
-        nume: "Sfântul Cuvios Mihail Maleinul",
-        tropar: "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; că luând crucea ai urmat lui Hristos; şi lucrând ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Mihail, duhul tău.",
+        nume: "Sfântul Cuvios Paisie Aghioritul",
+        tropar: "Pe bărbatul ales din Muntele Athonului, pe cel ce-n vremurile cele din urmă întunericul a risipit ca un luminător, bolile tuturor vindecând, pe Paisie cel Nou să-l lăudăm credincioșii; căci el se roagă neîncetat pentru întreaga lume.",
         culoare: "gray"
     },
 
