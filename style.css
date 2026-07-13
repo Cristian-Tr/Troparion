@@ -12,20 +12,21 @@ h1 {
     text-shadow: 1px 1px 1px black;
     text-transform: uppercase;
     letter-spacing: .07em;
-    animation: letterSpacing 8s ease-in-out infinite;
+    animation: letterSpacing 12s ease-in-out infinite;
 }
 
 @keyframes letterSpacing {
+
     0%,
     100% {
         letter-spacing: 0;
     }
 
     50% {
-    letter-spacing: 1em;
+        letter-spacing: 1em;
     }
 }
- 
+
 h2 {
     color: cyan !important;
     font-weight: 400;
@@ -56,10 +57,11 @@ small {
 
 /* ANIMATIE LITERA T */
 .stralucire-contur {
-    animation: culoare-contur 8s ease-in-out infinite;
+    animation: culoare-contur 12s ease-in-out infinite;
 }
 
 @keyframes culoare-contur {
+
     0%,
     100% {
         stroke-width: 1px;
@@ -78,14 +80,14 @@ small {
     stroke-width: 17px;
     stroke-linecap: round;
     stroke-linejoin: round;
-    stroke-dasharray: 3500;
-    stroke-dashoffset: 3500;
+    stroke-linecap: round;
+    stroke-linejoin: round;
 }
 
 /* ANIMATIE TITLU */
 .stralucire-h1 {
     color: cyan;
-    animation: pulseazaAlb 8s ease-in-out infinite;
+    animation: pulseazaAlb 12s ease-in-out infinite;
 }
 
 @keyframes pulseazaAlb {
@@ -123,9 +125,9 @@ small {
         /* Ajustează valoarea asta ca să arate complet papirusul pe desktop */
     }
 
-        padding: 45px 17px 53px 17px;
-        color: white;
-        }
+    padding: 45px 17px 53px 17px;
+    color: white;
+}
 
 #colorStar {
     transition: all 0.3s ease;
@@ -289,53 +291,42 @@ main {
 
 /* ANIMATII */
 .cod1 {
-    animation: animatie-1 8s ease-in-out infinite;
+    animation: animatie-1 12s ease-in-out infinite;
 }
 
 .cod2 {
-    animation: animatie-2 8s ease-in-out infinite;
+    animation: animatie-2 12s ease-in-out infinite;
 }
 
 @keyframes animatie-1 {
-    0% {
-        stroke-dashoffset: 3500;
+    0%,
+    35% {
+        opacity: 1;
     }
 
-    20% {
-        stroke-dashoffset: 0;
-    }
-
-    32.5% {
-        stroke-dashoffset: 0;
-    }
-
-    50% {
-        stroke-dashoffset: 3500;
+    45%,
+    90% {
+        opacity: 0;
     }
 
     100% {
-        stroke-dashoffset: 3500;
+        opacity: 1;
     }
 }
 
 @keyframes animatie-2 {
-    0% {
-        stroke-dashoffset: 3500;
+    0%,
+    40% {
+        opacity: 0;
     }
 
-    50% {
-        stroke-dashoffset: 3500;
+    50%,
+    85% {
+        opacity: 1;
     }
 
-    70% {
-        stroke-dashoffset: 0;
-    }
-
-    82.5% {
-        stroke-dashoffset: 0;
-    }
-
+    95%,
     100% {
-        stroke-dashoffset: 3500;
+        opacity: 0;
     }
 }
