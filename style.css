@@ -9,9 +9,10 @@ body {
 h1 {
     color: cyan !important;
     font-weight: 700;
+    margin-top: 9px;
     text-shadow: 1px 1px 1px black;
     text-transform: uppercase;
-    letter-spacing: .07em;
+    letter-spacing: .1em;
     animation: letterSpacing 12s ease-in-out infinite;
 }
 
@@ -70,7 +71,7 @@ small {
 
     50% {
         stroke-width: 1px;
-        filter: drop-shadow(0 0 5px rgba(255, 255, 255, .9));
+        filter: drop-shadow(0 0 7px rgba(255, 255, 255, .9));
     }
 }
 
@@ -106,26 +107,21 @@ small {
     }
 }
 
-/* --- PAPIRUS HEADER --- */
+/* --- HEADER CU PAPIRUS --- */
 #papirusTitle {
     width: 95%;
     max-width: 850px;
     margin: 17px auto;
     background-image: url('./papirus-vertical.webp');
-    background-size: 100% 100%;
-    /* Lăsăm 100% 100% ca să se întindă complet */
+    background-size: 100% 100%; /* acoperire completa */
+    min-height: 35vw;/* Înălțimea minimă va fi dinamică adica 35% din lățimea ecranului si previne scurtarea imaginii când textul e scurt. */
 
-    /* Înălțimea minimă va fi dinamică (35% din lățimea ecranului). 
-       Previne scurtarea excesivă a imaginii când textul e foarte scurt. */
-    min-height: 35vw;
-
-    /* Pentru ecrane foarte mari (peste 850px), blocăm înălțimea minimă fixă */
+    /* Blocare înălțime minimă fixă pentru ecrane mari (peste 850px) */
     @media (min-width: 850px) {
-        min-height: 300px;
-        /* Ajustează valoarea asta ca să arate complet papirusul pe desktop */
+        min-height: 300px; /* Afisare completa papirusul pe desktop */
     }
 
-    padding: 45px 17px 53px 17px;
+    padding: 53px 17px;
     color: white;
 }
 
@@ -151,7 +147,7 @@ small {
     margin-bottom: 0;
 }
 
-/* --- SECȚIUNILE ASCUNSE --- */
+/* --- SECȚIUNILE ACORDEON ASCUNSE --- */
 article.column-page .menu-content {
     display: none;
     padding: 0;
@@ -175,7 +171,7 @@ article.column-page .menu-content {
     display: block;
 }
 
-/* Replicare exactă h4 pentru titlu listă */
+/* TITLURI LISTE CONTINUTURI */
 .category dt .titlu-subiect {
     color: black !important;
     font-weight: 700;
@@ -197,7 +193,7 @@ article.column-page .menu-content {
     z-index: 1;
 }
 
-/* Replicare exactă h4 pentru textul listei */
+/* CONTINUT LISTE */
 .category dd .text-continut {
     color: black !important;
     font-weight: 700;
@@ -271,7 +267,7 @@ article.column-page .menu-content {
         transform: translateY(0);
     }
 }
-
+/* ANIMATII */
 header,
 main {
     animation: fadeInEfect 1s ease-out;
@@ -289,7 +285,7 @@ main {
     color-scheme: light only;
 }
 
-/* ANIMATII */
+/* ANIMATII PICTOGRAME SVG */
 .cod1 {
     animation: animatie-1 12s ease-in-out infinite;
 }
