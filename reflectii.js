@@ -165,7 +165,7 @@ Prima poruncă ne învață că Dumnezeul nostru adică Sfânta Treime este sing
 2.	Să nu-ți faci chip cioplit, ... să nu te închini lor, nici să le slujești; (Să nu-ţi faci chip cioplit şi nici un fel de asemănare a niciunui lucru din câte sunt în cer, sus, şi din câte sunt pe pământ, jos, şi din câte sunt în apele de sub pământ! Să nu te închini lor, nici să le slujeşti, că Eu, Domnul Dumnezeul tău, sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina părinţilor ce Mă urăsc pe Mine, până la al treilea şi al patrulea neam, și Mă milostivesc până la al miilea neam către cei ce Mă iubesc şi păzesc poruncile Mele.).
 A doua poruncă ne îndeamnă să nu ne închinăm la idoli, adică la obiecte sau reprezentări (animale, plante, corpuri cerești) despre care să credem că au puteri divine. Închinarea la icoane este pernisă deoarece icoanele nu sunt idoli fiindcă noi nu ne închinăm la materialul din care e realizată icoana ci persoanei pictată pe acea icoană, care există în realitate în Împărăția Cerurilor!
 3.	Să nu iei numele Domnului, Dumnezeului tău, în deșert ... (Să nu iei numele Domnului Dumnezeului tău în deşert, că nu va lăsa Domnul nepedepsit pe cel ce ia în deşert numele Lui.).
-A treia poruncă ne interzice să folosim numele divin fără respectul cuvenit. Aceasta înseamnă că trebuie să evităm jurămintele false, asozierea numelui lui Dumnezeu în texte sau glume nesăbuite, invocarea ajutorului lui Dumnezeu în contexte banale. Deci în cocluzie numele Domnului precum și al Maicii Domnului și al sfinților, trebuie rostite cu evlavie doar în rugăciuni sau pentru a mărturisirea adevărului.
+A treia poruncă ne interzice să folosim numele divin fără respectul cuvenit. Aceasta înseamnă că trebuie să evităm jurămintele false, asocierea numelui lui Dumnezeu în texte sau glume nesăbuite, invocarea ajutorului lui Dumnezeu în contexte banale. Deci în concluzie numele Domnului precum și al Maicii Domnului și al sfinților, trebuie rostite cu evlavie doar în rugăciuni sau pentru a mărturisirea adevărului.
 4.	Adu-ți aminte de ziua odihnei, ca să o sfințești. ... (Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti. Lucrează şase zile şi-ţi fă în acelea toate treburile tale, iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi niciun lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine).
 A patra poruncă ne învață că duminica și în alte zile de sărbătoare, (adică duminica și zilele însemnate în calendar cu cruce roșie), nu trebuie să lucrăm ci să mergem la Biserică, să ne rugăm, să facem fapte bune, să citim învățături duhovnicești.
 5.	Cinstește pe tatăl tău și pe mama ta ... ca să trăiești ani mulți și să-ți fie bine ...   (Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie.).
@@ -181,13 +181,13 @@ De aceea păcatele care încalcă această poruncă sunt:
 - adulterul sau preadesfrânarea (relaţie extraconjugală când una sau ambele persoane sunt căsătorite)
 - homosexualitatea și lesbianismul (relaţii sexuale între parteneri de acelaşi sex)
 - sodomia şi gomoria (relaţii altfel decât normale care implică și alte organe ale corpului)
-- incestul (relaţii sexuale cu persoane aflate în diferite grade de rudenie)-
+- incestul (relaţii sexuale cu persoane aflate în diferite grade de rudenie)
 - pedofilia (relaţii sexuale cu minori)
 - zoofilia (întreţinerea de relaţii cu animale)
 - onania (autoexcitarea)
 - un stil de viață dominat de un consum irațional de alimente (hrană, băuturi, suplimente, etc)
 - acumularea de bunuri materiale în exces pentru etalarea în mod ostentativ a superiorității (case, mașini, ceasuri, etc)
-- distracții excesive pentru satisfacerea egoului (petreceri mondene, sejururi in țări îndepărtate, etc).
+- distracții nenumărate pentru satisfacerea egoului (petreceri, sejururi in țări îndepărtate, etc).
 8.	Să nu furi!
 Porunca aceasta ne îndeamnă să nu ne însușim pe nedrept banii sau bunurile semenilor dar în același timp interzice și înșelăciunea, specula, neplata salariului lucrătorilor, solicitarea mitei.
 9.	Să nu mărturisești strâmb împotriva aproapelui tău!
