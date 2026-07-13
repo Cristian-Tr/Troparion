@@ -30,10 +30,15 @@ document.addEventListener('DOMContentLoaded', function () {
     scriptLuna.src = luna + ".js";
 
     // Declanșăm logica de afișare după ce s-a încărcat fișierul lunii fixe
+    // Declanșăm logica de afișare după ce s-a încărcat fișierul lunii fixe
     scriptLuna.onload = function () {
         const crossElem = document.getElementById("colorCross");
         const memorialElem = document.querySelector(".memorialDay");
         const descElem = document.getElementById("todayDescription");
+
+        // ELEMENTELE NOI ADĂUGATE PENTRU COLORARE:
+        const dateElem = document.getElementById("todayDate");
+        const troparTitleElem = document.getElementById("troparTitle");
 
         // Formatul cheii pentru sărbători schimbătoare din 00.js (ex: "04-25")
         const cheieSchimbatoare = `${luna}-${zi}`;
@@ -54,30 +59,34 @@ document.addEventListener('DOMContentLoaded', function () {
             if (memorialElem) memorialElem.innerText = dateDeAfisat.nume;
             if (descElem) descElem.innerText = dateDeAfisat.tropar;
 
-            let culoareFinala = dateDeAfisat.culoare || "cyan";
+            let culoareFinala = dateDeAfisat.culoare || "white";
 
             // REGULA NOUĂ: Dacă e Duminică, forțăm culoarea roșie
             if (ziSaptamanii === 0) {
                 culoareFinala = "red";
             }
 
-            // GESTIONARE VIZIBILITATE CRUCE ÎN FUNCTIE DE CULOARE
+            // GESTIONARE VIZIBILITATE CRUCE ȘI COLORARE TOT CONTAINERUL
             if (crossElem) {
                 if (culoareFinala === "incolor") {
                     // 1. Ascundem crucea complet
                     crossElem.style.visibility = "hidden";
                     crossElem.style.opacity = "0";
 
-                    // 2. Forțăm ambele texte să devină CYAN în zilele obișnuite
-                    if (memorialElem) memorialElem.style.setProperty("color", "cyan", "important");
-                    if (descElem) descElem.style.setProperty("color", "cyan", "important");
+                    // 2. Forțăm TOATE textele să devină white în zilele obișnuite
+                    if (dateElem) dateElem.style.setProperty("color", "white", "important");
+                    if (troparTitleElem) troparTitleElem.style.setProperty("color", "white", "important");
+                    if (memorialElem) memorialElem.style.setProperty("color", "white", "important");
+                    if (descElem) descElem.style.setProperty("color", "white", "important");
                 } else {
                     // 1. Afișăm crucea și o colorăm (ex: "red")
                     crossElem.style.visibility = "visible";
                     crossElem.style.opacity = "1";
                     crossElem.style.color = culoareFinala;
 
-                    // 2. Ambele texte iau culoarea specială de sărbătoare
+                    // 2. TOATE textele iau culoarea specială de sărbătoare (ex: roșu duminica)
+                    if (dateElem) dateElem.style.setProperty("color", culoareFinala, "important");
+                    if (troparTitleElem) troparTitleElem.style.setProperty("color", culoareFinala, "important");
                     if (memorialElem) memorialElem.style.setProperty("color", culoareFinala, "important");
                     if (descElem) descElem.style.setProperty("color", culoareFinala, "important");
                 }

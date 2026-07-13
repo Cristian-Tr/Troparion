@@ -12,7 +12,7 @@ window.dateLuna = {
     "01": {
         nume: "Sfântul Ierarh Leontie de la Rădăuţi",
         tropar: "Cu nevoinţe duhovniceşti toată viaţa ţi-ai petrecut-o şi, primind vrednicia arhieriei, cu smerenie şi cu frică de Dumnezeu ai slujit Biserica lui Hristos, pe Care roagă-L, Sfinte Ierarhe Leontie, să mântuiască sufletele noastre.",
-        culoare: "gray"
+        culoare: "cyan"
     },
 
     // ============================================================
@@ -21,7 +21,7 @@ window.dateLuna = {
     "02": {
         nume: "Sfântul Voievod Ștefan cel Mare",
         tropar: "Apărător neînfricat al credinței și patriei străbune, mare ctitor de locașuri sfinte, Ștefane Voievod, roagă pe Hristos Dumnezeu, să ne izbăvească din nevoi și din necazuri.",
-        culoare: "gray"
+        culoare: "cyan"
     },
 
     // ============================================================
@@ -55,9 +55,9 @@ window.dateLuna = {
     // 06 IULIE: Sfântul Cuvios Sisoe cel Mare
     // ============================================================
     "06": {
-        nume: "Sfântul Cuvios Sisoe cel Mare",
-        tropar: "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Sisoe; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui Ce ţi-a dat ţie putere; slavă Celui Ce te-a încununat pe tine; Slavă Celui Ce lucrează prin tine tuturor tămăduiri.",
-        culoare: "incolor"
+        nume: "Sfântul Cuvios Dometie cel Milostiv de la Râmeț",
+        tropar: "Îndrumător al monahilor, al monahiilor și al credincioșilor mireni te-am cunoscut și te cinstim, ajutător săracilor întru toate nevoile, dar și pildă de milostenie, Sfinte Cuvioase Părinte Dometie, roagă-te pentru sufletele noastre.",
+        culoare: "cyan"
     },
 
     // ============================================================
@@ -75,7 +75,7 @@ window.dateLuna = {
     "08": {
         nume: "Sfinții Mucenici Epictet și Astion",
         tropar: "Mucenicii Tăi, Doamne, Epictet și Astion, întru nevoințele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuiște sufletele noastre, Hristoase Dumnezeule.",
-        culoare: "gray"
+        culoare: "cyan"
     },
 
     // ============================================================
@@ -192,16 +192,16 @@ window.dateLuna = {
     "21": {
         nume: "Sfântul Proroc Iezechiel",
         tropar: "A prorocului Tău Iezechiel pomenire, Doamne, prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre.",
-        culoare: "gray"
+        culoare: "incolor"
     },
 
     // ============================================================
     // 22 IULIE: Sfânta Mironosiță întocmai cu Apostolii Maria Magdalena
     // ============================================================
     "22": {
-        nume: "Sfânta Mironosiță întocmai cu Apostolii Maria Magdalena",
-        tropar: "Lui Hristos, Celui Ce S-a născut pentru noi din Fecioară, Cinstită Magdalena Maria, ai păzit îndreptările şi legile Aceluia. Pentru aceasta, astăzi, prăznuind preasfinţită pomenirea ta, cu credinţă te lăudăm şi cu râvnă te cinstim.",
-        culoare: "incolor"
+        nume: "Preot Mărturisitor Ilie Lăcătușu",
+        tropar: "De tânăr, prin dragostea față de toți, ai vădit iubirea din inimă către Hristos - Dumnezeu, Ilie cel plin de Har, apoi, mărturisindu-L, răbdător în prigoană, ai fost cinstit cu darul nestricăciunii, Părinte. Acum, dar, cu îndrăzneală roagă-te pentru noi.",
+        culoare: "cyan"
     },
 
     // ============================================================

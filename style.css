@@ -11,8 +11,21 @@ h1 {
     font-weight: 700;
     text-shadow: 1px 1px 1px black;
     text-transform: uppercase;
+    letter-spacing: .07em;
+    animation: letterSpacing 8s ease-in-out infinite;
 }
 
+@keyframes letterSpacing {
+    0%,
+    100% {
+        letter-spacing: 0;
+    }
+
+    50% {
+    letter-spacing: 1em;
+    }
+}
+ 
 h2 {
     color: cyan !important;
     font-weight: 400;
@@ -33,9 +46,8 @@ h4 {
 }
 
 b {
-    color: cyan;
     text-transform: uppercase;
-    text-shadow: .7px .7px .7px black;
+    text-shadow: 1px 1px 1px black;
 }
 
 small {
@@ -56,7 +68,7 @@ small {
 
     50% {
         stroke-width: 1px;
-        filter: drop-shadow(0 0 1px rgba(255, 255, 255, .7));
+        filter: drop-shadow(0 0 5px rgba(255, 255, 255, .9));
     }
 }
 
@@ -88,7 +100,7 @@ small {
     50% {
         stroke-width: 1px;
         filter: drop-shadow(0 0 1px rgba(255, 255, 255, .7));
-        text-shadow: 0 0 4px rgba(255, 255, 255, .7);
+        text-shadow: 0 0 4px rgba(255, 255, 255, .9);
     }
 }
 
@@ -111,7 +123,7 @@ small {
         /* Ajustează valoarea asta ca să arate complet papirusul pe desktop */
     }
 
-        padding: 28px 17px 53px 17px;
+        padding: 45px 17px 53px 17px;
         color: white;
         }
 
