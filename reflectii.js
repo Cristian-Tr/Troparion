@@ -158,31 +158,45 @@ Prin pilda aceasta, Domnul nostru Iisus Hristos ne îndeamnă să devenim mai î
     },
     {
         subjectName: "Decalogul",
-        reflectie: `Decalogul (Ieșire 20, 2-17) este alcătuit din 10 porunci trebuie respectate de  oameni pentru a putea deveni plăcuți lui Dumnezeu și a trăi în pace cu semenii.
-Aceste porunci au fost dăruite pe table din piatră de către Dumnezeu Sfântului Proroc Moise pe Muntele Sinai. Pe o lespede se găseau primele patru porunci, care cuprind îndatoririle oamenilor față de Dumnezeu iar pe cealaltă, ultimele șase porunci, care conțin îndatoririle față de semeni.
+        reflectie: `Decalogul (Ieșire 20, 2-17) este alcătuit din 10 porunci ce trebuie respectate de  oameni pentru a deveni plăcuți lui Dumnezeu și a trăi în pace cu semenii.
+Aceste porunci au fost dăruite de către Dumnezeu pe 2 table din piatră Sfântului Proroc Moise pe Muntele Sinai. Pe o lespede se găseau primele patru porunci, care cuprind îndatoririle oamenilor față de Dumnezeu iar pe cealaltă, ultimele șase porunci, care conțin îndatoririle față de părinți și față de semeni.
 1.	Eu sunt Domnul Dumnezeul tău .... . Să nu ai alți dumnezei afară de Mine. (Eu sunt Domnul Dumnezeul tău, Care te-a scos din pământul Egiptului şi din casa robiei. Să nu ai alţi dumnezei afară de Mine!).
 Prima poruncă ne învață că Dumnezeul nostru adică Sfânta Treime este singurul și adevăratul Dumnezeu pe care trebuie să-L iubim mai presus de toate fără să căutăm să avem alți dumnezei așa cum romanii aveau zei precum Jupiter, Neptun, Apollo, Diana, Mercur, Marte sau Venus.
 2.	Să nu-ți faci chip cioplit, ... să nu te închini lor, nici să le slujești; (Să nu-ţi faci chip cioplit şi nici un fel de asemănare a niciunui lucru din câte sunt în cer, sus, şi din câte sunt pe pământ, jos, şi din câte sunt în apele de sub pământ! Să nu te închini lor, nici să le slujeşti, că Eu, Domnul Dumnezeul tău, sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina părinţilor ce Mă urăsc pe Mine, până la al treilea şi al patrulea neam, și Mă milostivesc până la al miilea neam către cei ce Mă iubesc şi păzesc poruncile Mele.).
-A doua poruncă ne îndeamnă să nu ne închinăm la idoli, adică la obiecte despre care să credem că au puteri divine. Icoanele nu sunt idoli deoarece nu ne închinăm la materialul din care e realizată icoana ci persoanei reprezentată pe ea.
+A doua poruncă ne îndeamnă să nu ne închinăm la idoli, adică la obiecte sau reprezentări (animale, plante, corpuri cerești) despre care să credem că au puteri divine. Închinarea la icoane este pernisă deoarece icoanele nu sunt idoli fiindcă noi nu ne închinăm la materialul din care e realizată icoana ci persoanei pictată pe acea icoană, care există în realitate în Împărăția Cerurilor!
 3.	Să nu iei numele Domnului, Dumnezeului tău, în deșert ... (Să nu iei numele Domnului Dumnezeului tău în deşert, că nu va lăsa Domnul nepedepsit pe cel ce ia în deşert numele Lui.).
-A treia poruncă ne arată că nu ne este îngăduit să batjocorim numele lui Dumnezeu prin cuvinte urâte.
+A treia poruncă ne interzice să folosim numele divin fără respectul cuvenit. Aceasta înseamnă că trebuie să evităm jurămintele false, asozierea numelui lui Dumnezeu în texte sau glume nesăbuite, invocarea ajutorului lui Dumnezeu în contexte banale. Deci în cocluzie numele Domnului precum și al Maicii Domnului și al sfinților, trebuie rostite cu evlavie doar în rugăciuni sau pentru a mărturisirea adevărului.
 4.	Adu-ți aminte de ziua odihnei, ca să o sfințești. ... (Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti. Lucrează şase zile şi-ţi fă în acelea toate treburile tale, iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi niciun lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine).
-A patra poruncă ne învață că duminica și în alte zile de sărbătoare, (adică duminica și zilele însemnate în calendar cu cruce roșie), nu trebuie să lucrăm ci să mergem la Biserică, să ne rugăm, să facem fapte bune.
+A patra poruncă ne învață că duminica și în alte zile de sărbătoare, (adică duminica și zilele însemnate în calendar cu cruce roșie), nu trebuie să lucrăm ci să mergem la Biserică, să ne rugăm, să facem fapte bune, să citim învățături duhovnicești.
 5.	Cinstește pe tatăl tău și pe mama ta ... ca să trăiești ani mulți și să-ți fie bine ...   (Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie.).
 Prin această poruncă Dumnezeu ne făgăduiește fericirea și viață îndelungată dacă îi cinstim pe părinți dar și pe cei care ne-au ajutat de-a lungul vieții (nași, bunici, învățători, profesori, medici).
-A cinsti părinții înseamnă a-i iubi, asculta, ajuta și a ne ruga pentru ei.
+A cinsti părinții înseamnă a-i iubi, a-i asculta, a-i ajuta pe cât ne este cu putință și a ne ruga pentru ei.
 6.	Să nu ucizi!
-Prin porunca a cincea,  Dumnezeu ne poruncește să nu omorâm pe semeni și să nu ne  sinucidem, deoarece viața este darul lui Dumnezeu. 
+Prin porunca a cincea, Dumnezeu ne poruncește să nu omorâm pe semeni și să nu ne  sinucidem, deoarece viața este darul lui Dumnezeu. 
 Uciderea poate fi provocată prin lovire, împușcare, otrăvire, avort dar și prin sfaturi care pot provoca moartea.
 7.	Să nu fii desfrânat!
-Prin această poruncă, Dumnezeu ne învață să fim cumpătați (să nu mâncăm și să nu bem mai mult decât ne este de folos iar bărbatul și femeia să fie fideli unul față de celălalt).
+Prin această poruncă, Dumnezeu ne învață să păstrăm curăția trupească și sufletească ceea ce presupune că trebuie să ne abținem de la orice formă de relație sexuală în afara căsătoriei dintre un bărbat și o femeie care trebuie să fie fideli unul altuia.
+De aceea păcatele care încalcă această poruncă sunt:
+- curvia (relația sexuală dintre persoane care nu sunt căsătorite)
+- adulterul sau preadesfrânarea (relaţie extraconjugală când una sau ambele persoane sunt căsătorite)
+- homosexualitatea și lesbianismul (relaţii sexuale între parteneri de acelaşi sex)
+- sodomia şi gomoria (relaţii altfel decât normale care implică și alte organe ale corpului)
+- incestul (relaţii sexuale cu persoane aflate în diferite grade de rudenie)-
+- pedofilia (relaţii sexuale cu minori)
+- zoofilia (întreţinerea de relaţii cu animale)
+- onania (autoexcitarea)
+- un stil de viață dominat de un consum irațional de alimente (hrană, băuturi, suplimente, etc)
+- acumularea de bunuri materiale în exces pentru etalarea în mod ostentativ a superiorității (case, mașini, ceasuri, etc)
+- distracții excesive pentru satisfacerea egoului (petreceri mondene, sejururi in țări îndepărtate, etc).
 8.	Să nu furi!
-Porunca aceasta ne îndeamnă să nu ne însușim pe nedrept banii sau bunurile semenilor.
+Porunca aceasta ne îndeamnă să nu ne însușim pe nedrept banii sau bunurile semenilor dar în același timp interzice și înșelăciunea, specula, neplata salariului lucrătorilor, solicitarea mitei.
 9.	Să nu mărturisești strâmb împotriva aproapelui tău!
-A noua poruncă ne învață să nu mințim, pentru a nu  provoca vreun rău cuiva.
+Prin a noua poruncă Domnul ne poruncește să nu mințim adică să nu rostim jurăminte false în fața instanțelor pentru a nu provoca vreun rău uneia sau mai multor persoane.
+Această poruncă ne interzice să clevetim sau să judecăm pe aproapele căci nu putem cunoaște dacă nu cunoaștem adevărul.
+Deasemenea tot această poruncă interzice și ipocrizia. Cu alte cuvinte ne interzice să ne ascundem adevăratul caracter în funcție de împrejurări (convingeri moral-religioase, calități personale).
 10.	 Să nu poftești ... nimic din cele ce sunt ale aproapelui tău!
 (Să nu doreşti casa aproapelui tău; să nu doreşti femeia aproapelui tău, nici ogorul lui, nici sluga lui, nici slujnica lui, nici boul lui, nici asinul lui şi niciunul din dobitoacele lui şi nimic din câte are aproapele tău!)
-Prin ultima poruncă, Dumnezeu ne îndeamnă să fim mulțumiți cu ceea ce ne-a dăruit Dumnezeu.
+Prin ultima poruncă, Dumnezeu ne îndeamnă să fim mulțumiți cu ceea ce ne-a dăruit Dumnezeu, să nu poftim la ceea ce nu ne aparține și nici să fim invidioși văzând realizările altor persoane.
 `
     },
     {
@@ -193,8 +207,20 @@ Datorită adicției generate de aceste patimi, oamenii nu le mai pot părăsi at
     },
     {
         subjectName: "Desfrânarea",
-        reflectie: `Din punct de vedere sexual desfrânarea se referă la un stil de viață imoral bazat pe patimi care întinează trupul creat de Dumnezeu și încalcă porunca 7 din Decalog precum ar fi curvia (relații intime între persoane necăsătorite), preacurvia sau adulterul (relații intime între persoane căsătorite sau când doar o persoană este căsătorită), onania (autoexcitarea).
-Din punct de vedere al consumului de bunuri materiale desfrânarea se referă la un stil de viață dominat de un consum irațional de alimente (hrană și băuturi scumpe), de acumularea de produse de lux (mașini, tablouri, ceasuri, etc) sau de distracții excesive (petreceri mondene, sejururi in țări îndepărtate, etc) pentru satisfacerea egoului și etalarea în mod ostentativ a superiorității.`
+        reflectie: `Din punct de vedere sexual desfrânarea se referă la un stil de viață imoral bazat pe patimi care întinează trupul creat de Dumnezeu și încalcă porunca 7 din Decalog. 
+Păcatele care încalcă această poruncă sunt:
+- curvia (relația sexuală dintre persoane care nu sunt căsătorite)
+- adulterul sau preadesfrânarea (relaţie extraconjugală când una sau ambele persoane sunt căsătorite)
+- homosexualitatea și lesbianismul (relaţii sexuale între parteneri de acelaşi sex)
+- sodomia şi gomoria (relaţii altfel decât normale care implică și alte organe ale corpului)
+- incestul (relaţii sexuale cu persoane aflate în diferite grade de rudenie)-
+- pedofilia (relaţii sexuale cu minori)
+- zoofilia (întreţinerea de relaţii cu animale)
+- onania (autoexcitarea)
+Din punct de vedere al consumului de  desfrânarea se referă la: 
+- un stil de viață dominat de un consum irațional de alimente (hrană, băuturi, suplimente, etc)
+- acumularea de bunuri materiale în exces pentru etalarea în mod ostentativ a superiorității (case, mașini, ceasuri, etc)
+- distracții excesive  pentru satisfacerea egoului (petreceri mondene, sejururi in țări îndepărtate, etc).`
     },
     {
         subjectName: "Discernământul",
