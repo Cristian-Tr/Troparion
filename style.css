@@ -8,7 +8,7 @@ body {
 
 /* ANIMATIE LITERA T */
 .stralucire-contur {
-    animation: culoare-contur 4s ease-in-out infinite;
+    animation: culoare-contur 4.5s ease-in-out infinite;
 }
 
 @keyframes culoare-contur {
@@ -42,13 +42,12 @@ h1 {
     text-shadow: 1px 1px 1px black;
     text-transform: uppercase;
     letter-spacing: .1em;
-    animation: letterSpacing 4s ease-in-out infinite;
 }
 
 /* ANIMATIE TITLU */
 .stralucire-h1 {
     color: cyan;
-    animation: pulseazaAlb 12s ease-in-out infinite;
+    animation: pulseazaAlb 4.5s ease-in-out infinite;
 }
 
 @keyframes pulseazaAlb {
