@@ -191,7 +191,7 @@ article.column-page .menu-content {
     background-image: url('./papirus-background.webp');
     background-size: 100% 100%;
     padding: 17px 7px 7px 7px;
-    margin-top: 1.2px;
+    margin-top: 1.25px;
     display: none;
     text-align: justify;
     z-index: 1;
@@ -201,7 +201,7 @@ article.column-page .menu-content {
 .category dd .text-continut {
     color: black !important;
     font-weight: 700;
-    font-size: 1.2em;
+    font-size: 1.25em;
     text-align: justify;
     white-space: pre-line;
     word-wrap: break-word;
