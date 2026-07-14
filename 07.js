@@ -127,8 +127,8 @@ window.dateLuna = {
     // 14 IULIE: Sfântul Apostol Achila
     // ============================================================
     "14": {
-        nume: "Sfântul Apostol Achila",
-        tropar: "Apostole sfinte Achila, roagă pe milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.",
+        nume: "Sfântul Cuvios Nicodim Aghioritul",
+        tropar: "Săltaţi şi vă veseliţi, popoare, că, iată, în prisosul bucuriei se arată astăzi pârga cea sfântă a Athosului, folositorul şi mângâietorul nostru, blândul Nicodim. Căci prin râvna cea după Hristos Biserica o a luminat, îndreptând cele stricate şi părăsite prin nebăgare de seamă şi trecerea cu vederea, iar acum înaintea Sfintei Treimi neîncetat se roagă pentru sufletele noastre.",
         culoare: "incolor"
     },
 
