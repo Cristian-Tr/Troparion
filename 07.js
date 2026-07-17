@@ -155,7 +155,7 @@ window.dateLuna = {
     // ============================================================
     "17": {
         nume: "Sfânta Mare Muceniță Marina",
-        tropar: "Mieluşeaua Ta, Iisuse, Marina, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.",
+        tropar: "Pe purtătoarea de chinuri și fecioara Marina, care prin curăție sufletul și-a împodobit, lăudând-o să strigăm din adâncul sufletului: Muceniță vrednică de laudă, cu rugăciunile tale izbăvește, pe toți cei ce te cinstesc, de foamete și de boală și de toată vătămarea vrăjmașului, ca să săvârșim cu laude dumnezeiești pomenirea ta.",
         culoare: "incolor"
     },
 
