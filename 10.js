@@ -136,9 +136,9 @@ window.dateLuna = {
     // 15 OCTOMBRIE: Sfântul Mucenic Luchian preotul
     // ============================================================
     "15": {
-        nume: "Sfântul Mucenic Luchian preotul",
-        tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinte Mucenice Luchian, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
-        culoare: "white"
+        nume: "Sfânta Magdalena de la Mălainița",
+        tropar: "Pe Sfânta Magdalena să o cinstim cu râvnă, ca pe o podoabă nouă a ținutului Timocului, că, lucrând faptele credinței, prin acestea a întărit obștea ortodocșilor, risipind toată neștiința din popor; iar acum și nouă, prin moaștele ei, ne dăruiește vindecări de tot felul de boli, cu harul Domnului.",
+        culoare: "deepskyblue"
     },
 
     // ============================================================
