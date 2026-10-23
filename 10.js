@@ -208,9 +208,9 @@ window.dateLuna = {
     // 23 OCTOMBRIE: Sfântul Apostol Iacob, rudenia Domnului, primul episcop al Ierusalimului
     // ============================================================
     "23": {
-        nume: "Sfântul Apostol Iacob, rudenia Domnului, primul episcop al Ierusalimului",
-        tropar: "Ca un ucenic al Domnului ai primit Evanghelia, drepte; ca un mucenic eşti de neînduple­cat; îndrăzneală ca un frate al lui Dumnezeu, a te ruga ca un ierarh. Roagă pe Hristos Dumnezeu, să mântuiască sufletele noastre.",
-        culoare: "white"
+        nume: "Sfântul Preot Mucenic Constantin Sârbu",
+        tropar: "Din pruncie Părinte, în sărăcie trăind, te-ai curățit spre slujirea cea rânduită de sus, ca să poți purta și sarcina aproapelui, astfel Sfințite Constantin, mucenic al lui Hristos. A tuturor mângâiere te-a arătat Cel ce lumea a mântuit prin răstignirea sa.",
+        culoare: "deepskyblue"
     },
 
     // ============================================================
