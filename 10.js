@@ -255,15 +255,15 @@ window.dateLuna = {
     "28": {
         nume: "Sfântul Ierarh Iachint, Mitropolitul Țării Românești",
         tropar: "Vrednic următor al ierarhilor dobrogeni şi întâiule între mitropoliţii Ţării Româneşti, Sfinte Ierarhe Iachint, te-ai arătat mărturisitor al dreptei credinţe, lucrător al virtuţilor şi rugător pentru sufletele noastre.",
-        culoare: "gray"
+        culoare: "deepskyblue"
     },
 
     // ============================================================
     // 29 OCTOMBRIE: Sfânta Mare Muceniță Anastasia Romana
     // ============================================================
     "29": {
-        nume: "Sfânta Mare Muceniță Anastasia Romana",
-        tropar: "Mieluşeaua Ta, Iisuse, Anastasia, strigă cu glas mare: pe Tine, Mirele meu, Te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru Tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un Milostiv, mântuiește sufletele noastre.",
+        nume: "Sfântul Cuvios Avramie",
+        tropar: "Întru tine, părinte, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte Avramie, duhul tău.",
         culoare: "white"
     },
 

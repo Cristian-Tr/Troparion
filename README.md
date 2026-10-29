@@ -4,9 +4,9 @@ Link: https://cristian-tr.github.io/Troparion/
 
 📈 Rezultate Audit Lighthouse
 
-🖥️ DESKTOP: Performance: 97 | Accesibility: 100 | Best practices: 100 | SEO: 100
+🖥️ DESKTOP: Performance: 93 | Accesibility: 100 | Best practices: 100 | SEO: 100
 
-📱 MOBILE:  Performance: 68 | Accesibility: 100 | Best practices: 100 | SEO: 100
+📱 MOBILE:  Performance: 59 | Accesibility: 100 | Best practices: 100 | SEO: 100
 
 🛠️ Tehnologii Utilizate
 🎨 HTML5 & CSS3 (Custom styling & Bootstrap 5) 

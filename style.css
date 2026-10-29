@@ -65,21 +65,20 @@ h1 {
         text-shadow: 0 0 4px rgba(255, 255, 255, .9);
     }
 }
+
 /* --- HEADER CU PAPIRUS --- */
 #papirus-header {
-    width: 95%;
-    max-width: 850px;
+    width: 97%;
+    max-width: 1000px;
     margin: 17px auto;
     background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
-    /* acoperire completa */
     min-height: 35vw;
-    /* Înălțimea minimă va fi dinamică adica 35% din lățimea ecranului si previne scurtarea imaginii când textul e scurt. */
     animation: fadeInEfect 1s ease-out;
 
     /* Blocare înălțime minimă fixă pentru ecrane mari (peste 850px) */
-    @media (min-width: 850px) {
-        min-height: 300px;
+    @media (min-width: 990px) {
+        min-height: 330px;
         /* Afisare completa papirusul pe desktop */
     }
 
@@ -90,6 +89,29 @@ h1 {
 #todayDescription {
     text-align: justify;
     max-width: 100%;
+}
+
+b {
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px black;
+}
+
+.memorialDay {
+    font-size: 1.25em;
+    font-weight: 700;
+    margin-bottom: .3em;
+    display: block;
+    text-shadow: .7px .7px .7px black;
+}
+
+.menuType {
+    font-size: 1.25em;
+    font-weight: 700;
+    margin-bottom: .3em;
+    display: block;
+    text-shadow: .7px .7px .7px black;
+    min-height: 1.5em;
+    line-height: 1.5em;
 }
 
 h2 {
@@ -111,15 +133,21 @@ h4 {
     color: cyan;
 }
 
-b {
-    text-transform: uppercase;
-    text-shadow: 1px 1px 1px black;
-}
-
 small {
     color: cyan;
 }
+/* ANIMATII */
+header,
+main {
+    animation: fadeInEfect 1s ease-out;
+}
 
+@media (min-width: 992px) {
+    #secondZone {
+        max-width: 1000px !important;
+        margin: 0 auto !important;
+    }
+}
 /* --- BUTOANE MENIU --- */
 .menu-1,
 .menu-2 {
@@ -252,20 +280,6 @@ article.column-page .menu-content {
     }
 }
 
-/* ANIMATII */
-header,
-main {
-    animation: fadeInEfect 1s ease-out;
-}
-
-.footer-vintage {
-    padding-bottom: 25px;
-}
-
-:root {
-    color-scheme: light only;
-}
-
 /* ANIMATII PICTOGRAME SVG */
 .cod1 {
     animation: animatie-1 9s ease-in-out infinite;
@@ -308,4 +322,67 @@ main {
     100% {
         opacity: 0;
     }
+}
+
+/* --- Stiluri Papirus pentru Calendar Lunar --- */
+.calendar-lunar-papirus {
+    width: 97%;
+    max-width: 1000px;
+    margin: 1px auto;
+    margin-top: 50px;
+    background-image: url('./papirus-background.webp');
+    background-size: 100% 100%;
+    padding: 3px;
+    color: #2b1d0c;
+    box-sizing: border-box;
+    width: 97%;
+}
+
+/* Stil pentru tabelul așezat pe papirus */
+#tabelCalendarLunar {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 3px auto;
+    text-align: left;
+    color: #2b1d0c;
+    text-shadow: 1px 1px 1px black;
+}
+
+#tabelCalendarLunar tr {
+    border-bottom: 1px solid rgba(139, 69, 19, 0.3);
+    /* Linii orizontale discrete, culoarea lemnului */
+}
+
+#tabelCalendarLunar td {
+    padding: 3px;
+    vertical-align: middle;
+}
+
+/* --- Container cu scroll pentru Calendarul Lunar (aprox. 7 rânduri vizibile) --- */
+#containerTabelLunar {
+    max-height: 330px;
+    overflow-y: auto;
+    /* Activează scroll-ul vertical doar când este nevoie */
+    margin: 1px auto;
+    max-width: 750px;
+    padding-right: 3px;
+    /* Spațiu pentru bara de scroll */
+}
+
+/* Stiluri bara de scroll pe papirus */
+#containerTabelLunar::-webkit-scrollbar {
+    width: 3px;
+}
+
+#containerTabelLunar::-webkit-scrollbar-thumb {
+    background: rgba(139, 69, 19, 0.5);
+    border-radius: 3px;
+}
+
+.footer-vintage {
+    padding-bottom: 25px;
+}
+
+:root {
+    color-scheme: black;
 }

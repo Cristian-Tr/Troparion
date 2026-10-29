@@ -43,7 +43,7 @@
 <body>
     <div id="script-container"></div>
     <!-- HEADER -->
-    <header class="py-1">
+    <header class="py-1" id="firstZone">
         <div class="container-fluid text-center">
             <!-- CANDELA IN FORMA LITEREI T -->
             <div id="candle" class="w-100 text-center">
@@ -97,20 +97,20 @@
         <div class="container text-center" id="papirus-header">
             <b id="todayDate"></b>
             <div id="colorCross"
-                style="visibility: hidden; opacity: 0;  margin-top: -.1em; font-size: 1.7em; font-weight: bold;">
+                style="visibility: hidden; opacity: 0;  margin-top: -.2em; font-size: 1.7em; font-weight: bold;">
                 &#10015;
             </div>
+            <div class="memorialDay text-uppercase"></div>
+            <div class="menuType"></div>
             <div id="troparTitle"
                 style="font-size: 1.2em; font-weight: 700; margin-top: -.2em; margin-bottom: .1em; text-shadow: .7px .7px .7px black;">
                 TROPAR</div>
-            <div style="font-size: 1.25em; font-weight: 700; display: block; text-shadow: .7px .7px .7px black;"
-                class="memorialDay text-uppercase"></div>
             <div style="font-size: 1.25em; font-weight: 400; display: block; text-shadow: .7px .7px .7px black;"
                 id="todayDescription" class="mx-auto"></div>
         </div>
     </header>
     <!-- CONTINUT -->
-    <main class="container my-3 p-0" style="max-width: 97%; margin: 0 auto;">
+    <main class="container my-3 p-0" id="secondZone" style="max-width: 97%; margin: 0 auto;">
 
         <div class="row text-center g-0">
 
@@ -242,6 +242,45 @@
             </div>
 
         </div>
+
+      
+
+        <section class="calendar-lunar-papirus col-12 text-center" id="thirdZone">
+            <h3 class="text-center" style="margin-top: 7px;">Calendar ortodox</h3>
+            <div>
+                <!-- Zona de controale (Anul și Luna cu săgeți sus/jos) -->
+                <div
+                    style="margin-top: -10px; display: flex; justify-content: center; gap: 25px; margin-bottom: 3px; align-items: center;">
+                    <!-- Control An -->
+                    <div style="display: flex; flex-direction: column; align-items: center;">
+                        <button id="anSus"
+                            style="background: none; border: none; cursor: pointer; font-size: 1.2em; color: #2b1d0c;">▲</button>
+                        <span id="afisajAn"
+                            style="font-size: 1em; font-weight: bold; padding: 7px; border: 1px solid #8b4513; border-radius: 3px; min-width: 80px; background: rgba(255,255,255,0.3);">2026</span>
+                        <button id="anJos"
+                            style="background: none; border: none; cursor: pointer; font-size: 1.2em; color: #2b1d0c;">▼</button>
+                    </div>
+
+                    <!-- Control Lună -->
+                    <div style="display: flex; flex-direction: column; align-items: center;">
+                        <button id="lunaSus"
+                            style="background: none; border: none; cursor: pointer; font-size: 1.2em; color: #2b1d0c;">▲</button>
+                        <span id="afisajLuna"
+                            style="font-size: 1em; font-weight: bold; padding: 7px; border: 1px solid #8b4513; border-radius: 3px; min-width: 80px; background: rgba(255,255,255,0.3);">IAN</span>
+                        <button id="lunaJos"
+                            style="background: none; border: none; cursor: pointer; font-size: 1.2em; color: #2b1d0c;">▼</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tabelul lunar cu scroll -->
+            <div id="containerTabelLunar">
+                <table id="tabelCalendarLunar">
+                    <!-- Rândurile se vor popula dinamic din JavaScript -->
+                </table>
+            </div>
+        </section>
+
     </main>
 
     <footer class="container text-center"
