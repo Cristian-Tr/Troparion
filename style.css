@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #000 !important;
+    background-color: black !important;
     overflow-x: hidden;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 }
@@ -82,7 +82,7 @@ h1 {
         /* Afisare completa papirusul pe desktop */
     }
 
-    padding: 53px 12px;
+    padding: 71px 12px;
     color: white;
 }
 
@@ -326,16 +326,16 @@ article.column-page .menu-content {
 
 /* --- Stiluri Papirus pentru Calendar Lunar --- */
 .calendar-lunar-papirus {
-    width: 97%;
+    width: 100%;
     max-width: 1000px;
     margin: 1px auto;
-    margin-top: 50px;
-    background-image: url('./papirus-background.webp');
+    margin-top: 43px;
+    background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
-    padding: 3px;
+    padding: 53px 3px 71px 3px;
     color: #2b1d0c;
     box-sizing: border-box;
-    width: 97%;
+        animation: fadeInEfect 1s ease-out;
 }
 
 /* Stil pentru tabelul așezat pe papirus */
@@ -345,7 +345,7 @@ article.column-page .menu-content {
     margin: 3px auto;
     text-align: left;
     color: #2b1d0c;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: .7px .7px .7px black;
 }
 
 #tabelCalendarLunar tr {
@@ -354,7 +354,7 @@ article.column-page .menu-content {
 }
 
 #tabelCalendarLunar td {
-    padding: 3px;
+    padding: 1px;
     vertical-align: middle;
 }
 
@@ -365,23 +365,18 @@ article.column-page .menu-content {
     /* Activează scroll-ul vertical doar când este nevoie */
     margin: 1px auto;
     max-width: 750px;
-    padding-right: 3px;
     /* Spațiu pentru bara de scroll */
 }
 
 /* Stiluri bara de scroll pe papirus */
 #containerTabelLunar::-webkit-scrollbar {
-    width: 3px;
+    width: 0;
 }
 
 #containerTabelLunar::-webkit-scrollbar-thumb {
     background: rgba(139, 69, 19, 0.5);
-    border-radius: 3px;
 }
 
-.footer-vintage {
-    padding-bottom: 25px;
-}
 
 :root {
     color-scheme: black;
