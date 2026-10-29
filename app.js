@@ -437,10 +437,10 @@ document.addEventListener('DOMContentLoaded', function () {
                     <td style="padding: 8px 1px; width: 17%; text-align: left; ${stilText}">
                         ${textZiSaptamana} ${ziCurenta}
                     </td>
-                    <td style="padding: 8px 1px; width: 62%; ${stilText}">
+                    <td style="padding: 8px 1px; width: 65%; ${stilText}">
                         <span style="${stilCruce}">&#10015;</span>${numeSarbatoare}
                     </td>
-                    <td style="padding: 8px 1px; width: 21%; text-align: center; font-size: 1em;">${emojiMeniu}</td>
+                    <td style="padding: 8px 1px; width: 18%; text-align: center; font-size: 1em;">${emojiMeniu}</td>
                 </tr>
             `;
         }
