@@ -178,6 +178,7 @@ article.column-page .menu-content {
 }
 
 .category dt {
+    text-shadow: .7px .7px .7px black;
     background-image: url('./papirus-half.webp');
     background-size: 100% 100%;
     padding: 7px;
@@ -192,6 +193,7 @@ article.column-page .menu-content {
     color: black !important;
     font-weight: 700;
     font-size: 1.35em;
+    text-shadow: .7px .7px .7px black;
     margin-top: .3em;
     margin-bottom: -.2em;
     margin-left: 0;
@@ -215,6 +217,7 @@ article.column-page .menu-content {
     color: black !important;
     font-weight: 700;
     font-size: 1.25em;
+    text-shadow: .7px .7px .7px black;
     text-align: justify;
     white-space: pre-line;
     word-wrap: break-word;
