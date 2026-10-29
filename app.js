@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const btnLunaJos = document.getElementById('lunaJos');
 
     const obtineEmojiMeniu = (textMeniu) => {
-        if (textMeniu === "Post") return "🌱🍎";
+        if (textMeniu === "Post") return "🌿🍎";
         if (textMeniu === "Dezlegare la pește") return "🐟🍷";
         if (textMeniu === "Dezlegare la ouă și lactate") return "🥚🧀 ";
         if (textMeniu === "Harți") return "🍗🧀🥚🍷";
