@@ -136,6 +136,7 @@ h4 {
 small {
     color: cyan;
 }
+
 /* ANIMATII */
 header,
 main {
@@ -148,6 +149,7 @@ main {
         margin: 0 auto !important;
     }
 }
+
 /* --- BUTOANE MENIU --- */
 .menu-1,
 .menu-2 {
@@ -336,7 +338,7 @@ article.column-page .menu-content {
     padding: 53px 3px 71px 3px;
     color: #2b1d0c;
     box-sizing: border-box;
-        animation: fadeInEfect 1s ease-out;
+    animation: fadeInEfect 1s ease-out;
 }
 
 /* Stil pentru tabelul așezat pe papirus */
