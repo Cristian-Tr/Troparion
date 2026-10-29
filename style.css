@@ -70,7 +70,9 @@ h1 {
 #papirus-header {
     width: 97%;
     max-width: 1000px;
-    margin: 17px auto;
+    margin: 1px auto;
+    margin-top: 17px;
+    margin-bottom: 17px;
     background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
     min-height: 35vw;
