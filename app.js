@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <td style="padding: 8px 0px 8px 5px; width: 17%; text-align: center; ${stilText}">
                         ${textZiSaptamana} ${ziCurenta}
                     </td>
-                    <td style="padding: 8px 0px 8px 2px; width: 68%; ${stilText}">
+                    <td style="padding: 8px 0px 8px 3px; width: 68%; ${stilText}">
                         <span style="${stilCruce}">&#10015;</span>${numeSarbatoare}
                     </td>
                     <td style="padding: 8px 0px; width: 15%; text-align: center; font-size: 1em;">${emojiMeniu}</td>
