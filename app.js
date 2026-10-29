@@ -320,7 +320,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (textMeniu === "Post") return "🌿🍎";
         if (textMeniu === "Dezlegare la pește") return "🐟🍷";
         if (textMeniu === "Dezlegare la ouă și lactate") return "🥚🧀 ";
-        if (textMeniu === "Harți") return "🍗🧀🥚🍷";
+        if (textMeniu === "Harți") return "🍗🥚🧀🍷";
         return "";
     };
 

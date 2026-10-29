@@ -24,9 +24,7 @@ window.dateCitate = [
 
                           Celui care cere de la tine, dă-i; și pe cel ce voiește să se împrumute de la tine, nu întoarce fața ta. Ați auzit că s-a zis: «Să iubești pe aproapele tău și să urăști pe vrăjmașul tău».
                           Iar Eu vă zic vouă: Iubiți pe vrăjmașii voștri, binecuvântați pe cei ce vă blestemă, faceți bine celor ce vă urăsc și rugați-vă pentru cei ce vă vatămă și vă prigonesc, ca să fiți fiii
-                          Tatălui vostru Celui din ceruri, că El face să răsară soarele peste cei răi și peste cei buni și trimite ploaie peste cei drepți și peste cei nedrepți. Căci, dacă iubiți pe cei ce vă iubesc, ce răsplată veți avea?
-                          Oare nu fac și vameșii același lucru? Și, dacă îmbrățișați numai pe frații voștri, ce faceți mai mult?
-                          Oare nu fac și păgânii același lucru? Fiți, dar, voi desăvârșiți, precum și Tatăl vostru Cel ceresc desăvârșit este. (Matei 5, 42-48)  
+                          Tatălui vostru Celui din ceruri, că El face să răsară soarele peste cei răi și peste cei buni și trimite ploaie peste cei drepți și peste cei nedrepți. Căci, dacă iubiți pe cei ce vă iubesc, ce răsplată veți avea? (Matei 5, 42-48)  
 
                           Cel ce iubește pe tată ori pe mamă mai mult decât pe Mine nu este vrednic de Mine; cel ce iubește pe fiu, ori pe fiică mai mult decât pe Mine nu este vrednic de Mine, și cel ce nu-și ia crucea și nu-Mi urmează Mie nu este vrednic de Mine. (Matei 10, 37)
                           
@@ -338,7 +336,7 @@ window.dateCitate = [
                           Iubirea de avere, zgârcenia, furtul, lăcomia sunt patimi ale sufletului și o dovadă de necredință în pronia (grija) lui Dumnezeu față de oameni.
                           
                           Dacă un om a săvârșit faptă bună vrednică de laudă, trebuie să atribuie lui Dumnezeu cauza lucrării lui și Acestuia să-I înalțe slavă și recunoștință și nu lui însuși.
-                          Doar astfel sufletul lui va fi cu adevărat bucuros și nu va fi cucerit niciodată de patima mândriei, ci se va smeri avându-și către Dumnezeu ațintită atenție lui.                     
+                          Doar astfel sufletul lui va fi cu adevărat bucuros și nu va fi cucerit niciodată de patima mândriei.                     
 
                           Cei care practică virtutea pentru a fi lăudați de oameni se sălășluiesc pentru totdeauna în pământ.
                           Nici rugăciunea lor nu se înalță la ceruri, nici nu primesc dreapta răsplată pentru eforturile lor.                       
@@ -382,20 +380,13 @@ window.dateCitate = [
                           Precum un parfum puternic, chiar de este închis într-un vas, îmbălsămează cu mirosul său aerul și desfătează nu numai pe cei ce stau aproape de vas, dar chiar și pe cei de mai departe de  el, tot astfel și mireasma curată a sufletelor feciorelnice, curgând afară prin simțuri, prin privire, prin glas și prin toate câte se pot simți, scoate la iveală virtutea lor ascunsă.
                           Copiii mei, să vă păziți comoara curăției neprihănită, ca Domnul să vă iubească și să-Și gătească sălaș în sufletele voastre! Căci într-un vas de necinste, murdar și spart, mirul harului nu va suferi să stea.
                           
-                          Şi fie-ţi rugăciunea ta, fiule, în toată vremea vieţii tale ca a unui păcătos, zicând în fiecare clipă:
-                          «Doamne, Iisuse Hristoase, Fiule al lui Dumnezeu, miluieşte-mă»; şi aceea, adică:
-                          «Doamne, curăţeşte-mă pe mine, păcătosul».
-                          Zi şi graiul acesta totdeauna:
-                          «Doamne, de cele ascunse ale mele curăţeşte-mă şi de cele străine fereşte pe robul Tău».
-                          
                           Cunoaşte încă şi aceasta, că niciodată să nu te mulţumeşti cu lucrurile cele bune ale tale, nici a cuteza spre dânsele, că nu ştii de sunt plăcute lui Dumnezeu sau neplăcute.
                           Pentru aceasta, cutează mai vârtos spre Dumnezeu şi spre puterea Lui, ca nişte ţărână nefolositoare socotindu-te pe sineţi, şi de aici este îndreptarea”.
                           
                           Cunoaşte încă şi aceasta, că niciodată să nu te mulţumeşti cu lucrurile cele bune ale tale, nici a cuteza spre dânsele, că nu ştii de sunt plăcute lui Dumnezeu sau neplăcute.
                           Pentru aceasta, cutează mai vârtos spre Dumnezeu şi spre puterea Lui, ca nişte ţărână nefolositoare socotindu-te pe sineţi, şi de aici este îndreptarea”.
                           
-                          Fiule, până la sfârşitul veacului nu va lipsi proroc Domnului Dumnezeu; aşijderea nici satanei slujitor.
-                          Însă în zilele cele mai de apoi, câţi întru adevăr vor sluji lui Dumnezeu, se vor ascunde pe sineşi cu bună isteţime, şi nu va fi întru dânşii de a săvârşi semne şi minuni precum în zilele de acum, ci pe cale lucrătoare şi măsurată vor călători cu smerenie, şi mai mari decât Părinţii cei purtători de semne se vor afla întru Împărăţia lui Dumnezeu.
+                          În zilele cele mai de apoi, câţi întru adevăr vor sluji lui Dumnezeu, se vor ascunde pe sineşi cu bună isteţime, şi nu va fi întru dânşii de a săvârşi semne şi minuni precum în zilele de acum, ci pe cale lucrătoare şi măsurată vor călători cu smerenie, şi mai mari decât Părinţii cei purtători de semne se vor afla întru Împărăţia lui Dumnezeu.
                           Pentru că atunci nimeni nu va fi în ochii lor ca să facă semne, ca dintr-o pricină ca aceasta, de a doua oară aţintindu-se oamenii foarte cu osârdie să se ducă către nevoinţă.
                           
                           Că vor fi cei ce împodobesc scaunele preoţiei întru toată lumea cu totul neiscusiţi; aşijderea încă şi cei mai mari ai monahilor vor fi, căci se vor birui cu totul de lăcomie de pântece toţi, şi de mărirea deşartă, şi vor fi mai vârtos sminteală oamenilor, şi nu pildă.
@@ -439,10 +430,9 @@ window.dateCitate = [
                           Numai el are puterea de a preveni toate relele care astăzi bântuie omenirea.
                           
                           Spovedania conferă curăţie sufletului, care este zilnic poluat de păcat prin faptă, cuvânt sau cuget.
-                          Ea este curăţirea sufletului care pregăteşte omul spre a primi marea Taină a Dumnezeieştii împărtăşanii.
                           Aceasta este hrană pentru suflet, Pâinea Vieţii.
                           
-                          Noi ne îngrijim atent de trup şi neglijăm sufletul până la nesimţire. Dacă ne îmbolnăvim uşor sau dacă ne intră în cap ideea că ceva nu este în regulă cu trupul nostru, fugim la medici, la radiografii şi băi cu ape calde.
+                          Dacă ne îmbolnăvim fugim la medici, la radiografii şi băi cu ape calde.
                           Nu cruţăm nici eforturi, nici timp, nici bani până ce nu aflăm că suntem bine.
                           Şi toate acestea pentru trupul nostru muritor. Dar pentru sufletul cel nemuritor, nu ne îngrijim deloc, nu căpătăm vreun diagnostic, nu facem vreo vizită la spitalul cel duhovnicesc.
                           
@@ -467,7 +457,6 @@ window.dateCitate = [
                           Mândria este un viciu care dă naştere la alte vicii. Ea otrăveşte şi amorţeşte orice virtute.                        
 
                           Să lucrăm prin a ne cerceta inima dacă nu cumva zace într-însa mândria, precum un şarpe otrăvitor.
-                          Căci, precum un şarpe, mândria stă la pândă pretutindenea şi otrăveşte totul.
                           Trebuie să o căutăm pe ea şi viciile ce răsar din ea.
                           Trebuie să i ne împotrivim şi s-o alungăm şi să dobândim virtutea opusă ei, smerenia.
                           
@@ -508,7 +497,7 @@ window.dateCitate = [
                           
                           Bătrânețea nu este o îndreptățire pentru a deznădăjdui, presupunând că la această vârstă nu se mai poate pune început bun.
                           Nu te sfii deci să purcezi la lucru căci milostiv este Domnul.
-                          Nu trebuie decât să te aprinzi cât mai mult de râvnă și să te întristezi cu cât mai mare străpungere pentru nepăsarea în care ți-ai petrecut aproape întreaga viață.
+                          Nu trebuie decât să te aprinzi de cât mai multă râvnă și să te întristezi cu cât mai mare străpungere pentru nepăsarea în care ți-ai petrecut aproape întreaga viață.
 `
     },
     {
@@ -562,8 +551,9 @@ window.dateCitate = [
 
                           Nici binele nu este bine, când nu se lucrează bine, ci bine este cu adevărat când nu-şi  aşteaptă plată.
                           
-                          Invidia este mâhnirea provocată de bunurile altora. Mila este mâhnirea provocată de relele  
-                          O, moarte, moarte, mai bine te-am numi pe tine viaţă, că cel ce pururea cugetă la tine, pururea viază.                      
+                          Invidia este mâhnirea provocată de bunurile altora.  
+                          
+                          O, moarte, moarte, mai bine te-am numi pe tine viaţă, că cel ce pururea cugetă la tine, pururea viază.
 
                           Lucrurile mai presus de fire pot fi înţelese doar prin puterea credinţei.                        
 
@@ -610,7 +600,7 @@ window.dateCitate = [
         citat: `Învățăturile Sfântului Cuvios Maxim Mărturisitorul
 
                           Precum trupul murind se desparte de toate lucrurile vieții, la fel și mintea murind, când  ajunge la culmea rugăciunii, se desparte de toate cugetările lumii.
-                          De nu va muri cu această moarte, nu poate să afle și să trăiască cu Dumnezeu.                        
+                          De nu va muri cu această moarte, nu poate să trăiască cu Dumnezeu.                        
 
                           După cum amintirea focului nu-ţi încălzeşte trupul, tot astfel credinţa fără dragoste nu-ţi va încălzi sufletul.                        
 
@@ -649,7 +639,7 @@ window.dateCitate = [
     },
     {
         subjectName: "Marcu Ascetul",
-        citat: `                          Învățături ale Sfântului Cuvios Marcu Ascetul
+        citat: `Învățături ale Sfântului Cuvios Marcu Ascetul
 
                           Cel ce s-a bucurat de plăcerile trupeşti mai mult decât trebuie, va plăti prisosul cu osteneli însutite.                       
 
@@ -722,7 +712,7 @@ window.dateCitate = [
                           Dacă te îndrepţi pe tine însuţi, imediat se îndreaptă o părticică din Biserică.
                           Dacă aceasta ar fi făcut-o toţi, Biserica s-ar fi îndreptat.
                           Însă astăzi oamenii se preocupă de toate celelalte subiecte, dar nu se preocupă de ei înşişi.
-                          Pentru că a te preocupa de alţii este uşor.
+                          Pentru că a te preocupa de alţii este mai uşor.
                           
                           În vremurile noastre, păcatul a devenit modă.
                           
@@ -765,17 +755,17 @@ window.dateCitate = [
                           Cea mai mare faptă bună este a îngriji de cei bolnavi. Mare lucru este a ne alătura cu cel ce pătimește, să luăm parte la durerea lui.
                           
                           Canonul bolnavului este patul, patul suferinţei. Să rabzi boala cu mulţumire şi te mântuieşti.
-                          Cât mai poţi, zi "Tatăl nostru", rugăciunea "Doamne Iisuse", "Sfinte Dumnezeule", Crezul, "Doamne ajuta" şi dacă nu cârteşti în boală şi te spovedeşti regulat, dobândeşti viaţa vesnică înaintea multora.
                           
                           Precum este focul pentru aur, aşa sunt ispitele vieţii pentru noi. Ne întăresc, ne călesc, ne dau mai multă credinţă, ne smeresc şi ne învaţă să ne rugăm şi să cerem sfat.
+                          
                           Cine este bun, mai bun să se facă şi cine a biruit ispita, să se roage pentru cel care este în ispită. Ispitele le biruim prin rugăciune, prin post, prin spovedanie şi îndelungă răbdare.
+                          
                           După furtună vine şi senin, cu darul lui Hristos.
                           
                           Să te mărturisești regulat, că da­că mături casa mai des, ți-i drag să stai în ea.
                           Dacă speli cămașa, ți-i drag s-o îmbraci. Căci dacă se face mult gunoi în casă, este mai greu de scos afară. Să te mărturisești mai des — dacă nu în fiecare săptămână, măcar în fiecare lună
                           
-                          Dacă am putea face noi tot ce învăţăm pe alţii, am fi sfinţi! Eu învăţam pe alţii să aibă răbdare în suferinţă. Acum când sunt în suferinţă, văd că nu am deloc răbdare.
-                          Trebuie nu răbdare, ci îndelungă răbdare.
+                          Dacă am putea face noi tot ce învăţăm pe alţii, am fi sfinţi!
 
                           Boala intră cu căruța și iese cu lingurița.
 `
@@ -793,8 +783,7 @@ window.dateCitate = [
                           Rugăciunea nu este condiționată de timp sau de loc. Rugăiunea este hrana și viața sufletului.
                           Precum trupul, fără mâncare și băutura, moare; tot așa și sufletul, fără rugăciune, moare.                        
 
-                          Nici un lucru să nu faci, până nu te însemnezi cu Sfânta Cruce! Când pleci în călătorie, când începi lucrul, când te duci să înveți carte, când ești singur și când ești cu mai mulți, pecetluiește-ți cu Sfânta Cruce fruntea ta, trupul tău, pieptul tău, inima ta, buzele tale,ochii tăi, urechile tale și toate ale tale să fie pecetluite cu semnul biruinței lui Hristos asupra iadului.
-                          Și nu te vei mai teme atunci de farmece sau de descântece sau de vrăji.
+                          Nici un lucru să nu faci, până nu te însemnezi cu Sfânta Cruce! Și nu te vei mai teme atunci de farmece sau de descântece sau de vrăji.
                           
                           Ferice de cel ce rabdă boala cu mulţumire, că Dumnezeu, văzând asta, îl vindecă fără doctori.
                           Cine mulțumește lui Dumnezeu în boală, este un martir de bunăvoie.
@@ -807,13 +796,11 @@ window.dateCitate = [
 
                           Omul se mântuieşte oriunde dacă are trei fapte bune: credinţa dreaptă în Iisus Hristos, faptele bune şi smerenia. Iar cine nu le are pe acestea nu se mântuieşte nicăieri.
                           
-                          Când faci pomelnic pentru ai matale, la Liturghie, pune şi unul sau doi săraci, sau o văduvă pe care nu are cine o pomeni şi a murit săraca. Este mare pomană.
+                          Când faci pomelnic pune şi unul sau doi săraci, sau o văduvă pe care nu are cine o pomeni şi a murit săraca. Este mare pomană.
                           Asta se cheamă milostenie  duhovnicească.
                           Este mai mare decât aceea când îi dai o haină sau o mâncare omului, că-l ajuţi dincolo, în veşnicie.                       
 
-                          Aţi auzit ce suntem? Floare, umbră, vis, pânză de păianjen, umbra norului pe pământ şi altceva nimic.
-                          Cu cele mai neputincioase stihii este asemănată viaţa noastră.
-                          Nu pune bază că azi eşti sănătos, că eşti frumos, că eşti bogat, că eşti tânăr! Astea sunt umbre şi vise.
+                          Nu pune bază că azi eşti sănătos, că eşti frumos, că eşti bogat, că eşti tânăr!
                           Viaţa noastră este scurtă. Să trăim aici pentru viaţa cea veşnică.
                           
                           Rugăciunea, citirea cărţilor bune, ascultarea şi respectul faţă de părinţi, frica de Dumnezeu şi exemplul personal dat de tata şi mama sunt cele mai sigure căi şi mijloace de educare şi creştere creştinească a copiilor.
@@ -821,6 +808,7 @@ window.dateCitate = [
                           Omul care are frica de Dumnezeu nu trebuie să-l păzească nimeni să nu fure, sau să nu fie curvar, sau beţiv, sau hoţ, sau să nu facă rău. Cel ce are frica lui Dumnezeu şi ziua şi noaptea pururea veghează asupra lui: să nu gândesc ceva rău asupra omului, să nu vorbesc ceva rău că-i păcat, să nu fac ceva rău că-i păcat!                      
 
                           Să trăim aici pentru Rai, pentru bucuria cea fără de margini care ne aşteaptă dincolo de mormânt!
+                          
                           Patru anotimpuri are viaţa noastră. Primăvara este copilăria; vara este tinereţea; toamna este bătrâneţea.
                           Şi iarna, gata, este sfârşitul aproape!
                           
@@ -853,55 +841,36 @@ window.dateCitate = [
 
                           Se spune că Maica Domnului este supărată pe toți aceia care nu-i cer niciodată nimic!
                           Ea este o nouă lume și cât poate Dumnezeu cu puterea, poate și Maica Domnului cu rugăciunea.
-                          Arată-te, deci, a fi un fiu cu inimă de copil al Maicii Domnului!
                           
-                          Să fiţi veseli! Dragă, eu ştiu ce vă spun, cu toată siguranţa: oricare ar fi motivul unei
-                          întristări sau al unei mâhniri, este numai de la draci! N-avem motive.
-                          Când sunteţi trişti, gândiţi-vă la lucrul ăsta: „Stai, că este ceva drac aici'.”
-                          Şi nu acceptaţi.
+                          Să fiţi veseli! Oricare ar fi motivul unei întristări sau al unei mâhniri, este numai de la draci! N-avem motive.
                           
-                          Spuneam şi sunt foarte convins, că în iad sunt cei mai mulţi care vorbesc de rău. Vorbesc de
-                          rău şi se motivează: Ce, numai eu vorbesc? Da, ce, eu n-am dreptate ? Nu! N-ai dreptate! Şi ce te
+                          În iad cei mai mulţi sunt dintre cei care au vorbit de rău. Vorbesc de rău şi se motivează: Ce, numai eu vorbesc? Da, ce, eu n-am dreptate ? Nu! N-ai dreptate! Şi ce te
                           interesează că vorbeşte acela de rău ? Că poate dracul vorbeşte prin acela!
                           
                           Anticoncepţionalele şi alte mijloace asemănătoare sunt fraudă conjugală şi atentat împotriva planurilor lui Dumnezeu.
-                          Deci e o mare greşeală. Nu accept.
+                          Deci e o mare greşeală.
                           
-                          Porunca iubirii e porunca cea mai mare, de aceea insistă Mântuitorul. Deci e o întrebare justificată; să ne - o punem toţi: Iubesc sau nu iubesc ?, că e poruncă, dragă!
-                          Să nu credeţi că Mântuitorul a vorbit numai pentru veacul respectiv, pentru apostoli.
-                          Nu. A vorbit pentru toate timpurile.
-                          Şi noi avem privilegiul că suntem creştini. Şi atunci sigur că nu o să - l urmăm pe Tutankhamon sau pe Budha.
-                          Noi Îl urmăm pe Hristos.Băgaţi de seamă, iubirea e criteriu de Judecată!"
+                          Să nu credeţi că Mântuitorul a vorbit numai pentru veacul respectiv. A vorbit pentru toate timpurile.
+                          Şi atunci sigur că nu o să-l urmăm pe Tutankhamon sau pe Budha.
+                          Noi Îl urmăm pe Hristos.
                           
-                          Iubirea răspunde la toate întrebările: iubirea aduce prunci, care dau valoare nemaipomenită căsniciei-zâmbetul lor - şi creează unitate nezdruncinată familiei.
-                          Dar, vă repet, naşterea de prunci nu este scop căsniciei, este o consecinţă.Scopul este stimularea reciprocă spre mântuire.
+                          Naşterea de prunci nu este scop căsniciei, este o consecinţă. Scopul este stimularea reciprocă spre mântuire.
                           
-                          Diavolul este un tolerat, nu este o putere.Atacă permanent, dar dacă te rogi cu insistență, nu are nici un fel de putere.Dacă te închini, închinarea și crucea au o foarte mare putere asupra lui.
+                          Diavolul este un tolerat, nu este o putere. Atacă permanent, dar dacă te rogi cu insistență, nu are nici un fel de putere.Dacă te închini, închinarea și crucea au o foarte mare putere asupra lui.
                           
-                          Nu accept ca un semen al nostru să nu aibă un duhovnic!
-                          
-                          nic! Fiecare are o mamă, are o învăţătură, are un crez. Sunt situaţii în care, din motive cu totul speciale, doar pentru o bucată foarte scurtă de timp poţi rămâne fără duhovnic.
-                          Preotului trebuie să-i arătăm respectul cuvenit.                         
-
-                          Atunci când facem crucea ne plecăm Sfintei Treimi.De aceea fuge dracul de cruce! Dar dacă o
+                          Atunci când facem crucea ne plecăm Sfintei Treimi. De aceea fuge dracul de cruce! Dar dacă o
                           faci aşa, ca şi cum ai cânta la mandolină, atunci nu ştiu care draci vor mai fugi, mai mult îi încurajezi.
                           
-                          Orice clipa poate fi un timp grozav de important pentru mântuirea noastră și, dacă nu trăim clipa prezentă nu o trăim nici pe următoarea, și asa mai departe.
+                          Orice clipă poate fi un timp grozav de important pentru mântuirea noastră și, dacă nu trăim clipa prezentă nu o trăim nici pe următoarea, și asa mai departe.
                           
                           Dacă nu poţi să-ţi iubeşti vrăjmaşii, măcar să nu-i urăşti şi nu mai eşti în baltă, ci pe treaptă.
                           
-                          Femeile sunt ca florile: toate sunt frumoase, dar fiecare în felul ei.Bărbatul trebuie să se plece să o ia - adică să-i arate eleganţă, preţuire.Atunci floarea îşi arată şi mirosul, şi calităţile ascunse, pentru că tu ai ştiut să răscoleşti adâncurile şi ai făcut din ea ceea ce nu ştia ea că este.
+                          Femeile sunt ca florile: toate sunt frumoase, dar fiecare în felul ei. Bărbatul trebuie să se plece să o ia - adică să-i arate eleganţă, preţuire. Atunci floarea îşi arată şi mirosul, şi calităţile ascunse, pentru că tu ai ştiut să răscoleşti adâncurile şi ai făcut din ea ceea ce nu ştia ea că este.
                           
-                          Căutați să fiți pomeniți la Liturghie.Fie că vă cunoaște un preot sau vă cunoaște duhovnicul, fie că frățiile voastre dați la Liturghie, dar să fiți pomeniți.Asta e totul.
-                          
-                          Liturghia nu e o lucrare omenească, dragii mei.Nici îngereasca.E direct divină!
-                          Pentru că nu poți tu să transformi acolo. El este Cel ce este.
-                          Și dacă ar fi cu putință să se deschidă cerurile și chiar tavanul Altarului, n-ai vedea în cer mai multă lumină și mai multă așezare cum este în Sfântul Altar, cu îngerii, căci Hristos este cu noi.
-                        
                           Smerenia este arta de a sta la locul tău.
                         
                           Am văzut oameni pe patul de moarte, care toți doreau să mai traiască o zi.
-                          Eu, care trăiam momentul lui, într-o oarecare măsură, îmi dădeam seama de starea lui disperată, că începuse să vadă ceea ce de fapt îi spusese Biserica: duhurile rele; pe urmă, procesul conștiinței și al poruncilor, grozave, din­colo de a face o comparație cu cea mai înaltă construcție filozofică.
+                          Îmi dădeam seama de starea lui disperată, căci începuse să vadă ceea ce de fapt îi spusese Biserica: duhurile rele; pe urmă, procesul conștiinței și al poruncilor.
 `
     },
     {
@@ -922,12 +891,11 @@ window.dateCitate = [
                           Când ai ajuns la o viață curată, viață de nepătimitor, atunci ai ajuns și la rugăciunea curată.                       
 
                           Dacă iubești pe cineva, îl iubești cu scăderile lui cu tot, cu patimi cu tot, cu răutăți cu tot.
-                          Dacă nu-l iubești, nu-l iubești nici cu calitățile lui, nu-l iubești nici cu virtuțile lui.
-                          Un părinte îşi iubeşte copilul şi dacă-i prăpădit.                   
+                          Dacă nu-l iubești, nu-l iubești nici cu calitățile lui, nu-l iubești nici cu virtuțile lui.                  
 
                           Orice lucru în mâinile omului poate să fie şi bun şi rău. După cum îl foloseşti.
                           Dacă te robeşte televizorul (sau calculatorul, sau telefonul, etc), atunci îi rău.
-                          Dacă nu te robeşte şi poţi să urmăreşti la televizor numai lucruri pozitive, atunci îi bun.
+                          Dacă nu te robeşte atunci îi bun.
                           
                           Cineva care nu merge la biserică, să știe că nu crede în Dumnezeu ... sau credința lui este la  măsura superstiției.                     
 
@@ -936,9 +904,8 @@ window.dateCitate = [
                           
                           Prima dată dacă fumezi o ţigară, e păcat, iar dacă fumezi mai multe, e patimă.
                           De ce? Pentru că e o practică nejustificată în existenţa umană. Nu-i ca şi când ai mânca.
-                          Este o treabă în plus şi nu poţi fi şi cu Dumnezeu şi cu fumatul.
                           
-                          Prin gânduri ne înălțăm și tot prin gânduri ne coborâm. Dacă ocrotim în mintea noastră gândurile rele - scădem, iar dacă înmulțim gândurile cele bune - ne ridicăm.
+                          Prin gânduri ne înălțăm și tot prin gânduri coborâm.
 `
     },
     {
@@ -947,12 +914,8 @@ window.dateCitate = [
 
                           Căsătoria e în același timp dragoste și ajutor, bucurie de celălalt și răbdare a lui.                   
 
-                          Bărbatul se întregește prin așa de mult prin femeie deoarece ea este cealaltă jumătate a speciei și numai împreună cu ea bărbatul formează omul întreg și numai în unire cu ea se realizează ca bărbat.
-                          Și femeia la fel.
-                          În felul acesta nici unul nu are nevoie de alt bărbat sau altă femeie.
-                          
-                          Femeia este omul cel mai apropiat de bărbatul ei, și, viceversa.
-                          Fiecare din cei doi soți realizează starea după care năzuiește și se realizează ca persoană în reciprocă comuniune. Dar se realizează numai când dragostea trupească e penetrată de cea spirituală și copleșită de ea.
+                          Bărbatul se întregește prin femeie deoarece ea este cealaltă jumătate a speciei și numai împreună cu ea bărbatul formează omul întreg și numai în unire cu ea se realizează ca bărbat.
+                          Și femeia la fel. În felul acesta nici unul nu are nevoie de alt bărbat sau altă femeie.
                           
                           Cel mai frumos şi mai convingător discurs despre dragoste este imbrăţişarea!
                           
@@ -971,19 +934,14 @@ window.dateCitate = [
                           Iubirea cuprinde toate virtuţile şi este contrară tuturor păcatelor.                        
 
                           A fi chip al lui Dumnezeu înseamnă a fi partener de dialog cu Dumnezeu.
-                          Iar iubirea lui Dumnezeu nu poate uita pe cel care a intrat o dată în dialog cu El.
-                          Astfel se motivează de ce omul a fost făcut spre o existenţă  eternă.
-
-                          Iubirea este înrudirea omului cu Dumnezeu. În iubire se arată plenitudinea existenţei.
+                          
+                          Iubirea lui Dumnezeu nu poate uita pe cel care a intrat o dată în dialog cu El.
 
                           Sfintele Taine sunt lucrările invizibile ale lui Hristos săvârșite prin acte vizibile.
-                          Dacă materia prin care lucrează Duhul lui Hristos în Taine e sfințită de El, nu trebuie văzută nici o separație între materia Tainei și harul sau puterea lui Hristos care se împărtășește prin ea.
                           
                           Nașterea și creșterea de prunci, slujirea Bisericii și a societății, ca înfrânare a egoismului în doi, înseamnă o cruce.
                           
                           Istoria nu va ajunge la sfârșit prin ea însăși, ci prin voia lui Dumnezeu.
-                          Dumnezeu îi va pune capăt când vrea, dar aceasta, se pare că atunci când continuarea ei nu ar mai avea într-adevăr un rost, chiar dacă multor oameni li s-ar părea dimpotrivă.
-                          Numai din viața lor de dincolo vor vedea și ei că o continuare a istoriei ar fi fost inutilă. De aceea Scriptura cere ca oamenii să fie pregătiți pentru sfârșit, dar nu să fixeze un soroc al lui.
 `
     },
     {
@@ -993,33 +951,27 @@ window.dateCitate = [
                           Pentru cel care este creștin, idealul este să se mântuiască, să dorească mântuirea.
                           Adică eliberarea de rău, de întuneric, de ură, de tot ceea ce este rău cu adevărat.
                           Să se elibereze și să intre în lumină, în lumina lui Dumnezeu.
-                          Pentru aceasta trăim noi oamenii, pentru această mântuire.
 
                           Televizorul, această unealtă modernă de comunicare, este și bun și netrebnic.
-                          Este bun când știi să alegi ce este bun din el și este rău când transmite prin imagini niște lucruri care ne tulbură, tulbură mai ales viața tinerilor.
-                          Mă refer la imaginile filmelor necuviincioase sau chiar pornografice. […] Se transmit deseori patimi pe această cale a undelor.
+                          Este bun când știi să alegi ce este bun din el și este rău când transmite prin imagini niște lucruri care ne tulbură.
                           
                           Canoanele nu sunt pedepse ci mijloace de îndreptare.
                           
-                          Postul, dacă nu este făcut cu dreaptă socoteală ca să fie într-adevăr de folos, neunit cu bunătatea inimii, cu paza gurii, cu abținerea de a osândi pe altul - lucru foarte vinovat înaintea lui Dumnezeu - nu folosește, ba chiar vatămă.
-                          Poți să te usuci și să mori de foame, dar dacă ai răutate împotriva aproapelui tău și-l vorbești de rău când el nu e de față, zadarnic îți este postul.
+                          Poți să te usuci și să mori de foame (în post), dar dacă ai răutate împotriva aproapelui tău și-l vorbești de rău când el nu e de față, zadarnic îți este postul.
                           
                           Un creștin adevărat este cel care se împărtășește de Tainele Bisericii, care își sfințește viața sa lăuntrică.
                           
                           Dumnezeu, care știe precis tot cursul vieții noastre, de când ne naștem și până murim, știe ce ne trebuie și ce nu ne trebuie, ce ne este de folos și ce ne este potrivnic.
-                          De aceea, Dumnezeu, în atotștiința Lui, face așa cum este mai bine pentru viața noastră. […] Sunt fel de fel de împrejurări în care Dumnezeu ne vrea binele, neascultând rugăciunile noastre când ele sunt păgubitoare pentru suflet.
                           
-                          Adeseori mintea, în timpul rugăciunii, colindă netrebnic pe alte plaiuri ale vieții, iar rugăciunile sunt spuse numai cu buzele. Cu ochii urmărim textul, iar mintea poate colinda chiar prin imagini ale păcatului și ale necuviinței.
                           Rugăciunea trebuie făcută cu evlavie, cu inimă curată. Ea cere o anumită pregătire și supraveghere a simțurilor.
                           
                           Spovedania trebuie făcută fără să te ruşinezi a spune păcatul aşa cum l-ai făcut, adică arătând toată gravitatea lui.
-                          Să spui toate năravurile tale şi să nu arunci vina pe unul sau pe altul, ci să te osândeşti pe tine însuți.
+                          Să spui toate năravurile tale şi să nu arunci vina pe unul sau pe altul, ci să te învinovățeşti pe tine însuți.
                           
                           Să nu vii la Biserică ca să întoarcă alții capul după tine!
                           
-                          Când dai, să nu-ţi pară rău. Să dai cu bucurie că lângă tine e îngerul care te scrie în cartea cu fapte bune.
-                          Iar dacă îţi pare rău, nu te poate scrie că te îndoieşti în  inima ta.
-                          Şi lui Dumnezeu nu-I plac îndoielile.
+                          Când dăruiești, să nu-ţi pară rău. Să dai cu bucurie că lângă tine e îngerul care te scrie în cartea cu fapte bune.
+                          Lui Dumnezeu nu-I plac îndoielile.
                           Dumnezeu e drept şi bun şi vrea să fim şi noi la fel.
 `
     }
