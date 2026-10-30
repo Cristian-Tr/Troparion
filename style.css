@@ -193,7 +193,7 @@ article.column-page .menu-content {
     color: black !important;
     font-weight: 700;
     font-size: 1.35em;
-    text-shadow: .7px .7px .7px black;
+    text-shadow: .3px .3px .3px black;
     margin-top: .3em;
     margin-bottom: -.2em;
     margin-left: 0;
@@ -214,10 +214,10 @@ article.column-page .menu-content {
 
 /* CONTINUT LISTE */
 .category dd .text-continut {
-    color: black !important;
+    color: deepskyblue !important;
     font-weight: 700;
     font-size: 1.25em;
-    text-shadow: .7px .7px .7px black;
+    text-shadow: .3px .3px .3px black;
     text-align: justify;
     white-space: pre-line;
     word-wrap: break-word;
