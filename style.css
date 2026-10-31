@@ -214,10 +214,10 @@ article.column-page .menu-content {
 
 /* CONTINUT LISTE */
 .category dd .text-continut {
-    color: deepskyblue !important;
+    color: black !important;
     font-weight: 700;
     font-size: 1.25em;
-    text-shadow: .3px .3px .3px black;
+    text-shadow: .1px .1px .1px black;
     text-align: justify;
     white-space: pre-line;
     word-wrap: break-word;

@@ -280,7 +280,7 @@ window.dateLuna = {
     // 31 OCTOMBRIE: Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis
     // ============================================================
     "31": {
-        nume: "Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis",
+        nume: "Sfinţii Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis",
         tropar: "Sfinţilor Apostoli Apelie, Stahie, Amplie, Urban, Aristobul şi Narcis, rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.",
         culoare: "white"
     }

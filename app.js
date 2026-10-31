@@ -419,7 +419,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 culoareZi = "red";
             }
 
-            let stilCruce = `margin-right: 6px;`;
+            let stilCruce = `margin-right: 3px;`;
             let stilText = `color: white; font-weight: normal;`;
 
             if (culoareZi && culoareZi !== "white" && culoareZi !== "incolor") {
@@ -434,13 +434,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
             htmlTabel += `
                 <tr>
-                    <td style="padding: 8px 0px 8px 5px; width: 17%; text-align: center; ${stilText}">
+                    <td style="padding: 8px 0px 8px 5px; width: 17%; text-align: left; ${stilText}">
                         ${textZiSaptamana} ${ziCurenta}
                     </td>
                     <td style="padding: 8px 0px 8px 3px; width: 69%; ${stilText}">
                         <span style="${stilCruce}">&#10015;</span>${numeSarbatoare}
                     </td>
-                    <td style="padding: 8px 0px; width: 14%; text-align: center; font-size: 1em;">${emojiMeniu}</td>
+                    <td style="padding: 8px 0px; width: 14%; text-align: right; font-size: 1em;">${emojiMeniu}</td>
                 </tr>
             `;
         }
