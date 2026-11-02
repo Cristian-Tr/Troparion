@@ -5,6 +5,7 @@
 // CU PRIORITATE PENTRU SARBATORILE SCHIMBATOARE (00.js)
 // ============================================================
 // ============================================================
+
 document.addEventListener('DOMContentLoaded', function () {
 
     // ============================================================
@@ -202,9 +203,9 @@ document.addEventListener('DOMContentLoaded', function () {
     function ruleazaAfisajMacheta() {
         const crossElem = document.getElementById("colorCross");
         const memorialElem = document.querySelector(".memorialDay");
-        const descElem = document.getElementById("todayDescription");
+        const descElem = document.getElementById("troparText");
+        const condacElem = document.getElementById("condacText"); // <-- Adăugat pentru condac în Zona 1
         const dateElem = document.getElementById("todayDate");
-        const troparTitleElem = document.getElementById("troparTitle");
         const menuTypeElem = document.querySelector(".menuType");
 
         const cheieCurentaMobili = `${luna}-${zi}`;
@@ -249,6 +250,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (dateDeAfisat) {
             if (memorialElem) memorialElem.innerText = dateDeAfisat.nume;
             if (descElem) descElem.innerText = dateDeAfisat.tropar;
+            if (condacElem) condacElem.innerText = dateDeAfisat.condac || ""; // <-- Popularea condacului pentru azi
 
             let culoareFinala = dateDeAfisat.culoare || "white";
 
@@ -272,9 +274,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             if (dateElem) dateElem.style.setProperty("color", culoareFinala, "important");
-            if (troparTitleElem) troparTitleElem.style.setProperty("color", culoareFinala, "important");
             if (memorialElem) memorialElem.style.setProperty("color", culoareFinala, "important");
-            if (descElem) descElem.style.setProperty("color", culoareFinala, "important");
         }
 
         if (menuTypeElem) {
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const btnLunaJos = document.getElementById('lunaJos');
 
     const obtineEmojiMeniu = (textMeniu) => {
-        if (textMeniu === "Post") return "🌿🍎";
+        if (textMeniu === "Post") return "🥦🍎";
         if (textMeniu === "Dezlegare la pește") return "🐟🍷";
         if (textMeniu === "Dezlegare la ouă și lactate") return "🥚🧀 ";
         if (textMeniu === "Harți") return "🍗🥚🧀🍷";
