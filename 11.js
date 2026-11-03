@@ -30,9 +30,9 @@ window.dateLuna = {
     // 03 NOIEMBRIE: Sfinţii Sfinţiţi Mucenici Achepsima, episcopul, Iosif, preotul şi Aitala, diaconul
     // ============================================================
     "03": {
-        nume: "Sfinţii Sfinţiţi Mucenici Achepsima, episcopul, Iosif, preotul şi Aitala, diaconul",
-        tropar: "Mucenicii Tăi, Doamne, Achepsima, episcopul, Iosif, preotul şi Aitala, diaconul, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
-        condac: "Cele Dumnezeieşti de Taină le-ai învăţat, înţelepte, cu cinste, jertfă primită ai fost, de Dumnezeu fericite. Că paharul lui Hristos ai băut cu mărire, Sfinte Achepsima, cu cei împreună pătimitori cu tine, rugându-te neîncetat pentru noi toţi.",
+        nume: "Așezarea moaștelor Sfântului Mare Mucenic Gheorghe în Lida",
+        tropar: "Ca un izbăvitor al celor robiţi şi celor săraci apărător, neputincioşilor doctor, împăraţilor ajutător; purtătorule de biruinţă, Mare Mucenice Gheorghe, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
+        condac: "Către ajutorul tău cel apărător şi cald alergând noi credincioşii, ne rugăm ca să ne izbăvim, nebiruite purtătorule de lupte. Ci, ca cel ce ai îndrăznire, izbăveşte-ne pe noi acum de toate primejdiile şi de chinuri, ca să strigăm: bucură-te, Sfinte Mucenice Gheorghe.",
         culoare: "incolor"
     },
 

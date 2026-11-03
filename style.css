@@ -45,6 +45,12 @@ h1 {
     letter-spacing: .1em;
 }
 
+h2 {
+    color: cyan !important;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px black;
+}
 /* ANIMATIE TITLU */
 .stralucire-h1 {
     color: cyan;
@@ -113,7 +119,7 @@ h1 {
 #condacText {
     color: white;
     font-size: 1.2em;
-    font-weight: 400;
+    font-weight: 500;
     text-align: justify;
     max-width: 100%;
     display: block;
@@ -125,7 +131,7 @@ b {
     text-shadow: .7px .7px .7px black;
 }
 
-.memorialDay {
+.prazniculZilei {
     font-size: 1.2em;
     font-weight: 700;
     margin-bottom: .3em;
@@ -141,12 +147,6 @@ b {
     text-shadow: .7px .7px .7px black;
     min-height: 1.5em;
     line-height: 1.5em;
-}
-
-h2 {
-    color: cyan !important;
-    font-weight: 400;
-    text-transform: uppercase;
 }
 
 h3 {
@@ -387,7 +387,6 @@ article.column-page .menu-content {
 
 #tabelCalendarLunar tr {
     border-bottom: 1px solid rgba(139, 69, 19, 0.3);
-    /* Linii orizontale discrete, culoarea lemnului */
 }
 
 #tabelCalendarLunar td {
@@ -398,11 +397,9 @@ article.column-page .menu-content {
 /* --- Container cu scroll pentru Calendarul Lunar (aprox. 7 rânduri vizibile) --- */
 #containerTabelLunar {
     max-height: 330px;
-    overflow-y: auto;
-    /* Activează scroll-ul vertical doar când este nevoie */
+    overflow-y: auto; /* Activare scroll vertical doar când este nevoie */
     margin: 1px auto;
-    max-width: 750px;
-    /* Spațiu pentru bara de scroll */
+    max-width: 750px;  /* Spațiu pentru bara de scroll */
 }
 
 /* Stiluri bara de scroll pe papirus */

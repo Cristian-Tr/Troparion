@@ -202,7 +202,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function ruleazaAfisajMacheta() {
         const crossElem = document.getElementById("colorCross");
-        const memorialElem = document.querySelector(".memorialDay");
+        const memorialElem = document.querySelector(".prazniculZilei");
         const descElem = document.getElementById("troparText");
         const condacElem = document.getElementById("condacText"); // <-- Adăugat pentru condac în Zona 1
         const dateElem = document.getElementById("todayDate");
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const btnLunaJos = document.getElementById('lunaJos');
 
     const obtineEmojiMeniu = (textMeniu) => {
-        if (textMeniu === "Post") return "🥦🍎";
+        if (textMeniu === "Post") return "🌿🍎";
         if (textMeniu === "Dezlegare la pește") return "🐟🍷";
         if (textMeniu === "Dezlegare la ouă și lactate") return "🥚🧀 ";
         if (textMeniu === "Harți") return "🍗🥚🧀🍷";
