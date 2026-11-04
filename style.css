@@ -396,7 +396,7 @@ article.column-page .menu-content {
 
 /* --- Container cu scroll pentru Calendarul Lunar (aprox. 7 rânduri vizibile) --- */
 #containerTabelLunar {
-    max-height: 330px;
+    max-height: 390px;
     overflow-y: auto; /* Activare scroll vertical doar când este nevoie */
     margin: 1px auto;
     max-width: 750px;  /* Spațiu pentru bara de scroll */
