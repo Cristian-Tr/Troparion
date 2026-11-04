@@ -1448,7 +1448,7 @@ Troparul praznicului din ziua respectivă,
 Și acum și pururea și în vecii vecilor. Amin.
 
 Născătoare de Dumnezeu, tu ești vița cea adevărată, care ai odrăslit Rodul vieții; ție ne rugăm: Roagă-te Stăpână cu Sfinții Apostoli, să miluiască sufletele noastre.
-Domnul Dumnezeu bine este cuvântat. Bine este cuvântat Domnul, ziua, în toate zilele; să facă priicioase cele ale noastre Dumnezeul mântuirii noastre, Dumnezeul nostru, Dumnezeul măntuirii.
+Domnul Dumnezeu bine este cuvântat. Bine este cuvântat Domnul, ziua, în toate zilele; să facă priicioase cele ale noastre Dumnezeul mântuirii noastre, Dumnezeul nostru, Dumnezeul mântuirii.
 <span style="color: red; display: block; margin-bottom: 10px;">
 Dacă este Aliluia sau Postul Mare, se cântă troparul acesta pe glasul al 6-lea:
 Doamne, Cel ce pe Preasfântul Tău Duh, în ceasul al treilea, L-ai trimis Apostolilor Tăi, pe Acela, Bunule, nu-L lua de la noi, ci Îl înnoieste întru noi, cei ce ne rugăm Ție.
@@ -1458,7 +1458,7 @@ Stih 2: Nu mă lepăda pe mine de la Fața Ta și Duhul Tău cel Sfânt nu-L lua
 Slavă Tatălui și Fiului și Sfântului Duh,
 Și acum și pururea și în vecii vecilor. Amin.
 Născătoare de Dumnezeu, tu ești vița cea adevărată, care ai odrăslit Rodul vieții; ție ne rugăm: Roagă-te Stăpână cu Sfinții Apostoli, să miluiască sufletele noastre.
-Domnul Dumnezeu bine este cuvântat. Bine este cuvântat Domnul, ziua, în toate zilele; să facă priicioase cele ale noastre Dumnezeul mântuirii noastre, Dumnezeul nostru, Dumnezeul măntuirii.
+Domnul Dumnezeu bine este cuvântat. Bine este cuvântat Domnul, ziua, în toate zilele; să facă priicioase cele ale noastre Dumnezeul mântuirii noastre, Dumnezeul nostru, Dumnezeul mântuirii.
 </span>
 
 Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi (de trei ori).
