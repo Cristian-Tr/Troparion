@@ -1224,37 +1224,60 @@ Nu va locui în casa mea cel mândru; cel ce grăiește nedreptăți nu va sta �
 În dimineți voi judeca pe toți păcătoșii pământului, ca să nimicesc din cetatea Domnulul pe toți cei ce lucrează fărădelegea.
 
 Slavă Tatălui și Fiului și Sfântului Duh și acum și pururea și în vecii vecilor. Amin.
+Aliluia (de 3 ori), cu trei inchinaciuni.
+Dumnezeu este Domnul şi S-a arătat nouă;
+Bine este cuvântat Cel ce vine întru numele Domnului.,
+Slavă Tatălui și Fiului și Sfântului Duh,
 
-În post 3 metanii; iar când nu este post, 3 închinăciuni.
+Troparul Praznicului din ziua respectivă,
 
-Când e post, Tropar glas 6.
-Dimineața auzi glasul meu, Împăratul meu și Dumnezeul meu.
+Și acum și pururea și în vecii vecilor. Amin.
 
-De 3 ori cu stihurile :
-Stih I : - Graiurile mele ascultă-le Doamne, înțelege strigarea mea.
-Stih II : - Căci către Tine Doamne, mă voi ruga.
-
-Slavă Tatălui și Fiului și Sfântului Duh Și acum și pururea și în vecii vecilor. Amin.
-Cum Te vom numi, ceea ce ești plină de Dar ! Cer, că ai răsărit pe Soarele Dreptății. Rai, că ai odrăslit floarea nestricăciunii. Fecioară, că ai rămas nestricată. Maică Curată, că ai avut în sfintele tale brațe, Fiu, pe Dumnezeul tuturor. Pe Acela roagă-L să mântuiască sufletele noastre.
+Cum Te vom numi, ceea ce ești plină de Dar! Cer, că ai răsărit pe Soarele Dreptății.
+Rai, că ai odrăslit floarea nestricăciunii. Fecioară, că ai rămas nestricată.
+Maică Curată, că ai avut în sfintele tale brațe, Fiu, pe Dumnezeul tuturor.
+Pe Acela roagă-L să mântuiască sufletele noastre.
 Pașii mei îndreptează-i după cuvântul Tau, și să nu mă stăpânească toată fărădelegea.
 Izbăvește-mă de clevetirea oamenilor și voi păzi poruncile Tale.
 Fața Ta arată-o peste robul Tau, și mă învață îndreptările Tale.
 Să se umple gura mea de lauda Ta, Doamne, ca să laud slava Ta, toata ziua mare cuviința Ta.
 
-Dacă este Post (adică Postul Nașterii Domnului și al Sfinților Apostoli) zicem aceste stihuri de câte doua ori.
-Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi!
-Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi!
-Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi!
+În post 3 metanii; iar când nu este post, 3 închinăciuni.
+<span style="color: green; display: block; margin-bottom: 10px;">
+Când e post, Tropar glas 6.
+Dimineața auzi glasul meu, Împăratul meu și Dumnezeul meu.
+De 3 ori cu stihurile :
+Stih I : - Graiurile mele ascultă-le Doamne, înțelege strigarea mea.
+Stih II : - Căci către Tine Doamne, mă voi ruga.
+
+Slavă Tatălui și Fiului și Sfântului Duh Și acum și pururea și în vecii vecilor. Amin.
+Cum Te vom numi, ceea ce ești plină de Dar! Cer, că ai răsărit pe Soarele Dreptății.
+Rai, că ai odrăslit floarea nestricăciunii. Fecioară, că ai rămas nestricată.
+Maică Curată, că ai avut în sfintele tale brațe, Fiu, pe Dumnezeul tuturor.
+Pe Acela roagă-L să mântuiască sufletele noastre.
+Pașii mei îndreptează-i după cuvântul Tau, și să nu mă stăpânească toată fărădelegea.
+Izbăvește-mă de clevetirea oamenilor și voi păzi poruncile Tale.
+Fața Ta arată-o peste robul Tau, și mă învață îndreptările Tale.
+Să se umple gura mea de lauda Ta, Doamne, ca să laud slava Ta, toata ziua mare cuviința Ta.
+</span>
+
+Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi! (de trei ori)
+
 Slavă Tatălui și Fiului și Sfântului Duh Și acum și pururea și în vecii vecilor. Amin.
 Preasfânta Treime, miluiește-ne pe noi. Doamne, curațește păcatele noastre. Stăpâne, iartă fărădelegile noastre. Sfinte, cercetează și vindecă neputințele noastre, pentru numele Tău.
 Doamne miluiește, Doamne miluiește, Doamne miluiește.
 Slavă Tatălui și Fiului și Sfântului Duh Și acum și pururea și în vecii vecilor. Amin.
 Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău, vie Împărăția Ta, fie voia Ta, precum în cer și pe pământ. Pâinea noastră cea spre ființă, dă ne-o nouă astăzi, și ne iartă nouă greșalele noastre, precum și noi iertăm greșiților noștri. Și nu ne duce pe noi in ispită, ci ne izbăvește de cel rău.
 Pentru rugăciunile Preasfintei Născatoare de Dumnezeu, ale Sfinților Părinților noștri și ale tuturor Sfinților, Doamne Iisuse Hristoase, Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
-Condacul praznicului sau al Sfântului.
+Dacă nu este Postul Mare, se zice:
 
-<span style="color: red; display: block; margin-bottom: 10px;">
-Iar dacă este post (adică Postul Nașterii Domnului și al Sfinților Apostoli) zicem
+Condacul Praznicului din ziua respectivă.
+
+Dacă nu este post se spune otpustul:
+Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
+
+<span style="color: green; display: block; margin-bottom: 10px;">
+Dacă este Postul Nașterii Domnului, al Sfinților Apostoli sau al Maicii Domnului zicem
 
 MARTI și JOI
 Pe cea preamărita Maica lui Dumnezeu și mai sfântă decât Sfinții Îngeri, fără tăcere o laudăm, cu inima și cu gura, Născătoare de Dumnezeu, pe dânsa mărturisindu-o, ca pe ceea ce cu adevărat a născut pe Dumnezeu întrupat și se roagă neîncetat pentru sufletele noastre.
@@ -1265,6 +1288,10 @@ Degrab ne întampină pe noi mai înainte până ce nu ne robim, când vrăjmaș
 SÂMBATA
 Ca o pârgă a firii, Ție Săditorului făpturii, lumea îți aduce Doamne, pe purtătorii de Dumnezeu Mucenici, pentru ale căror rugăciuni, în pace adâncă, Biserica Ta, pentru Născătoarea de Dumnezeu, o păzește mult Milostive.
 
+Duminica
+Duminica, la Praznice sau la sfintii cu Doxologie sau Polieleu, se citeste condacul glasului de rand, sau al sarbatorii respective.
+</span>
+Apoi
 Doamne miluiește ( de 40 de ori )
 
 Cela ce în toată vremea și în tot ceasul, în cer și pe pământ, ești închinat și slăvit, Hristoase Dumnezeule, îndelung răbdătorule, mult milostive și mult-milosârde; Care pe cei drepți iubești și pe cei păcătoși miluiești, care pe toți chemi la mântuire, pentru făgăduința bunătăților ce vor să fie. Însuți Doamne Iisuse Hristoase, primește și rugăciunile noastre în ceasul acesta și îndreptează viața noastră spre poruncile Tale; sufletele noastre le sfințește, trupurile curățește, cugetele îndreptează, gândurile curățește și ne izbăvește pe noi de tot necazul celor rele și al durerii. Înconjoară-ne pe noi cu Sfinții Tăi Îngeri, ca prin mijlocirea lor fiind păziți și povățuiți, să ajungem la unirea credinței și la cunoștința slavei Tale celei neapropiate, că binecuvântat ești în vecii vecilor. Amin.
@@ -1274,13 +1301,17 @@ Slavă Tatălui și Fiului și Sfântului Duh.
 Și acum și pururea și în vecii vecilor. Amin.
 Ceea ce ești mai cinstită decât Heruvimii și mai slăvită fără de asemănare decât Serafimii, care fără stricăciune pe Dumnezeu-Cuvântul L-ai născut, pe tine cea cu adevărat Născătoare de Dumnezeu te mărim.
 
-De este preot zicem:
+Dacă este preot zicem:
 Întru numele Domnului, binecuvintează, Părinte!
 
 Iar preotul zice:
 Dumnezeule milostivește-Te spre noi și ne binecuvintează, luminează fața Ta peste noi și de miluiește.
+Daca nu e preot:
+Pentru rugăciunile Sfinților Părintilor noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
+</span>
+<span style="color: red; display: block; margin-bottom: 10px;">
+Dacă este Aliluia sau Postul Mare, zicem îndată:
 
-Și de este post, adică Postul Nașterii Domnului și al Sfinților Apostoli, zicem îndată
 Rugăciunea Sfântului Efrem Sirul:
 Doamne și Stăpânul vieții mele, duhul trândăviei, al grijii de multe, al iubirii de stăpânire și al grăirii în deșert, nu mi-l da mie.
 O metanie.
@@ -1288,14 +1319,25 @@ Iar duhul curăției, al gândului smerit, al răbdarii și al dragostei, dărui
 O metanie.
 Asa, Doamne Împărate, dăruiește-mi ca să îmi văd greșelile mele și să nu osândesc pe fratele meu, că binecuvântat ești în vecii vecilor. Amin.
 O metanie.
+Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi! (de trei ori)
+
+Slavă Tatălui și Fiului și Sfântului Duh Și acum și pururea și în vecii vecilor. Amin.
+Preasfânta Treime, miluiește-ne pe noi. Doamne, curațește păcatele noastre. Stăpâne, iartă fărădelegile noastre. Sfinte, cercetează și vindecă neputințele noastre, pentru numele Tău.
+Doamne miluiește, Doamne miluiește, Doamne miluiește.
+Slavă Tatălui și Fiului și Sfântului Duh Și acum și pururea și în vecii vecilor. Amin.
+Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău, vie Împărăția Ta, fie voia Ta, precum în cer și pe pământ. Pâinea noastră cea spre ființă, dă ne-o nouă astăzi, și ne iartă nouă greșalele noastre, precum și noi iertăm greșiților noștri. Și nu ne duce pe noi in ispită, ci ne izbăvește de cel rău.
+Pentru rugăciunile Preasfintei Născatoare de Dumnezeu, ale Sfinților Părinților noștri și ale tuturor Sfinților, Doamne Iisuse Hristoase, Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
+Doamne miluieste (de 12 ori).
 </span>
 
-Iar de nu este post, zicem:
+Dacă nu este post, zicem:
 Hristoase, Lumina cea adevărată, Care luminezi și sfințesti pe tot omul ce vine în lume, să se însemneze peste noi lumina Feței Tale, ca într-însa să vedem lumina cea neapropiată. Îndreptează pașii noștri spre lucrarea poruncilor Tale, pentru rugăciunile Preacuratei Maicii Tale și ale tuturor Sfinților Tăi. Amin.
 
 Apărătoare Doamnă pentru biruință mulțumiri, izbăvindu-ne din nevoi, aducem ție, Născătoare de Dumnezeu, noi robii tăi. Ci ca ceea ce ai stăpânire nebiruită, izbăvește-ne pe noi din toate nevoile, ca să strigăm ție : Bucură-te, Mireasă, pururea Fecioară.
 
+În zilele de rând se face otpustul desăvârșit, iar Duminica se face otpustul mic.
 Pentru rugăciunile Sfinților Părintilor noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
+
 `
     },
 
@@ -1400,22 +1442,24 @@ Dumnezeu este Domnul şi S-a arătat nouă;
 Bine este cuvântat Cel ce vine întru numele Domnului.,
 Atunci se spune:
 Slavă Tatălui și Fiului și Sfântului Duh,
+
 Troparul praznicului din ziua respectivă,
+
 Și acum și pururea și în vecii vecilor. Amin.
 
+Născătoare de Dumnezeu, tu ești vița cea adevărată, care ai odrăslit Rodul vieții; ție ne rugăm: Roagă-te Stăpână cu Sfinții Apostoli, să miluiască sufletele noastre.
+Domnul Dumnezeu bine este cuvântat. Bine este cuvântat Domnul, ziua, în toate zilele; să facă priicioase cele ale noastre Dumnezeul mântuirii noastre, Dumnezeul nostru, Dumnezeul măntuirii.
 <span style="color: red; display: block; margin-bottom: 10px;">
-Iar de este Aliluia sau Postul Mare, se cântă troparul acesta pe glasul al 6-lea:
+Dacă este Aliluia sau Postul Mare, se cântă troparul acesta pe glasul al 6-lea:
 Doamne, Cel ce pe Preasfântul Tău Duh, în ceasul al treilea, L-ai trimis Apostolilor Tăi, pe Acela, Bunule, nu-L lua de la noi, ci Îl înnoieste întru noi, cei ce ne rugăm Ție.
 În acest timp se fac metanii; asemenea și la cele două stihuri ce urmează:
 Stih 1: Inimă curată zidește întru mine Dumnezeule, și duh drept înnoieste în cele dinlăuntru ale mele.
 Stih 2: Nu mă lepăda pe mine de la Fața Ta și Duhul Tău cel Sfânt nu-L lua de la mine.
-
 Slavă Tatălui și Fiului și Sfântului Duh,
 Și acum și pururea și în vecii vecilor. Amin.
-</span>
-
 Născătoare de Dumnezeu, tu ești vița cea adevărată, care ai odrăslit Rodul vieții; ție ne rugăm: Roagă-te Stăpână cu Sfinții Apostoli, să miluiască sufletele noastre.
 Domnul Dumnezeu bine este cuvântat. Bine este cuvântat Domnul, ziua, în toate zilele; să facă priicioase cele ale noastre Dumnezeul mântuirii noastre, Dumnezeul nostru, Dumnezeul măntuirii.
+</span>
 
 Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi (de trei ori).
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
@@ -1425,13 +1469,14 @@ Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în veci
 Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău, vie împărăția Ta, fie voia Ta, precum în cer așa și pe pământ. Pâinea noastră cea de toate zilele, dă-ne-o nouă astăzi și ne iartă nouă greșelile noastre, precum și noi iertăm greșiților noștri. Și nu ne duce pe noi în ispită, ci ne izbăvește de cel rău. Amin!
 Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
 
-Condacul sfântului din ziua respectivă.
+Condacul Praznicului din ziua respectivă.
 
 Dacă nu este post se spune otpustul:
-Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Dumnezeu nostru, miluiește-ne pe noi. Amin.
+Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
 
 <span style="color: green; display: block; margin-bottom: 10px;">
-Iar de este Post, se zic aceste tropare, pe glasul al 8-lea:
+Dacă este Postul Nașterii Domnului, al Sfinților Apostoli sau al Adormirii Maicii Domnului, zicem îndată:
+Troparele, pe glasul al 8-lea:
 Bine ești cuvântat, Hristoase, Dumnezeul nostru, Cel ce preaîntelepți pe pescari ai arătat, trimițindu-le lor Duhul Sfânt, și printr-înșii lumea ai vânat, Iubitorule de oameni, slavă Ție.
 Slavă Tatălui și Fiului și Sfântului Duh,
 Grabnică și tare mângâiere dă robilor Tăi, Iisuse, când se mâhnesc duhurile noastre. Nu Te osebi de sufletele noastre în necazuri; nu Te depărta de gândurile noastre întru primejdii, ci pururea ne întâmpină pe noi. Apropie-Te de noi, apropie-Te Cel ce ești pretutindeni. Precum și cu Apostolii Tăi ai fost pururea, așa și cu cei ce doresc de Tine Te unește, Îndurate, ca fiind împreună cu Tine, să Te lăudăm pe Tine și să slăvim pe Duhul Tau cel întru tot Sfant.
@@ -1446,30 +1491,29 @@ Ocrotește-ne cu sfinții Tăi îngeri, ca, prin mijlocirea lor, fiind păziți 
 Doamne miluiește (de 3 ori).
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
 Ceea ce ești mai cinstită decât heruvimii și mai slăvită, fără de asemănare, decât serafimii, care, fără stricăciune, pe DumnezeuCuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
-Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Dumnezeu nostru, miluiește-ne pe noi. Amin.
-Întru numele Domnului binecuvintează, părinte.
-Preotul: Dumnezeule, milostivește-Te spre noi…
 </span>
+Dacă este preot:
+Întru numele Domnului binecuvintează, părinte.
+Preotul:
+Dumnezeule, milostivește-Te spre noi…
+Dacă nu este preot spunem:
+Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Dumnezeu nostru, miluiește-ne pe noi. Amin.
 <span style="color: red; display: block; margin-bottom: 10px;">
-Iar de este Postul Mare, se zice:
-
+Iar dacă este Postul Mare, se zice:
 Rugăciunea Sfântului Efrem Sirul
 Doamne și Stăpânul vieții mele, duhul trândăviei, al grijii de multe, al iubirii de stăpânire și al grăirii în deșert nu mi-l da mie(metanie mare)
 Iar duhul curăției, al gândului smerit, al răbdării și al dragostei dăruiește-l mie, slugii Tale (metanie mare).
 Așa, Doamne, Împărate, dăruiește-mi ca să-mi văd greșelile mele și să nu osândesc pe fratele meu, că binecuvântat ești în vecii vecilor. Amin (metanie mare).
-
 Apoi 4 stihuri în 3 stări, cu 12
 închinăciuni:
 Dumnezeule, milostiv fii mie, păcătosului (o închinăciune).
 Dumnezeule, curățește-mă pe mine, păcătosul (o închinăciune).
 Cel ce m-ai zidit, Dumnezeule, mântuiește-mă (o închinăciune).
 Fără de număr am greșit, Doamne, iartă-mă (o închinăciune).
-
 Rugăciunea Sfântului Efrem Sirul
 Doamne și Stăpânul vieții mele, duhul trândăviei, al grijii de multe, al iubirii de stăpânire și al grăirii în deșert nu mi-l da mie(metanie mare)
 Iar duhul curăției, al gândului smerit, al răbdării și al dragostei dăruiește-l mie, slugii Tale (metanie mare).
 Așa, Doamne, Împărate, dăruiește-mi ca să-mi văd greșelile mele și să nu osândesc pe fratele meu, că binecuvântat ești în vecii vecilor. Amin (metanie mare).
-
 Rugăciunea Sfântului Mardarie
 Stăpâne, Dumnezeule, Părinte Atotputernice, Doamne, Fiule Unule-Născut, Iisuse Hristoase și Duhule Sfinte, o Dumnezeire, o Putere, miluiește-mă pe mine, păcătosul, și cu judecățile care știi, miluiește-mă pe mine nevrednicul robul Tău, că binecuvântat ești în vecii vecilor. Amin.
 Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Dumnezeu nostru, miluiește-ne pe noi. Amin.
@@ -1481,7 +1525,9 @@ Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Dum
         subjectName: "Ceasul VI",
         rugaciune: `Ceasul șase 
         Această rugăciune se rostește în jurul orei 12 (la prânz)
-Veniți să ne închinăm… (de 3 ori).
+Veniți să ne închinăm Împăratului nos­tru Dumnezeu.
+Veniți să ne închi­năm și să cădem la Hristos, Împăratul nostru Dumnezeu.
+Veniți să ne închinăm și să că­dem la Însuși Hristos, Împăratul și Dumne­zeul nostru.
 
 Psalmul 53
 Dumnezeule, întru numele Tău mântuiește-mă și întru puterea Ta mă judecă.
@@ -1537,12 +1583,12 @@ Dacă se cântă:
 Dumnezeu este Domnul şi S-a arătat nouă;
 Bine este cuvântat Cel ce vine întru numele Domnului.,
 Atunci se spune:
-Troparul sărbătorii din ziua respectivă.
+Troparul Praznicului din ziua respectivă.
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
 Neavând îndrăzneală pentru păcatele noastre cele multe, tu, pe Cel ce S-a născut din tine roagă-L, Născătoare de Dumnezeu Fecioară, că mult poate rugăciunea Maicii spre îmblânzirea Stăpanului.
 Nu trece cu vederea rugăciunile păcătoșilor Preacurată, că Milostiv este și poate să mântuiască, Cel ce a voit a pătimi pentru noi.
 
-Iar de este Aliluia, se cântă troparul acesta, glasul al 2-lea:
+Iar dacă este Aliluia, se cântă troparul acesta, glasul al 2-lea:
 Cel ce în ziua și în ceasul al șaselea pe Cruce ai pironit păcatul, cel cu îndrăzneală, făcut de Adam în rai, și zapisul greșealelor noastre rupe-l, Hristoase Dumnezeule, și ne mântuiește pe noi.
 În acest timp, se fac metanii; asemenea și la cele două stihuri care urmează:
 Stih 1: Auzi, Dumnezeule, glasul meu și nu trece cu vederea rugăciunea mea.
@@ -1555,11 +1601,13 @@ Neavând îndrăzneală pentru păcatele noastre cele multe, tu, pe Cel ce S-a n
 <span style="color: red; display: block; margin-bottom: 10px;">
 În Postul Mare aici se cântă, din triod,
 Troparul profeției
+Dă-ne nouă ajutor celor din necaz, Doamne, şi ne mântuieşte pe noi, Cela ce Te-ai născut din Fecioară, Iubitorule de oameni.
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
 Apoi același tropar, apoi se citește Paremia, tot de acolo, și se continuă cu troparul următor:
 Degrab să ne întampine pe noi îndurările Tale, Doamne, că am sărăcit foarte.
 Ajută nouă Dumnezeule, Mântuitorul nostru, pentru slava numelui Tău.
 Doamne, izbăvește-ne pe noi și curățește păcatele noastre pentru numele Tău.
+</span>
 
 Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi (de trei ori).
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
@@ -1571,14 +1619,14 @@ Doamne miluiește (de trei ori)
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
 Tatăl nostru, Care ești în ceruri, sfințească-Se numele Tău, vie împărăția Ta, fie voia Ta, precum în cer așa și pe pământ. Pâinea noastră cea de toate zilele, dă-ne-o nouă astăzi și ne iartă nouă greșelile noastre, precum și noi iertăm greșiților noștri. Și nu ne duce pe noi în ispită, ci ne izbăvește de cel rău. Amin!
 Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
-</span>
 
-Dacă nu este Postul Mare, se rostește
 Condacul praznicului din ziua respectivă.
 
-<span style="color: green; display: block; margin-bottom: 10px;">
-Iar de este Post, se zic troparele acestea, pe glasul al 2-lea:
+Dacă nu este post se spune otpustul:
+Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
 
+<span style="color: green; display: block; margin-bottom: 10px;">
+Iar dacă este Postul Nașterii Domnului, al Sfinților Apostoli sau al Adormirii Maicii Domnului, se zic troparele acestea, pe glasul al 2-lea:
 Marți și joi
 Mântuire ai lucrat în mijlocul pământului, Hristoase Dumnezeule; pe Cruce ai întins preacurate mâinile Tale, adunând toate neamurile cele ce strigă: Doamne, slavă Ție.
 Slavă Tatălui și Fiului și Sfântului Duh,
@@ -1587,7 +1635,6 @@ Preacuratului Tău chip ne închinăm, Bunule, cerând iertare greșealelor noas
 Ceea ce ești izvorul milei, învrednicește-ne pe noi de milostivire, Născătoare de Dumnezeu.
 Caută spre poporul cel păcătos și arată, ca totdeauna, puterea ta.
 Că întru tine nădăjduind, strigăm ție: " Bucură-te" , ca și oarecând Gavriil, mai-marele voievod al celor fără de trup.
-
 Miercuri și vineri se zice acest tropar al Crucii și al Născătoarei de Dumnezeu:
 Preamărita ești, Născătoare de Dumnezeu Fecioară.
 Lăudămu-te pe tine, că prin Crucea Fiului tău s-a surpat iadul și moartea s-a omorât și cei morti ne-am sculat și vieții ne-am învrednicit; raiul am luat, desfătarea cea de demult.
@@ -1604,14 +1651,15 @@ Doamne miluiește (de 3 ori),
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
 
 Ceea ce ești mai cinstită decât heruvimii și mai slăvită, fără de asemănare, decât serafimii, care, fără stricăciune, pe DumnezeuCuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
+</span>
 
 Dacă este preot:
 Întru numele Domnului binecuvintează, părinte.
 Preotul: Dumnezeule, milostivește-Te spre noi…
-</span>
-
+Dacă nu este preot:
+Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
 <span style="color: red; display: block; margin-bottom: 10px;">
-Iar de este Postul Mare, se zice:
+Iar dacă este Postul Mare, se zice:
 Rugăciunea Sfântului Efrem Sirul
 
 Rugăciunea Sfântului Efrem Sirul
@@ -1633,7 +1681,6 @@ Așa, Doamne, Împărate, dăruiește-mi ca să-mi văd greșelile mele și să 
 
 Rugăciunea Sfântului Mardarie
 Stăpâne, Dumnezeule, Părinte Atotputernice, Doamne, Fiule Unule-Născut, Iisuse Hristoase și Duhule Sfinte, o Dumnezeire, o Putere, miluiește-mă pe mine, păcătosul, și cu judecățile care știi, miluiește-mă pe mine nevrednicul robul Tău, că binecuvântat ești în vecii vecilor. Amin.
-
 Iar dacă se citesc Mijloceasurile, în loc de rugăciunea de mai jos: Dumnezeule și Doamne al puterilor…, se zice rugăciunea:
 Stăpâne Dumnezeule, Părinte atotputernice….
 </span>
@@ -1737,24 +1784,18 @@ Slavă Tatălui și Fiului și Sfântului Duh,
 Troparul praznicului din ziua respectivă,
 Și acum și pururea și în vecii vecilor. Amin.
 
-Cel ce pentru noi Te-ai născut din Fecioara și răstignire ai răbdat.
-Bunule, Care cu moartea pe moarte ai prădat și învierea ai arătat, ca un Dumnezeu, nu trece cu vederea pe cei ce i-ai zidit cu mâna Ta.
-Arată iubirea Ta de oameni, Milostive, primește pe Născătoarea de Dumnezeu, ceea ce Te-a născut pe Tine, care se roagă pentru noi, și mântuiește, Mântuitorul nostru, pe poporul cel deznădăjduit.
-
-Iar de este Aliluia, se cântă troparul acesta, glasul al 8-lea:
+<span style="color: red; display: block; margin-bottom: 10px;">
+Dacă se cântă Aliluia sau este Postul Mare, se cântă troparul acesta, glasul al 8-lea:
 Cel ce în ceasul al nouălea pentru noi cu trupul moarte ai gustat, omoară cugetul trupului nostru, Hristoase Dumnezeule, și ne mântuiește pe noi.
-
 În acest timp se fac metanii; asemenea și la cele două stihuri care urmează:
 Stih 1: Să se apropie rugăciunea mea înaintea Ta, Doamne, după cuvântul Tău mă înțelepțește.
 Stih 2: Să intre cererea mea înaintea Ta, Doamne, după cuvântul Tău mă izbăvește.
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
-
 Cel ce pentru noi Te-ai născut din Fecioara și răstignire ai răbdat.
 Bunule, Care cu moartea pe moarte ai prădat și învierea ai arătat, ca un Dumnezeu, nu trece cu vederea pe cei ce i-ai zidit cu mâna Ta.
 Arată iubirea Ta de oameni, Milostive, primește pe Născătoarea de Dumnezeu, ceea ce Te-a născut pe Tine, care se roagă pentru noi, și mântuiește, Mântuitorul nostru, pe poporul cel deznădăjduit.
-
 Nu ne lăsa pe noi până în sfârșit pentru numele Tău cel sfânt și nu strica legătura Ta și nu depărta mila Ta de la noi, pentru Avraam cel iubit de Tine, și pentru Isaac, robul Tău, și Israel, sfântul Tău.
-
+</span>
 Sfinte Dumnezeule, Sfinte tare, Sfinte fără de moarte, miluiește-ne pe noi (de trei ori).
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
 Preasfântă Treime, miluiește-ne pe noi.
@@ -1768,8 +1809,11 @@ Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiu
 
 Condacul praznicului din ziua respectivă.
 
+Dacă nu este post se spune otpustul:
+Pentru rugăciunile Sfinților Părinților noștri, Doamne Iisuse Hristoase Fiul lui Dumnezeu, miluiește-ne pe noi. Amin.
+
 <span style="color: red; display: block; margin-bottom: 10px;">
-Iar de este Post, troparele acestea:
+Iar dacă este Post, troparele acestea:
 Văzând tâlharul pe începătorul vieții pe Cruce spânzurat zicea:
 De n-ar fi fost Dumnezeu întrupat, Care cu noi a fost răstignit, nu și-ar fi ascuns soarele razele sale, nici s-ar fi clătinat pământul, cutremurandu-se.
 Ci, Cel ce toate le-ai suferit, pomenește-mă, Doamne, întru împărăția Ta.
@@ -1780,17 +1824,13 @@ Slavă Tatălui și Fiului și Sfântului Duh,
 
 Pe Mielușelul și Păstorul și Mântuitorul lumii pe Cruce văzându-L ceea ce L-a născut, a zis, lăcrimând:
 Lumea se bucură luând izbăvire, iar inima mea arde văzând răstignirea Ta, pe care pentru toți o rabzi, Fiule și
-
 Doamne miluiește (de 40 de ori),
-
 Cel ce în toată vremea și în tot ceasul, în cer și pe pământ, ești în­chinat și slăvit, Hristoase
 Dumnezeule, Îndelungrăbdătorule, Mult-milostive și Mult-milosârde; Care pe cei drepți iubești și pe cei păcătoși miluiești; Care pe toți chemi la mântuire pentru făgăduința bunătăților ce vor fi;
 Însuți, Doamne, primește și rugăciunile noastre în ceasul acesta și îndreptează viața noastră spre poruncile Tale; sufletele noastre le sfințește, trupurile curățește, cugetele îndreptează, gândurile curățește și ne izbăvește de tot necazul celor rele și al durerii.
 Ocrotește-ne cu sfinții Tăi îngeri, ca, prin mijlocirea lor, fiind păziți și povățuiți, să ajungem la unitatea credinței și la cunoștința slavei Tale celei neapropiate, că binecuvântat ești în vecii vecilor. Amin.
-
 Doamne miluiește (de 3 ori),
 Slavă Tatălui și Fiului și Sfântului Duh, și acum și pururea și în vecii vecilor. Amin.
-
 Ceea ce ești mai cinstită decât heruvimii și mai slăvită, fără de asemănare, decât serafimii, care, fără stricăciune, pe DumnezeuCuvântul ai născut, pe tine, cea cu adevărat Născătoare de Dumnezeu, te mărim.
 
 Dacă este preot:
@@ -1798,7 +1838,7 @@ Dacă este preot:
 Preotul: Dumnezeule, milostivește-Te spre noi…
 </span>
 <span style="color: green; display: block; margin-bottom: 10px;">
-Și dacă este Post (adică Postul Nașterii Domnului și al Sfinților Apostoli), se fac 16 cele metanii obișnuite, pentru că se cântă mijloceasurile.
+Dacă este Postul Nașterii Domnului, al Sfinților Apostoli sau al Adormirii Maicii Domnului, se fac 16 cele metanii obișnuite, pentru că se cântă mijloceasurile.
 Și în loc de: Stăpâne Doamne, Iisuse Hristoase, Dumnezeul nostru… (vezi mai departe), se zice:
 Stăpâne Doamne, Părinte atotputernice… (caută la Miezonoptica din toate zilele).
 </span>
