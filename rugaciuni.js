@@ -1783,6 +1783,10 @@ Atunci se spune:
 Slavă Tatălui și Fiului și Sfântului Duh,
 Troparul praznicului din ziua respectivă,
 Și acum și pururea și în vecii vecilor. Amin.
+Cel ce pentru noi Te-ai născut din Fecioara și răstignire ai răbdat.
+Bunule, Care cu moartea pe moarte ai prădat și învierea ai arătat, ca un Dumnezeu, nu trece cu vederea pe cei ce i-ai zidit cu mâna Ta.
+Arată iubirea Ta de oameni, Milostive, primește pe Născătoarea de Dumnezeu, ceea ce Te-a născut pe Tine, care se roagă pentru noi, și mântuiește, Mântuitorul nostru, pe poporul cel deznădăjduit.
+Nu ne lăsa pe noi până în sfârșit pentru numele Tău cel sfânt și nu strica legătura Ta și nu depărta mila Ta de la noi, pentru Avraam cel iubit de Tine, și pentru Isaac, robul Tău, și Israel, sfântul Tău.
 
 <span style="color: red; display: block; margin-bottom: 10px;">
 Dacă se cântă Aliluia sau este Postul Mare, se cântă troparul acesta, glasul al 8-lea:
