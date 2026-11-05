@@ -91,7 +91,7 @@ h2 {
         /* Afisare completa papirusul pe desktop */
     }
 
-    padding: 81px 3px 81px 3px;
+    padding: 81px 7px 81px 7px;
     color: white;
 }
 
@@ -108,7 +108,7 @@ h2 {
 #troparTitle,
 #condacTitle {
     color: white;
-    font-size: 1.2em;
+    font-size: 1.25em;
     font-weight: 700;
     margin-top: 1.2em;
     margin-bottom: 0.1em;
@@ -118,8 +118,8 @@ h2 {
 #troparText,
 #condacText {
     color: white;
-    font-size: 1.2em;
-    font-weight: 500;
+    font-size: 1.25em;
+    font-weight: 700;
     text-align: justify;
     max-width: 100%;
     display: block;
@@ -396,7 +396,7 @@ article.column-page .menu-content {
 
 /* --- Container cu scroll pentru Calendarul Lunar (aprox. 7 rânduri vizibile) --- */
 #containerTabelLunar {
-    max-height: 430px;
+    max-height: 471px;
     overflow-y: auto; /* Activare scroll vertical doar când este nevoie */
     margin: 1px auto;
     max-width: 750px;  /* Spațiu pentru bara de scroll */
