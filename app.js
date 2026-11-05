@@ -444,13 +444,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
             htmlTabel += `
                 <tr class="${clasaRand}" ${idAtribut}>
-                    <td style="padding: 8px 0px 8px 7px; width: 18%; text-align: left; ${stilText}">
+                    <td style="padding: 8px 0px 8px 7px; width: 18%; text-align: left; font-size: 1rem; ${stilText}">
                         ${textZiSaptamana} ${ziCurenta}
                     </td>
-                    <td style="padding: 8px 0px 8px 3px; width: 67%; ${stilText}">
+                    <td style="padding: 8px 0px 8px 3px; width: 68%; font-size: 1rem; ${stilText}">
                         <span style="${stilCruce}">&#10015;</span>${numeSarbatoare}
                     </td>
-                    <td style="padding: 8px 3px 8px 0px; width: 15%; text-align: right; font-size: 1em;">${emojiMeniu}</td>
+                    <td style="padding: 8px 3px 8px 0px; width: 14%; text-align: right; font-size: 0.9rem;"><span role="img" aria-label="plic poștal">${emojiMeniu}</td>
                 </tr>
             `;
         }
