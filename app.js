@@ -6,6 +6,7 @@
 // ============================================================
 // ============================================================
 
+
 document.addEventListener('DOMContentLoaded', function () {
 
     // ============================================================
@@ -204,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const crossElem = document.getElementById("colorCross");
         const memorialElem = document.querySelector(".prazniculZilei");
         const descElem = document.getElementById("troparText");
-        const condacElem = document.getElementById("condacText"); // <-- Adăugat pentru condac în Zona 1
+        const condacElem = document.getElementById("condacText");
         const dateElem = document.getElementById("todayDate");
         const menuTypeElem = document.querySelector(".menuType");
 
@@ -250,7 +251,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (dateDeAfisat) {
             if (memorialElem) memorialElem.innerText = dateDeAfisat.nume;
             if (descElem) descElem.innerText = dateDeAfisat.tropar;
-            if (condacElem) condacElem.innerText = dateDeAfisat.condac || ""; // <-- Popularea condacului pentru azi
+            if (condacElem) condacElem.innerText = dateDeAfisat.condac || "";
 
             let culoareFinala = dateDeAfisat.culoare || "white";
 
@@ -356,6 +357,10 @@ document.addEventListener('DOMContentLoaded', function () {
         const duminicaPastelui = calculeazaPaste(anCurentSelectat);
 
         let htmlTabel = "";
+        let idRandAzi = null;
+        const ziCurentaReal = dataAzi.getDate();
+        const lunaCurentaReal = dataAzi.getMonth();
+        const anCurentReal = dataAzi.getFullYear();
 
         for (let ziCurenta = 1; ziCurenta <= totalZileLuna; ziCurenta++) {
             const dataCurentaIterata = new Date(anCurentSelectat, lunaCurentaSelectata, ziCurenta);
@@ -424,7 +429,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             if (culoareZi && culoareZi !== "white" && culoareZi !== "incolor") {
                 stilCruce += ` color: ${culoareZi}; visibility: visible;`;
-                stilText = ` color: ${culoareZi}; font-weight: bold;`;
+                stilText += ` color: ${culoareZi}; font-weight: bold;`;
             } else {
                 stilCruce += " visibility: hidden;";
             }
@@ -432,22 +437,35 @@ document.addEventListener('DOMContentLoaded', function () {
             const rezultatMeniu = determinaTipMeniu(dataCurentaIterata, ziSaptamaniiIterata, duminicaPastelui, anCurentSelectat);
             const emojiMeniu = obtineEmojiMeniu(rezultatMeniu.text);
 
+            // Verificăm dacă aceasta este ziua de astăzi pentru a-i aplica clasa 3D
+            const esteAzi = (ziCurenta === ziCurentaReal && lunaCurentaSelectata === lunaCurentaReal && anCurentSelectat === anCurentReal);
+            const clasaRand = esteAzi ? "zi-curenta-3d" : "";
+            const idAtribut = esteAzi ? "id=\"randAstazi\"" : "";
+
             htmlTabel += `
-                <tr>
-                    <td style="padding: 8px 0px 8px 5px; width: 17%; text-align: left; ${stilText}">
+                <tr class="${clasaRand}" ${idAtribut}>
+                    <td style="padding: 8px 0px 8px 7px; width: 18%; text-align: left; ${stilText}">
                         ${textZiSaptamana} ${ziCurenta}
                     </td>
-                    <td style="padding: 8px 0px 8px 3px; width: 69%; ${stilText}">
+                    <td style="padding: 8px 0px 8px 3px; width: 67%; ${stilText}">
                         <span style="${stilCruce}">&#10015;</span>${numeSarbatoare}
                     </td>
-                    <td style="padding: 8px 0px; width: 14%; text-align: right; font-size: 1em;">${emojiMeniu}</td>
+                    <td style="padding: 8px 3px 8px 0px; width: 15%; text-align: right; font-size: 1em;">${emojiMeniu}</td>
                 </tr>
             `;
         }
 
         tabelContainer.innerHTML = htmlTabel;
+
+        // Logica de auto-scroll pentru a plasa ziua curentă ca primă linie în calendar
         const containerScroll = document.getElementById('containerTabelLunar');
-        if (containerScroll) containerScroll.scrollTop = 0;
+        const randAstazi = document.getElementById('randAstazi');
+
+        if (containerScroll && randAstazi) {
+            containerScroll.scrollTop = randAstazi.offsetTop - containerScroll.offsetTop;
+        } else if (containerScroll) {
+            containerScroll.scrollTop = 0;
+        }
     }
 
     if (btnAnSus) {
