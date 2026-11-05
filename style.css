@@ -22,7 +22,7 @@ body {
 
     50% {
         stroke-width: 1px;
-        filter: drop-shadow(0 0 7px rgba(255, 255, 255, .9));
+        filter: drop-shadow(0 0 7px rgba(255, 255, 255, .7));
     }
 }
 
@@ -372,6 +372,7 @@ article.column-page .menu-content {
     padding: 53px 3px 71px 3px;
     color: #2b1d0c;
     box-sizing: border-box;
+    padding: 81px 0px 81px 0px;
     animation: fadeInEfect 1s ease-out;
 }
 
@@ -408,7 +409,7 @@ article.column-page .menu-content {
 }
 /* --- Stil 3D Embosat pentru Ziua Curentă în Calendar (Sus -> Jos) --- */
 .zi-curenta-3d {
-    background: linear-gradient(to bottom, #beeebe 0%, #759342 100%) !important;
+    background: linear-gradient(to bottom, lightgray 0%, gray 100%) !important;
     border-top: 1px solid rgba(255, 255, 255, 0.4);
     border-bottom: none !important;
     box-shadow: inset 0 2px 4px rgba(255, 255, 255, 0.5), inset 0 -2px 4px rgba(0, 0, 0, 0.4), 0 3px 6px rgba(0, 0, 0, 0.5);

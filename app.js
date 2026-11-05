@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
         containerScript.appendChild(scriptLuna);
     }
 
-    // --- 3. ALGORITMUL OUDIN ȘI LOGICA INTEGRALĂ ---
+    // --- 3. ALGORITMUL OUDIN ȘI LOGICA DE CALCUL A DATEI INVIERII DOMNULUI ---
     function calculeazaPaste(anulCurent) {
         const G = anulCurent % 19;
         const I = ((19 * G) + 15) % 30;
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return (anCurent % 4 === 0 && anCurent % 100 !== 0) || (anCurent % 400 === 0);
     }
 
-    // --- 4. REGULI PENTRU TIPUL DE MENIU / POST (.menuType) ---
+    // --- 4. REGULI PENTRU TIPUL DE MENIU (.menuType) ---
     function determinaTipMeniu(dataCurenta, ziSapt, duminicaPastelui, anCurent) {
         const l = dataCurenta.getMonth() + 1;
         const z = dataCurenta.getDate();
@@ -318,7 +318,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const btnLunaJos = document.getElementById('lunaJos');
 
     const obtineEmojiMeniu = (textMeniu) => {
-        if (textMeniu === "Post") return "🌿🍎";
+        if (textMeniu === "Post") return " 🌱🍎";
         if (textMeniu === "Dezlegare la pește") return "🐟🍷";
         if (textMeniu === "Dezlegare la ouă și lactate") return "🥚🧀 ";
         if (textMeniu === "Harți") return "🍗🥚🧀🍷";
@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const rezultatMeniu = determinaTipMeniu(dataCurentaIterata, ziSaptamaniiIterata, duminicaPastelui, anCurentSelectat);
             const emojiMeniu = obtineEmojiMeniu(rezultatMeniu.text);
 
-            // Verificăm dacă aceasta este ziua de astăzi pentru a-i aplica clasa 3D
+            // EVIDENTIERE ZIUA CURENTA DIN CALENDAR
             const esteAzi = (ziCurenta === ziCurentaReal && lunaCurentaSelectata === lunaCurentaReal && anCurentSelectat === anCurentReal);
             const clasaRand = esteAzi ? "zi-curenta-3d" : "";
             const idAtribut = esteAzi ? "id=\"randAstazi\"" : "";
@@ -457,7 +457,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         tabelContainer.innerHTML = htmlTabel;
 
-        // Logica de auto-scroll pentru a plasa ziua curentă ca primă linie în calendar
+        // INSERARE ZIUA CURENTA CA PRIMA LINIE DIN CALENDAR
         const containerScroll = document.getElementById('containerTabelLunar');
         const randAstazi = document.getElementById('randAstazi');
 
