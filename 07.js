@@ -121,7 +121,7 @@ window.dateLuna = {
     // 12 IULIE: Sfântul Cuvios Paisie Aghioritul
     // ============================================================
     "12": {
-        nume: "Cinstirea Sfintei Icoane Prodromița \n Sfântul Cuvios Paisie Aghioritul",
+        nume: "Cinstire Sf. Icoană Prodromița \n Sfântul Cuvios Paisie Aghioritul",
         tropar: "Născătoare de Dumnezeu, pururea Fecioară, sfintei şi dumnezeieştii icoanei tale cu dragoste şi cu credinţă închinându-ne, o sărutăm mulţumind; căci prin ea celor credincioşi dăruieşti cu adevărat tămăduiri sufletelor şi trupurilor. Pentru aceasta, grăim către tine: Slavă fecioriei tale, slavă milostivirii tale, slavă purtării tale de grijă, Ceea ce eşti Una Binecuvântată.",
         condac: "Chipului tău, Preacurată Născătoare de Dumnezeu Fecioară, ne închinăm credincioşii, cinstindu-l după vrednicie; căci ne păzeşti şi ne izbăveşti din ispite şi din toate relele întâmplări. Pentru aceea, mulţumind, grăim ţie: Bucură-te, Fecioară, Nădejdea şi Slava creştinilor.",
         culoare: "deepskyblue"

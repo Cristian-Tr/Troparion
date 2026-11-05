@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 NOIEMBRIE: Sfântul Ierarh Pavel Mărturisitorul, Patriarh la Constantinopol
     // ============================================================
     "06": {
-        nume: "Sfântul Ierarh Pavel Mărturisitorul, Patriarh la Constantinopol",
+        nume: "Sfântul Ierarh Pavel, Patriarhul Constantinopolului",
         tropar: "Pentru mărturisirea Dumnezeieştii credinţe, alt Pavel pe tine Biserica te-a arătat râvnitor între preoţi. Strigă împreună cu tine şi Abel către Domnul şi sângele cel drept al lui Zaharia. Părinte cuvioase, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.",
         condac: "Luminând pe pământ, ca o stea din cer luminătoare luminezi acum Biserica cea a toată lumea, pentru care şi pătimind, sufletul tău, Sfinte Pavel, ţi l-ai pus şi ca al lui Zaharia şi al lui Abel, lămurit strigă sângele tău către Domnul.",
         culoare: "incolor"
@@ -170,7 +170,7 @@ window.dateLuna = {
     // 17 NOIEMBRIE: Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei
     // ============================================================
     "17": {
-        nume: "Sfântul Ierarh Grigorie Taumaturgul, Episcopul Neocezareei",
+        nume: "Sfântul Ierarh Grigorie Taumaturgul",
         tropar: "Întru rugăciuni priveghind, la lucrările minunilor răbdând, asemenea numire cu îndreptările ai câştigat. Ci, te roagă lui Hristos Dumnezeu, Părinte Grigorie, să lumineze sufletele noastre, ca să nu adormim în moarte cu păcate.",
         condac: "Luând lucrarea multor minuni, cu semne înfricoşătoare pe demoni i-ai îngrozit şi bolile oamenilor ai alungat, Preaînţelepte Grigorie. Şi făcător de minuni eşti numit, din fapte luându-ţi numele.",
         culoare: "incolor"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 NOIEMBRIE: Sfinții Mucenici Platon şi Roman, diaconul
     // ============================================================
     "18": {
-        nume: "Sfinții Mucenici Platon şi Roman, diaconul",
+        nume: "Sfinții Mucenici Platon şi Roman",
         tropar: "Mucenicii Tăi, Doamne, Platon şi Roman, diaconul, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Sfântă pomenirea ta lumea veseleşte, chemând pe toţi în preacinstită biserica ta, unde acum cu bucurie adunându-ne, cântăm cu cântări şi cu luminări. Pentru aceasta, Sfinte Platon, strigăm: izbăveşte de vrăjmaşi pe poporul tău, sfinte.",
         culoare: "incolor"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 NOIEMBRIE: Sfântul Cuvios Grigorie Decapolitul
     // ============================================================
     "20": {
-        nume: "Sfântul Cuvios Grigorie Decapolitul",
+        nume: "Sf. Cuvios Grigorie Decapolitul",
         tropar: "Chip te-ai făcut înfrânării şi prin Dumnezeiescul Duh pe toţi i-ai luminat. Alergarea dreptei credinţe o ai săvârşit şi cu învăţăturile lumea ai luminat şi ai mustrat cugetele celor rău credincioşi, Părinte Cuvioase Grigorie, roagă-te lui Hristos Dumnezeu să ne dăruiască nouă mare milă.",
         condac: "Soare luminos pe tine Biserica te cunoaşte, care cu podoabele faptelor bune şi cu razele tămăduirilor pe toţi luminezi, a lui Hristos slugă. Pentru aceasta prăznuim Dumnezeiasca pomenirea ta şi cinstim nevoinţele tale, Preafericite Părinte, Înţelepte Grigorie.",
         culoare: "deepskyblue"
@@ -220,7 +220,7 @@ window.dateLuna = {
     // 22 NOIEMBRIE: Sfinţii Apostoli Filimon, Arhip şi Onisim
     // ============================================================
     "22": {
-        nume: "Sfinţii Apostoli Filimon, Arhip şi Onisim",
+        nume: "Sf. Apostoli Filimon, Arhip, Onisim",
         tropar: "Sfinţilor Apostoli Filimon, Arhip şi Onisim, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.",
         condac: "Sfinţite Apostole al lui Hristos Filimon, pe cei ce cu credinţă săvârşesc astăzi preasfântă pomenirea ta, izbăveşte-i pe toţi de tot felul de ispite şi de necazuri.",
         culoare: "incolor"
@@ -230,7 +230,7 @@ window.dateLuna = {
     // 23 NOIEMBRIE: Sfântul Cuvios Antonie de la Iezerul Vâlcea
     // ============================================================
     "23": {
-        nume: "Sfântul Cuvios Antonie de la Iezerul Vâlcea",
+        nume: "Sfântul Cuvios Antonie de la Iezerul Vâlcei",
         tropar: "Purtătorule de dumnezeiescul dor al rugăciunii neîncetate, Sfinte Părinte Noule Antonie, povăţuitorule al călugărilor, ajutătorule al celor din nevoi şi făcătorule de minuni, locuitorul raiului celui de sus, dar nedespărţit de cei de jos, roagă pe Milostivul Dumnezeu să ne dăruiască nouă pace şi mare milă.",
         condac: "Soare luminos pe tine Biserica te cunoaște, care cu podoaba faptelor bune și cu razele tămăduirilor pe toți luminezi, a lui Hristos slugă. Pentru aceasta, prăznuim prealăudată pomenirea ta și cinstim nevoințele tale, fericite Părinte, înțelepte Antonie.",
         culoare: "deepskyblue"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 NOIEMBRIE: Sfinţii Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei
     // ============================================================
     "24": {
-        nume: "Sfinţii Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei",
+        nume: "Sf. Sfinţiţi Mc. Clement, Episcopul Romei, Petru, Episcopul Alexandriei",
         tropar: "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile Sfinţilor Sfinţiţi Mucenici Clement, Episcopul Romei şi Petru, Episcopul Alexandriei, în pace îndreptează viaţa noastră.",
         condac: "Ca cei ce sunteţi turnuri neclintite şi Dumnezeieşti ale Bisericii, stâlpi de Dumnezeu însufleţiţi şi puternici ai dreptei credinţe, Sfinţilor Clement şi Petru, Prealăudaţilor, ocrotiţi pe toţi cu mijlocirile voastre!",
         culoare: "incolor"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 NOIEMBRIE: Sfântul Mare Mucenic Iacob Persul
     // ============================================================
     "27": {
-        nume: "Sfântul Mare Mucenic Iacob Persul",
+        nume: "Sf. Mare Mc. Iacob Persul",
         tropar: "Cu mucenicia cea neobişnuită şi înfricoşătoare şi cu vitejiile răbdării, pe toţi i-ai minunat, mult-pătimitorule, cu tăierea fiecărei părţi din trup, rugăciuni de mulţumire preaminunat ai dat lui Dumnezeu. Pentru aceasta, în pătimirea ta cunună ai luat, şi te-ai suit către tronul Împăratului ceresc, al lui Hristos Dumnezeu, Iacob. Pe Acela roagă-L să mântuiască sufletele noastre.",
         condac: "Îndemnat fiind de bună soţia ta, ca cel cu suflet răbdător şi de înfricoşătoarea judecată temându-te, porunca perşilor şi îngrozirea ai surpat-o, Sfinte Iacov şi te-ai arătat mucenic minunat, la trup ca o viţă fiind tăiat.",
         culoare: "incolor"

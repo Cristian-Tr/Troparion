@@ -10,7 +10,7 @@ window.dateLuna = {
     // 01 DECEMBRIE: Sfântul Proroc Naum
     // ============================================================
     "01": {
-        nume: "Sfânta Anastasia, mama Sfântului Ierarh Andrei Șaguna",
+        nume: "Sfânta Anastasia, mama Sf. Ierarh Andrei Șaguna",
         tropar: "Rădăcina cinstită și floarea mamelor, de Dumnezeu purtătoarea Anastasia, a dat pe Andrei ca rod ales țării Ardealului, și cu tărie a păstrat credința dreaptă, viețuind în jertfă și în virtute, și a primit de la Domnul răsplătire și cunună veșnică.",
         condac: "După dreptate îți cinstim înțelepciunea, mărturisirea dreptei credințe ortodoxe și virtuțile, Sfântă Anastasia, că vlăstar luminos ai dat Bisericii pe Andrei, bunul păstor al Ardealului, și cu el acum te rogi Domnului pentru noi.",
         culoare: "deepskyblue"
@@ -140,7 +140,7 @@ window.dateLuna = {
     // 14 DECEMBRIE: Sfinţii Mucenici Tirs, Levchie, Calinic, Filimon, Apolonie şi Arian
     // ============================================================
     "14": {
-        nume: "Sfinţii Mucenici Tirs, Levchie, Calinic, Filimon, Apolonie şi Arian",
+        nume: "Sf. Mucenici Tirs, Levchie, Arian, Calinic, Filimon, Apolonie",
         tropar: "Mucenicii Tăi, Doamne, Tirs, Levchie, Calinic, Filimon, Apolonie şi Arian, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Prieten al lui Hristos ajun­gând, Mărite Mucenice Filimon, sângele ţi l-ai vărsat pentru El; toată nebunia păgânătăţii ai nimicit-o şi înşelăciunea elinilor ai stins-o. Pentru aceasta roagă-te să se mântuiască cei ce săvârşesc sfântă po­menirea ta.",
         culoare: "incolor"
@@ -190,7 +190,7 @@ window.dateLuna = {
     // 19 DECEMBRIE: Sfântul Mucenic Bonifatie
     // ============================================================
     "19": {
-        nume: "Sfânta Cuvioasă Muceniță Evloghia de la Samurcășești",
+        nume: "Sf. Cuv. Muceniță Evloghia de la Samurcășești",
         tropar: "Celui ce a răsărit din Fecioară, Mai Marelui Păstorilor, ca o oaie de turmă ai urmat, Cuvioasă Maică a noastră, Evloghia. Cu înfrânarea, cu postul, cu privegherea și cu rugăciunile, te-ai făcut lucrătoare fierbinte de cele cerești, tămăduind sufletele celor ce aleargă la tine cu credință. Slavă Celui ce te-a preamărit pe tine, slavă Celui ce ți-a dat ție putere, slavă Celui ce a arătat tuturor prin tine îndreptare.",
         condac: "Întâi Maica Domnului ți-a vindecat a ta boală, apoi te-a trimis Hristos la propovăduire. Tuturor le-ai vestit mântuirea, suferinzilor le-ai adus alinare, Sfântă Evloghia, de-aceea ne rugăm ție și cu evlavie te cinstim.",
         culoare: "deepskyblue"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 DECEMBRIE: Sfântul Sfințit Mucenic Ignatie Teoforul, Episcopul Antiohiei
     // ============================================================
     "20": {
-        nume: "Sfântul Cuvios Serafim cel Răbdător de la Sâmbăta de Sus",
+        nume: "Sf. Cuv. Serafim cel Răbdător de la Sâmbăta de Sus",
         tropar: "Pe făclia virtuții și duhovnicul cel vestit, pe dascălul răbdării din Mănăstirea Sâmbăta de Sus, pe Sfântul Serafim, cei credincioși, cu laude veniți să îl cinstim, și, ca unui iscusit Părinte și rugător, să-i zicem cu evlavie: Slavă Celui pe Care L-ai slujit! Slavă Celui ce te-a luminat! Slavă Celui ce te-a împodobit cu minunate daruri!",
         condac: "Înainte-mergere zilei preamari și slăvite a Nașterii Domnului cu trup din Maica-Fecioară s-a făcut ziua mutării tale la ceruri, cel ce cânți cu serafimii, Părinte Sfinte Serafim, cel în necazuri plin de răbdare, podoaba Cuvioșilor.",
         culoare: "deepskyblue"

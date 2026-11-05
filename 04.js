@@ -130,7 +130,7 @@ window.dateLuna = {
     // 13 APRILIE: Sfântul Sfințit Mucenic Artemon preotul, din Laodiceea
     // ============================================================
     "13": {
-        nume: "Sfânta Cuvioasă Filofteia de la Pasărea, mama Sfântului Ierarh Calinic de la Cernica",
+        nume: "Sfânta Cuvioasă Filofteia de la Pasărea",
         tropar: "Floare în lume ai fost, blândă și harnică, crescând căminul tău în frica Domnului, o, iubitoare de Dumnezeu, preavrednică Filofteia, iar apoi la mănăstire schimonahie ai ajuns și-ai primit belșug de har spre lucrarea minunilor; de aceea îți cerem rugăciunea și te cinstim cu bucurie.",
         condac: "",
         culoare: "deepskyblue"
@@ -140,7 +140,7 @@ window.dateLuna = {
     // 14 APRILIE: Sfântul Ierarh Pahomie de la Gledin, Episcopul Romanului
     // ============================================================
     "14": {
-        nume: "Sfântul Ierarh Pahomie de la Gledin, Episcopul Romanului",
+        nume: "Sfântul Ierarh Pahomie de la Gledin",
         tropar: "Stea mult-luminoasă, răsărită în ținutul Gledinului, ai strălucit ca un semn dumnezeiesc în pământul Moldovei, luminând inimile credincioșilor. Stâlp neclintit al rugăciunii curate, podoabă aleasă a ierarhilor români și ctitor al Schitului Pocrov din lavra Neamțului, Sfinte Ierarhe Pahomie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "",
         culoare: "deepskyblue"
@@ -210,7 +210,7 @@ window.dateLuna = {
     // 21 APRILIE: Sfântul Sfinţit Mucenic Ianuarie, Episcop de Benevent şi al celor împreună cu dânsul
     // ============================================================
     "21": {
-        nume: "Sfântul Sfinţit Mucenic Ianuarie, Episcop de Benevent şi al celor împreună cu dânsul",
+        nume: "Sfântul Sfinţit Mucenic Ianuarie, Episcop de Benevent",
         tropar: "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile Sfântului Mucenic Ianuarie, în pace îndreptează viaţa noastră.",
         condac: "Cu ungerea preoţiei şi cu sângele muceniciei v-aţi împodobit, Măriţilor Mucenici Ianuarie şi Teodor şi întru cele de sus locuind, pretutindenea străluciţi. Căutaţi spre noi, cei ce am venit în Biserica voastră şi într-însa neîncetat strigăm: păziţi-ne pe noi pe toţi, rugând pe Dumnezeu Cel Iubitor de oameni.",
         culoare: "incolor"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 APRILIE: Sfinții Ierarhi Ilie Iorest, Simion Ștefan şi Sava Brancovici, mitropoliții Transilvaniei
     // ============================================================
     "24": {
-        nume: "Sfinții Ierarhi Ilie Iorest, Simion Ștefan şi Sava Brancovici, mitropoliții Transilvaniei",
+        nume: "Sfinții Ierarhi Ilie Iorest, Simion Ștefan şi Sava Brancovici",
         tropar: "Mărturisitori ai Ortodoxiei şi buni arhipăstori ai Bisericii lui Hristos, îndreptători ai poporului, prea­fericiţi ierarhi purtători de biruinţă, Sfinţilor Ilie Iorest, Simion Ștefan şi Sava Brancovici, cei ce v-aţi învrednicit de cununa vieţii, rugaţi-vă Domnului să se mântuiască sufletele noastre.",
         condac: "Ierarhilor preaîncuviinţaţi ai dreptei credinţe şi apărători ai Bisericii lui Hristos, ocrotiţi pe toţi cei dreptcredincioşi, care cântă pururea: bucuraţi-vă Sfinţilor Ierarhi Iorest şi Sava, minunaţi mărturisitori ai Domnului.",
         culoare: "deepskyblue"
@@ -250,7 +250,7 @@ window.dateLuna = {
     // 25 APRILIE: Sfântul Apostol și Evanghelist Marcu
     // ============================================================
     "25": {
-        nume: "Sfântul Apostol și Evanghelist Marcu \n Sfântul Cuvios Vasile de la Poiana Mărului",
+        nume: "Sf. Apostol și Evanghelist Marcu \n Sf. Cuv. Vasile de la Poiana Mărului",
         tropar: "Învăţat fiind de Apostolul Petru, te-ai făcut Apostol al lui Hristos şi ca un soare ai strălucit marginilor, podoaba alexandri­nilor ai fost, fericite, căci prin tine Egiptul s-a eliberat de înşelăciune şi ca un stâlp al Bisericii, prin învăţătura ta cea Evanghelică pe toţi ai luminat. Pentru aceasta luminat cinstind, pomenirea ta prăznuim, de Dumnezeu grăitorule Sfinte Apostol Marcu; roagă pe Dumnezeu Cel Înduple­cat prin tine, să dăruiască iertare de greşeli sufletelor noastre.",
         condac: "Harul Duhului primind dintru înălţime, împletirile ritorilor le-ai stricat, Apostole şi pe toţi păgânii vânându-i, vrednicule de laudă, Sfinte Apostole Marcu, Stăpânului tău i-ai adus, propovăduind Dumnezeiasca Evanghelie.",
         culoare: "deepskyblue"
@@ -260,7 +260,7 @@ window.dateLuna = {
     // 26 APRILIE: Sfântul Sfințit Mucenic Vasilevs, Episcopul Amasiei
     // ============================================================
     "26": {
-        nume: "Sfântul Sfințit Mucenic Vasilevs, Episcopul Amasiei \n Sfinții Mucenici Chiril, Chindeu și Tasie din Axiopolis",
+        nume: "Sfântul Sfințit Mucenic Vasilevs \n Sf. Mucenici Chiril, Chindeu și Tasie",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenice Vasilevs, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Biruind porunca împăratului, ai câştigat Împărăţia Cerească, Sfinţite Mucenice Vasilevs, întru care dănţuind, adu-ţi aminte de noi, cei ce cinstim pomenirea ta, sfinţite mucenice.",
         culoare: "deepskyblue"
@@ -280,8 +280,8 @@ window.dateLuna = {
     // 28 APRILIE: Sfinții Mucenici Maxim, Cvintilian și Dadas din Ozovia
     // ============================================================
     "28": {
-        nume: "Sfinții Apostoli Iason şi Sosipatru \n Sfinții Mucenici Maxim, Cvintilian și Dadas din Ozovia",
-        tropar: "Sfinţilor Apostoli rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre..",
+        nume: "Sf. Apostoli Iason şi Sosipatru \n Sf. Mucenici Maxim, Cvintilian și Dadas",
+        tropar: "Sfinţilor Apostoli rugaţi pe Milostivul Dumnezeu, ca să dea iertare de greşeli sufletelor noastre.",
         condac: "Luminându-vă cu dogmele Apostolului Pavel, v-aţi făcut luminători lumii, de trei ori fericiţilor, că pururea luminaţi lumea cu minuni, Sfinte Apostole Iason, izvorul tămăduirilor şi Sfinte Apostole Sosipatru, lauda mucenicilor lui Hristos, Apostoli de Dumnezeu purtători, ocrotitori ai celor din nevoi, rugaţi-vă lui Dumnezeu să mântuiască sufletele noastre.",
         culoare: "deepskyblue"
     },
@@ -300,7 +300,7 @@ window.dateLuna = {
     // 30 APRILIE: Sfântul Apostol Iacob, fratele Sfântului Apostol Ioan Evanghelistul
     // ============================================================
     "30": {
-        nume: "Sfântul Apostol Iacob, fratele Sfântului Apostol Ioan Evanghelistul",
+        nume: "Sfântul Apostol Iacob, fratele Sfântului Apostol Ioan",
         tropar: "Apostol al lui Hristos preaales şi frate al cuvântătorului de Dumnezeu celui iubit ai fost, Prealăudate Iacob; cere iertare de greşeli, pentru cei ce te laudă pe tine şi sufletelor noastre mare milă.",
         condac: "Glas Dumnezeiesc auzind chemându-te pe tine, dragostea de tată ai trecut-o cu vederea şi ai alergat la Hristos, cu fratele tău, Sfinte Mărite Iacob. Cu care împreună te-ai şi învrednicit a vedea Dumnezeiasca Schimbare la Faţă a Domnului.",
         culoare: "incolor"

@@ -69,7 +69,7 @@ window.dateLuna = {
     // 07 OCTOMBRIE: Sfinţii Mari Mucenici Serghie şi Vah
     // ============================================================
     "07": {
-        nume: "Sfinţii Mari Mucenici Serghie şi Vah",
+        nume: "Sf. Mari Mucenici Serghie şi Vah",
         tropar: "Pe cei ce după fire nu au fost fraţi de trup, pe aceştia Darul Cel Dumnezeiesc a cugeta frăţeşte până la sânge i-a făcut, pe Sfinţii Mucenici Serghie şi pe Vah, cinstită şi cre­dincioasă pereche. Fără de arme şi fără de haine în locul nevoinţei pe vrăjmaşul au înfruntat, rugându-se neîncetat pentru sufletele noastre.",
         condac: "Mintea asupra vrăjmaşilor bărbăteşte v-aţi într-armat, sur­pând toată înşelăciunea lor; şi biruinţă de sus luând, mucenici prealăudaţi, cu un cuget stri­gaţi: bine şi frumos este a fi împreună cu Hristos.",
         culoare: "gray"
@@ -99,7 +99,7 @@ window.dateLuna = {
     // 10 OCTOMBRIE: Sfinţii Mucenici Evlampie şi sora lui Evlampia
     // ============================================================
     "10": {
-        nume: "Sfinţii Mucenici Evlampie şi sora lui Evlampia",
+        nume: "Sf. Mc. Evlampie şi sora sa Evlampia",
         tropar: "Mucenicii Tăi, Doamne, Evlampie și Evlampia, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Pe vitejii mucenici şi fraţi după trup, pe Înţeleptul Evlam­pie şi pe Sfânta Evlampia să-i cinstim; că aceştia uneltirile tiranilor le-au ruşinat, cu Puterea Celui Ce S-a răstignit; pentru aceasta s-au arătat mucenicilor mărire, împreună şi laudă.",
         culoare: "white"
@@ -119,7 +119,7 @@ window.dateLuna = {
     // 12 OCTOMBRIE: Sfinţii Mucenici Prov, Tarah şi Andronic
     // ============================================================
     "12": {
-        nume: "Sfinţii Mucenici Prov, Tarah şi Andronic",
+        nume: "Sf. Mc. Prov, Tarah şi Andronic",
         tropar: "De isprăvile Sfinţilor Mucenici Prov, Tarah şi Andronic, Puterile Îngereşti foarte s-au mi­nunat; că fiind un trup muri­tor, pe vrăjmaşul cel fără de trup cu Puterea Crucii nevoindu-se tare, l-au biruit nevăzut. Şi acum se roagă Domnului să se miluiască sufletele noastre.",
         condac: "A Preasfintei Treimi Mărire arătându-ne nouă, vitejii ostaşi ai lui Hristos, Dumnezeieştii mucenici, împreu­nă cu Sfinţii Tarah, Prov şi Andronic, au înfruntat toată necredinţa tiranilor, nevoindu-se vitejeşte pentru dreapta credinţă.",
         culoare: "white"
@@ -149,7 +149,7 @@ window.dateLuna = {
     // 15 OCTOMBRIE: Sfânta Magdalena de la Mălainița
     // ============================================================
     "15": {
-        nume: "Sfânta Magdalena de la Mălainița",
+        nume: "Sf. Magdalena de la Mălainița",
         tropar: "Pe Sfânta Magdalena să o cinstim cu râvnă, ca pe o podoabă nouă a ținutului Timocului, că, lucrând faptele credinței, prin acestea a întărit obștea ortodocșilor, risipind toată neștiința din popor; iar acum și nouă, prin moaștele ei, ne dăruiește vindecări de tot felul de boli, cu harul Domnului.",
         condac: "Pe cel ce a strălucit mai întâi în pustnicie şi apoi s-a lumi­nat prin chinuri, toţi să-l cin­stim pe Sfântul Mucenic Luchian cu cântări în­tru mărire, ca pe un luminător prealuminos, care nu încetează a se ruga pentru noi toţi.",
         culoare: "deepskyblue"
@@ -159,7 +159,7 @@ window.dateLuna = {
     // 16 OCTOMBRIE: Sfântul Mucenic Longhin Sutașul
     // ============================================================
     "16": {
-        nume: "Sfântul Mucenic Longhin Sutașul",
+        nume: "Sf. Mucenic Longhin Sutașul",
         tropar: "Pustniceşte mai înainte pedepsindu-te în munte, taberele vrăjmaşilor cele netrupeşti le-ai pierdut cu arma Crucii, întru tot fericite; şi iarăşi spre chinuire bărbăteşte te-ai îmbră­cat, ucigând pe Copronim cu sabia credinţei. Pentru amân­două acestea te-ai încununat de la Dumnezeu, Preacuvioase Părinte Andrei, pururea lăudate.",
         condac: "Veselindu-se, s-a bucurat Bi­serica astăzi, întru cinstită po­menirea răbdătorului de patimi, a Sfântul Mucenic Longhin, cântând: Tu eşti Puterea mea, Hristoase şi Întărirea.",
         culoare: "white"
@@ -169,7 +169,7 @@ window.dateLuna = {
     // 17 OCTOMBRIE: Sfântul Cuvios Mucenic Andrei din Creta
     // ============================================================
     "17": {
-        nume: "Sfântul Cuvios Mucenic Andrei din Creta",
+        nume: "Sf. Cuv. Mucenic Andrei din Creta",
         tropar: "Pustniceşte mai înainte pedepsindu-te în munte, taberele vrăjmaşilor cele netrupeşti le-ai pierdut cu arma Crucii, întru tot fericite; şi iarăşi spre chinuire bărbăteşte te-ai îmbră­cat, ucigând pe Copronim cu sabia credinţei. Pentru amân­două acestea te-ai încununat de la Dumnezeu, Preacuvioase Părinte Andrei, pururea lăudate.",
         condac: "Prăznuieşte astăzi Cetatea cea Împărătească strălucitul praznic al pomenirii tale celei de lumină purtătoare, che­mând la sine toată cetatea şi latura; şi se bucură, căci a do­bândit vistierie mare, mult pătimitorul tău trup, Sfinte Cuvioase Andrei, Mu­cenice, Luminătorule al Orto­doxiei.",
         culoare: "white"
@@ -219,7 +219,7 @@ window.dateLuna = {
     // 22 OCTOMBRIE: Sfântul Ierarh, întocmai cu apostolii, Averchie, Episcopul Ierapolei
     // ============================================================
     "22": {
-        nume: "Sfântul Ierarh, întocmai cu apostolii, Averchie, Episcopul Ierapolei",
+        nume: "Sfântul Ierarh, întocmai cu apostolii, Averchie",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Averchie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ca pe un mai mare preot şi împreună locuitor cu Apostolii, toată Biserica credincioşilor te cinsteşte pe tine, Sfinte Ierarhe Averchie. Pe care cu rugăciunile tale păzeş­te-o, fericite, nebiruită şi fără de valuri, de tot eresul cel gân­ditor de cele deşarte, mult minunate.",
         culoare: "white"
@@ -239,7 +239,7 @@ window.dateLuna = {
     // 24 OCTOMBRIE: Sfântul Mare Mucenic Areta şi al celor împreună cu dânsul
     // ============================================================
     "24": {
-        nume: "Sfântul Mare Mucenic Areta şi al celor împreună cu dânsul",
+        nume: "Sfântul Mare Mucenic Areta",
         tropar: "Pentru durerile Sfântului Mare Mucenic Areta şi al celor împreună cu dânsul, care pentru Tine au pătimit, fii Mi­lostiv Doamne şi toate durerile noastre le vindecă, Iubitorule de oameni, rugămu-ne Ţie.",
         condac: "Pricină de veselie ne-a venit nouă astăzi, praznicul celui purtător de lupte; pe care lăudându-l, slăvim pe Domnul, Cel Ce este întru Înălţime.",
         culoare: "white"
@@ -249,7 +249,7 @@ window.dateLuna = {
     // 25 OCTOMBRIE: Sfinţii Mucenici Marcian şi Martirie
     // ============================================================
     "25": {
-        nume: "Sfinţii Mucenici Marcian şi Martirie",
+        nume: "Sf. Mc. Marcian şi Martirie",
         tropar: "Mucenicii Tăi, Doamne, Marcian şi Martirie, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Cu nevoinţă bună v-aţi ne­voit din pruncie, Sfinte Marcian împreună cu Înţeleptul Martirie şi aţi surpat pe vicleanul Arie, păzind nevătămată credinţa creştină, urmând Apostolului Pavel Înţeleptului vostru învăţător. Pentru aceasta, împreună cu dânsul aţi aflat Viaţa, ca nişte apărători ai Preasfintei Treimi, preaaleşi.",
         culoare: "white"

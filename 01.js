@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 IANUARIE: BOTEZUL DOMNULUI (Boboteaza - Dumnezeiasca Arătare)
     // ============================================================
     "06": {
-        nume: "BOTEZUL DOMNULUI (Boboteaza - Dumnezeiasca Arătare)",
+        nume: "BOTEZUL DOMNULUI (Boboteaza)",
         tropar: "În Iordan Botezându-Te Tu, Doamne, închinarea Treimii s-a arătat. Că Glasul Părintelui a mărturisit Ţie, Fiu Iubit pe Tine numindu-Te; şi Duhul, în Chip de Porumbel, a adeverit întărirea Cuvântului, Cel Ce Te-ai arătat, Hristoase Dumnezeule şi lumea ai luminat, Slavă Ţie.",
         condac: "Arătatu-Te-ai astăzi lumii şi Lu­mina Ta, Doamne, s-a însemnat peste noi, care cu cunoştinţă Te lăudăm. Venit-ai şi Te-ai arătat, Lumina Cea Neapropiată.",
         culoare: "red"
@@ -70,7 +70,7 @@ window.dateLuna = {
     // 07 IANUARIE: Soborul Sfântului Proroc Ioan Botezătorul și Înaintemergătorul Domnului
     // ============================================================
     "07": {
-        nume: "Soborul Sfântului Proroc Ioan Botezătorul și Înaintemergătorul Domnului",
+        nume: "Soborul Sfântului Proroc Ioan Botezătorul",
         tropar: "Pomenirea dreptului este cu laude; iar ţie destul îţi este mărturia Domnului, Înaintemergătorule. Că te-ai arătat cu adevărat şi decât prorocii mai cinstit. Că şi a boteza în ape pe Cel Propovăduit, te-ai învrednicit. Drept aceasta pentru adevăr nevoindu-te, bucurându-te ai binevestit şi celor din iad pe Dumnezeu, Cel Ce S-a arătat în Trup, pe Cel Ce a ridicat păcatul lumii şi ne-a dăruit nouă mare milă.",
         condac: "De venirea Ta cea Trupească temându-se Iordanul, cu cutremur s-a întors; şi slujba cea duhovnicească plinind-o Prorocul Ioan, cu frică s-a tras înapoi. Cetele îngereşti s-au înspăimântat, văzându-Te pe Tine în Iordan, cu Trupul botezându-Te şi toţi cei dintru întuneric s-au luminat, lăudându-Te pe Tine, Cel Ce Te-ai arătat şi ai luminat toate.",
         culoare: "red"

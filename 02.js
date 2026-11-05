@@ -30,7 +30,7 @@ window.dateLuna = {
     // 03 FEBRUARIE: Sfântul Ansgar, luminătorul Danemarcei și al Suediei
     // ============================================================
     "03": {
-        nume: "Sfântul Ansgar, luminătorul Danemarcei și al Suediei",
+        nume: "Sfântul Ansgar, luminătorul Danemarcei și Suediei",
         tropar: "În întregime fiind cuprins de dragostea pentru Dumnezeu şi pentru oameni, la fel ca Apostolii, Sfinte Mucenice Ansgar, ai călătorit în depărtări ca să duci mântuire celor aflaţi în întuneric, jertfind durerea ta pe altarul inimii tale, iar prin truda şi osteneala ta aducând mărturie despre Mântuitorul ca un mucenic şi îndurând pericolele uscatului şi mării de dragul Său, fără să fii descurajat de ispite şi necazuri. Pentru acestea, roagă-te cu îndrăzneală să fie mântuite sufletele noastre.",
         condac: "În întreg nordul păgânii s-au mâniat, nerenunţând la idolatria găunoasă şi adunându-se împreună împotriva lui Hristos şi a Bisericii Sale. Dar viteazul Mucenic Ansgar a sfărâmat legăturile credinţei false şi i-a eliberat pe danezi şi suedezi de oprimarea demonilor, dăruind teritoriile lor lui Dumnezeu pentru moştenitorul Său şi chiar şi cele mai extreme părţi ale Pământului stăpânirii Sale. Pentru acestea, cu frică de Dumnezeu şi cu cutremur ei L-au slujit, bucurându-se după obiceiul ortodox.",
         culoare: "incolor"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 FEBRUARIE: Întâia și a doua aflare a Capului Sfântului Proroc Ioan, Înaintemergătorul și Botezătorul Domnului
     // ============================================================
     "24": {
-        nume: "Întâia și a doua aflare a Capului Sfântului Proroc Ioan, Înaintemergătorul și Botezătorul Domnului",
+        nume: "Întâia și a doua aflare a Capului Sfântului Proroc Ioan",
         tropar: "Din pământ răsărind capul Înaintemergătorului, aruncă credincioşilor Razele Nestricăciunii tămăduirilor. De sus adună mulţimea îngerilor, de jos cheamă împreună neamul omenesc, ca să înalţe cu un glas Slavă lui Hristos Dumnezeu.",
         condac: "Prorocule al lui Dumnezeu şi Înaintemergătorule al Harului, aflând capul tău ca un trandafir Preasfinţit din pământ, tămăduiri luăm totdeauna; pentru că iarăşi propovăduieşti, ca mai înainte, pocăinţa în lume.",
         culoare: "gray"

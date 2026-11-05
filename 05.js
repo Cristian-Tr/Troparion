@@ -19,7 +19,7 @@ window.dateLuna = {
     // 02 MAI: Aducerea moaștelor Sfântului Ierarh Atanasie cel Mare în Constantinopol
     // ============================================================
     "02": {
-        nume: "Aducerea moaștelor Sfântului Ierarh Atanasie cel Mare în Constantinopol",
+        nume: "Aducerea moaștelor Sf. Ier. Atanasie cel Mare în Constantinopol",
         tropar: "Dumnezeiască odraslă a cretanilor, păstor al cetăţii celei împărăteşti şi povăţuitor sfinţit al creştinilor de la Dunăre, comoara cea de mult preţ a Harkovului, Atanasie înţelepte, primit-ai har bogat de Sus, cu nume nemuritor fiind. Roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ale Ortodoxiei învăţături sădind, spinii relei socotinţe ai tăiat, înmulţind sămânţa credinţei cu plouarea Duhului cuvioase. Pentru aceasta lăudăm pomenirea ta Sfinte Ierarh Atanasie.",
         culoare: "gray"
@@ -189,7 +189,7 @@ window.dateLuna = {
     // 19 MAI: Sfântul Sfințit Mucenic Patrichie, Episcopul Prusei
     // ============================================================
     "19": {
-        nume: "Sfântul Sfințit Mucenic Patrichie, Episcopul Prusei",
+        nume: "Sfântul Sfințit Mucenic Patrichie",
         tropar: "Mucenicul Tău, Doamne, Patrichie întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Ca o sfinţită vistierie a lui lisus, Patrichie, Biserica primind trupul tău, bucurându-se strigă ţie: prin tine toată lumea în pace adâncă se ţine, şi se acoperă de tot eresul nevătămată ca o nebiruită.",
         culoare: "incolor"
@@ -209,7 +209,7 @@ window.dateLuna = {
     // 21 MAI: Sfinții Împărați și întocmai cu Apostolii Constantin și mama sa, Elena
     // ============================================================
     "21": {
-        nume: "Sfinții Împărați și întocmai cu Apostolii Constantin și mama sa, Elena",
+        nume: "Sf. Împărați întocmai cu Apostolii Constantin și mama sa Elena",
         tropar: "Chipul Crucii Tale pe cer văzându-l şi ca Pavel chemarea nu de la oameni luând, cel între împăraţi Apostolul Tău, Doamne, împărăteasca cetate în mâinile Tale o a pus. Pe care pazeşte-o totdeauna în pace, pentru rugăciunile Născătoarei de Dumnezeu, Unule Iubitorule de oameni.",
         condac: "Constantin astăzi, cu maica sa Elena, Crucea a arătat, lemnul cel preacinstit, care este ruşinarea tuturor iudeilor şi armă credincioşilor împăraţi asupra celor potrivnici. Că pentru noi s-a arătat semn mare, şi în războaie înfricoşător.",
         culoare: "red"
@@ -229,7 +229,7 @@ window.dateLuna = {
     // 23 MAI: Sfântul Ierarh Mihail Mărturisitorul, Episcopul Sinadei
     // ============================================================
     "23": {
-        nume: "Sfântul Ierarh Mihail Mărturisitorul, Episcopul Sinadei",
+        nume: "Sfântul Ierarh Mihail, Episcopul Sinadei",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Mihail, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Ca un soare mare răsărind, ai luminat pe toţi cu lumina faptelor tale celor bune şi cu strălucirile minunilor, purtătorule de minuni, cel ce eşti numit cu nume îngeresc.",
         culoare: "incolor"
@@ -249,7 +249,7 @@ window.dateLuna = {
     // 25 MAI: A treia aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului
     // ============================================================
     "25": {
-        nume: "A treia aflare a Capului Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului",
+        nume: "A treia aflare a Capului Sfântului Proroc Ioan",
         tropar: "Ca pe o dumnezeiască vistierie ascunsă în pământ, Hristos a descoperit capul tău nouă, Proorocule şi Înaintemergătorule; deci toţi adunându-ne întru aflarea lui, cu cântări de Dumnezeu grăitoare pe Mântuitorul lăudăm, Cel Ce ne mântuieşte pe noi din stricăciune cu rugăciunile tale.",
         condac: "Stâlpul cel luminos şi dumnezeiesc, care s-a arătat în lume, sfeşnicul cel mergător înaintea Soarelui, arătând în toate marginile lumii luminatul şi cinstitul său cap, sfinţeşte pe cei ce cu credinţă se închină lui, şi strigă: înţelepte Botezătorule al lui Hristos, miluieşte-ne pe noi pe toţi.",
         culoare: "gray"
@@ -279,7 +279,7 @@ window.dateLuna = {
     // 28 MAI: Sfântul Ierarh Nichita Mărturisitorul, Episcopul Calcedonului
     // ============================================================
     "28": {
-        nume: "Sfântul Ierarh Nichita Mărturisitorul, Episcopul Calcedonului",
+        nume: "Sfântul Ierarh Nichita, Episcopul Calcedonului",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Nichita, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Strălucind cu lumina faptelor tale, te-ai făcut moştenitor scaunului celui apostolesc, preacuvioase Nichita şi ca un soare ai luminat turma ta, părinte, umplând pe toţi de dumnezeieştile învăţături. Pentru aceasta strigăm Ţie: Bucură-te înfrumuseţarea Calcedonului.",
         culoare: "incolor"

@@ -30,7 +30,7 @@ window.dateLuna = {
     // 03 IUNIE: Sfântul Mucenic Luchilian şi cei împreună cu el patru tineri: Ipatie, Paul, Dionisie, Claudie și Paula
     // ============================================================
     "03": {
-        nume: "Sfântul Mucenic Luchilian şi cei împreună cu el patru tineri: Ipatie, Paul, Dionisie, Claudie și Paula",
+        nume: "Sf. Mucenici Luchilian, Ipatie, Paul, Dionisie, Claudie și Paula",
         tropar: "Mucenicii Tăi, Doamne, Luchilian, Ipatie, Paul, Dionisie, Claudie și Paula, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Ceata cea cu numărul de cinci a sfinţilor mucenici cea strălucită, care luminează Biserica lui Hristos, adunându-ne astăzi, să cinstim sfânta prăznuirea pomenirii lor, bucurându-ne; căci ca nişte tari pătimitori şi slugi ale lui Hristos stându-i înainte, neîncetat se roagă pentru noi toţi.",
         culoare: "incolor"
@@ -100,7 +100,7 @@ window.dateLuna = {
     // 10 IUNIE: Sfinții Mucenici Timotei, Episcopul Prusiei, Alexandru și Antonina
     // ============================================================
     "10": {
-        nume: "Sfinții Mucenici Timotei, Episcopul Prusiei, Alexandru și Antonina",
+        nume: "Sfinții Mucenici Timotei, Alexandru și Antonina",
         tropar: "Mucenicii Tăi, Doamne, Timotei, Alexandru și Antonina, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Pomenirea cea vrednică de laudă a mucenicilor a strălucit, pe care credincioşii o săvârşim şi o lăudăm cu credinţă, întru cunoştinţă strigând: Tu eşti, Hristoase, întărirea mucenicilor.",
         culoare: "incolor"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 IUNIE: Nașterea Sfântului Ioan Botezătorul (Sânzienele - Drăgaica)
     // ============================================================
     "24": {
-        nume: "Nașterea Sfântului Ioan Botezătorul (Sânzienele - Drăgaica)",
+        nume: "Nașterea Sfântului Ioan Botezătorul (Sânzienele)",
         tropar: "Prorocule și Înaintemergătorule al venirii lui Hristos, după vrednicie a te lăuda pe tine nu ne pricepem noi cei ce cu dragoste te cinstim; că nerodirea celei ce te-a născut și amuțirea părintelui tău s-a dezlegat la mărita și cinstita nașterea ta, și întruparea Fiului lui Dumnezeu lumii se propovăduiește.",
         condac: "Ceea ce mai înainte era stearpă, astăzi pe Înaintemergătorul lui Hristos naşte şi el este plinirea a toată proorocia. Că pe Care proorocii mai înainte L-au propovăduit, pe Acesta în Iordan mâna punându-şi, s-a arătat Cuvântului lui Dumnezeu, Prooroc Propovăduitor, împreună şi Înaintemergător.",
         culoare: "red"
@@ -280,7 +280,7 @@ window.dateLuna = {
     // 28 IUNIE: Aducerea moaștelor Sfinților Mucenici Doctori fără de arginți Chir și Ioan
     // ============================================================
     "28": {
-        nume: "Aducerea moaștelor Sfinților Mucenici Doctori fără de arginți Chir și Ioan",
+        nume: "Aducerea moaștelor Sf. Mc. Doctori fără de arginți Chir și Ioan",
         tropar: "Minunile sfinţilor Tăi mucenici, zid nebiruit ne-ai dăruit nouă, Hristoase Dumnezeule; pentru rugăciunile lor, sfaturile păgânilor le risipeşte şi sceptrurile Împărăţiei le întăreşte, ca un bun şi iubitor de oameni.",
         condac: "Din harul cel dumnezeiesc dar de minuni luând, sfinţilor, faceţi minuni în lume, toate patimile noastre cu doctorie nevăzută, le tăiaţi, Sfinte Mucenice Chir, de Dumnezeu înţelepţite, împreună cu măritul Mucenic Ioan; că voi după adevăr sunteţi doctori dumnezeieşti.",
         culoare: "incolor"

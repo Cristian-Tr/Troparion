@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 MARTIE: Sfinții Cuvioși Mucenici din Mănăstirea Sfântului Sava cel Sfințit
     // ============================================================
     "20": {
-        nume: "Sfinții Cuvioși Mucenici din Mănăstirea Sfântului Sava cel Sfințit",
+        nume: "Sfinții Mucenici din Mănăstirea Sfântului Sava cel Sfințit",
         tropar: "Mucenicii Tăi, Doamne, din Mănăstirea Sfântului Cuvios Sava cel Sfințit, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Îndulcirea celor pământeşti şi stricăcioase cu adevărat urând, preafericiţilor şi luând asupra voastră viaţa cea sihăstrească, aţi lepădat cele preafrumoase ale lumii şi hrana cea vremel­nică, pentru care v-aţi învred­nicit Împărăţiei celei Cereşti, veselindu-vă împreună cu cete­le mucenicilor şi ale pustnicilor. Pentru aceasta, cinstind pome­nirea voastră, cu osârdie stri­găm către voi: izbăviţi-ne pe noi din nevoi, părinţilor.",
         culoare: "incolor"

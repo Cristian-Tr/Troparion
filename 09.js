@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 SEPTEMBRIE: Sfântul Mare Mucenic Eustatie cu soţia Teopisti și fii lor Agapie şi Teopist
     // ============================================================
     "20": {
-        nume: "Sfântul Mare Mucenic Eustatie cu soţia Teopisti și fii lor Agapie şi Teopist",
+        nume: "Sf. Mare Mc. Eustatie cu soţia Teopisti și fii Agapie şi Teopist",
         tropar: "Mucenicii Tăi, Doamne, Eustatie, Teopista, Agapie și Teopist întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Aievea râvnind Patimilor Lui Hristos şi cu credinţă bând paharul Lui, te-ai făcut părtaş şi împreună moştenitor măririi Lui, Sfinte Mucenice Eustatie; de la Însuşi Dumnezeul tuturor, luând dintru înălţime Dumnezeiască iertare.",
         culoare: "incolor"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 SEPTEMBRIE: Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești
     // ============================================================
     "27": {
-        nume: "Sfântul Ierarh Martir Antim Ivireanul, Mitropolitul Țării Românești",
+        nume: "Sf. Ier. Martir Antim Ivireanul, Mitropolitul Țării Românești",
         tropar: "Sfinte Părinte Ierarhe Antim, după vrednicie ai fost rânduit păstor şi învăţător turmei tale, şi cu înţelepciune dumnezeiască ai revărsat râurile sfintelor tale cuvinte. Viaţa ai pus-o pentru păstoriţii tăi şi cununa muceniciei ai dobândit de la Hristos Dumnezeu, pe Care roagă-L, Sfinte Părinte Ierarhe Antim, să dăruiască pace şi mare milă celor ce săvârşesc sfântă pomenirea ta.",
         condac: "În ţara noastră sfinţitor te-ai arătat, Sfinte Ierarhe Antim. Că Evanghelia lui Hristos cu râvnă o ai împlinit, pe poporul cel credincios l-ai luminat, lăcaşuri Sfintei Treimi ai ridicat, sufletul ţi-ai pus pentru turma lui Hristos. Pentru aceasta te-ai încununat de la Hristos Dumnezeu cu daruri netrecătoare.",
         culoare: "gray"
@@ -300,7 +300,7 @@ window.dateLuna = {
     // 30 SEPTEMBRIE: Sfântul Ierarh Grigorie Luminătorul, Arhiepiscopul Armeniei
     // ============================================================
     "30": {
-        nume: "Sfântul Ierarh Grigorie Luminătorul, Arhiepiscopul Armeniei",
+        nume: "Sf. Ier. Grigorie Luminătorul, Arhiepiscopul Armeniei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Ierarhe Grigorie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Pe cel mărit şi ierarh, ca pe un nevoitor al adevărului, astăzi să-l lăudăm toţi cu cântări şi cu imne de laude; pe păstorul şi învăţătorul cel priveghelnic, pe Sfântul Grigorie Luminătorul a toată lumea, căci se roagă lui Hristos să mântuim noi.",
         culoare: "incolor"
