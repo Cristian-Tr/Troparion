@@ -104,13 +104,16 @@ h2 {
     font-weight: bold;
 }
 
+.menuType {
+    margin-top: -.2em;
+}
 /* STILURI TROPAR SI CONDAC */
 #troparTitle,
 #condacTitle {
     color: white;
     font-size: 1.25em;
     font-weight: 700;
-    margin-top: 1.2em;
+    margin-top: .3em;
     margin-bottom: 0.1em;
     text-shadow: 0.7px 0.7px 0.7px black;
 }
@@ -372,7 +375,7 @@ article.column-page .menu-content {
     padding: 53px 3px 71px 3px;
     color: #2b1d0c;
     box-sizing: border-box;
-    padding: 57px 0px 81px 0px;
+    padding: 57px 0px 57px 0px;
     animation: fadeInEfect 1s ease-out;
 }
 
