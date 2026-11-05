@@ -20,9 +20,9 @@ window.dateLuna = {
     // 02 NOIEMBRIE: Sfinţii Mucenici Achindin, Pigasie, Aftonie, Elpidifor şi Anempodist
     // ============================================================
     "02": {
-        nume: "Sfinţii Mucenici Achindin, Pigasie, Aftonie, Elpidifor şi Anempodist",
-        tropar: "Purtătorilor de lupte ai Domnului, Sfinţilor Mucenici Achindin, Pigasie, Aftonie, Elpidifor şi Anempodist, fericit este pământul care s-a adăpat cu sângele vostru şi sfinte locaşurile care au primit trupurile voastre. Că în privelişte pe vrăjmaşi aţi biruit şi pe Hristos cu îndrăznire aţi propovăduit, pe Acela ca pe un Bun rugaţi-L să mântuiască sufletele noastre.",
-        condac: "Pe mucenicii cei binecredincioşi şi de Dumnezeu purtători, ca pe cei ce toate cele de pe pământ le-au dispreţuit, i-ai primit întru desfătarea bunătăţilor Tale şi în odihnă: pe Achindin, Pigasie, Anempodist, cu ei şi pe Aftonie şi pe Elpidifor, Însuţi Cel Ce eşti Preabun.",
+        nume: "Sfinţii Mucenici Achindin, Pigasie, Aftonie şi Elpidifor",
+        tropar: "Purtătorilor de lupte ai Domnului, Sfinţilor Mucenici Achindin, Pigasie, Aftonie şi Elpidifor, fericit este pământul care s-a adăpat cu sângele vostru şi sfinte locaşurile care au primit trupurile voastre. Că în privelişte pe vrăjmaşi aţi biruit şi pe Hristos cu îndrăznire aţi propovăduit, pe Acela ca pe un Bun rugaţi-L să mântuiască sufletele noastre.",
+        condac: "Pe mucenicii cei binecredincioşi şi de Dumnezeu purtători, ca pe cei ce toate cele de pe pământ le-au dispreţuit, i-ai primit întru desfătarea bunătăţilor Tale şi în odihnă: pe Achindin, Pigasie, cu ei şi pe Aftonie şi pe Elpidifor, Însuţi Cel Ce eşti Preabun.",
         culoare: "incolor"
     },
 
