@@ -80,6 +80,7 @@ h2 {
     margin: 1px auto;
     margin-top: 17px;
     margin-bottom: 17px;
+    background: burlywood;
     background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
     min-height: 35vw;
@@ -209,6 +210,7 @@ article.column-page .menu-content {
 
 .category dt {
     text-shadow: .7px .7px .7px black;
+    background: burlywood;
     background-image: url('./papirus-half.webp');
     background-size: 100% 100%;
     padding: 7px;
@@ -233,6 +235,7 @@ article.column-page .menu-content {
 }
 
 .category dd {
+    background: burlywood;
     background-image: url('./papirus-background.webp');
     background-size: 100% 100%;
     padding: 17px 7px 7px 7px;
@@ -370,6 +373,7 @@ article.column-page .menu-content {
     max-width: 1000px;
     margin: 1px auto;
     margin-top: 43px;
+    background: burlywood;
     background-image: url('./papirus-vertical.webp');
     background-size: 100% 100%;
     padding: 53px 3px 71px 3px;
