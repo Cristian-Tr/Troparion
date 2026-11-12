@@ -100,7 +100,7 @@ window.dateLuna = {
     // 10 NOIEMBRIE: Sfinţii Apostoli Olimp, Rodion, Sosipatru, Erast, Terţiu şi Cvart
     // ============================================================
     "10": {
-        nume: "Sfântului Cuvios Mucenic Visarion de la Lainici",
+        nume: "Sfântul Cuvios Mucenic Visarion de la Lainici",
         tropar: "Minunată lucrare ai arătat în Mănăstirea Lainici, Sfinte Părinte Visarion, prin postire, priveghere și rugăciune, prin iubirea desăvârșită de Dumnezeu și de semeni, făcător de minuni arătându-te. Iar, pătimind de la cei rău-credincioși cu slavă te-ai încununat în ceruri. Pentru aceasta, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Pe pătimitorul pentru iubirea lui Dumnezeu, pe învățătorul rugăciunii celei curate, pe Cuviosul stareț Visarion de la Lainici, cel ce împreună tuturor daruri din milostivire, să-l lăudăm, strigându-i din inimă: Bucură-te, Sfinte Părinte Visarion, lauda monahilor și podoaba mărturisitorilor!",
         culoare: "deepskyblue"
@@ -120,10 +120,10 @@ window.dateLuna = {
     // 12 NOIEMBRIE: Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei
     // ============================================================
     "12": {
-        nume: "Sfântul Ierarh Ioan cel Milostiv, Patriarhul Alexandriei",
-        tropar: "Întru răbdarea ta ţi-ai agonisit plata ta, părinte cuvioase, întru rugăciuni neîncetat răbdând, pe săraci iubind şi pe aceia îndestulând. Dar, roagă-te lui Hristos Dumnezeu, Sfinte Ioan, Milostive, Fericite, să mântuiască sufletele noastre.",
-        condac: "Bogăţia ta o ai împărţit săracilor şi cerească bogăţie acum ai luat, Sfinte Ioan, Preaînţelepte. Pentru aceasta toţi pe tine te cinstim, săvârşind pomenirea ta, o, cel asemenea cu milostenia numit.",
-        culoare: "incolor"
+        nume: "Sfântul Martir și Mărturisitor Atanasie din Bichigiu",
+        tropar: "Luptător pentru credință și neam, biruitor al potrivnicilor lui Hristos și apărător neînfricat al Ortodoxiei, ai odrăslit în Țara Năsăudului, primind cu bărbăție moarte mucenicească. Pentru aceasta, nimicind amăgirile asupritorilor, ai câștigat cununa cea neveștejită a sfințeniei. Fericite Atanasie, roagă-L pe Hristos Dumnezeu să miluiască și să mântuiască sufletele noastre.",
+        condac: "Povara celor o sută patru ani nu te-a oprit de la moartea mucenicească și fără teamă ai primit cununa suferinței, preschimbând-o în cununa cea neveștejită a biruinței; și făcându-te ostaș credincios lui Hristos, ai câștigat Împărăția cea veșnică; iar pe noi îmbărbătându-ne în Duh și adevăr, ne-ai dăruit întărire în credință și nădejde în mântuire. Pentru aceasta, Sfinte Mucenice Atanasie roagă-L pe Milostivul Dumnezeu să ne apere și să ne izbăvească de primejdii și necazuri.",
+        culoare: "deepskyblue"
     },
 
     // ============================================================

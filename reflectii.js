@@ -1,7 +1,7 @@
 window.dateReflectii = [
     {
         subjectName: "Afirmarea",
-        reflectie: `Când cineva dorește să se afirme într-un anumit domeniu dar nu din mândrie,  nici în detrimentul celorlalți ci din dorința de a pune în practică calitățile pe care Dumnezeu i le-a dăruit și cu scopul de a fi de folos semenilor, să ceară ajutorul Domnului și binecuvântarea duhovnicului și Dumnezeu îl va ajuta să obțină rezultate bune.
+        reflectie: `Atunci când dorim să ne afirmăm într-un anumit domeniu dar nu din mândrie, nici în detrimentul celorlalți ci din dorința de a pune în practică calitățile pe care Dumnezeu ni le-a dăruit și cu scopul de a fi de folos semenilor, trebuie să cerem binecuvântare de la duhovnicul nostru și apoi să ne rugăm lui Dumnezeu ca să obținem rezultate bune în activitatea profesională pe care dorim să o desfășurăm.
 `
     },
     {
@@ -11,7 +11,7 @@ window.dateReflectii = [
     },
     {
         subjectName: "Avortul",
-        reflectie: `Avortul este un MARE păcat deoarece este o crimă asupra unui prunc nebotezat și lipsit de apărare.
+        reflectie: `Avortul este unul dintre cele mai MARI păcate deoarece este o crimă asupra unui prunc nebotezat și lipsit de apărare.
         Biblia ne arată că femeia se poate mântui prin nașterea de prunci.
         De aceea, prin refuzul de a da naștere la prunci (prin contracepție sau avort) sau prin refuzul de a-și crește copii cu dragoste de Dumnezeu, femeia refuză viața cea veșnică.
 `
@@ -19,24 +19,26 @@ window.dateReflectii = [
     {
         subjectName: "Biserica",
         reflectie: `Biserica este instituţia sfântă întemeiată de Hristos pentru mântuirea şi sfinţirea credincioşilor.
-                          
-Întemeietorul bisericii este Domnul nostru Iisus Hristos care împărtăşeşte harul Său mântuitor prin intermediul celor șapte Sfinte Taine (Botezul, Mirungerea, Spovedania, Împărtășania, Preoția, Cununia și Maslul) iar membrii ei sunt toţi creștinii-ortodocși clerici, mireni și călugări. 
-În chip nevăzut, Biserica a fost întemeiată de Mântuitorul prin Jertfa Sa de pe Cruce, când a fost realizată și mântuirea generală a oamenilor
-                          
-În chip văzut, Biserica a fost întemeiată în a cincizecea zi după Învierea Mântuitorului (Cincizecime), când Duhul Sfânt S-a pogorât asupra Apostolilor în chip de limbi de foc.
+Întemeietorul bisericii este Domnul nostru Iisus Hristos iar membrii ei sunt toţi creștinii-ortodocși clerici, mireni și călugări. 
 Pentru a deveni membru al Bisericii Ortodoxe orice om trebuie să primească Taina Sfântului Botez.
+
+În chip nevăzut, Biserica a fost întemeiată de Mântuitorul prin Jertfa Sa de pe Cruce, când a fost realizată și mântuirea generală a oamenilor.
+În chip văzut, Biserica a fost întemeiată în a cincizecea zi după Învierea Mântuitorului (Rusalii), când Duhul Sfânt S-a pogorât asupra Apostolilor în chip de limbi de foc.
                           
-Biserica de pe pământ se numeşte Biserică luptătoare deoarece credincioşii se luptă în  această viaţă pentru a dobândi mântuirea, pe când cea din ceruri se numeşte Biserică triumfătoare, deoarece îi cuprinde pe cei care s-au mântuit și care acum se bucură alături de Dumnezeu în Împărăția Cerurilor.
-Cele două Biserici comunică între ele, prin rugăciunile celor vii pentru cei morţi și prin mijlocirea celor care s-au mântuit pentru cei care sunt în această viaţă.
-Creștinii se întâlnesc pentru a se ruga și a participa la slujbe într-un locaș sfânt denumit Biserică.
-Interiorul bisericii este împărţit în trei părţi: pronaos, naos şi altar. 
+Biserica de pe pământ se numeşte Biserică luptătoare deoarece îi cuprinde pe credincioşii care se luptă în această viaţă pentru a dobândi mântuirea.
+Biserica din ceruri se numeşte Biserică triumfătoare, deoarece îi cuprinde pe credicioșii care s-au mântuit și se află acum în Împărăția Cerurilor.
+Cele două Biserici comunică între ele, prin rugăciunile celor vii pentru cei morţi și prin mijlocirea celor care s-au mântuit pentru cei vii.
+
+Biserica este locașul sfânt unde credincioșii se întâlnesc pentru a se ruga și a participa la slujbe.
+Interiorul bisericii este împărţit în trei părţi: pronaos, naos şi altar.
 Iconostasul reprezintă peretele acoperit de icoane, care desparte altarul de naos.
 `
     },
     {
         subjectName: "Blestemul",
         reflectie: `Blestemul reprezintă invocarea urgiei asupra cuiva și are efect doar asupra celor care au nedreptățit pe cineva.
-Este similar unei lovituri care poate provoca boli sau necazuri. Dacă cel blestemat nu este vinovat atunci blestemul se întoarce asupra celui care l-a rostit și acela va suferi neplăcerile pe care le-a dorit celuilalt.
+Este similar unei lovituri care poate provoca boli sau necazuri.
+Dacă cel blestemat nu este vinovat atunci blestemul se întoarce asupra celui care l-a rostit și acela va suferi neplăcerile pe care le-a dorit celuilalt.
 Cel care a fost blestemat se va chinui doar în viața  aceasta prin boli ce nu pot fi vindecate însă cel care a blestemat și nu și-a mărturisit acest păcat, se va chinui și în viața  aceasta dar și după moarte.
 De aceea, atunci când cineva ne provoacă un rău, în loc să îl blestemăm mai bine să-l iertăm pe cel ce ne-a pricinuit necazul.
 `
@@ -44,7 +46,7 @@ De aceea, atunci când cineva ne provoacă un rău, în loc să îl blestemăm m
     {
         subjectName: "Boala",
         reflectie: `Boala este o suferință prin care oamenii pot să se curețe de păcate.
-De aceea boala este mai de preț pentru unii oameni decât sănătatea, căci prin boală trupul suferă dar sufletul lor se sfințește dar numai dacă rabdă necazurile și îi mulțumesc lui Dumnezeu pentru că a îngăduit ca prin acea boală să își ispășească păcatele săvârșite.
+Boala este pentru oamenii păcătoși mai valoroasă decât sănătatea, deoarece prin intermediul bolii sufletul lor se curățește de păcatele săvârșite dar numai dacă rabdă durerile fără a fi nemulțumit că se află ăn acea stare.
 `
     },
     {
@@ -59,8 +61,8 @@ Din pilda aceasta trebuie să înțelegem că atunci când Dumnezeu este generos
     },
     {
         subjectName: "Bogăția",
-        reflectie: `Toate bunurile sunt proprietatea lui Dumnezeu căci ele au fost realizate di materii prime create de El iar oamenii sunt cel mult administratori.
-Dacă Dumnezeu a binevoit ca unii să se îmbogățească cu bunurile Sale, trebuie ca și ei să-i ajute pe cei aflați în nevoie și să ofere salarii decente angajaților lor pentru a fi plăcuți lui Dumnezeu.
+        reflectie: `Toate bunurile pământești sunt proprietatea lui Dumnezeu căci ele au fost realizate din materii prime create de El.
+De aceea bogații trebuie să-i ajute pe cei aflați în nevoie și să ofere salarii decente angajaților lor pentru a fi plăcuți lui Dumnezeu.
 `
     },
     {
@@ -77,12 +79,14 @@ Botezul poate fi săvârșit o singură dată în viață.
     },
     {
         subjectName: "Bucuria",
-        reflectie: `Lucrurile noi, distracțiile, promovările și averile pot să ne aducă doar bucurii trecătoare dar rugăciunile, Spovedania, Împărtășania, participarea la slujbe, aplicarea învățăturilor de credință ortodoxă, faptele bune, ne pot oferi aici pe pământ un pic din bucuria Raiului precum și bucuria cea veșnică în Împărăția cerurilor.
+        reflectie: `Bucurii adevărate sunt doar cele spirituale pe care ni le pot dărui doar rugăciunile, Spovedania, Împărtășania, participarea la slujbe cu cântări înălțătoare, faptele bune, citirea unor cărți interesante de învățătură de credință și altele asemenea care ne pot oferi aici pe pământ un pic din bucuria Raiului.
+        
+        Lucrurile noi, distracțiile, sejururile petrecute pe alte meleaguri, promovările și averile pot să ne aducă doar bucurii trecătoare.
 `
     },
     {
         subjectName: "Comparații",
-        reflectie: `Învățăturile ortodoxe
+        reflectie: `Învățături de credință ortodoxă
 1. Dogma Sfintei Treimi: Dumnezeu este unul în ființă și întreit în persoane: Tatăl, Fiul și Duhul Sfânt.
 2. Dumnezeu-Tatăl este nenăscut și veșnic.
 3. Dumnezeu-Fiul (Domnul nostru Iisus Hristos) este născut din Tatăl mai înainte de toți vecii și de o ființă cu Tatăl și cu Duhul Sfânt. S-a întrupat din Fecioara Maria, devenind om adevărat și Dumnezeu-adevărat, o singură persoană cu două firi desăvârșite, divină și umană, unite în mod neamestecat, neschimbat, neîmpărțit și nedespărțit.
@@ -94,20 +98,20 @@ Botezul poate fi săvârșit o singură dată în viață.
 9. Revelația supranaturală se găsește în Sfânta Scriptură (Biblia) și în Sfânta Tradiție și ea o completează pe cea naturală.
 10. Sfintele Taine sunt în număr de șapte (Botezul, Mirungerea, Spovedania, Împărtășania, Preoția, Cununia, Maslul).
 
-Învățăturile catolice (16 iulie 1054)
-1. Filioque – este o învățătură introdusă în anul 589, care ne arată că Duhul Sfânt purcede de la Tatăl și de la Fiul și ea reprezintă cea mai gravă greșeală dogmatică care contravine textului Evangheliei de la Ioan 15, 26 care ne arată clar că purcederea Duhului Sfânt este o însușire personală a lui Dumnezeu-Tatăl și nu o însușire fințială căci atunci putem considera că Duhul Sfânt poate purcede și de la Sine dar și de la Fiul întrucât toate Aceste trei Persoane sunt de o ființă.
+Învățături catolice (16 iulie 1054)
+1. Filioque - este o învățătură introdusă în anul 589, care ne arată că Duhul Sfânt purcede de la Tatăl și de la Fiul și ea reprezintă cea mai gravă greșeală dogmatică care contravine textului Evangheliei de la Ioan 15, 26 care ne arată clar că purcederea Duhului Sfânt este o însușire personală a lui Dumnezeu-Tatăl și nu o însușire fințială căci atunci putem considera că Duhul Sfânt poate purcede și de la Sine dar și de la Fiul întrucât toate Aceste trei Persoane sunt de o ființă.
 Deasemenea această învățătură încalcă și hotărârârea Sinodului al treilea de la Efes (431) care interzice modificarea Crezului.
-2. Purgatoriul – reprezintă o inovație apărută în sec. XII, care ne învață că între rai și iad există un foc curățitor denumit purgatoriu, în care merg pentru o perioadă sufletele unor oameni pentru a li se ierta păcatele, apoi se duc în Rai, ceea ce contravine învățăturilor Mântuitorului din Evanghelia de la Matei 25, 46 care ne arată că nu există decât două locuri unde vor merge sufletele oamenilor după Judecata Universală.
-3. Supremația papală – stabilește că Papa este numit urmașul Sfântului Petru și capul Bisericii creștine, reprezintă o poziție ce nu este recunoscută de Biserica Ortodoxă căci Capul Bisericii este Hristos iar noi suntem mădularele Trupului Său.
-4. Infailibilitatea papală – este o dogmă apărută în anul 1870 care ne ne arată că Papa nu poate greși în materie de credință, însă această afirmație este respinsă de Biserica Ortodoxă căci numai Unul Dumnezeu nu poate greși.
-5. Azimile – începând cu sec. VII, catolicii au început să folosească azimă în loc de pâine dospită în cadrul Sfintei Taine a Euharistiei, ceea ce este o practică ce nu poate fi acceptată căci Cina cea de Taină a avut loc în Joia Mare, când nu se consuma azimă, ci aceasta se consuma la Paștele iudaic, ce avea loc după acest eveniment.
+2. Purgatoriul - reprezintă o inovație apărută în sec. XII, care ne învață că între rai și iad există un foc curățitor denumit purgatoriu, în care merg pentru o perioadă sufletele unor oameni pentru a li se ierta păcatele, apoi se duc în Rai, ceea ce contravine învățăturilor Mântuitorului din Evanghelia de la Matei 25, 46 care ne arată că nu există decât două locuri unde vor merge sufletele oamenilor după Judecata Universală.
+3. Supremația papală - stabilește că Papa este numit urmașul Sfântului Petru și capul Bisericii creștine, reprezintă o poziție ce nu este recunoscută de Biserica Ortodoxă căci Capul Bisericii este Hristos iar noi suntem mădularele Trupului Său.
+4. Infailibilitatea papală - este o dogmă apărută în anul 1870 care ne ne arată că Papa nu poate greși în materie de credință, însă această afirmație este respinsă de Biserica Ortodoxă căci numai Unul Dumnezeu nu poate greși.
+5. Azimile - începând cu sec. VII, catolicii au început să folosească azimă în loc de pâine dospită în cadrul Sfintei Taine a Euharistiei, ceea ce este o practică ce nu poate fi acceptată căci Cina cea de Taină a avut loc în Joia Mare, când nu se consuma azimă, ci aceasta se consuma la Paștele iudaic, ce avea loc după acest eveniment.
 6. Imaculata concepție - reprezintă o dogmă apărută în anul 1854 conform căreia Maica Domnului este născută de la Duhul Sfânt fără păcat strămoșesc, însă Revelația divină ne descoperă că toți oamenii se nasc cu păcatul strămoșesc (Rom. V, 15-16), de care ne eliberăm prin unirea cu Hristos la Sfânta Taină a Botezului și Euharistiei.
-7. Transsubstanțierea fără rugăciunea epiclezei – este o altă inovație care prevede că Euharistia poate avea loc fără rugăciunea epiclezei, însă Sfinții Părinți ne învață că doar prin intermediul acestei rugăciuni Duhul Sfânt se pogoară și preface pâinea și vinul în Sfântul Trup și Sânge al Domnului.
-8. Hirotonia prin ungere – este o practică conform căreia Sfânta Taină a preoției are loc prin ungere ca în Legea Veche, ceea ce contravine învățăturii primite de la Sfinții Apostoli.
+7. Transsubstanțierea fără rugăciunea epiclezei - este o altă inovație care prevede că Euharistia poate avea loc fără rugăciunea epiclezei, însă Sfinții Părinți ne învață că doar prin intermediul acestei rugăciuni Duhul Sfânt se pogoară și preface pâinea și vinul în Sfântul Trup și Sânge al Domnului.
+8. Hirotonia prin ungere - este o practică conform căreia Sfânta Taină a preoției are loc prin ungere ca în Legea Veche, ceea ce contravine învățăturii primite de la Sfinții Apostoli.
 9. Celibatul preoților - este o inovație datorită căreia preoții de mir nu au dreptul să se căsătorească, ceea ce contravine hotărârilor Sinodului 1 de la Niceea și a condus la grave consecințe moral-religioase în rândul clericilor catolici.
-10. Indulgențele papale – este o învățătură greșită prin care Biserica Catolică afirmă că sfinții au prea multe fapte bune și nu au ce face cu ele, de aceea le dau papei care le vinde credincioșilor spre iertarea pedepsei, ceea ce reprezintă de fapt o practică dăunătoare pentru mântuirea creștinilor.
+10. Indulgențele papale - este o învățătură greșită prin care Biserica Catolică afirmă că sfinții au prea multe fapte bune și nu au ce face cu ele, de aceea le dau papei care le vinde credincioșilor spre iertarea pedepsei, ceea ce reprezintă de fapt o practică dăunătoare pentru mântuirea creștinilor.
 
-Învățăturile protestante (secolul XVI)
+Învățături protestante (secolul XVI)
 1. Mântuirea sufletului se poate dobândi numai prin credință (Sola fide) și prin har (Sola gratia) deoarece omul nu poate fi în stare să facă nimic bun pentru mântuirea sa și de aceea faptele bune nu au nici un rol în dobândirea mântuirii – învățături ce contravin Sfintei Scripturi (Iacov 2, 17).
 2. Singurul izvor de credință acceptat este Sfânta Scriptură (Sola Scriptura) deși Sfânta Tradiție are aceeași valoare, căci conține învățăturile transmise prin viu grai de către Mântuitorul, din care o parte s-au fixat ulterior în scris.
 3. Orice protestant este preot (preoția universală) și are dreptul de interpreta după bunul plac Biblia.
@@ -124,18 +128,21 @@ Deasemenea această învățătură încalcă și hotărârârea Sinodului al tr
         subjectName: "Conștiința",
         reflectie: `Conștiința este un glas tăcut ce pare că izvorăște dinlăuntrul nostru dar de fapt își are originea la Dumnezeu.
 Conștiința ne mustră pentru faptele rele și ne îndrumă către faptele cele bune.
-Ea promovează adevărul și faptele plăcute lui Dumnezeu iar dacă oamenii nu ascultă acest glas, conștiința amuțește.
+Dacă oamenii nu ascultă glasul conștiinței, aceasta amuțește.
 `
     },
     {
         subjectName: "Crucea",
-        reflectie: `Crucea este pentru orice creștin o armă împotriva diavolului dar și simbol al iubirii lui Hristos față de oameni deoarece din iubire pentru noi cei păcătoși, Mântuitorul a acceptat a fi răstignit pe cruce, deși nu avea nici un păcat, eliberându-ne astfel de robia păcatului și oferindu-ne astfel posibilitatea de a ne mântui.
-Din punct de vedere material crucea reprezintă un obiect confecționat din două bucăți de lemn, aur, argint sau alte materiale fixate perpendicular una față de cealaltă. Ea poate fi deasemenea turnată, decupată sau realizată prin diverse metode de prelucrare. Crucea poate fi purtată la gât sau amplasată pe masă, în curte, la răscruce de drumuri, pe vârful unui deal sau al unui munte.
+        reflectie: `Crucea este pentru un creștin o armă împotriva diavolului dar și simbol al iubirii lui Hristos față de oameni.
+
+Din punct de vedere material crucea reprezintă un obiect confecționat din două bucăți de lemn, aur, argint sau alte materiale fixate perpendicular.
 Din punct de vedere spiritual crucea poate semnifica o cale de urmat în viață, o misiune de îndeplinit, o suferință, o boală sau un necaz.
 Din punct de vedere liturgic crucea reprezintă un gest prin care îl cinstim pe Domnul nostru Iisus Hristos.
-Însemnarea cu sfânta Cruce trebuie făcută cu evlavie, fără grabă, cu mâna dreaptă, prin unirea degetului mare, a celui arătător și a celui mijlociu (ce închipuie Sfânta Treime), care printr-o mișcare continuă, trebuie să atingă succesiv fruntea, pieptul (mai precis zona inferioară a sternului și nu stomacul), extremitatea umărului drept și la final, extremitatea umărului stâng.
-Degetul mic și degetul inelar (care trebuie să fie lipite de palma mâinii drepte), semnifică cele două firi ale lui Hristos, divină și umană.
-Închinarea cu Sfânta Cruce poate fi realizată în orice împrejurare dar mai ales în biserică sau lângă ea, la rugăciune sau când ne aflăm în pericol. Crucea sau icoana nu reprezintă un idol deoarece noi nu ne închinăm la materialul din care sunt confecționate acestea ci prin închinarea sau sărutarea unei cruci sau a unei icoane noi cinstim persoana reprezentată pe ele. Idol este acel obiect material care este considerat ca fiind un dumnezeu.
+
+Însemnarea cu sfânta Cruce trebuie făcută cu evlavie, cu mâna dreaptă, prin unirea degetelor mare, arătător și mijlociu ce închipuie Sfânta Treime, care trebuie să atingă succesiv fruntea, pieptul (zona inferioară a sternului), umărul drept și umărul stâng.
+Degetul mic și degetul inelar trebuie să fie lipite de palma mâinii drepte și ele semnifică cele două firi ale lui Hristos, divină și umană.
+Închinarea cu Sfânta Cruce poate fi realizată în orice împrejurare dar mai ales în biserică, la rugăciune sau când ne aflăm în pericol.
+Crucea sau icoana nu reprezintă un idol deoarece noi nu ne închinăm la materialul din care sunt confecționate acestea ci prin închinarea sau sărutarea unei cruci sau a unei icoane noi cinstim persoana reprezentată pe ele. Idol este acel obiect material care este considerat ca fiind dumnezeu.
 `
     },
     {
@@ -159,43 +166,47 @@ Prin pilda aceasta, Domnul nostru Iisus Hristos ne îndeamnă să devenim mai î
     {
         subjectName: "Decalogul",
         reflectie: `Decalogul (Ieșire 20, 2-17) este alcătuit din 10 porunci ce trebuie respectate de  oameni pentru a deveni plăcuți lui Dumnezeu și a trăi în pace cu semenii.
-Aceste porunci au fost dăruite de către Dumnezeu pe 2 table din piatră Sfântului Proroc Moise pe Muntele Sinai. Pe o lespede se găseau primele patru porunci, care cuprind îndatoririle oamenilor față de Dumnezeu iar pe cealaltă, ultimele șase porunci, care conțin îndatoririle față de părinți și față de semeni.
-1.	Eu sunt Domnul Dumnezeul tău .... . Să nu ai alți dumnezei afară de Mine. (Eu sunt Domnul Dumnezeul tău, Care te-a scos din pământul Egiptului şi din casa robiei. Să nu ai alţi dumnezei afară de Mine!).
+Aceste porunci au fost dăruite de către Dumnezeu pe 2 table din piatră Sfântului Proroc Moise pe Muntele Sinai.
+Pe o lespede se găseau primele patru porunci, care cuprind îndatoririle oamenilor față de Dumnezeu iar pe cealaltă, ultimele șase porunci, care conțin îndatoririle față de părinți și față de semeni.
+
+1.	Eu sunt Domnul Dumnezeul tău .... . Să nu ai alți dumnezei afară de Mine.
+(Text integral: Eu sunt Domnul Dumnezeul tău, Care te-a scos din pământul Egiptului şi din casa robiei. Să nu ai alţi dumnezei afară de Mine!).
 Prima poruncă ne învață că Dumnezeul nostru adică Sfânta Treime este singurul și adevăratul Dumnezeu pe care trebuie să-L iubim mai presus de toate fără să căutăm să avem alți dumnezei așa cum romanii aveau zei precum Jupiter, Neptun, Apollo, Diana, Mercur, Marte sau Venus.
-2.	Să nu-ți faci chip cioplit, ... să nu te închini lor, nici să le slujești; (Să nu-ţi faci chip cioplit şi nici un fel de asemănare a niciunui lucru din câte sunt în cer, sus, şi din câte sunt pe pământ, jos, şi din câte sunt în apele de sub pământ! Să nu te închini lor, nici să le slujeşti, că Eu, Domnul Dumnezeul tău, sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina părinţilor ce Mă urăsc pe Mine, până la al treilea şi al patrulea neam, și Mă milostivesc până la al miilea neam către cei ce Mă iubesc şi păzesc poruncile Mele.).
+
+2.	Să nu-ți faci chip cioplit, ... să nu te închini lor, nici să le slujești;
+(Text integral: Să nu-ţi faci chip cioplit şi nici un fel de asemănare a niciunui lucru din câte sunt în cer, sus, şi din câte sunt pe pământ, jos, şi din câte sunt în apele de sub pământ! Să nu te închini lor, nici să le slujeşti, că Eu, Domnul Dumnezeul tău, sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina părinţilor ce Mă urăsc pe Mine, până la al treilea şi al patrulea neam, și Mă milostivesc până la al miilea neam către cei ce Mă iubesc şi păzesc poruncile Mele.).
 A doua poruncă ne îndeamnă să nu ne închinăm la idoli, adică la obiecte sau reprezentări (animale, plante, corpuri cerești) despre care să credem că au puteri divine. Închinarea la icoane este pernisă deoarece icoanele nu sunt idoli fiindcă noi nu ne închinăm la materialul din care e realizată icoana ci persoanei pictată pe acea icoană, care există în realitate în Împărăția Cerurilor!
-3.	Să nu iei numele Domnului, Dumnezeului tău, în deșert ... (Să nu iei numele Domnului Dumnezeului tău în deşert, că nu va lăsa Domnul nepedepsit pe cel ce ia în deşert numele Lui.).
+
+3.	Să nu iei numele Domnului, Dumnezeului tău, în deșert ...
+(Text integral: Să nu iei numele Domnului Dumnezeului tău în deşert, că nu va lăsa Domnul nepedepsit pe cel ce ia în deşert numele Lui.).
 A treia poruncă ne interzice să folosim numele divin fără respectul cuvenit. Aceasta înseamnă că trebuie să evităm jurămintele false, asocierea numelui lui Dumnezeu în texte sau glume nesăbuite, invocarea ajutorului lui Dumnezeu în contexte banale. Deci în concluzie numele Domnului precum și al Maicii Domnului și al sfinților, trebuie rostite cu evlavie doar în rugăciuni sau pentru a mărturisirea adevărului.
-4.	Adu-ți aminte de ziua odihnei, ca să o sfințești. ... (Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti. Lucrează şase zile şi-ţi fă în acelea toate treburile tale, iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi niciun lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine).
+
+4.	Adu-ți aminte de ziua odihnei, ca să o sfințești. ...
+(Text integral: Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti. Lucrează şase zile şi-ţi fă în acelea toate treburile tale, iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi niciun lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine).
 A patra poruncă ne învață că duminica și în alte zile de sărbătoare, (adică duminica și zilele însemnate în calendar cu cruce roșie), nu trebuie să lucrăm ci să mergem la Biserică, să ne rugăm, să facem fapte bune, să citim învățături duhovnicești.
-5.	Cinstește pe tatăl tău și pe mama ta ... ca să trăiești ani mulți și să-ți fie bine ...   (Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie.).
+
+5.	Cinstește pe tatăl tău și pe mama ta ... ca să trăiești ani mulți și să-ți fie bine ...
+(Text integral: Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie.).
 Prin această poruncă Dumnezeu ne făgăduiește fericirea și viață îndelungată dacă îi cinstim pe părinți dar și pe cei care ne-au ajutat de-a lungul vieții (nași, bunici, învățători, profesori, medici).
 A cinsti părinții înseamnă a-i iubi, a-i asculta, a-i ajuta pe cât ne este cu putință și a ne ruga pentru ei.
+
 6.	Să nu ucizi!
 Prin porunca a cincea, Dumnezeu ne poruncește să nu omorâm pe semeni și să nu ne  sinucidem, deoarece viața este darul lui Dumnezeu. 
 Uciderea poate fi provocată prin lovire, împușcare, otrăvire, avort dar și prin sfaturi care pot provoca moartea.
+
 7.	Să nu fii desfrânat!
-Prin această poruncă, Dumnezeu ne învață să păstrăm curăția trupească și sufletească ceea ce presupune că trebuie să ne abținem de la orice formă de relație sexuală în afara căsătoriei dintre un bărbat și o femeie care trebuie să fie fideli unul altuia.
-De aceea păcatele care încalcă această poruncă sunt:
-- curvia (relația sexuală dintre persoane care nu sunt căsătorite)
-- adulterul sau preadesfrânarea (relaţie extraconjugală când una sau ambele persoane sunt căsătorite)
-- homosexualitatea și lesbianismul (relaţii sexuale între parteneri de acelaşi sex)
-- sodomia şi gomoria (relaţii altfel decât normale care implică și alte organe ale corpului)
-- incestul (relaţii sexuale cu persoane aflate în diferite grade de rudenie)
-- pedofilia (relaţii sexuale cu minori)
-- zoofilia (întreţinerea de relaţii cu animale)
-- onania (autoexcitarea)
-- un stil de viață dominat de un consum irațional de alimente (hrană, băuturi, suplimente, etc)
-- acumularea de bunuri materiale în exces pentru etalarea în mod ostentativ a superiorității (case, mașini, ceasuri, etc)
-- distracții nenumărate pentru satisfacerea egoului (petreceri, sejururi in țări îndepărtate, etc).
+Prin această poruncă, Dumnezeu ne învață să păstrăm curăția trupească și sufletească ceea ce presupune că trebuie să ne abținem de la orice formă de relație sexuală în afara căsătoriei dintre un bărbat și o femeie precum și de la un stil de viață dominat de un consum excesiv de băuturi, mâncare și distracții care pot face rău organismului.
+
 8.	Să nu furi!
 Porunca aceasta ne îndeamnă să nu ne însușim pe nedrept banii sau bunurile semenilor dar în același timp interzice și înșelăciunea, specula, neplata salariului lucrătorilor, solicitarea mitei.
+
 9.	Să nu mărturisești strâmb împotriva aproapelui tău!
 Prin a noua poruncă Domnul ne poruncește să nu mințim adică să nu rostim jurăminte false în fața instanțelor pentru a nu provoca vreun rău uneia sau mai multor persoane.
 Această poruncă ne interzice să clevetim sau să judecăm pe aproapele căci nu putem cunoaște dacă nu cunoaștem adevărul.
-Deasemenea tot această poruncă interzice și ipocrizia. Cu alte cuvinte ne interzice să ne ascundem adevăratul caracter în funcție de împrejurări (convingeri moral-religioase, calități personale).
+Deasemenea tot această poruncă interzice și ipocrizia adică ascunderea adevăratului caracter pe care îl avem în funcție de împrejurări.
+
 10.	 Să nu poftești ... nimic din cele ce sunt ale aproapelui tău!
-(Să nu doreşti casa aproapelui tău; să nu doreşti femeia aproapelui tău, nici ogorul lui, nici sluga lui, nici slujnica lui, nici boul lui, nici asinul lui şi niciunul din dobitoacele lui şi nimic din câte are aproapele tău!)
+(Text integral: Să nu doreşti casa aproapelui tău; să nu doreşti femeia aproapelui tău, nici ogorul lui, nici sluga lui, nici slujnica lui, nici boul lui, nici asinul lui şi niciunul din dobitoacele lui şi nimic din câte are aproapele tău!)
 Prin ultima poruncă, Dumnezeu ne îndeamnă să fim mulțumiți cu ceea ce ne-a dăruit Dumnezeu, să nu poftim la ceea ce nu ne aparține și nici să fim invidioși văzând realizările altor persoane.
 `
     },
@@ -207,8 +218,8 @@ Datorită adicției generate de aceste patimi, oamenii nu le mai pot părăsi at
     },
     {
         subjectName: "Desfrânarea",
-        reflectie: `Din punct de vedere sexual desfrânarea se referă la un stil de viață imoral bazat pe patimi care întinează trupul creat de Dumnezeu și încalcă porunca 7 din Decalog. 
-Păcatele care încalcă această poruncă sunt:
+        reflectie: `Desfrânarea reprezintă un stil de viață imoral care încalcă porunca 7 din Decalog (Să nu fii desfrânat!). 
+Din punct de vedere al relațiilor trupești, păcatele care încalcă această poruncă sunt:
 - curvia (relația sexuală dintre persoane care nu sunt căsătorite)
 - adulterul sau preadesfrânarea (relaţie extraconjugală când una sau ambele persoane sunt căsătorite)
 - homosexualitatea și lesbianismul (relaţii sexuale între parteneri de acelaşi sex)
@@ -217,10 +228,11 @@ Păcatele care încalcă această poruncă sunt:
 - pedofilia (relaţii sexuale cu minori)
 - zoofilia (întreţinerea de relaţii cu animale)
 - onania (autoexcitarea)
-Din punct de vedere al consumului de  desfrânarea se referă la: 
-- un stil de viață dominat de un consum irațional de alimente (hrană, băuturi, suplimente, etc)
+
+Din punct de vedere al consumului păcatele care încalcă această poruncă sunt:
+- consum excesiv de băuturi, suplimente, hrană care pot dăuna organismului.
 - acumularea de bunuri materiale în exces pentru etalarea în mod ostentativ a superiorității (case, mașini, ceasuri, etc)
-- distracții excesive  pentru satisfacerea egoului (petreceri mondene, sejururi in țări îndepărtate, etc).`
+- distracții excesive pentru satisfacerea egoului (petreceri mondene, sejururi in țări îndepărtate, etc).`
     },
     {
         subjectName: "Discernământul",
@@ -246,9 +258,9 @@ Mama trebuie să meargă cât mai des cu pruncul la biserică pentru a-l împăr
 Educația morală și civică trebuie începută de la vârsta de 2 ani când părinții trebuie să îl învețe pe copil formule de politețe, comportamentul față de natură, drepturile și îndatoririle în familie și societate.
 `
     },
-     {
-         subjectName: "Fericirea",
-         reflectie: `Cu adevărat fericit este omul care pe Dumnezeu a iubit și pe oamenii aflați în nevoie i-a ajutat, chiar dacă averi nu a dobândit!
+    {
+        subjectName: "Fericirea",
+        reflectie: `Cu adevărat fericit este omul care pe Dumnezeu a iubit și pe oamenii aflați în nevoie i-a ajutat, chiar dacă averi nu a dobândit!
 Căci doar credința în Dumnezeu și faptele bune sunt acelea care ne ajută să dobândim fericirea cea veșnică în Împărăția cerurilor.
 `
     },
@@ -296,22 +308,20 @@ Iar dacă dorim dacă să primim răsplată de la Dumnezeu putem încerca să fa
         subjectName: "Împărtășania",
         reflectie: `Împărtășania (Euharistia) este Sfânta Taină a Bisericii Ortodoxe în care sub chipul pâinii și al vinului, se împărtășește credincioșilor Însuși Trupul și Sângele Domnului spre iertarea păcatelor și spre viața de veci.
 Este cea mai importantă dintre Sfintele Taine deoarece prin celelalte Taine primim de la Dumnezeu harul divin dar prin această Taină creștinul primește pe Hristos, Izvorul Harului.
-Această Taină a fost instituită la de Domnul nostru Iisus Hristos la Cina cea de Taină când a luat pâinea în mâinile Sale, a binecuvântat-o și frângându-o a zis: Luați mâncați acesta este Trupul Meu” Matei(26, 26-27).
+Această Taină a fost instituită de Domnul nostru Iisus Hristos la Cina cea de Taină când a luat pâinea în mâinile Sale, a binecuvântat-o și frângându-o a zis: Luați mâncați acesta este Trupul Meu” Matei(26, 26-27).
 Apoi a luat paharul cu vin și a zis „Beți dintru acesta toți, acesta este Sângele Meu al Legii celei noi, care pentru voi și pentru mulți se varsă, spre iertarea păcatelor”. 
-Sfânta Euharistie are loc doar în cadrul Sfintei Liturghii, care este cea mai importantă slujbă a Bisericii.
-În cadrul acestei slujbe, la rugăciunea preotului, Duhul Sfânt se pogoară și preface în chip nevăzut, pâinea și vinul în Sfântul Trup și Sânge al Domnului nostru Iisus Hristos.
+Sfânta Euharistie are loc doar în cadrul Sfintei Liturghii când Duhul Sfânt se pogoară și preface în chip nevăzut, pâinea și vinul în Sfântul Trup și Sânge al Domnului nostru Iisus Hristos.
 Pregătirea pentru această Taină se face prin cel puțin trei zile de post, prin iertarea  celor care ne-a supărat și prin spovedanie. Împărtășania se ia totdeauna pe nemâncate imediat după Spovedanie (de  obicei dimineața în timpul Sfintei Liturghii).
 Dacă vom merge să ne împărtășim la o zi sau mai multe zile după ce ne-am spovedit există probabilitatea să mai săvârșim multe păcate și deci să ne împărtășim cu nevrednicie.
 Efectele Sfintei Împărtășanii sunt:
-- Ne curăță de păcate.
-- Ne pregătește pentru viața de veci.
-- Ne întărește sufletul în ispite.
+- Curățirea de păcate.
+- Pregătirea pentru viața de veci.
+- Întărirea sufletului în ispite.
 `
     },
     {
         subjectName: "Liturghia",
-        reflectie: `Sfânta Liturghie este cea mai importantă slujbă a Bisericii ortodoxe, în cadrul căreia, prin invocarea Duhului Sfânt de către preot, pâinea și vinul ce au fost aduse de credincioși ca jertfă lui Dumnezeu, se prefac în Trupul și Sângele Domnului Hristos, care apoi se oferă spre împărtășire credincioșilor cei ce s-au pregătit prin post și spovedanie, spre iertarea păcatelor și viața de veci.
-Sfânta Liturghie este deci slujba cea mai sfântă deoarece ne oferă posibilitatea întâlnirii reale cu Hristos.
+        reflectie: `Sfânta Liturghie este cea mai importantă slujbă a Bisericii ortodoxe deoarece ea ne oferă posibilitatea întâlnirii reale cu Hristos prin Sfântul Său Trup și Sânge, care se oferă spre împărtășire credincioșilor spre iertarea păcatelor și spre viața de veci.
 `
     },
     {
@@ -402,22 +412,16 @@ Pocăința trebuie urmată de spovedanie precum și de dorința de a nu mai căd
 Postul trupesc este acela prin care ne înfrânăm de la băuturi alcoolice, carne, ouă sau lactate precum și de la relațiile trupești (sexuale).
 Postul sufletesc este acela prin care ne înfrânăm de la fapte rele, minciuni, vorbe urâte, filme sau cântece necuviincioase.
 Postul a fost instituit de către Dumnezeu când a poruncit: ,,Din toţi pomii raiului poţi să mănânci, dar din pomul cunoştinţei binelui şi răului să nu mănânci, căci în ziua în care vei mânca din el, cu moarte vei muri” Facere (2, 16 - 17).
-Pentru a ne oferi exemplu Mântuitorul a postit timp de 40 de zile și 40 de nopți după cum este menționat în Evanghelia de la Matei (capitolul 4).
-Apoi ne-au oferit exemplu și Sfântul Mare Proroc Ilie Tesviteanul, Sfântul Mare Proroc Ioan Botezătorul precum și toți sfinții Bisericii Ortodoxe de-a lungul veacurilor care au trăit de multe ori doar cu pâine uscată și apă în locuri izolate.
-Zilele de post rânduite de către Biserica Ortodoxă sunt:
-- Miercuri (ziua când Domnul a fost vândut) și Vineri (ziua răstignirii Domnului), exceptând zilele când nu este harți.
-- 5 ianuarie (ajunul Botezului Domnului)
-- 29 august (Tăierea Capului Sfântului Ioan Botezătorul)
-- 14 septembrie (Înălțarea Sfintei Cruci)
-- Postul Învierii Domnului (Postul Paștilor)
-- Postul Nașterii Domnului (Postul Crăciunului)
-- Postul Adormirii Maicii Domnului
-- Postul Sfinților Apostoli Petru și Pavel
+Pentru a ne oferi exemplu Mântuitorul a postit timp de 40 de zile după cum este menționat în Evanghelia de la Matei (capitolul 4).
+Trebuie să postim:
+- Miercurea (ziua când Domnul a fost vândut) și Vinerea (ziua răstignirii Domnului), exceptând zilele când nu este harți.
+- în zilele de 5 ianuarie (ajunul Botezului Domnului), 29 august (Tăierea Capului Sfântului Ioan Botezătorul) și 14 septembrie (Înălțarea Sfintei Cruci)
+- în Posturile Învierii Domnului (47 de zile înainte de Paști), Nașterii Domnului (15 noiembrie-24 decembrie), Adormirii Maicii Domnului (1-14 august) și al Sfinților Apostoli Petru și Pavel (câteva zile înainte de 29 iunie).
 `
     },
     {
         subjectName: "Preoția",
-        reflectie: `Preoția este Taina în care prin punerea mâinilor arhiereului și prin rugăciunile lui se împărtășește Harul unui bărbat creștin-ortodox, care primește astfel puterea de a învăța pe credincioși învățăturile de credință.
+        reflectie: `Preoția este Taina în care prin punerea mâinilor arhiereului și prin rugăciunile lui se împărtășește Harul unui bărbat creștin-ortodox, care primește astfel puterea de a învăța pe credincioși învățăturile de credință ortodoxă.
 Instituirea Tainei Hirotoniei a fost făcută de către Domnul nostru Iisus Hristos după Învierea Sa când a spus: „Precum M-a trimis pe Mine Tatăl vă trimit și Eu pe voi”. Și grăind acestea a suflat și a zis „Luați Duh Sfânt, cărora veți ierta păcatele le vor fi iertate, cărora le veți ține, ținute vor fi” (Ioan 20, 21).
 `
     },
@@ -542,8 +546,8 @@ Iar după ce primim ajutorul de la Dumnezeu să nu uităm să îi mulțumim Lui,
         reflectie: `Virtuțile sunt darurile oferite nouă de Dumnezeu și vom răspunde în fața Lui, dacă le-am cultivat sau nu.
 De aceea, trebuie să descoperim care sunt aceste calități și să ne străduim să le punem în slujba semenilor.
 Cu alte cuvinte dacă Dumnezeu a dăruit unei persoane calități pentru a deveni un medic bun, atunci acesta are datoria de a-i ajuta pe cei aflați în suferință fără a cere sau primi mită.
-Dacă un profesor a devenit apreciat de colegi și elevi prin calitățile pedagogice dăruite de Dumnezeu, atunci are și el datoria să îi ajute pe elevi să învețe mai ușor cunooștințele școlare, fără a se gândi cum să obțină venituri suplimentare de la ei. 
-Ne va fi de ajutor în cultivarea virtuților, dacă vom lua ca exemplu de urmat pe unul dintre sfinți care au avut profesia respectivă sau dacă ne vom alege modele de urmat unul sau mai mulți profesioniști virtuoși care excelează în domeniul în care profesăm (credincioși, modești, etc).
+Dacă un profesor a devenit apreciat de colegi și elevi prin calitățile pedagogice dăruite de Dumnezeu, atunci are și el datoria să îi ajute pe elevi să învețe bine, fără a se gândi cum să obțină venituri suplimentare de la ei prin pregătire extrașcolară. 
+Ne va fi de ajutor în cultivarea virtuților, dacă vom lua ca exemplu de urmat pe unul dintre sfinții care au avut profesia practicată de noi precum și un profesionist virtuos (credincios, modest, generos) care excelează în domeniul în care profesăm.
 `
     },
     {

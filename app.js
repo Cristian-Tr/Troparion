@@ -6,7 +6,6 @@
 // ============================================================
 // ============================================================
 
-
 document.addEventListener('DOMContentLoaded', function () {
 
     // ============================================================
@@ -264,7 +263,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     crossElem.style.visibility = "hidden";
                     crossElem.style.opacity = "0";
                     culoareFinala = "white";
-                } else if (esteSarbatoareMobila || culoareFinala === "red") {
+                } else if (culoareFinala && culoareFinala !== "white") {  // <--- MODIFICAREA FĂCUTĂ AICI
                     crossElem.style.visibility = "visible";
                     crossElem.style.opacity = "1";
                     crossElem.style.color = culoareFinala;
@@ -305,8 +304,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const numeLuni = ["IAN", "FEB", "MAR", "APR", "MAI", "IUN", "IUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
     const numeZileSaptamana = ["Dum", "Lun", "Mar", "Mie", "Joi", "Vin", "Sâm"];
 
-    let anCurentSelectat = new Date().getFullYear();
-    let lunaCurentaSelectata = new Date().getMonth(); // 0 - 11
+    let anCurentSelectat = dataAzi.getFullYear();
+    let lunaCurentaSelectata = dataAzi.getMonth(); // 0 - 11
 
     const spanAn = document.getElementById('afisajAn');
     const spanLuna = document.getElementById('afisajLuna');
