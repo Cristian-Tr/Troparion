@@ -130,7 +130,7 @@ window.dateLuna = {
     // 13 NOIEMBRIE: Sfântul Ierarh Ioan Gură de Aur, Arhiepiscop la Constantinopol
     // ============================================================
     "13": {
-        nume: "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscop la Constantinopol",
+        nume: "Sfântul Ierarh Ioan Gură de Aur, Arhiepiscopul Constantinopolului",
         tropar: "Din gura ta ca o lumină de foc strălucind harul, lumea a luminat. Vistieriile neiubirii de argint lumii a căştigat. Înălţimea gândului smerit nouă ne-a arătat. Şi cu cuvintele tale învăţându-ne, Sfinte Părinte Ioan Gură de Aur, roagă pe Cuvântul Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Din ceruri ai luat Dumnezeiescul har şi cu buzele tale pe toţi înveţi să se închine în Treime Unuia Dumnezeu, Sfinte Ioan Gură de Aur, preafericite cuvioase, după vrednicie te lăudăm pe tine, că eşti îndreptător, ca cel ce arăţi cele Dumnezeieşti.",
         culoare: "gray"

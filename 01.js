@@ -250,7 +250,7 @@ window.dateLuna = {
     // 25 IANUARIE: Sfântul Ierarh Grigorie Teologul, Arhiepiscop la Constantinopol
     // ============================================================
     "25": {
-        nume: "Sfântul Ierarh Grigorie Teologul, Arhiepiscop la Constantinopol",
+        nume: "Sfântul Ierarh Grigorie Teologul, Arhiepiscopul Constantinopolului",
         tropar: "Fluierul cel păstoresc al teologiei tale a biruit trâmbiţele ritorilor; că ţie, celui ce ai încercat adâncurile duhului, ţi s-au adăugat şi Frumuseţile Cuvântului. Ci, roagă pe Hristos Dumnezeu, Sfinte Părinte Grigorie, să mântuiască sufletele noastre.",
         condac: "Cu limba ta cea de Dumnezeu grăitoare, încurcăturile ritorilor dezlegând, mărite, ai împodobit Biserica cu veşmântul Ortodoxiei, cel ţesut de sus; pe care şi purtându-l, strigă împreună cu noi, fiii tăi: bucură-te părinte, mintea cea preaînaltă a teologiei.",
         culoare: "gray"
