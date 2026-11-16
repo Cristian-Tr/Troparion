@@ -174,8 +174,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (
             (esteWeekend && inPerioadaCraciunWeekend) ||
-            esteDataFixa(11, 14) || esteDataFixa(11, 21) || esteDataFixa(12, 6) ||
-            esteDataFixa(3, 25) || esteFloriiExact || esteDataFixa(8, 6)
+            esteDataFixa(11, 15) || esteDataFixa(11, 21) || esteDataFixa(11, 23) || esteDataFixa(11, 30) ||
+            esteDataFixa(12, 1) || esteDataFixa(12, 3) || esteDataFixa(12, 5) || esteDataFixa(12, 6) ||
+            esteDataFixa(12, 7) || esteDataFixa(12, 18) || esteDataFixa(3, 25) || esteFloriiExact || esteDataFixa(8, 6)
         ) {
             return { text: "Dezlegare la pește", culoare: "white" };
         }
