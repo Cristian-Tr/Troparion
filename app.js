@@ -160,32 +160,98 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (ziSapt === 3 || ziSapt === 5) {
             if (
-                esteDataFixa(9, 8) || esteDataFixa(10, 1) || esteIntre(12, 28, 1, 5) ||
-                esteDataFixa(1, 7) || esteDataFixa(2, 2) || esteDataFixa(6, 24) ||
-                esteDataFixa(6, 29) || esteDataFixa(6, 30) || esteDataFixa(8, 15)
+                esteDataFixa(9, 1) || esteDataFixa(9, 6) || esteDataFixa(9, 9) ||
+                esteDataFixa(9, 11) || esteDataFixa(9, 12) || esteDataFixa(9, 13) || esteDataFixa(9, 15) ||
+                esteDataFixa(9, 16) || esteDataFixa(9, 17) || esteDataFixa(9, 18) || esteDataFixa(9, 19) ||
+                esteDataFixa(9, 20) || esteDataFixa(9, 21) || esteDataFixa(9, 26) || esteDataFixa(9, 28) ||
+                esteDataFixa(10, 6) || esteDataFixa(10, 9) || esteDataFixa(10, 14) || esteDataFixa(10, 18) ||
+                esteDataFixa(10, 23) || esteDataFixa(10, 26) || esteDataFixa(10, 27) || esteDataFixa(11, 8) ||
+                esteDataFixa(11, 11) || esteDataFixa(11, 12) || esteDataFixa(11, 13) || esteDataFixa(2, 3) ||
+                esteDataFixa(2, 4) || esteDataFixa(2, 5) || esteDataFixa(2, 6) || esteDataFixa(2, 7) ||
+                esteDataFixa(2, 8) || esteDataFixa(5, 2) || esteDataFixa(5, 8) || esteDataFixa(5, 10) ||
+                esteDataFixa(5, 15) || esteDataFixa(5, 21) || esteDataFixa(5, 24) || esteDataFixa(5, 25) ||
+                esteDataFixa(6, 2) || esteDataFixa(5, 2) || esteDataFixa(5, 8) || esteDataFixa(5, 10) ||
+                esteDataFixa(5, 15) || esteDataFixa(5, 21) || esteDataFixa(5, 24) || esteDataFixa(5, 25) ||
+                esteDataFixa(6, 2) || esteDataFixa(7, 1) || esteDataFixa(7, 2) || esteDataFixa(7, 5) ||
+                esteDataFixa(7, 8) || esteDataFixa(7, 11) || esteDataFixa(7, 17) || esteDataFixa(7, 20) ||
+                esteDataFixa(7, 22) || esteDataFixa(7, 25) || esteDataFixa(7, 27) || esteDataFixa(7, 20) ||
+                esteDataFixa(8, 16) || esteDataFixa(8, 17) || esteDataFixa(8, 18) || esteDataFixa(8, 19) ||
+                esteDataFixa(8, 20) || esteDataFixa(8, 21) || esteDataFixa(8, 22) || esteDataFixa(8, 23) ||
+                esteDataFixa(8, 31)
+            ) {
+                return { text: "Dezlegare la vin și ulei", culoare: "white" };
+            }
+        }
+
+        if (esteDataFixa(11, 15) || esteDataFixa(11, 16) || esteDataFixa(11, 20) || esteDataFixa(11, 22) ||
+            esteDataFixa(11, 23) || esteDataFixa(11, 24) || esteDataFixa(11, 25) || esteDataFixa(12, 9) ||
+            esteDataFixa(12, 12) || esteDataFixa(12, 13) || esteDataFixa(12, 17) || esteDataFixa(12, 20) ||
+            esteDataFixa(12, 24) || esteDataFixa(8, 13)
+        ) {
+            return { text: "Dezlegare la vin și ulei", culoare: "white" };
+        }
+
+        if (ziSapt === 3 || ziSapt === 5) {
+            if (
+                esteDataFixa(9, 8) || esteDataFixa(10, 1) || esteDataFixa(1, 7) ||
+                esteDataFixa(2, 2) || esteDataFixa(6, 24) || esteDataFixa(6, 29) || esteDataFixa(6, 30) ||
+                esteDataFixa(8, 15) || esteDataFixa(7, 31) || esteDataFixa(11, 14)
             ) {
                 return { text: "Dezlegare la pește", culoare: "white" };
             }
         }
 
         const esteWeekend = (ziSapt === 0 || ziSapt === 6);
-        const inPerioadaCraciunWeekend = esteIntre(11, 15, 12, 20);
+        const perioadaLuniMartiJoi = (ziSapt === 1 || ziSapt === 2 || ziSapt === 4);
+        const inPerioadaCraciunWeekend = esteIntre(11, 21, 12, 19);
+        const inPostMare = dataCurenta >= postMareStart && dataCurenta <= postMareSfarsit;
         const esteFloriiExact = esteAceeasiZi(dataCurenta, floriiDate);
+        const inPostApostoli = dataCurenta >= postApostoliStart && dataCurenta <= postApostoliSfarsit;
 
         if (
             (esteWeekend && inPerioadaCraciunWeekend) ||
-            esteDataFixa(11, 15) || esteDataFixa(11, 21) || esteDataFixa(11, 23) || esteDataFixa(11, 30) ||
+            esteDataFixa(11, 21) || esteDataFixa(11, 23) || esteDataFixa(11, 30) ||
             esteDataFixa(12, 1) || esteDataFixa(12, 3) || esteDataFixa(12, 5) || esteDataFixa(12, 6) ||
-            esteDataFixa(12, 7) || esteDataFixa(12, 18) || esteDataFixa(3, 25) || esteFloriiExact || esteDataFixa(8, 6)
+            esteDataFixa(12, 7) || esteDataFixa(3, 25) || esteFloriiExact || esteDataFixa(8, 6)
         ) {
             return { text: "Dezlegare la pește", culoare: "white" };
         }
 
+        if (inPostMare) {
+            if (
+                esteDataFixa(2, 9) || esteDataFixa(2, 24) || esteDataFixa(3, 9) || esteDataFixa(3, 26)
+            ) {
+                return { text: "Dezlegare la vin și ulei", culoare: "white" };
+            }
+        }
+
+        if (esteWeekend && inPostMare) {
+            if (
+                esteDataFixa(2, 11) || esteDataFixa(2, 17)
+            ) {
+                return { text: "Dezlegare la vin și ulei", culoare: "white" };
+            }
+        }
+
+        if (perioadaLuniMartiJoi && inPostMare) {
+            if (
+                esteDataFixa(3, 24)
+            ) {
+                return { text: "Dezlegare la vin și ulei", culoare: "white" };
+            }
+        }
+
+        if (perioadaLuniMartiJoi && inPostApostoli) {
+            if (
+                esteDataFixa(6, 8) || esteDataFixa(6, 9) || esteDataFixa(6, 11) || esteDataFixa(6, 19)
+            ) {
+                return { text: "Dezlegare la vin și ulei", culoare: "white" };
+            }
+        }
+
         // PRIORITATE 2
         const inPostCraciun = esteIntre(11, 15, 12, 24);
-        const inPostMare = dataCurenta >= postMareStart && dataCurenta <= postMareSfarsit;
         const inPostAdormirea = esteIntre(8, 1, 8, 14);
-        const inPostApostoli = dataCurenta >= postApostoliStart && dataCurenta <= postApostoliSfarsit;
 
         if (
             inPostCraciun || inPostMare || inPostAdormirea || inPostApostoli ||
@@ -318,7 +384,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const btnLunaJos = document.getElementById('lunaJos');
 
     const obtineEmojiMeniu = (textMeniu) => {
-        if (textMeniu === "Post") return " 🌿🍎";
+        if (textMeniu === "Post") return "🌿🍎";
+        if (textMeniu === "Dezlegare la vin și ulei") return "🍷🏺";
         if (textMeniu === "Dezlegare la pește") return "🐟🍷";
         if (textMeniu === "Dezlegare la ouă și lactate") return "🥚🧀 ";
         if (textMeniu === "Harți") return "🍗🥚🧀🍷";
