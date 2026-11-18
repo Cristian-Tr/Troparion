@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // 3. Funcție care controlează vizibilitatea butonului (Doar pe mobil/tableta și după scroll mare)
     function gestioneazaVizibilitateButon() {
         // Verificăm să fim pe ecran mic (sub 992px) ȘI să fi dat scroll peste 1100px
-        if (window.innerWidth < 992 && window.scrollY > 1100) {
+        if (window.innerWidth < 992 && window.scrollY > 4300) {
             scrollBtn.style.display = 'flex'; // folosim flex pentru a păstra centrarea săgeții
         } else {
             scrollBtn.style.display = 'none';
@@ -84,10 +84,6 @@ document.addEventListener('DOMContentLoaded', function () {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 });
-
-
-
-
 
 
 
