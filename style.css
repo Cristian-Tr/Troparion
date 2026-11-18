@@ -194,7 +194,7 @@ main {
     width: 100%;
 }
 
-/* --- SECȚIUNILE ACORDEON ASCUNSE --- */
+/* --- SECȚIUNILE ACORDEON --- */
 article.column-page .menu-content {
     display: none;
     padding: 0;
@@ -209,6 +209,9 @@ article.column-page .menu-content {
 }
 
 .category dt {
+    position: sticky;
+    top: 0;
+    z-index: 10;
     text-shadow: .7px .7px .7px black;
     background: burlywood;
     background-image: url('./papirus-half.webp');
@@ -216,7 +219,6 @@ article.column-page .menu-content {
     padding: 7px;
     margin-top: 1.2px;
     cursor: pointer;
-    position: relative;
     display: block;
 }
 

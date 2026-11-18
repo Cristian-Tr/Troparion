@@ -6,7 +6,96 @@
 // ============================================================
 // ============================================================
 
+
 document.addEventListener('DOMContentLoaded', function () {
+
+
+    // ============================================================
+    // ============================================================
+    // ZONA 0: UTILITARE & UI SUPLIMENTAR (Butonul "Înapoi sus")
+    // ============================================================
+    // ============================================================
+
+    // 1. Creăm elementul HTML pentru buton
+    const scrollBtn = document.createElement('button');
+    scrollBtn.id = 'scrollToTopBtn';
+    scrollBtn.innerHTML = '▲';
+    scrollBtn.title = 'Mergi sus';
+    document.body.appendChild(scrollBtn);
+
+    // 2. Injectăm stilurile CSS direct prin JS
+    const style = document.createElement('style');
+    style.innerHTML = `
+        #scrollToTopBtn {
+           display: none; /* Ascuns implicit; JS-ul îl va face flex când e cazul */
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    background: #2c1810; /* Maro închis, în ton cu tema */
+    color: #ffcc66; /* Auriu cald */
+    border: 1px solid #ffcc66;
+    border-radius: 50%;
+    width: 43px;
+    height: 43px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    transition: opacity 0.3s ease, transform 0.2s ease;
+    opacity: 0.85;
+
+    /* Centrare săgeta */
+    align-items: center;
+    justify-content: center;
+        }
+        
+        #scrollToTopBtn:hover {
+            transform: scale(1.2);
+            opacity: 1;
+            background: #3e2723;
+        }
+
+        /* Ascundem complet butonul pe desktop (ecran mai mare de 992px), unde e irelevant */
+        @media (min-width: 992px) {
+            #scrollToTopBtn {
+                display: none !important;
+            }
+        }
+    `;
+    document.head.appendChild(style);
+
+    // 3. Funcție care controlează vizibilitatea butonului (Doar pe mobil/tableta și după scroll mare)
+    function gestioneazaVizibilitateButon() {
+        // Verificăm să fim pe ecran mic (sub 992px) ȘI să fi dat scroll peste 1100px
+        if (window.innerWidth < 992 && window.scrollY > 1100) {
+            scrollBtn.style.display = 'flex'; // folosim flex pentru a păstra centrarea săgeții
+        } else {
+            scrollBtn.style.display = 'none';
+        }
+    }
+
+    // Verificăm starea la încărcare, la scroll și la redimensionarea ferestrei
+    gestioneazaVizibilitateButon();
+    window.addEventListener('scroll', gestioneazaVizibilitateButon);
+    window.addEventListener('resize', gestioneazaVizibilitateButon);
+
+    // Acțiunea la click: urcă lin sus
+    scrollBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+});
+
+
+
+
+
+
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
+
+
 
     // ============================================================
     // ============================================================
@@ -126,7 +215,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const harciVamesSfarsit = new Date(duminicaPastelui.getTime());
         harciVamesSfarsit.setDate(harciVamesSfarsit.getDate() - 65 + offsetBisect);
 
-        // PRIORITATE 1
+        // 1. PRIORITATE MAXIMĂ: HARȚI ȘI LACTATE
         if (esteAceeasiZi(dataCurenta, pasteZile3) || esteAceeasiZi(dataCurenta, izvorulTamaduirii)) {
             return { text: "Harți", culoare: "white" };
         }
@@ -147,6 +236,7 @@ document.addEventListener('DOMContentLoaded', function () {
             return { text: "Dezlegare la ouă și lactate", culoare: "white" };
         }
 
+        // 2. PEȘTELE (Verificat ÎNAINTE de vin și ulei pentru a nu suprascrie weekendurile sau zilele de pește)
         if (ziSapt === 3 || ziSapt === 5) {
             const pastePlus7 = new Date(duminicaPastelui.getTime());
             pastePlus7.setDate(pastePlus7.getDate() + 7);
@@ -156,39 +246,6 @@ document.addEventListener('DOMContentLoaded', function () {
             if (dataCurenta >= pastePlus7 && dataCurenta <= pastePlus40) {
                 return { text: "Dezlegare la pește", culoare: "white" };
             }
-        }
-
-        if (ziSapt === 3 || ziSapt === 5) {
-            if (
-                esteDataFixa(9, 1) || esteDataFixa(9, 6) || esteDataFixa(9, 9) ||
-                esteDataFixa(9, 11) || esteDataFixa(9, 12) || esteDataFixa(9, 13) || esteDataFixa(9, 15) ||
-                esteDataFixa(9, 16) || esteDataFixa(9, 17) || esteDataFixa(9, 18) || esteDataFixa(9, 19) ||
-                esteDataFixa(9, 20) || esteDataFixa(9, 21) || esteDataFixa(9, 26) || esteDataFixa(9, 28) ||
-                esteDataFixa(10, 6) || esteDataFixa(10, 9) || esteDataFixa(10, 14) || esteDataFixa(10, 18) ||
-                esteDataFixa(10, 23) || esteDataFixa(10, 26) || esteDataFixa(10, 27) || esteDataFixa(11, 8) ||
-                esteDataFixa(11, 11) || esteDataFixa(11, 12) || esteDataFixa(11, 13) || esteDataFixa(2, 3) ||
-                esteDataFixa(2, 4) || esteDataFixa(2, 5) || esteDataFixa(2, 6) || esteDataFixa(2, 7) ||
-                esteDataFixa(2, 8) || esteDataFixa(5, 2) || esteDataFixa(5, 8) || esteDataFixa(5, 10) ||
-                esteDataFixa(5, 15) || esteDataFixa(5, 21) || esteDataFixa(5, 24) || esteDataFixa(5, 25) ||
-                esteDataFixa(6, 2) || esteDataFixa(5, 2) || esteDataFixa(5, 8) || esteDataFixa(5, 10) ||
-                esteDataFixa(5, 15) || esteDataFixa(5, 21) || esteDataFixa(5, 24) || esteDataFixa(5, 25) ||
-                esteDataFixa(6, 2) || esteDataFixa(7, 1) || esteDataFixa(7, 2) || esteDataFixa(7, 5) ||
-                esteDataFixa(7, 8) || esteDataFixa(7, 11) || esteDataFixa(7, 17) || esteDataFixa(7, 20) ||
-                esteDataFixa(7, 22) || esteDataFixa(7, 25) || esteDataFixa(7, 27) || esteDataFixa(7, 20) ||
-                esteDataFixa(8, 16) || esteDataFixa(8, 17) || esteDataFixa(8, 18) || esteDataFixa(8, 19) ||
-                esteDataFixa(8, 20) || esteDataFixa(8, 21) || esteDataFixa(8, 22) || esteDataFixa(8, 23) ||
-                esteDataFixa(8, 31)
-            ) {
-                return { text: "Dezlegare la vin și ulei", culoare: "white" };
-            }
-        }
-
-        if (esteDataFixa(11, 15) || esteDataFixa(11, 16) || esteDataFixa(11, 20) || esteDataFixa(11, 22) ||
-            esteDataFixa(11, 23) || esteDataFixa(11, 24) || esteDataFixa(11, 25) || esteDataFixa(12, 9) ||
-            esteDataFixa(12, 12) || esteDataFixa(12, 13) || esteDataFixa(12, 17) || esteDataFixa(12, 20) ||
-            esteDataFixa(12, 24) || esteDataFixa(8, 13)
-        ) {
-            return { text: "Dezlegare la vin și ulei", culoare: "white" };
         }
 
         if (ziSapt === 3 || ziSapt === 5) {
@@ -215,6 +272,39 @@ document.addEventListener('DOMContentLoaded', function () {
             esteDataFixa(12, 7) || esteDataFixa(3, 25) || esteFloriiExact || esteDataFixa(8, 6)
         ) {
             return { text: "Dezlegare la pește", culoare: "white" };
+        }
+
+        // 3. REGULILE DE VIN ȘI ULEI
+        if (ziSapt === 3 || ziSapt === 5) {
+            if (
+                esteDataFixa(9, 1) || esteDataFixa(9, 6) || esteDataFixa(9, 9) ||
+                esteDataFixa(9, 11) || esteDataFixa(9, 12) || esteDataFixa(9, 13) || esteDataFixa(9, 15) ||
+                esteDataFixa(9, 16) || esteDataFixa(9, 17) || esteDataFixa(9, 18) || esteDataFixa(9, 19) ||
+                esteDataFixa(9, 20) || esteDataFixa(9, 21) || esteDataFixa(9, 26) || esteDataFixa(9, 28) ||
+                esteDataFixa(10, 6) || esteDataFixa(10, 9) || esteDataFixa(10, 14) || esteDataFixa(10, 18) ||
+                esteDataFixa(10, 23) || esteDataFixa(10, 26) || esteDataFixa(10, 27) || esteDataFixa(11, 8) ||
+                esteDataFixa(11, 11) || esteDataFixa(11, 12) || esteDataFixa(11, 13) || esteDataFixa(2, 3) ||
+                esteDataFixa(2, 4) || esteDataFixa(2, 5) || esteDataFixa(2, 6) || esteDataFixa(2, 7) ||
+                esteDataFixa(2, 8) || esteDataFixa(5, 2) || esteDataFixa(5, 8) || esteDataFixa(5, 10) ||
+                esteDataFixa(5, 15) || esteDataFixa(5, 21) || esteDataFixa(5, 24) || esteDataFixa(5, 25) ||
+                esteDataFixa(6, 2) || esteDataFixa(7, 1) || esteDataFixa(7, 2) || esteDataFixa(7, 5) ||
+                esteDataFixa(7, 8) || esteDataFixa(7, 11) || esteDataFixa(7, 17) || esteDataFixa(7, 20) ||
+                esteDataFixa(7, 22) || esteDataFixa(7, 25) || esteDataFixa(7, 27) || esteDataFixa(8, 16) ||
+                esteDataFixa(8, 17) || esteDataFixa(8, 18) || esteDataFixa(8, 19) ||
+                esteDataFixa(8, 20) || esteDataFixa(8, 21) || esteDataFixa(8, 22) || esteDataFixa(8, 23) ||
+                esteDataFixa(8, 31)
+            ) {
+                return { text: "Dezlegare la vin și ulei", culoare: "white" };
+            }
+        }
+
+        if (
+            esteDataFixa(11, 15) || esteDataFixa(11, 16) || esteDataFixa(11, 20) || esteDataFixa(11, 22) ||
+            esteDataFixa(11, 23) || esteDataFixa(11, 24) || esteDataFixa(11, 25) || esteDataFixa(12, 9) ||
+            esteDataFixa(12, 12) || esteDataFixa(12, 13) || esteDataFixa(12, 17) || esteDataFixa(12, 20) ||
+            esteDataFixa(12, 24) || esteDataFixa(8, 13)
+        ) {
+            return { text: "Dezlegare la vin și ulei", culoare: "white" };
         }
 
         if (inPostMare) {
@@ -249,7 +339,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         }
 
-        // PRIORITATE 2
+        // 4. POST GENERAL
         const inPostCraciun = esteIntre(11, 15, 12, 24);
         const inPostAdormirea = esteIntre(8, 1, 8, 14);
 
@@ -330,7 +420,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     crossElem.style.visibility = "hidden";
                     crossElem.style.opacity = "0";
                     culoareFinala = "white";
-                } else if (culoareFinala && culoareFinala !== "white") {  // <--- MODIFICAREA FĂCUTĂ AICI
+                } else if (culoareFinala && culoareFinala !== "white") {
                     crossElem.style.visibility = "visible";
                     crossElem.style.opacity = "1";
                     crossElem.style.color = culoareFinala;
@@ -424,7 +514,6 @@ document.addEventListener('DOMContentLoaded', function () {
         const duminicaPastelui = calculeazaPaste(anCurentSelectat);
 
         let htmlTabel = "";
-        let idRandAzi = null;
         const ziCurentaReal = dataAzi.getDate();
         const lunaCurentaReal = dataAzi.getMonth();
         const anCurentReal = dataAzi.getFullYear();
@@ -562,7 +651,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 });
 
-
 // ============================================================
 // ============================================================
 // FUNCȚII AUXILIARE GLOBALE (ZONA 2)
@@ -598,7 +686,18 @@ function genereazaEnciclopedia() {
                         slideToggleCustom(el, 200);
                     }
                 });
+
                 slideToggleCustom(dd, 250);
+
+                // Auto-scroll lin pentru a aduce titlul sus
+                setTimeout(() => {
+                    if (window.getComputedStyle(dd).display === 'block') {
+                        dt.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                }, 260);
             };
             container.appendChild(dt);
             container.appendChild(dd);
