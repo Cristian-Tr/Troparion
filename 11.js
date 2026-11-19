@@ -190,7 +190,7 @@ window.dateLuna = {
     // 19 NOIEMBRIE: Sf. Mc. Varlaam
     // ============================================================
     "19": {
-        nume: "Sf. Mc. Varlaam",
+        nume: "Sf. Mc. Varlaam, Sf. Proroc Avdie",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenice Varlaam, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Arătatu-te-ai, preaminunate, tăriei ardere de tot, tămâie cu bun miros şi pe tine te-ai adus jertfă lui Hristos şi cununa cinstei ai primit, Sfinte Mucenice Varlaam, luptătorule; roagă-te pentru noi pururea.",
         culoare: "incolor"

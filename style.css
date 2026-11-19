@@ -46,7 +46,7 @@ h1 {
 }
 
 h2 {
-    color: cyan !important;
+    color: cyan;
     font-weight: 400;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px black;
@@ -136,7 +136,7 @@ b {
 }
 
 .prazniculZilei {
-    font-size: 1.2em;
+    font-size: 1.25em;
     font-weight: 700;
     margin-bottom: .3em;
     display: block;
