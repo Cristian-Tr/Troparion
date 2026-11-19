@@ -392,7 +392,7 @@ article.column-page .menu-content {
     margin: 3px auto;
     text-align: left;
     color: #2b1d0c;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: .7px .7px .7px black;
 }
 
 #tabelCalendarLunar tr {

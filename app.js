@@ -581,11 +581,11 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             let stilCruce = `margin-right: 3px;`;
-            let stilText = `color: white; font-weight: normal;`;
+            let stilText = `color: white; font-weight: 700;`;
 
             if (culoareZi && culoareZi !== "white" && culoareZi !== "incolor") {
                 stilCruce += ` color: ${culoareZi}; visibility: visible;`;
-                stilText += ` color: ${culoareZi}; font-weight: bold;`;
+                stilText += ` color: ${culoareZi}; font-weight: 700;`;
             } else {
                 stilCruce += " visibility: hidden;";
             }
