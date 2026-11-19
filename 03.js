@@ -10,9 +10,9 @@ window.dateLuna = {
     // 01 MARTIE: Sf. Cuv. Muceniţă Evdochia
     // ============================================================
     "01": {
-        nume: "Sf. Cuv. Agapie de la Colciu; Sf. Cuv. Muceniţă Evdochia",
-        tropar: "Ascultând de cuvintele bătrânului celui sfânt ai socotit desfătare a robiei batjocură şi vas al iubirii te-ai arătat trăgându-i pre stăpâni către Hristos. Pentru-aceea, fericite Agapie, cântându-ţi cu osârdie, strigăm: Slavă lui Hristos, Celui ce te-a slăvit, Slavă Celui ce pre tine te-a iubit, Slavă Celui ce tare mijlocitor pre tine nouă te-a dăruit.",
-        condac: "Rănit fiind cu-nvăţăturile bunei-credinţe cu bucurie ale robiei dureri le- ai îndurat, Cuvioase Părinte, cel de- un nume cu dragostea. căci cu un suflet nerobit de lanţurile trupului Le - ai înfruntat şi ai făcut să strige pe cei ce te cinstesc: Bucură - te, fericite Agapie.",
+        nume: "Sf. Cuv. Agapie de la Colciu",
+        tropar: "Ascultând de cuvintele bătrânului celui sfânt ai socotit desfătare a robiei batjocură şi vas al iubirii te-ai arătat trăgându-i pre stăpâni către Hristos. Pentru aceea, fericite Agapie, cântându-ţi cu osârdie, strigăm: Slavă lui Hristos, Celui ce te-a slăvit, Slavă Celui ce pre tine te-a iubit, Slavă Celui ce tare mijlocitor pre tine nouă te-a dăruit.",
+        condac: "Rănit fiind cu-nvăţăturile bunei-credinţe cu bucurie ale robiei dureri le-ai îndurat, Cuvioase Părinte, cel de un nume cu dragostea. căci cu un suflet nerobit de lanţurile trupului Le-ai înfruntat şi ai făcut să strige pe cei ce te cinstesc: Bucură-te, fericite Agapie.",
         culoare: "incolor"
     },
 
@@ -20,7 +20,7 @@ window.dateLuna = {
     // 02 MARTIE: Sf. Sfințit Mc. Teodot, Episcopul Chiriniei
     // ============================================================
     "02": {
-        nume: "Sf. Nicolae Planas, ocrotitorul celor căsătoriți <br> Sf. Cuv. Ioachim din Ithaca",
+        nume: "Sf. Nicolae Planas, ocrotitorul celor căsătoriți",
         tropar: "Săltaţi acum popoare bătând din palme cu tărie şi primiţi pe Sf. cel vestit între Sfinţi, pe Nicolae Naxiotul, pe primitorul cel călduros al tuturor celor ce i se roagă şi pârga cea dumnezeiască a tuturor preoţilor; pe cel care în vremurile din urmă a bineplăcut lui Dumnezeu.",
         condac: "În tot neamul, în toată vremea și în tot timpul, Dumnezeu nu a lăsat nemărturisită slava și dumnezeirea Sa cea cerească; ci pe Sfinții Săi cei de pe pământ i-a preslăvit, precum și pe Nicolae Planas; și ne-a dăruit nouă rugător, părinte și cald folositor în nevoi.",
         culoare: "incolor"
@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 MARTIE: Sfinții 42 de Mc. din Amoreea
     // ============================================================
     "06": {
-        nume: "Sf. 42 Mc. din Amoreea <br> Aflarea Sfintei Cruci",
+        nume: "Sf. 42 Mc. din Amoreea",
         tropar: "Mucenicii Tăi, Doamne, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Pe ostaşii credinţei cei de curând arătaţi, ca pe unii ce cu osârdie au pătimit pentru Hristos, cu cununi de laude, după vrednicie, toţi să-i încununăm; căci se roagă pentru noi lui Hristos, ca nişte turnuri şi păzitori ai credinţei creştineşti.",
         culoare: "incolor"
@@ -120,7 +120,7 @@ window.dateLuna = {
     // 12 MARTIE: Sf. Cuvios Teofan Mărturisitorul
     // ============================================================
     "12": {
-        nume: "Sf. Cuv. Simeon Noul Teolog <br> Sf. Ier. Grigorie Dialogul, Ep. Romei",
+        nume: "Sf. Cuv. Simeon Noul Teolog",
         tropar: "Dumnezeiască strălucire primind în sufletul tău, Părinte Simeon, luminător preastrălucit în lume te-ai arătat, alungând întunericul înșelăciunii și pe toți îndemnând să caute harul Duhului Sfânt. Pentru aceasta, roagă-te cu dinadinsul să se dăruiască nouă mare milă.",
         condac: "Cu lumina cea cu trei sori strălucindu-te de Dumnezeu înțelepțite, te-ai făcut Teolog al Treimii celei preadumnezeiești, de sus cu înțelepciunea cuvintelor îmbogățindu-te, ai izvorât dumnezeiești curgeri ale dumnezeieștii înțelepciuni, dintru care bând noi strigăm: Bucură- te, de trei ori fericite Simeoane, de Dumnezeu înțelepțite.",
         culoare: "incolor"
@@ -220,7 +220,7 @@ window.dateLuna = {
     // 22 MARTIE: Sf. Sfințit Mc. Vasile, preotul din Ancira
     // ============================================================
     "22": {
-        nume: "Sf. Sfințit Mc. Vasile din Ancira <br> Sf. Mc. Drosida, fiica împ. Traian",
+        nume: "Sf. Sfințit Mc. Vasile din Ancira",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenice Vasile, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Săvârşind petrecerea cea după Lege, ai păzit credinţa, Sfinţite Mucenice Vasile. Pentru aceasta, te-ai învrednicit cu­nunilor Mc.ei şi stâlp neclintit te-ai arătat Bisericii, mărturisind pe Fiul Cel fără de început cu Tatăl şi cu Duhul, Treimea Cea Nedespărţită, pe Care roag-O să ne mântuiască din nevoi, pe noi, cei ce te cinştim pe tine, ca să strigăm ţie: bucură-te, Sfinte Vasile, de Dum­nezeu înţelepţite!",
         culoare: "incolor"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 MARTIE: Înainte-prăznuirea Bunei Vestiri
     // ============================================================
     "24": {
-        nume: "Înainte-prăznuirea Bunei Vestiri <br> Sf. Cuv. Zaharia",
+        nume: "Înainte-prăznuirea Bunei Vestiri",
         tropar: "Astăzi începutul bucuriei a toată lumea îndeamnă a lăuda Înainteprăznuirea, că iată, Arhanghelul Gavriil vine, aducând Fecioarei Buna Vestire şi către dânsa strigă: Bucură-te, cea Plină de har, Domnul este cu tine!",
         condac: "Tu eşti Începutul mântuirii noastre, a tuturor celor de pe pământ, Născătoare de Dum­nezeu. Căci Dumnezeiescul slu­jitor, mai marele începător al cetelor, Arhanghelul Gavriil, a fost trimis din cer să stea înaintea ta şi ţi-a adus bucurie, Ceea ce eşti cu har Dăruită. Pentru aceasta, toţi strigăm ţie: Bucură-te, Mi­reasă Nenuntită!",
         culoare: "incolor"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 MARTIE: Sf. Mc. Matrona din Tesalonic
     // ============================================================
     "27": {
-        nume: "Sf. Mc. Matrona din Tesalonic <br> Sf. Proroc Anania",
+        nume: "Sf. Mc. Matrona din Tesalonic",
         tropar: "Mieluşeaua Ta, Iisuse, Matrona, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un Milostiv, mântuiește sufletele noastre.",
         condac: "Biserica ta cea Preacinstită, ca pe o tămăduire sufletească aflând-o credincioşii, cumare glas strigăm ţie: Sfântă Fecioară Mu­ceniţă Matroana, cea cu nume mare, roagă neîncetat pe Hristos Dumnezeu pentru noi toţi.",
         culoare: "incolor"
@@ -300,7 +300,7 @@ window.dateLuna = {
     // 30 MARTIE: Sf. Cuvios Ioan Scărarul
     // ============================================================
     "30": {
-        nume: "Sf. Cuv. Ioan Scărarul <br> Sf. Proroc Ioad",
+        nume: "Sf. Cuv. Ioan Scărarul",
         tropar: "Locuitor pustiului, înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, Părintele nostru Ioan. Cu postul, cu privegherea şi prin rugăciune primind daruri cereşti, tămăduieşti pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui Ce ţi-a dat ţie putere; Slavă Celui Ce te-a încununat pe tine; Slavă Celui Ce lucrează prin tine tuturor tămăduiri.",
         condac: "Ca pe un Luceafăr ce îşi în­dreaptă lumina fără de greşea­lă până la marginile lumii, te-a pus pe tine Domnul, spre pildă de înfrânare, Îndreptătorule Ioan, părintele nostru.",
         culoare: "incolor"

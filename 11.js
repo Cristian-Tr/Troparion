@@ -90,7 +90,7 @@ window.dateLuna = {
     // 09 NOIEMBRIE: Sf. Ier. Nectarie din Eghina
     // ============================================================
     "09": {
-        nume: "Sf. Ier. Nectarie din Eghina; <span style='color: deepskyblue;'>Sf. Mc. Claudiu, Sempronian, Nicostrat şi Castor</span>",
+        nume: "Sf. Ier. Nectarie din Eghina <br> <span style='color: deepskyblue;'>Sf. Mc. Claudiu, Sempronian, Nicostrat şi Castor</span>",
         tropar: "Pe cel născut în Silivria şi ocrotitorul Eghinei, pe acela ce s-a arătat în vremurile din urmă prieten adevărat al virtuţii, pe Sf. Ier. Nectarie să-l cinstim cei credincioşi ca pe un Dumnezeiesc slujitor al lui Hristos, că izvorăşte bogate vindecări celor ce cu evlavie strigă: Slavă lui Hristos, Celui Ce te-a proslăvit! Slavă Celui Ce minunat te-a arătat! Slavă Celui Ce prin tine lucrează tuturor tămăduiri!",
         condac: "Pe steaua cea nou răsărită a Ortodoxiei şi cetatea cea nou zidită a Bisericii să-l lăudăm întru veselia inimii, că proslăvit fiind prin lucrarea Duhului izvorăşte harul nestricăcios al tămăduirilor celor ce strigă: Bucură-te, Sfinte Părinte Nectarie.",
         culoare: "gray"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 NOIEMBRIE: Sf. Cuv. Grigorie Decapolitul
     // ============================================================
     "20": {
-        nume: "Sf. Cuv. Grigorie Decapolitul <br> Sf. Mc. Dasie",
+        nume: "Sf. Cuv. Grigorie Decapolitul",
         tropar: "Chip te-ai făcut înfrânării şi prin Dumnezeiescul Duh pe toţi i-ai luminat. Alergarea dreptei credinţe o ai săvârşit şi cu învăţăturile lumea ai luminat şi ai mustrat cugetele celor rău credincioşi, Părinte Cuvioase Grigorie, roagă-te lui Hristos Dumnezeu să ne dăruiască nouă mare milă.",
         condac: "Soare luminos pe tine Biserica te cunoaşte, care cu podoabele faptelor bune şi cu razele tămăduirilor pe toţi luminezi, a lui Hristos slugă. Pentru aceasta prăznuim Dumnezeiasca pomenirea ta şi cinstim nevoinţele tale, Preafericite Părinte, Înţelepte Grigorie.",
         culoare: "deepskyblue"

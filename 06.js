@@ -140,7 +140,7 @@ window.dateLuna = {
     // 14 IUNIE: Sf. Proroc Elisei
     // ============================================================
     "14": {
-        nume: "Sf. Proroc Elisei; Sf. Ier. Metodie, Patr. Constantinopolului",
+        nume: "Sf. Proroc Elisei",
         tropar: "Cel care a fost înger în trup, temeiul prorocilor, al doilea Înaintemergător al venirii lui Hristos, Ilie măritul, care a trimis de sus lui Elisei dar, bolile goneşte şi pe cei leproşi curăţeşte. Pentru aceasta şi celor care-l cinstesc pe el le izvorăşte tămăduiri.",
         condac: "Îndoit har luând de la Duhul, proroc minunat te-ai arătat tuturor marginilor, pe cei care te laudă pe tine izbăvindu-i din primejdii şi dăruind harul minunilor tale celor care aleargă la tine cu credinţă şi strigă: Bucură-te, prorocule minunate.",
         culoare: "incolor"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 IUNIE: Sf. Mc. Leontie
     // ============================================================
     "18": {
-        nume: "Sf. Mc. Leontie <br> Sf. Mc. Alina",
+        nume: "Sf. Mc. Leontie",
         tropar: "Mucenicul Tău, Doamne, Leontie, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Meşteşugirile cele viclene ale tiranilor le-ai ruşinat şi slujbele elineşti cele fără de Dumnezeu defăimându-le, luminat ai arătat cunoştinţa de Dumnezeu tuturor oamenilor cu învăţăturile dreptei credinţe, de Dumnezeu înţelepţite mucenice. Pentru aceasta a ta pomenire cinstim cu dragoste, înţelepte Leontie.",
         culoare: "incolor"

@@ -260,10 +260,10 @@ window.dateLuna = {
     // 26 SEPTEMBRIE: Sf. Voievod Neagoe Basarab
     // ============================================================
     "26": {
-        nume: "<span style='color: gray;'>Adormirea Sf. Apostol și Evanghelist Ioan</span> <br> Sf. Voievod Neagoe Basarab <br> Sf. Cuv. Platonida de la Argeș",
-        tropar: "Domnitor preaînţelept între căpeteniile neamului românesc, ctitor de lăcaşuri sfinte, prieten al Sfinţilor Părinţi, învăţător luminat de Duhul Sfânt şi mare iubitor de pace, Sfinte Neagoe Voievod, roagă-L pe Hristos Dumnezeu să mântuiască sufletele noastre!",
-        condac: "Pe apărătorul credinţei şi darnic ocrotitor al creştinilor din toată Ortodoxia; pe învăţătorul şi împlinitorul Sfintelor Scripturi, care a adus liniştea pustiei în viforul tulburărilor lumeşti, să-l lăudăm cu bucurie şi să-i cântăm cu dragoste: Bucură-te, Sfinte Neagoe, binecredincios voievod al Ţării Româneşti!",
-        culoare: "deepskyblue"
+        nume: "Adormirea Sf. Apostol și Evanghelist Ioan <br> <span style='color: deepskyblue;'>Sf. Voievod Neagoe Basarab</span>",
+        tropar: "Apostole iubite al lui Hristos Dumnezeu, grăbeşte de mântuieşte pe poporul cel fără de răspuns. Că te primeşte când cazi către Dânsul, Cel Ce te-a primit când te-ai rezemat pe pieptul Lui: pe Acela roagă-L, de Dumnezeu Cuvântătorule, ca norul vrăjmaşilor cel căzut asupra noastră să se risipească, cerându-ne nouă pace şi mare milă.",
+        condac: "Măririle tale, iubitorule de feciorie, cine le poate spune? Că verşi minuni şi izvorăşti tămăduiri şi te rogi pentru sufletele noastre, ca un Cuvântător de Dumnezeu şi prieten al lui Hristos.",
+        culoare: "gray"
     },
 
     // ============================================================

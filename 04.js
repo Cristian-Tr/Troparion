@@ -160,7 +160,7 @@ window.dateLuna = {
     // 16 APRILIE: Sfintele Muceniţe fecioare Agapia, Irina şi Hionia
     // ============================================================
     "16": {
-        nume: "Sf. Mc. fecioare Agapia, Irina şi Hionia <br> Sf. Amfilohie Makris din Patmos",
+        nume: "Sf. Mc. fecioare Agapia, Irina şi Hionia",
         tropar: "Muceniţele Tale, Doamne, fecioarele Agapia, Irina şi Hionia, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Prin credinţă într-aripându-ţi tare sufletul, Sfântă Muceniţă Irina, arătat ai ruşinat pe cel viclean şi mulţime mare de oameni ai adus lui Hristos, fericită şi purtând porfiră de sângiuri te veseleşti acum împreună cu îngerii.",
         culoare: "incolor"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 APRILIE: Sf. Ier. Teotim, Episcopul Tomisului
     // ============================================================
     "20": {
-        nume: "Sf. Ier. Teotim, Ep. Tomisului <br> <span style='color: white;'>Sf. Apostol Zaheu</span>",
+        nume: "Sf. Ier. Teotim, Ep. Tomisului",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Teotim, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ca cel ce eşti stâlp al Bisericii lui Hristos, ai surpat eresul lui Arie, Înţelepte Teotime; pentru aceasta Dumnezeu nostru te-a împodobit pe tine, Preafericite Ierarhe Teotim. Cu rugăciunile tale păzeşte, preasfinte, întreaga turmă şi cetatea tomitană.",
         culoare: "deepskyblue"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 APRILIE: Sf. Sfințit Mc. Simeon, rudenia Domnului
     // ============================================================
     "27": {
-        nume: "Sf. Sfințit Mc. Simeon, rudenia Domnului <br> Sf. Apostol Marcu",
+        nume: "Sf. Sfințit Mc. Simeon, ruda Domnului",
         tropar: "Pe tine rudenia lui Hristos, Sfinte Simeon, ierarh şi mucenic tare, cu sfinţenie te lăudăm, cel ce ai pierdut înşelăciunea şi ai păzit credinţa. Pentru aceasta prăznuind astăzi preasfântă pomenirea ta, dezlegare de păcate luăm prin rugăciunile tale.",
         condac: "Sionului celui de sus făcându-te cetăţean, scaunul Sionului celui de jos ai luat şi bine turma ţi-ai povăţuit la Staulul cel Ceresc. Te-ai răstignit lui Hristos, Sfinte Simeon, urmând Patimii Lui celei Dumnezeieşti.",
         culoare: "incolor"

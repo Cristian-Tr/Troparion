@@ -130,7 +130,7 @@ window.dateLuna = {
     // 13 DECEMBRIE: Sf. Ier. Dosoftei, Mitropolitul Moldovei
     // ============================================================
     "13": {
-        nume: "Sf. Ier. Dosoftei, Mitr. Moldovei; <span style='color: gray;'>Sf. Mari Mc. Eustratie, Auxentie, Evghenie, Mardarie și Orest</span>",
+        nume: "Sf. Ier. Dosoftei, Mitr. Moldovei <br> <span style='color: gray;'>Sf. Mari Mc. Eustratie, Auxentie, Evghenie, Mardarie și Orest</span>",
         tropar: "Apărătorule al Ortodoxiei și învățătorule al sfințeniei, păstor blând ca un miel și mare dascăl al Sfintei Liturghii, Părinte Ierarhe Dosoftei, roagă pe Hristos-Dumnezeu să mântuiască sufletele noastre!",
         condac: "Arătatu-te-ai bun lucrător în via lui Hristos, folosind cuvântul Evangheliei Domnului la povățuirea dreptcredincioșilor pe calea mântuirii, ca un adevărat păstor duhovnicesc al Bisericii și slujitor al oamenilor. Credința păzind-o și pe credincioși către Dumnezeu îndreptându-i, întărești nădejdea în sufletele celor care te cinstesc, fericite ierarhe.",
         culoare: "deepskyblue"
