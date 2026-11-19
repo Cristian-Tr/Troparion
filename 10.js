@@ -9,7 +9,7 @@ window.dateLuna = {
     // 01 OCTOMBRIE: Acoperământul Maicii Domnului
     // ============================================================
     "01": {
-        nume: "Acoperământul Maicii Domnului; <span style='color: deepskyblue;'>Sf. Cuv. Iosif şi Chiriac de la Bisericani</span>",
+        nume: "ACOPERĂMÂNTUL MAICII DOMNULUI",
         tropar: "Astăzi, poporul cel binecredincios, luminat prăznuim, umbriţi fiind prin venirea ta, Maica lui Dumnezeu şi cău­tând către Preacinstită Icoana ta, cu umilinţă grăim: acoperă-ne pe noi cu Cinstitul tău Acoperă­mânt şi ne scapă de tot răul, rugând pe Fiul tău, Hristos Dumnezeul nostru, să mântu­iască sufletele noastre.",
         condac: "Fecioara astăzi, înainte stă în Biserică şi cu cetele sfinţilor, nevăzut se roagă lui Dum­nezeu, îngerii cu ierarhii se în­chină şi Apostolii cu proorocii dănţuiesc; că pentru noi roagă Născătoarea de Dumnezeu pe Dumnezeu Cel mai înainte de veci.",
         culoare: "red"
@@ -39,7 +39,7 @@ window.dateLuna = {
     // 04 OCTOMBRIE: Sf. Sfinţit Mc. Ierotei, Episcopul Atenei
     // ============================================================
     "04": {
-        nume: "Sf. Preot Mărturisitor Dumitru Stăniloae;",
+        nume: "Sf. Preot Mărturisitor Dumitru Stăniloae",
         tropar: "Cu întreită cunună încununându-te a preoției Părinte, a bunei mărturisiri și cu cea a cuvântării de Dumnezeu, ca un soare strălucești, învățându-ne a cinsti Treimea cea de o ființă, la care Sfinte Dumitru totdeauna pomenește-ne.",
         condac: "Pe odraslirea cea în Domnul a românilor, nou-arătatul mare dascăl al Bisericii și înțelept tălcuitor al Filocaliei, pe Părintele Dumitru cu evlavie să-l cinstim după dreptate, credincioșilor, strigând: Bucură-te, Sfinte Dumitru, de Dumnezeu cuvântătorule!",
         culoare: "deepskyblue"
@@ -129,8 +129,8 @@ window.dateLuna = {
     // 13 OCTOMBRIE: Sf. Mc. Carp şi Papil
     // ============================================================
     "13": {
-        nume: "Aducerea moaștelor Sf. Apostol Andrei la Iași; <span style='color: white;'>Sf. Mc. Carp şi Papil</span>",
-        tropar: "Mc.i Tăi, Doamne, Carp şi Papil, întru nevoinţele lor, cununile nesctricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
+        nume: "Aducerea moaștelor Sf. Apostol Andrei la Iași <br> <span style='color: white;'>Sf. Mc. Carp şi Papil</span>",
+        tropar: "Mucenicii Tăi, Doamne, Carp şi Papil, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Ca o vistierie de mult preţ şi izvor ce izvorăşte ape de tămă­duiri, a dat Stăpânul moaştele voastre celor de pe pământ; care şterg neputinţele patimilor cele de multe feluri şi dau neîncetat har sufletelor. Pentru aceasta, Sfinţilor Carp şi Papil, cu un glas şi cu dragoste săvârşim Sfântă pomenirea voastră.",
         culoare: "deepskyblue"
     },
@@ -149,7 +149,7 @@ window.dateLuna = {
     // 15 OCTOMBRIE: Sf. Magdalena de la Mălainița
     // ============================================================
     "15": {
-        nume: "Sf. Magdalena de la Mălainița; <span style='color: white;'>Sf. Cuv. Eftimie cel Nou</span>",
+        nume: "Sf. Magdalena de la Mălainița",
         tropar: "Pe Sf. Magdalena să o cinstim cu râvnă, ca pe o podoabă nouă a ținutului Timocului, că, lucrând faptele credinței, prin acestea a întărit obștea ortodocșilor, risipind toată neștiința din popor; iar acum și nouă, prin moaștele ei, ne dăruiește vindecări de tot felul de boli, cu harul Domnului.",
         condac: "Pe cel ce a strălucit mai întâi în pustnicie şi apoi s-a lumi­nat prin chinuri, toţi să-l cin­stim pe Sf. Mc. Luchian cu cântări în­tru mărire, ca pe un luminător prealuminos, care nu încetează a se ruga pentru noi toţi.",
         culoare: "deepskyblue"
@@ -189,9 +189,9 @@ window.dateLuna = {
     // 19 OCTOMBRIE: Sf. Mc. Uar
     // ============================================================
     "19": {
-        nume: "Sf. Proroc Ioil; Sf. Mc. Uar",
+        nume: "Sf. Mc. Uar",
         tropar: "Mucenicul Tău, Doamne, Uar, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
-        condac: "Lui Hristos ai urmat, Sfinte Mu­cenice Uar, al cărui pahar l-ai băut şi cu cununa Mc.ei te-ai încununat; deci, cu îngerii dănţuind, roagă-te neîncetat pentru sufletele noastre.",
+        condac: "Lui Hristos ai urmat, Sfinte Mu­cenice Uar, al cărui pahar l-ai băut şi cu cununa muceniciei te-ai încununat; deci, cu îngerii dănţuind, roagă-te neîncetat pentru sufletele noastre.",
         culoare: "white"
     },
 
@@ -209,7 +209,7 @@ window.dateLuna = {
     // 21 OCTOMBRIE: Sf. Cuvioşi Mărturisitori Visarion, Sofronie şi Oprea
     // ============================================================
     "21": {
-        nume: "Sf. Cuvioşi Mărturisitori Visarion, Sofronie şi Oprea; Sf. Preot Mărturisitor Ioan din Galeș şi Moise Măcinic din Sibiel",
+        nume: "Sf. Cuvioşi Mărturisitori Visarion, Sofronie şi Oprea",
         tropar: "Luptătorilor pentru Orto­doxie, Sfinţilor Cuvioşi Mărturisitori Visarion, Sofronie şi Oprea, ca nişte îngereşti trâm­biţe aţi înviorat în suflete îndrăznirea mărturisirii dreptei credinţe şi ca nişte înţelepţi propovăduitori, pe popor l-aţi hrănit cu dreaptă şi luminată învăţătură. Mari au fost oste­nelile lucrării voastre; mare şi osârdia propovăduirii; mare a fost şi rodul luptei voastre drep­te, pururea pomeniţilor ostaşi ai lui Hristos.",
         condac: "Văzând noi astăzi toate nevoinţele voastre, cu nespusă bucurie facem pomenirea voas­tră, prealăudaţilor apărători ai Ortodoxiei; căci, cu Puterea lui Hristos fiind într-armaţi, stră­lucite biruinţe pentru poporul dreptcredincioşilor aţi secerat, voi cei ce aţi fost adevăraţi soli cereşti şi mucenicească păti­mire aţi pătimit.",
         culoare: "deepskyblue"

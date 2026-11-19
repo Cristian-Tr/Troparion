@@ -10,7 +10,7 @@ window.dateLuna = {
     // 01 NOIEMBRIE: Sf. Mc. doctori fără de arginţi Cosma şi Damian
     // ============================================================
     "01": {
-        nume: "Sf. Mc. doctori fără de arginţi Cosma şi Damian; Sf. Cuv. David din Evia",
+        nume: "Sf. Cuv. David din Evia <br> Sf. Mc. doctori fără de arginţi Cosma şi Damian",
         tropar: "Sfinţilor cei fără de arginţi şi de minuni făcătorilor, Cosma şi Damian, cercetaţi neputinţele noastre. Şi ca unii care în dar aţi luat, în dar daţi-ne nouă.",
         condac: "Arătatu-te-ai în lume ca o stea prealuminoasă, cu dumnezeieștile daruri ale tămăduirilor luminând pe toți care cu credință se apropie de tine, Davide, lauda Părinților.",
         culoare: "incolor"
@@ -51,8 +51,8 @@ window.dateLuna = {
     // ============================================================
     "05": {
         nume: "Sf. Mc. Galaction şi Epistimia",
-        tropar: "Mc.i Tăi, Doamne, Galaction şi Epistimia, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
-        condac: "Cu adunările Mc.lor lui Hristos împreună v-aţi numărat. Cu tari nevoinţe luminat nevoindu-vă, Sfinte Galaction mult lăudate, cu cinstită soţia ta şi împreună pătimitoarea Sf. Epistimia, nu înceta rugându-te unuia Dumnezeu pentru noi toţi.",
+        tropar: "Mucenicii Tăi, Doamne, Galaction şi Epistimia, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
+        condac: "Cu adunările mucenicilor lui Hristos împreună v-aţi numărat. Cu tari nevoinţe luminat nevoindu-vă, Sfinte Galaction mult lăudate, cu cinstită soţia ta şi împreună pătimitoarea Sf. Epistimia, nu înceta rugându-te unuia Dumnezeu pentru noi toţi.",
         culoare: "incolor"
     },
 
@@ -100,7 +100,7 @@ window.dateLuna = {
     // 10 NOIEMBRIE: Sf. Apostoli Olimp, Rodion, Sosipatru, Erast, Terţiu şi Cvart
     // ============================================================
     "10": {
-        nume: "Sf. Cuv. Mc. Visarion de la Lainici; <span style='color: white;'>Sf. Cuv. Arsenie Capadocianul</span>",
+        nume: "Sf. Cuv. Mc. Visarion de la Lainici <br> <span style='color: white;'>Sf. Cuv. Arsenie Capadocianul</span>",
         tropar: "Minunată lucrare ai arătat în Mănăstirea Lainici, Sfinte Părinte Visarion, prin postire, priveghere și rugăciune, prin iubirea desăvârșită de Dumnezeu și de semeni, făcător de minuni arătându-te. Iar, pătimind de la cei rău-credincioși cu slavă te-ai încununat în ceruri. Pentru aceasta, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Pe pătimitorul pentru iubirea lui Dumnezeu, pe învățătorul rugăciunii celei curate, pe Cuv.ul stareț Visarion de la Lainici, cel ce împreună tuturor daruri din milostivire, să-l lăudăm, strigându-i din inimă: Bucură-te, Sfinte Părinte Visarion, lauda monahilor și podoaba mărturisitorilor!",
         culoare: "deepskyblue"
@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 NOIEMBRIE: Sf. Mare Mc. Mina
     // ============================================================
     "11": {
-        nume: "Sf. Mare Mc. Mina; <span style='color: white;'>Sf. Cuv. Teodor Studitul; Sf. Mc. Victor</span>",
+        nume: "Sf. Mare Mc. Mina <br> <span style='color: white;'>Sf. Cuv. Teodor Studitul <br> Sf. Mc. Victor</span>",
         tropar: "Mucenicul Tău, Doamne, Mina întru nevoința sa, cununa nestricăciunii a luat de la Tine, Dumnezeul nostru, că având puterea Ta, pe chinuitori a învins, zdrobit-a și ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuiește sufletele noastre, Hristoase Dumnezeule.",
         condac: "Din oastea cea vremelnică te-a răpit şi părtaş celei nestricăcioase te-a arătat pe tine, purtătorule de chinuri, Sfinte Mare Mucenice Mina, Hristos Dumnezeul nostru, Cel Ce este pentru toţi Mc.i cunună nestricăcioasă.",
         culoare: "gray"
@@ -120,7 +120,7 @@ window.dateLuna = {
     // 12 NOIEMBRIE: Sf. Martir și Mărturisitor Atanasie din Bichigiu
     // ============================================================
     "12": {
-        nume: "Sf. Martir și Mărturisitor Atanasie din Bichigiu; <span style='color: white;'>Sf. Ier. Ioan cel Milostiv, Patr. Alexandriei</span>",
+        nume: "Sf. Martir și Mărturisitor Atanasie din Bichigiu <br> <span style='color: white;'>Sf. Ier. Ioan cel Milostiv, Patr. Alexandriei</span>",
         tropar: "Luptător pentru credință și neam, biruitor al potrivnicilor lui Hristos și apărător neînfricat al Ortodoxiei, ai odrăslit în Țara Năsăudului, primind cu bărbăție moarte mucenicească. Pentru aceasta, nimicind amăgirile asupritorilor, ai câștigat cununa cea neveștejită a sfințeniei. Fericite Atanasie, roagă-L pe Hristos Dumnezeu să miluiască și să mântuiască sufletele noastre.",
         condac: "Povara celor o sută patru ani nu te-a oprit de la moartea mucenicească și fără teamă ai primit cununa suferinței, preschimbând-o în cununa cea neveștejită a biruinței; și făcându-te ostaș credincios lui Hristos, ai câștigat Împărăția cea veșnică; iar pe noi îmbărbătându-ne în Duh și adevăr, ne-ai dăruit întărire în credință și nădejde în mântuire. Pentru aceasta, Sfinte Mucenice Atanasie roagă-L pe Milostivul Dumnezeu să ne apere și să ne izbăvească de primejdii și necazuri.",
         culoare: "deepskyblue"
@@ -140,7 +140,7 @@ window.dateLuna = {
     // 14 NOIEMBRIE: Sf. Ier. Grigorie Palama, Arhiepiscopul Tesalonicului
     // ============================================================
     "14": {
-        nume: "Sf. Apostol Filip, unul din cei 7 diaconi; <span style='color: white;'>Sf. Ier. Grigorie Palama, Arh. Tesalonicului</span>",
+        nume: "Sf. Apostol Filip, unul din cei 7 diaconi <br> <span style='color: white;'>Sf. Ier. Grigorie Palama, Arh. Tesalonicului</span>",
         tropar: "Apostole Sfinte Filip, roagă pe Milostivul Dumnezeu, ca să dăruiască iertare de greşeli sufletelor noastre.",
         condac: "Ucenicul şi prietenul Tău şi următorul Patimii Tale, de Dumnezeu grăitorul Apostol Filip, lumii pe Tine Te-a propovăduit. Pentru ale cărui rugăciuni, păzeşte de vrăjmaşii cei fărădelege Biserica Ta şi cetatea Ta, pentru Născătoarea de Dumnezeu, mult Milostive.",
         culoare: "deepskyblue"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 NOIEMBRIE: Sfinții Mc. Platon şi Roman, diaconul
     // ============================================================
     "18": {
-        nume: "Sf. Cuv. Nectarie Protopsaltul de la Prodromu; <span style='color: white;'>Sf. Mc. Platon şi Roman</span>",
+        nume: "Sf. Cuv. Nectarie Protopsaltul de la Prodromu <br> <span style='color: white;'>Sf. Mc. Platon şi Roman</span>",
         tropar: "Mucenicii Tăi, Doamne, Platon şi Roman, diaconul, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Sfântă pomenirea ta lumea veseleşte, chemând pe toţi în preacinstită biserica ta, unde acum cu bucurie adunându-ne, cântăm cu cântări şi cu luminări. Pentru aceasta, Sfinte Platon, strigăm: izbăveşte de vrăjmaşi pe poporul tău, sfinte.",
         culoare: "deepskyblue"
@@ -190,7 +190,7 @@ window.dateLuna = {
     // 19 NOIEMBRIE: Sf. Mc. Varlaam
     // ============================================================
     "19": {
-        nume: "Sf. Mc. Varlaam, Sf. Proroc Avdie",
+        nume: "Sf. Mc. Varlaam",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenice Varlaam, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Arătatu-te-ai, preaminunate, tăriei ardere de tot, tămâie cu bun miros şi pe tine te-ai adus jertfă lui Hristos şi cununa cinstei ai primit, Sfinte Mucenice Varlaam, luptătorule; roagă-te pentru noi pururea.",
         culoare: "incolor"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 NOIEMBRIE: Sf. Cuv. Grigorie Decapolitul
     // ============================================================
     "20": {
-        nume: "Sf. Cuv. Grigorie Decapolitul; Sf. Mc. Dasie",
+        nume: "Sf. Cuv. Grigorie Decapolitul <br> Sf. Mc. Dasie",
         tropar: "Chip te-ai făcut înfrânării şi prin Dumnezeiescul Duh pe toţi i-ai luminat. Alergarea dreptei credinţe o ai săvârşit şi cu învăţăturile lumea ai luminat şi ai mustrat cugetele celor rău credincioşi, Părinte Cuvioase Grigorie, roagă-te lui Hristos Dumnezeu să ne dăruiască nouă mare milă.",
         condac: "Soare luminos pe tine Biserica te cunoaşte, care cu podoabele faptelor bune şi cu razele tămăduirilor pe toţi luminezi, a lui Hristos slugă. Pentru aceasta prăznuim Dumnezeiasca pomenirea ta şi cinstim nevoinţele tale, Preafericite Părinte, Înţelepte Grigorie.",
         culoare: "deepskyblue"
@@ -220,7 +220,7 @@ window.dateLuna = {
     // 22 NOIEMBRIE: Sf. Apostoli Filimon, Arhip şi Onisim
     // ============================================================
     "22": {
-        nume: "Sf. Apostoli Filimon, Arhip, Onisim; Sf. Cuv. Iacov Tsalikis",
+        nume: "Sf. Apostoli Filimon, Arhip, Onisim <br> Sf. Cuv. Iacov Tsalikis",
         tropar: "Sfinţilor Apostoli Filimon, Arhip şi Onisim, rugaţi pe Milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.",
         condac: "Sfinţite Apostole al lui Hristos Filimon, pe cei ce cu credinţă săvârşesc astăzi preasfântă pomenirea ta, izbăveşte-i pe toţi de tot felul de ispite şi de necazuri.",
         culoare: "incolor"
@@ -250,7 +250,7 @@ window.dateLuna = {
     // 25 NOIEMBRIE: Sf. Mare Mc. Ecaterina
     // ============================================================
     "25": {
-        nume: "Sf. Mare Mc. Ecaterina; <span style='color: white;'>Sf. Mare Mc. Mercurie</span>",
+        nume: "Sf. Mare Mc. Ecaterina <br> <span style='color: white;'>Sf. Mare Mc. Mercurie</span>",
         tropar: "Cu înțelepciunea ca și cu razele soarelui ai luminat pe filosofii păgâni și ca o lună prealuminoasă, care strălucea în noaptea necredinței, întunericul l-ai gonit; iar pe împărăteasa o ai încredințat, dimpreună și pe prigonitorul l-ai mustrat, de Dumnezeu chemată, fericită Ecaterino! Cu bucurie ai alergat la cămara cea cerească, către Hristos, Mirele cel preafrumos, și de la Dânsul te-ai încununat cu cunună împărătească, înaintea Căruia împreună cu îngerii stând, roagă-te pentru noi, cei ce cinstim sfântă pomenirea ta.",
         condac: "Ceată cinstită ridicaţi acum Dumnezeieşte, iubitorilor de Mc., cinstind pe Preaînţeleapta Ecaterina. Că aceasta în locul luptei pe Hristos a propovăduit şi pe balaurul l-a zdrobit, cunoştinţa ritorilor ruşinând.",
         culoare: "gray"
@@ -260,7 +260,7 @@ window.dateLuna = {
     // 26 NOIEMBRIE: Sf. Cuv. Stelian Paflagonul, ocrotitorul pruncilor
     // ============================================================
     "26": {
-        nume: "Sf. Cuv. Alipie Stâlpnicul; Sf. Cuv. Stelian Paflagonul",
+        nume: "Sf. Cuv. Alipie Stâlpnicul",
         tropar: "Al răbdării stâlp ai fost, râvnind părinţilor celor mai dinainte, cuvioase, Sf.ui Iov întru patimi, Sf.ui Iosif întru ispite şi vieţii celor fără de trup, fiind în trup, Sfinte Alipie, părintele nostru. Roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ca un temei al faptelor bune şi împodobire a sihaştrilor, Biserica te măreşte pe tine astăzi şi te laudă, Sfinte Alipie. Cu rugăciunile tale, dă celor ce cinstesc din dragoste vitejiile şi luptele tale, scăpare din cumplite greşeli, ca cel ce eşti cu numele neîntristării numit.",
         culoare: "incolor"
@@ -300,7 +300,7 @@ window.dateLuna = {
     // 30 NOIEMBRIE: Sf. Apostol Andrei cel Întâi Chemat, Ocrotitorul României
     // ============================================================
     "30": {
-        nume: "Sf. Apostol Andrei cel Întâi Chemat, Ocrotitorul României; <span style='color: deepskyblue;'>Sf. Ier. Andrei Șaguna, Mitr. Transilvaniei</span>",
+        nume: "Sf. Apostol Andrei cel Întâi Chemat, Ocrotitorul României <br> <span style='color: deepskyblue;'>Sf. Ier. Andrei Șaguna, Mitr. Transilvaniei</span>",
         tropar: "Ca cel decât Apostolii mai întâi chemat şi verhovnicului frate adevărat, Stăpânului tuturor Andrei, roagă-te pace lumii să dăruiască şi sufletelor noastre mare milă.",
         condac: "Pe grăitorul de Dumnezeu cel cu numele de bărbăţie numit şi cel mai întâi chemat dintre ucenicii Mântuitorului, pe fratele lui Petru să-l lăudăm. Că precum de demult acestuia şi nouă acum a strigat: veniţi, aflat-am pe Cel Dorit.",
         culoare: "red"

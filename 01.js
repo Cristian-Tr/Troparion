@@ -210,7 +210,7 @@ window.dateLuna = {
     // 21 IANUARIE: Sf. Cuv. Maxim Mărturisitorul
     // ============================================================
     "21": {
-        nume: "Sf. Cuv. Maxim Mărturisitorul; Sf. Mc. Neofit",
+        nume: "Sf. Cuv. Maxim Mărturisitorul <br> Sf. Mc. Neofit",
         tropar: "Îndreptătorule al Ortodoxiei, învăţătorule al dreptei cinstiri de Dumnezeu şi al curăţiei şi luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Sfinte Părinte Maxim, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Cu mărturisiri sfinţite te-ai împodobit şi te-ai ridicat încununat de la pământ, către Lumina Cea Neînserată şi către Mărire, Sfinte Părinte Maxim. Păzeşte pe cei ce cinstesc sfântă pomenirea ta.",
         culoare: "incolor"
@@ -220,7 +220,7 @@ window.dateLuna = {
     // 22 IANUARIE: Sf. Apostol Timotei
     // ============================================================
     "22": {
-        nume: "Sf. Apostol Timotei; Sf. Cuv. Mc. Anastasie Persul",
+        nume: "Sf. Apostol Timotei <br> Sf. Cuv. Mc. Anastasie Persul",
         tropar: "Bunătatea învăţându-te şi întru toate cumpătat fiind, îmbrăcându-te cu buna conştiinţă, precum i se cuvine unui sfânt, ai scos din vasul alegerii lucrurile tainice; şi credinţa păzind, aceeaşi cale ai săvârşit, Sfinte Apostol Timotei, roagă-te lui Hristos Dumnezeu, să mântuiască sufletele noastre.",
         condac: "Pe Dumnezeiescul ucenic şi împreună călător cu Apostolul Pavel, pe Sf. Timotei, toţi credincioşii să-l laude cu cântări; împreună cu dânsul cinstind şi pe Înţeleptul Anastasie, ce a strălucit din Persia ca o stea, care alungă patimile noastre cele sufleteşti şi bolile trupului.",
         culoare: "incolor"
@@ -230,7 +230,7 @@ window.dateLuna = {
     // 23 IANUARIE: Sf. Sfințit Mc. Clement, Episcopul Ancirei
     // ============================================================
     "23": {
-        nume: "Sf. Sfințit Mc. Clement, Ep. Ancirei; Sf. Mc. Agatanghel",
+        nume: "Sf. Sfințit Mc. Clement, Ep. Ancirei <br> Sf. Mc. Agatanghel",
         tropar: "Viţă de cuvioşie şi stâlpare de luptă grea, floare preasfinţită şi rod de Dumnezeu dăruit, de-a pururi înfloritor ai fost dat credincioşilor, preasfinţite Mucenic Clement. Ci, ca cel ce eşti cu Mc.i împreună luptător şi cu ierarhii împreună locuitor, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Mlădiţă cinstită a viţei lui Hristos te-ai făcut, Prealăudate Mucenice Clement, biruitorule în multe lupte. Pentru aceasta cu cel ce împreună ai pătimit, ai strigat: Hristoase, Tu eşti Bucuria Mc.lor.",
         culoare: "incolor"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 IANUARIE: Sf. Cuv. Xenia
     // ============================================================
     "24": {
-        nume: "Sf. Cuv. Xenia; Sf. Xenia din Sankt Petersburg",
+        nume: "Sf. Cuv. Xenia <br> Sf. Xenia din Sankt Petersburg",
         tropar: "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci, să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioasă Maică Xenia, duhul tău.",
         condac: "Luminat saltă astăzi cetatea lui Petru, că mulțimea celor scârbiți află mângâieri, nădăjduind la rugăciunile tale, fericită Xenia, că tu ești lauda și întărirea acestei cetăți.",
         culoare: "incolor"
@@ -250,7 +250,7 @@ window.dateLuna = {
     // 25 IANUARIE: Sf. Ier. Grigorie Teologul, Arhiepiscop la Constantinopol
     // ============================================================
     "25": {
-        nume: "Sf. Ier. Bretanion, Ep. Tomisului; <span style='color: gray;'>Sf. Ier. Grigorie Teologul, Arh. Constantinopolului</span>",
+        nume: "Sf. Ier. Bretanion, Ep. Tomisului <br> <span style='color: gray;'>Sf. Ier. Grigorie Teologul, Arh. Constantinopolului</span>",
         tropar: "Fluierul cel păstoresc al teologiei tale a biruit trâmbiţele ritorilor; că ţie, celui ce ai încercat adâncurile duhului, ţi s-au adăugat şi Frumuseţile Cuvântului. Ci, roagă pe Hristos Dumnezeu, Sfinte Părinte Grigorie, să mântuiască sufletele noastre.",
         condac: "Cu limba ta cea de Dumnezeu grăitoare, încurcăturile ritorilor dezlegând, mărite, ai împodobit Biserica cu veşmântul Ortodoxiei, cel ţesut de sus; pe care şi purtându-l, strigă împreună cu noi, fiii tăi: bucură-te părinte, mintea cea preaînaltă a teologiei.",
         culoare: "deepskyblue"
@@ -260,7 +260,7 @@ window.dateLuna = {
     // 26 IANUARIE: Sf. Ier. Iosif cel Milostiv, Mitropolitul Moldovei
     // ============================================================
     "26": {
-        nume: "Sf. Ier. Iosif cel Milostiv, Mitr. Moldovei; <span style='color: white;'>Sf. Cuv. Xenofont</span>",
+        nume: "Sf. Ier. Iosif cel Milostiv, Mitr. Moldovei <br> <span style='color: white;'>Sf. Cuv. Xenofont</span>",
         tropar: "Curăția ta și rugăciunea, milostenia și înfrânarea vas ales al Sf.ui Duh te-au făcut; pentru aceasta, Moldovei fiind păstor, urmai cu totul Păstorului Celui bun; Sfinte mare Ierarhe, milostive Iosif, roagă pe Hristos Dumnezeu să ne dăruiască nouă mare milă.",
         condac: "Milostivirii lui Hristos urmând, Părinte, tuturor toate te-ai făcut, precum Apostolul, Ierarhe Iosif, cu milostivirea; deci în ceruri, fericite, odihnindu-te, te rogi pentru cei ce-ți cântă cu evlavie, zicând: Bucură-te, Sfinte Iosif, de Hristos înțelepțite!",
         culoare: "deepskyblue"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 IANUARIE: Aducerea moaștelor Sf.ui Ioan Gură de Aur
     // ============================================================
     "27": {
-        nume: "Aducerea moaștelor Sf.ui Ioan Gură de Aur; <span style='color: white;'>Sf. Marciana, împărăteasa</span>",
+        nume: "Aducerea moaștelor Sf.ui Ioan Gură de Aur <br> <span style='color: white;'>Sf. Marciana, împărăteasa</span>",
         tropar: "Din gura ta ca o văpaie de foc strălucind harul, lumea a luminat; vistieriile neiubirii de argint lumii a câştigat; înălţimea gândului smerit nouă ne-a arătat. Ci, cu cuvintele tale învăţându-ne, Sfinte Părinte Ioan Gură de Aur, roagă pe Hristos Cuvântul să mântuiască sufletele noastre.",
         condac: "Veselitu-s-a în Taină Cinstita Biserică de întoarcerea cinstitelor tale moaşte; şi pe acestea ascunzându-le ca pe nişte aur de mult preţ, dăruieşte celor ce te laudă pe tine neîncetat, prin rugăciunile tale, harul tămăduirilor, Sfinte Părinte Ioan Gură de Aur.",
         culoare: "gray"
@@ -290,7 +290,7 @@ window.dateLuna = {
     // 29 IANUARIE: Aducerea moaștelor Sf.ui Sfințit Mc. Ignatie Teoforul
     // ============================================================
     "29": {
-        nume: "Aducerea moaștelor Sf.ui Sfințit Mc. Ignatie Teoforul; Sf. Mc. Filotei",
+        nume: "Aducerea moaștelor Sf. Sfințit Mc. Ignatie Teoforul <br> Sf. Mc. Filotei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenice Ignatie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "De la Răsărit astăzi te-ai înălţat şi toată făptura ai luminat-o cu învăţăturile Mirelui, Celui Împodobit de Dumnezeu, purtătorule de Dumnezeu, Sfinte Sfinţite Mucenice Ignatie.",
         culoare: "incolor"
@@ -310,7 +310,7 @@ window.dateLuna = {
     // 31 IANUARIE: Sf. Mc. doctori fără de arginţi Chir şi Ioan
     // ============================================================
     "31": {
-        nume: "Sf. Mc. doctori fără de arginţi Chir şi Ioan; Sf. Mc. Nichifor",
+        nume: "Sf. Mc. doctori fără de arginţi Chir şi Ioan <br> Sf. Mc. Nichifor",
         tropar: "Sălăşluindu-se darul Treimii în inimile voastre cele curate, Preafericiţilor Chir şi Ioan, v-aţi arătat înfricoşători izgonitori ai duhurilor celor necurate; şi aţi fost tămăduitori ai neputinţelor, nu numai ai celor descoperite, ci şi ai celor ascunse. Drept aceea, îndrăzneală având către Dumnezeu Cel Iubitor de oameni, prin rugăciunile voastre, cele neîncetate, tămăduiţi patimile noastre.",
         condac: "Din Dumnezeiescul har primind, sfinţilor, dar de minuni, faceţi minuni neîncetat, tăind toate patimile noastre cu meşteşugul tămăduitor cel nevăzut, de Dumnezeu Înţelepţite Chir, cu Sf. Ioan cel pururea mărit. Că voi sunteţi Dumnezeieşti doctori.",
         culoare: "incolor"

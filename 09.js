@@ -10,7 +10,7 @@ window.dateLuna = {
     // 01 SEPTEMBRIE: Sf. Cuv. Simeon Stâlpnicul
     // ============================================================
     "01": {
-        nume: "Sf. Cuv. Dionisie Exiguul; <span style='color: white;'>Sf. Cuv. Simeon Stâlpnicul</span>",
+        nume: "Sf. Cuv. Dionisie Exiguul <br> <span style='color: white;'>Sf. Cuv. Simeon Stâlpnicul</span>",
         tropar: "Al răbdării stâlp ai fost, râvnind părinţilor celor mai dinainte, cuvioase; lui Iov întru patimi, lui Iosif întru ispite şi vieţii celor fără de trup, tu fiind în trup, Sfinte Simeon, părintele nostru; roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Cele de sus căutând şi cu cei de jos împreunându-te şi căruţă de foc stâlpul tău făcându-ţi, printr-însul împreună vorbitor cu îngerii ai ajuns, cuvioase. Cu aceia împreună roagă-te neîncetat lui Hristos Dumnezeu pentru noi toţi.",
         culoare: "deepskyblue"
@@ -90,7 +90,7 @@ window.dateLuna = {
     // 09 SEPTEMBRIE: Sf. şi Drepţii Dumnezeieşti Părinţi Ioachim şi Ana
     // ============================================================
     "09": {
-        nume: "Sf. şi Drepţii Dumnezeieşti Părinţi Ioachim şi Ana; <span style='color: deepskyblue;'>Sf. Cuv. Onufrie de la Vorona şi Chiriac de la Tazlău</span>",
+        nume: "Sf. şi Drepţii Dumnezeieşti Părinţi Ioachim şi Ana <br> <span style='color: deepskyblue;'>Sf. Cuv. Onufrie de la Vorona şi Chiriac de la Tazlău</span>",
         tropar: "Pomenirea drepţilor Tăi, Doamne, prăznuind, printr-înşii ne rugăm Ţie, mântuieşte sufletele noastre.",
         condac: "Veseleşte-te acum, Sfântă Ana, dezlegându-te din legăturile nerodirii şi hrăneşte pe cea Preacurată, chemând pe toţi să laude pe Acela Ce a dăruit din pântecele ei oamenilor, pe Singura Maică ce nu ştie de bărbat.",
         culoare: "gray"
@@ -100,7 +100,7 @@ window.dateLuna = {
     // 10 SEPTEMBRIE: Sfintele Muceniţe Minodora, Mitrodora şi Nimfodora
     // ============================================================
     "10": {
-        nume: "Închinarea Sfintei Cruci; Sf. Mc. Minodora, Mitrodora şi Nimfodora",
+        nume: "Închinarea Sfintei Cruci <br> Sf. Mc. Minodora, Mitrodora şi Nimfodora",
         tropar: "Valurile cele întreite ale chinurilor şi moarte amară, pentru viaţa cea veşnică aţi schimbat, sfintelor muceniţe trei fecioare, mărturisind înaintea divanurilor celor fărădelege pe Treimea Cea Nezidită. Pentru aceea, cu sabia fiind tăiate, urmaţi acum Mielului Celui înjunghiat şi vă rugaţi pentru cei ce cinstesc sfinţită pomenirea voastră.",
         condac: "Chinuite fiind cu cruzime pentru Sfânta Treime, aţi biruit pe vrăjmaşul cel mult meşteşugăreţ, fiind alcătuite cu Duhul ca nişte surori. Pentru aceea, v-aţi sălăşluit împreună cu cele cinci fecioare în Cămara cea Cerească, biruitoarelor; şi împreună cu îngerii staţi înaintea Împăratului tuturor, bucurându-vă neîncetat.",
         culoare: "incolor"
@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 SEPTEMBRIE: Sf. Cuv. Teodora din Alexandria
     // ============================================================
     "11": {
-        nume: "Sf. Cuv. Teodora din Alexandriaș Sf. Cuv. Eufrosin Bucătarul",
+        nume: "Sf. Cuv. Teodora din Alexandria",
         tropar: "Întru tine, maică, cu osârdie s-a mântuit cel după chip; că, luând crucea, ai urmat lui Hristos; şi lucrând, ai învăţat să nu se uite la trup, căci este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Cuvioasă Maică Teodora, duhul tău.",
         condac: "Scăpând de noaptea patimilor, de Dumnezeu cugetătoare Cuvioasă Teodora, ai năzuit cu gândul către Soarele Cel Strălucit, omorându-ţi săltările trupului cu nevoinţă. Pentru aceea, te-ai făcut pildă sihaştilor cu viaţa şi îndreptare celor căzuţi; pentru aceea, te cinstim.",
         culoare: "incolor"
@@ -120,7 +120,7 @@ window.dateLuna = {
     // 12 SEPTEMBRIE: Sf. Mc. Avtonom
     // ============================================================
     "12": {
-        nume: "Sf. Mc. Avtonom; Sf. Mc. Teodul",
+        nume: "Sf. Mc. Avtonom",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Avtonom, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Trupul tău cu posturi topindu-ţi, cu neadormite rugăciuni pe Făcătorul ai rugat pentru păcatul tău, ca să iei iertare desăvârşită; şi ai luat iertare, calea pocăinţei arătând.",
         culoare: "incolor"
@@ -130,7 +130,7 @@ window.dateLuna = {
     // 13 SEPTEMBRIE: Sf. Cuv. Ioan de la Prislop
     // ============================================================
     "13": {
-        nume: "Sf. Cuv. Ioan de la Prislop; Sf. Mc. din Dobrogea: Macrobie, Gordian, Ilie, Zotic, Lucian și Valerian",
+        nume: "Sf. Cuv. Ioan de la Prislop",
         tropar: "Iubitorule de nevoinţă şi râvnitorule întru cele sfinte, Cuvioase Părinte Ioan, părăsit-ai cele trecătoare şi ai ales pe cele veşnice; luat-ai jugul lui Hristos în Mănăstirea Prislop şi în peşteră pustnicească, împreună cu îngerii, L-ai slăvit pe Dumnezeu. Pentru aceasta, nu înceta a te ruga pentru sufletele noastre.",
         condac: "Jugul nevoinţelor pe umeri luându-l, lui Hristos ai urmat, Cuvioase Ioan. În peşteră nevoindu-te, cu răceala pietrei te-ai împrietenit şi podoaba pustniciei ai dobândit. Pentru aceasta cu cântări te lăudăm zicând: Bucură-te, Preacuvioase Părinte Ioan, lauda Prislopului.",
         culoare: "deepskyblue"
@@ -150,9 +150,9 @@ window.dateLuna = {
     // 15 SEPTEMBRIE: Sf. Mare Mc. Nichita Romanul
     // ============================================================
     "15": {
-        nume: "Sf. Mare Mc. Nichita Romanul; Sf. Ier. Iosif cel Nou de la Partoș, Mitr. Banatului",
-        tropar: "Purtătorule de chinuri, biruind mai întâi năvălirile barbarilor cu Puterea Crucii cea nebiruită, pe urmă ai surpat mândria demonilor, împotrivindu-te cu vitejia ta, înţelepte; şi biruind-o, Sfinte Mucenice Nichita, ai luat daruri vrednice de biruinţă. Slavă lui Hristos, Cel Ce te-a întărit; Slavă Celui Ce te-a încununat; Slavă Celui Ce a mărit pururea cinstită pomenirea ta.",
-        condac: "Tăind tăria înşelăciunii cu împotrivirea ta şi luând cununa biruinţei prin nevoinţa ta, te veseleşti împreună cu îngerii, Mărite Mucenice Nichita, cel cu nume de biruinţă, împreună cu dânşii neîncetat rugându-te lui Hristos Dumnezeu pentru noi toţi.",
+        nume: "Sf. Ier. Iosif cel Nou de la Partoș, Mitr. Banatului",
+        tropar: "Din tinereţe cu totul te-ai supus Domnului, cu rugăciunile şi cu ostenelile şi cu postul. Pentru aceasta, văzând Dumnezeu nevoinţele tale, arhiereu şi păstor Bisericii Sale te-a rânduit; şi după moarte, în cetele sfinţilor te-a sălăşluit, Sfinte Părinte Iosif. Roagă-te lui Hristos Dumnezeu să ne dăruiască iertare de greşeli nouă, celor ce cu credinţă şi cu dragoste săvârşim sfântă pomenirea ta.",
+        condac: "Apărător nebiruit, ca unul care prin tine din nevoi s-a mântuit, te are pământul Banatului, Sfinte Iosif. Ci, ca cel ce ai îndrăzneală către Dumnezeu apără-l pe el de toată nevoia, ca să cântăm ţie: bucură-te, Sfinte Ierarhe Iosif, făcătorule de minuni.",
         culoare: "deepskyblue"
     },
 
@@ -160,7 +160,7 @@ window.dateLuna = {
     // 16 SEPTEMBRIE: Sf. Mare Muceniţă Eufimia
     // ============================================================
     "16": {
-        nume: " Sf. Cuv. Mărturisitor Sofian de la Antim; <span style='color: white;'>Sf. Mare Mc. Eufimia</span>",
+        nume: " Sf. Cuv. Mărturisitor Sofian de la Antim <br> <span style='color: white;'>Sf. Mare Mc. Eufimia</span>",
         tropar: "Sfântă Mare Muceniţă Eufimia, Prealăudată fecioară ai veselit pe cei dreptmăritori şi ai ruşinat pe cei rău mărturisitori, întărind dogmele Sinodului pe care Părinții bine le-au rânduit. Prealăudată Muceniţă a lui Hristos cere pentru noi mare milă.",
         condac: "Nevoinţe în chinuri, nevoinţe pentru credinţă cu avânt ai suferit pentru Hristos, Mirele tău. Acestuia şi acum roagă-te, să se surpe trufia vrăjmaşilor sub picioarele binecredincioşilor, ca şi atunci eresurile prin rugăciunile Născătoarei de Dumnezeu, ceea ce ai primit hotărârea credinţei, de la cei şase sute şi treizeci de Dumnezeu purtători Părinţi şi o păstrezi, prealăudată.",
         culoare: "deepskyblue"
@@ -170,7 +170,7 @@ window.dateLuna = {
     // 17 SEPTEMBRIE: Sf. Muceniţă Sofia cu fiicele sale: Pistis, Elpis şi Agapis
     // ============================================================
     "17": {
-        nume: "Sf. Ier. Dionisie, Ep. Cetății Albe; <span style='color: white;'>Sf. Mc. Sofia cu fiicele Pistis, Elpis şi Agapis</span>",
+        nume: "Sf. Ier. Dionisie, Ep. Cetății Albe <br> <span style='color: white;'>Sf. Mc. Sofia cu fiicele Pistis, Elpis şi Agapis</span>",
         tropar: "Mieluşele cuvântătoare, Sfântă Muceniţă Sofia cu fiicele Pistis, Elpis şi Agapis, prin Mc.e v-aţi adus Mielului şi Păstorului, săvârşind călătoria cea către Hristos şi credinţa păzind-o. Pentru aceea, cu suflet vesel astăzi săvârşind pomenirea voastră cea sfântă, minunatelor, pe Hristos Îl slăvim.",
         condac: "Sfinţitele ramuri ale Cinstitei Sofia: Sfintele Pistis, Elpis şi Agapis, cu darul au arătat că înţelepciunea elinilor este nebunie. Şi prin nevoinţe arătându-se biruitoare, s-au încununat cu cunună nepieritoare, de la Stăpânul tuturor, Hristos.",
         culoare: "deepskyblue"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 SEPTEMBRIE: Sf. Ier. Eumenie, Episcopul Gortinei
     // ============================================================
     "18": {
-        nume: " Sf. Preot Mc. Ilarion Felea; <span style='color: white;'>Sf. Ier. Eumenie, Ep. Gortinei</span>",
+        nume: " Sf. Preot Mc. Ilarion Felea",
         tropar: "Cuvântul Evangheliei ai mărturisit, vrednic slujitor al turmei tale și spre Taborul cel ceresc ai alergat, Pătimirii Domnului urmând. Pentru aceasta, te și veselești de slava Dumnezeirii, Părintele nostru Ilarion. Roagă-te lui Hristos Dumnezeu să miluiască sufletele noastre.",
         condac: "Pe grăitorul de Dumnezeu și mărturisitorul lui Hristos, pe Sfântul Preot Ilarion, care a odrăslit din pământul Crișanei și s-a arătat ca o făclie aprinsă a dreptei credințe, învățând și povățuind pe cei credincioși pe calea mântuirii, să-l lăudăm cu evlavie, că a primit cununa muceniciei și luminii celei neînserate s-a făcut părtaș.",
         culoare: "deepskyblue"
@@ -210,7 +210,7 @@ window.dateLuna = {
     // 21 SEPTEMBRIE: Sf. Apostol Codrat din Magnesta
     // ============================================================
     "21": {
-        nume: "Sf. Apostol Codrat din Magnesta; Sf. Proroc Iona",
+        nume: "Sf. Proroc Iona <br> Sf. Apostol Codrat din Magnesta",
         tropar: "Sfinte Apostol Codrat, roagă pe Milostivul Dumnezeu să dăruiască iertare de greşeli sufletelor noastre.",
         condac: "Ca pe un ierarh cinstit şi nevoitor prea tare, lumea îţi aduce Ţie, Doamne, rugător, pe Dumnezeiescul Apostol Codrat şi cu cântări cinsteşte cinstita lui pomenire, cerând totdeauna să se dăruiască iertare de greşeli celor ce cântă: Aliluia.",
         culoare: "incolor"
@@ -260,7 +260,7 @@ window.dateLuna = {
     // 26 SEPTEMBRIE: Sf. Voievod Neagoe Basarab
     // ============================================================
     "26": {
-        nume: "Sf. Voievod Neagoe Basarab; Sf. Cuv. Platonida de la Argeș; <span style='color: gray;'>Adormirea Sf. Apostol și Ev. Ioan</span>",
+        nume: "<span style='color: gray;'>Adormirea Sf. Apostol și Evanghelist Ioan</span> <br> Sf. Voievod Neagoe Basarab <br> Sf. Cuv. Platonida de la Argeș",
         tropar: "Domnitor preaînţelept între căpeteniile neamului românesc, ctitor de lăcaşuri sfinte, prieten al Sfinţilor Părinţi, învăţător luminat de Duhul Sfânt şi mare iubitor de pace, Sfinte Neagoe Voievod, roagă-L pe Hristos Dumnezeu să mântuiască sufletele noastre!",
         condac: "Pe apărătorul credinţei şi darnic ocrotitor al creştinilor din toată Ortodoxia; pe învăţătorul şi împlinitorul Sfintelor Scripturi, care a adus liniştea pustiei în viforul tulburărilor lumeşti, să-l lăudăm cu bucurie şi să-i cântăm cu dragoste: Bucură-te, Sfinte Neagoe, binecredincios voievod al Ţării Româneşti!",
         culoare: "deepskyblue"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 SEPTEMBRIE: Sf. Ier. Martir Antim Ivireanul, Mitropolitul Țării Românești
     // ============================================================
     "27": {
-        nume: "Sf. Ier. Martir Antim Ivireanul, Mitropolitul Țării Românești",
+        nume: "Sf. Ier. Martir Antim Ivireanul, Mitr. Țării Românești",
         tropar: "Sfinte Părinte Ierarhe Antim, după vrednicie ai fost rânduit păstor şi învăţător turmei tale, şi cu înţelepciune dumnezeiască ai revărsat râurile sfintelor tale cuvinte. Viaţa ai pus-o pentru păstoriţii tăi şi cununa Mc.ei ai dobândit de la Hristos Dumnezeu, pe Care roagă-L, Sfinte Părinte Ierarhe Antim, să dăruiască pace şi mare milă celor ce săvârşesc sfântă pomenirea ta.",
         condac: "În ţara noastră sfinţitor te-ai arătat, Sfinte Ierarhe Antim. Că Evanghelia lui Hristos cu râvnă o ai împlinit, pe poporul cel credincios l-ai luminat, lăcaşuri Sfintei Treimi ai ridicat, sufletul ţi-ai pus pentru turma lui Hristos. Pentru aceasta te-ai încununat de la Hristos Dumnezeu cu daruri netrecătoare.",
         culoare: "deepskyblue"

@@ -20,7 +20,7 @@ window.dateLuna = {
     // 02 AUGUST: Aducerea moaştelor Sf.ui întâiului Mc. şi Arhidiacon Ştefan
     // ============================================================
     "02": {
-        nume: "Aducerea moaştelor Sf. Întâi Mucenic și Arhidiacon Ștefan; Dreptul Gamaliel",
+        nume: "Aducerea moaştelor Sf. Întâi Mucenic și Arhidiacon Ștefan",
         tropar: "Cu împărătească cunună a fost încununat creştetul tău, din chinurile cele pe care le-ai răbdat pentru Hristos Dumnezeu, întâi pătimitorule între Mc. Sfinte Arhidiacon Ştefan. Că tu, mustrând nebunia iudeilor, ai văzut pe Mântuitorul tău de-a dreapta Tatălui. Pe Acela roagă-L pentru sufletele noastre.",
         condac: "Întâi tu ai fost semănat pe pământ de Cerescul Lucrător de pământ, prealăudate. Cel dintâi tu pe pământ ţi-ai vărsat pentru Hristos sângele, fericite. Cel dintâi tu cu cunună de biruinţă de Dânsul ai fost încununat în ceruri, începătorule al pătimitorilor, purtătorule de cunună, cel ce mai înainte decât Mc.i ai pătimit.",
         culoare: "incolor"
@@ -40,7 +40,7 @@ window.dateLuna = {
     // 04 AUGUST: Sf. 7 tineri din Efes
     // ============================================================
     "04": {
-        nume: "Sf. 7 tineri din Efes: Iamvlih, Maximilian, Exacustodian, Ioan, Martinian, Dionisie şi Constantin",
+        nume: "Sfinții 7 tineri din Efes",
         tropar: "Mari sunt isprăvile credinţei! În peşteră, ca într-o cămară împărătească, au petrecut cei şapte sfinţi tineri şi fără stricăciune au murit. Iar după multă vreme, ca dintr-un somn s-au sculat, pentru încredinţarea învierii tuturor oamenilor. Pentru rugăciunile lor, Hristoase Dumnezeule, miluieşte-ne pe noi.",
         condac: "Preamărit-ai pe pământ pe Sf. Tăi mai înainte, prin înfricoşătoarea şi preamărita înviere care ai însemnat printr-înşii, mai înainte de învierea cea de obşte, ca să se astupe gu­rile celor ce nu o credeau; iar mai pe urmă, Hristoase Dumnezeule, i-ai sălăşluit întru Împărăţia Ta, să se desfăteze în veci.",
         culoare: "incolor"
@@ -70,7 +70,7 @@ window.dateLuna = {
     // 07 AUGUST: Sf. Cuv. Teodora de la Sihla
     // ============================================================
     "07": {
-        nume: "Sf. Cuv. Teodora de la Sihla Sf. Cuv. Pafnutie Pârvu Zugravul",
+        nume: "Sf. Cuv. Teodora de la Sihla",
         tropar: "Cele pământeşti părăsind şi jugul pustniciei luând, te-ai făcut mireasă lui Hristos, fericită; cu postul, cu privegherea cereştile daruri luând şi cu rugăciunea pe îngeri ajungând, firea omenească ai biruit şi la cele cereşti te-ai mutat, lăsându-ne spre mângâiere peştera şi sfintele tale moaşte. Pentru aceasta, Sfântă Preacuvioasă Maică Teodora, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Fiind aleasă de Dumnezeu pentru viața îngerească de sihăstrie, ai părăsit cele trecătoare și te-ai retras la Sihla, în peșteră, Cuvioasă. Și acolo, fiind hrănită de păsările cerului, neîncetat L-ai slăvit pe Dumnezeu Cel în Treime închinat. Pentru aceasta cu credință îți strigăm: Bucură-te, Cuvioasă Maică Teodora!",
         culoare: "deepskyblue"
@@ -160,7 +160,7 @@ window.dateLuna = {
     // 16 AUGUST: Sfinții Martiri Brâncoveni: Constantin Vodă cu fii săi Constantin, Ștefan, Radu, Matei și cu sfetnicul Ianache
     // ============================================================
     "16": {
-        nume: "Sf. Martiri Constantin Vodă cu fii Constantin, Ștefan, Radu, Matei și sfetnicul Ianache; Sf. Maria Brâncoveanu",
+        nume: "Sf. Martiri Constantin Vodă cu fii Constantin, Ștefan, Radu, Matei și sfetnicul Ianache, Sf. Maria Brâncoveanu",
         tropar: "Cel ce pentru dreapta credință și pentru neam, te-ai învrednicit a suferi moarte de martir, împreună cu fiii tăi Constantin, Ștefan, Radu și Matei și cu sfetnicul Ianache, dreptcrediciosule Voievod Constantine, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "De stăpânia trecătoare lepădându-vă, Împărăţia nestricată, Voievozilor, aţi luat de la Stăpânul muceniceşte; pe Acela arătaţi-L, Brâncovenilor, îndurat celor ce strigă cu evlavie: Bucuraţi-vă, de Hristos iubitorilor.",
         culoare: "deepskyblue"
@@ -170,7 +170,7 @@ window.dateLuna = {
     // 17 AUGUST: Sf. Gheorghe Pelerinul
     // ============================================================
     "17": {
-        nume: "Sf. Gheorghe Pelerinul; Sf. Cuv. Nazaria, Olimpiada și Elisabeta de la Văratec",
+        nume: "Sf. Gheorghe Pelerinul",
         tropar: "Pe nevoitorul cel mare și următorul sihaștrilor, pe fericitul pelerin al lui Hristos în cântări să-l cinstim, strigându-i cu evlavie: Sfinte Gheorghe, prin rugăciunile tale, luminează calea vieții noastre!",
         condac: "Toată viața cu credință lui Hristos urmând, ai lăsat toate pentru numele cel sfânt al Lui și în lume L-ai vestit, Sfinte Gheorghe, nici încălțăminte purtând, nici două haine având, și nici capul, fericite, acoperindu-ți; pentru aceasta, strigăm: Bucură-te, vas al alegerii!",
         culoare: "deepskyblue"
@@ -230,7 +230,7 @@ window.dateLuna = {
     // 23 AUGUST: Sf. Mucenic Lup
     // ============================================================
     "23": {
-        nume: "Sf. Mc. Lup din Nove; <span style='color: white;'>Sf. Sfințit Mc. Irineu, Ep. de Lugdunum</span>",
+        nume: "Sf. Mc. Lup din Nove",
         tropar: "Mucenicul Tău, Doamne, Lup, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "",
         culoare: "deepskyblue"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 AUGUST: Sf. Mc. Fanurie
     // ============================================================
     "27": {
-        nume: "Sf. Mc. Fanurie; Sf. Cuv. Pimen cel Mare",
+        nume: "Sf. Mc. Fanurie",
         tropar: "Către dreptul ostaș al lui Hristos, biruitor în lupte, vrednicule mucenice Fanurie, laude aducem noi credincioșii și-i strigăm: preamărite, nu înceta a te milostivi către Preaînduratul Hristos, pentru noi cei ce nădajduim în harul tău, Mare Mucenice, nou luminător al credinței.",
         condac: "Mare Mucenice Fanurie, puternice, primește rugăciunile celor ce aleargă cu evlavie spre ajutorul tău, dăruind sănătate sufletească și trupească.",
         culoare: "incolor"
@@ -280,7 +280,7 @@ window.dateLuna = {
     // 28 AUGUST: Sf. Cuv. Moise Etiopianul
     // ============================================================
     "28": {
-        nume: "Sf. Cuv. Iosif Isihastul; Sf. Cuv. Moise Etiopianul",
+        nume: "Sf. Cuv. Iosif Isihastul",
         tropar: "A isihaştilor fiind pildă şi culme şi lucrător preaiscusit al trezviei, nevoitor ales şi cuvios încercat, scoate dar pe fiii tăi dintru toată nevoia, Iosif minunatule, te rugăm mijloceşte neîncetat la Domnul pentru noi să ne arate mila Sa pururea.",
         condac: "Ca o stea preastrălucită arătatu-te-ai şi mijlocitor neadormit pentru ucenicii tăi, pe cei din întunericul patimilor luminând, fiind dascăl nerătăcit, pentru monahi îndrumător, care se roagă cu încredere: Dă-ne, Părinte, harul pe care-l ai de la Domnul, că tu ai milă pentru toţi cei ce, Iosife, te laudă.",
         culoare: "incolor"
@@ -300,7 +300,7 @@ window.dateLuna = {
     // 30 AUGUST: Sf. Ier. Varlaam, Mitropolitul Moldovei
     // ============================================================
     "30": {
-        nume: "Sf. Ier. Varlaam, Mitr. Moldovei; Sf. Ier. Ioan de la Râșca și Secu; <span style='color: white;'>Sf. Ier. Alexandru, Patr. Constantinopolului</span>",
+        nume: "Sf. Ier. Varlaam, Mitr. Moldovei; <span style='color: white;'>Sf. Ier. Alexandru, Patr. Constantinopolului</span>",
         tropar: "Vrednic slujitor al lui Hristos și înțelept apărător al dreptei credințe, mare cinstitor al Sfintei Cuvioase Parascheva și credincios luminător al neamului românesc, Sfinte Ierarhe Varlaam, roagă pe Hristos-Dumnezeu să ocrotească și să mântuiască sufletele noastre.",
         condac: "Cu dumnezeieștile învățături strălucind, Părinte Sfinte, ai păstorit Biserica neamului tău și ai tâlcuit Evanghelia lui Hristos. Pentru aceasta, te-ai arătat, Sfinte Ierarhe Varlaam, ca un mare apărător al dreptei credințe.",
         culoare: "deepskyblue"

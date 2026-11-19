@@ -10,7 +10,7 @@ window.dateLuna = {
     // 01 IUNIE: Sf. Mc. Iustin Martirul şi Filosoful
     // ============================================================
     "01": {
-        nume: "Sf. Mc. Iustin Martirul şi Filosoful; Sf. Mc. Valerian",
+        nume: "Sf. Mc. Iustin Martirul şi Filosoful",
         tropar: "Înțelepciunea omenească avându-o, pe cea cerească ai primit-o slăvite, și-mpotrivindu-te păgânilor ca un viteaz și cuvântul Tatălui mărturisindu-l prin sânge, cetelor mucenicești te-ai adăugat Iustine, cu care roagă-L pururi pe Hristos, să mântuiască pe cei ce te laudă.",
         condac: "Cu înţelepciunea dumnezeieştilor tale cuvinte, Iustine, toată Biserica lui Dumnezeu înfrumuseţându-se prin strălucirea vieţii luminează lumea. Iar pentru vărsarea sângelui primind cunună şi înaintea lui Hristos stând împreună cu îngerii, roagă-te neîncetat pentru noi toţi.",
         culoare: "incolor"
@@ -20,7 +20,7 @@ window.dateLuna = {
     // 02 IUNIE: Sf. Mare Mc. Ioan cel Nou de la Suceava
     // ============================================================
     "02": {
-        nume: "Sf. Mare Mc. Ioan cel Nou de la Suceava; <span style='color: white;'>Sf. Ier. Nichifor, Patr. Constantinopolului</span>",
+        nume: "Sf. Mare Mc. Ioan cel Nou de la Suceava",
         tropar: "Viaţa ta pe pământ bine cârmuind, pătimitorule, cu milostenii şi cu neîncetate rugăciuni şi lacrimi şi iarăşi către pătimire bărbăteşte pornindu-te, necredinţa persienească ai mustrat. Drept aceea Bisericii te-ai făcut întărire şi creştinilor laudă, Sfinte Ioane pururea pomenite.",
         condac: "Plutind pe luciul mării cu neguţătorie, de la răsărit către miazănoapte te-ai nevoit şi chemandu-te Dumnezeu pe tine, precum Matei vama şi tu neguţătoria lăsând, Aceluia ai urmat prin sângele Mc.ei, cu cele vremelnice răscumpărând cele netrecătoare, ai luat cunună de biruinţă.",
         culoare: "deepskyblue"
@@ -40,7 +40,7 @@ window.dateLuna = {
     // 04 IUNIE: Sf. Ier. Mitrofan, Patriarhul Constantinopolului
     // ============================================================
     "04": {
-        nume: "Sf. Mc. Zotic, Atal, Camasie și Filip de la Niculițel; <span style='color: white;'>Sf. Ier. Mitrofan, Patr. Constantinopolului</span>",
+        nume: "Sf. Mc. Zotic, Atal, Camasie și Filip de la Niculițel <br> <span style='color: white;'>Sf. Ier. Mitrofan, Patr. Constantinopolului</span>",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Mitrofan, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Pe ierarhul lui Hristos Mitrofan, pe luminătorul Bisericii cel luminat, cel ce a propovăduit în mijlocul de Dumnezeu purtătorilor părinţi pe Cuvântul a fi de o fiinţă cu Tatăl, care şi scaunul cetăţii împărăteşti întâi l-a împodobit şi har de proorocie de la Dumnezeu luminat a luat, cu un glas să-l lăudăm.",
         culoare: "deepskyblue"
@@ -50,7 +50,7 @@ window.dateLuna = {
     // 05 IUNIE: Sf. Sfințit Mc. Dorotei, Episcopul Tirului
     // ============================================================
     "05": {
-        nume: "Sfânta Cuvioasă Elisabeta de la Pasărea; <span style='color: white;'>Sf. Sfințit Mc. Dorotei, Episcopul Tirului</span>",
+        nume: "Sfânta Cuvioasă Elisabeta de la Pasărea <br> <span style='color: white;'>Sf. Sfințit Mc. Dorotei, Episcopul Tirului</span>",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Dorotei, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Cu învăţături ortodoxe, Sfinţite Mucenice Dorotei, propovăduind, dar dumnezeiesc sfânt pe tine însuţi te-ai adus Făcătorului, întâi în pustnicie cu cuviinţă vieţuind, a doua cu Mc.a tare pătimind; şi după lege ai luat răsplătirea biruinţei de la Hristos Dumnezeu.",
         culoare: "deepskyblue"
@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 IUNIE: Sf. Cuv. Ilarion cel Nou, egumenul Mănăstirii Dalmaților
     // ============================================================
     "06": {
-        nume: "Sf. Mc. Ghelasie; Sf. Cuv. Ilarion cel Nou, egumenul Mănăstirii Dalmaților",
+        nume: "Sf. Cuv. Ilarion cel Nou, egumenul Mănăstirii Dalmaților",
         tropar: "Cu curgerile lacrimilor tale ai lucrat pustiul cel neroditor şi cu suspinurile cele dintru adânc ai făcut ostenelile tale însutit roditoare; şi te-ai făcut luminător lumii, strălucind cu minunile, Ilarion, părintele nostru. Roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Cu focul împărtăşindu-te, nicicum nu te-ai ars, Părinte Ilarioane, înţelepte, nevoitorule cel cu minte vitează, că rouă de la Dumnezeu ai câştigat, care te-a răcorit. Pentru aceasta ai suferit lupte mai presus de fire, bucurându-te cu cuvioşii, de Dumnezeu înţelepţite, cu care pomeneşte-ne şi pe noi.",
         culoare: "incolor"
@@ -70,7 +70,7 @@ window.dateLuna = {
     // 07 IUNIE: Sf. Sfințit Mc. Teodot, Episcopul Ancirei
     // ============================================================
     "07": {
-        nume: "Sf. Sfințit Mc. Teodot, Episcopul Ancirei; Sf. Cuv. Sebastiana",
+        nume: "Sf. Sfințit Mc. Teodot, Episcopul Ancirei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Teodot, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Arătatu-te-ai stea luminoasă în lume şi ai vestit pe Soarele Hristos prin strălucirile tale, purtătorule de chinuri, Sfinţite Mucenice Teodot. Pentru aceasta roagă-te neîncetat lui Hristos, pentru noi toţi.",
         culoare: "incolor"
@@ -80,7 +80,7 @@ window.dateLuna = {
     // 08 IUNIE: Aducerea moaștelor Sf.ui Mare Mc. Teodor Stratilat
     // ============================================================
     "08": {
-        nume: "Sf. Mc. Nicandru și Marcian; <span style='color: white;'>Aducerea moaștelor Sf.ui Mare Mc. Teodor Stratilat</span>",
+        nume: "Sf. Mc. Nicandru și Marcian <br> <span style='color: white;'>Aducerea moaștelor Sf. Mare Mc. Teodor Stratilat</span>",
         tropar: "Voievod strălucit al adevăratei oști a Împăratului ceresc ai ajuns fericite Teodor, purtătorule de biruință, că înțelepțește te-ai luptat cu armele credinței și mulțimile demonilor ai biruit și biruitor adevărat te-ai arătat. Pentru aceasta pe tine cu credință pururea te fericim.",
         condac: "Cu bărbăţia sufletului, întru credinţă ca întru o platoşă îmbrăcându-te şi cuvântul lui Dumnezeu ca o suliţă în mâini luând, pe vrăjmaşul ai rănit, între Mc. Mare Teodore. Cu care împreună lui Hristos Dumnezeu, nu înceta a te ruga pentru noi toţi.",
         culoare: "deepskyblue"
@@ -90,7 +90,7 @@ window.dateLuna = {
     // 09 IUNIE: Sf. Ier. Chiril, Arhiepiscopul Alexandriei
     // ============================================================
     "09": {
-        nume: "Sf. Ier. Chiril, Arh. Alexandriei; Sf. Mc. Tecla",
+        nume: "Sf. Ier. Chiril, Arh. Alexandriei <br> Sf. Mc. Tecla",
         tropar: "Al ortodoxiei îndreptătorule, al bunei credințe învăţătorule şi al curăţiei, al lumii luminătorule, podoaba cuvioşilor cea de Dumnezeu insuflată, Chiril, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Ierarhilor prea mari ai Bisericii şi vitejilor apărători ai dreptei credinţe în Hristos, păziţi pe toţi cei ce cântă: mântuieşte, Îndurate, pe cei ce Te cinstesc pe Tine, cu credinţă.",
         culoare: "incolor"
@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 IUNIE: Sfinții Apostoli Bartolomeu și Barnaba
     // ============================================================
     "11": {
-        nume: "Sf. Apostoli Bartolomeu și Barnaba; Sf. Ier. Luca, Arh. Crimeei",
+        nume: "Sf. Apostoli Bartolomeu și Barnaba <br> Sf. Ier. Luca, Arh. Crimeei",
         tropar: "Sfinţilor Apostoli Bartolomeu și Barnaba rugaţi pe milostivul Dumnezeu ca să dea iertare de greşeli sufletelor noastre.",
         condac: "Arătatu-te-ai mare soare Bisericii, cu strălucirile învăţăturilor şi ale înfricoşătoarelor minuni, la lumină povăţuind pe cei ce te cinstesc pe tine, Sfinte Bartolomeu, Apostole al Domnului.",
         culoare: "incolor"
@@ -130,7 +130,7 @@ window.dateLuna = {
     // 13 IUNIE: Sf. Mc. Achilina
     // ============================================================
     "13": {
-        nume: "Sf. Ier. Trifilie, Ep. Levcosiei; Sf. Mc. Achilina",
+        nume: "Sf. Mc. Achilina",
         tropar: "Mieluşeaua Ta, Iisuse, Achilina, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc, și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.",
         condac: "Cu stropirile sângiurilor tale fiind curăţită şi cu cununile chinurilor încununată, Fecioară Achilina, Mirele tău Hristos pe tine te-a dat tămăduire şi mântuire celor din necazurile bolilor; celor ce aleargă la tine cu credinţă, izvorându-le viaţă veşnică.",
         culoare: "incolor"
@@ -150,7 +150,7 @@ window.dateLuna = {
     // 15 IUNIE: Sf. Proroc Amos
     // ============================================================
     "15": {
-        nume: "Sf. Mc. Isihie; <span style='color: white;'>Sf. Proroc Amos</span>",
+        nume: "Sf. Mc. Isihie <br> <span style='color: white;'>Sf. Proroc Amos</span>",
         tropar: "A prorocului Tău Amos pomenire, Doamne, prăznuind, printr-însul Te rugăm, mântuieşte sufletele noastre.",
         condac: "Curăţindu-ţi prin Duhul inima cea strălucitoare de lumină, Mărite Prorocule Amos, ai primit de sus harul prorociei şi la margini cu mare glas ai strigat: Acesta este Dumnezeul nostru şi nu se va adăuga altul către Dânsul.",
         culoare: "deepskyblue"
@@ -160,7 +160,7 @@ window.dateLuna = {
     // 16 IUNIE: Sf. Ier. Tihon, Episcopul Amatundei
     // ============================================================
     "16": {
-        nume: "Sf. Ier. Martir Neofit Cretanul, Mitr. Țării Românești; <span style='color: white;'>Sf. Ier. Tihon, Ep. Amatundei</span>",
+        nume: "Sf. Ier. Martir Neofit Cretanul, Mitr. Țării Românești <br> <span style='color: white;'>Sf. Ier. Tihon, Ep. Amatundei</span>",
         tropar: "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Tihon; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui Ce ţi-a dat ţie putere; slavă Celui Ce te-a încununat pe tine; Slavă Celui Ce lucrează prin tine tuturor tămăduiri.",
         condac: "Întru sihăstrie de Dumnezeu iubitorule, sfinte, petrecând, puterea Mântuitorului de sus ai luat, idolii înşelăciunii ai surpat şi pe popoare le-ai mântuit, demonii ai gonit, bolile ai vindecat. Pentru aceasta te cinstim pe tine ca pe un prieten al lui Dumnezeu, Sfinte Tihone Preafericite.",
         culoare: "deepskyblue"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 IUNIE: Sf. Mc. Leontie
     // ============================================================
     "18": {
-        nume: "Sf. Mc. Leontie; Sf. Mc. Alina",
+        nume: "Sf. Mc. Leontie <br> Sf. Mc. Alina",
         tropar: "Mucenicul Tău, Doamne, Leontie, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Meşteşugirile cele viclene ale tiranilor le-ai ruşinat şi slujbele elineşti cele fără de Dumnezeu defăimându-le, luminat ai arătat cunoştinţa de Dumnezeu tuturor oamenilor cu învăţăturile dreptei credinţe, de Dumnezeu înţelepţite mucenice. Pentru aceasta a ta pomenire cinstim cu dragoste, înţelepte Leontie.",
         culoare: "incolor"
@@ -190,7 +190,7 @@ window.dateLuna = {
     // 19 IUNIE: Sf. Apostol Iuda, rudenia Domnului
     // ============================================================
     "19": {
-        nume: "Sf. Apostol Iuda, ruda Domnului; Sf. Cuv. Paisie cel Mare",
+        nume: "Sf. Apostol Iuda, ruda Domnului",
         tropar: "Al lui Hristos frate şi mucenic tare, ştiindu-te pe tine, Sfinte Iuda, cu sfinţenie te lăudăm pe tine, cel ce ai călcat înşelăciunea şi credinţa ai păzit. Pentru aceasta astăzi preasfântă pomenirea ta prăznuind, dezlegare de păcate cu rugăciunile tale luăm.",
         condac: "Cu minte tare ucenic ales tu te-ai arătat şi stâlp neclintit Bisericii lui Hristos, neamurilor ai propovăduit cuvântul lui Hristos, învăţându-le să creadă într-o Dumnezeire, din care pricină ai şi fost preamărit şi ai primit harul vindecării, ca să vindeci neputinţele celor ce aleargă către tine, Apostole Iuda întru tot lăudate.",
         culoare: "incolor"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 IUNIE: Sf. Sfințit Mucenic Metodie, Episcopul Patarelor
     // ============================================================
     "20": {
-        nume: "Sf. Sfințit Mc. Metodie, Ep. Patarelor; Sf. Nicolae Cabasila",
+        nume: "Sf. Sfințit Mc. Metodie, Ep. Patarelor",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Metodie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Sfinţit tăinuitor al Preasfintei Treimi şi propovăduitor dumnezeieştilor porunci celor mai presus de gând şi întărire bine credincioşilor ai fost, Sfinţite Mucenice Metodie; căci ai înfruntat cugetele celor răucredincioşi şi pentru dreapta credinţă te-ai arătat sfinţit mucenic prin sângele tău şi împreună cu îngerii stând înaintea lui Hristos, roagă-te să ne mântuiască pe noi.",
         culoare: "incolor"
@@ -210,7 +210,7 @@ window.dateLuna = {
     // 21 IUNIE: Sf. Mc. Iulian din Tars
     // ============================================================
     "21": {
-        nume: "Sf. Mc. Iulian din Tars; Soborul Sfinților Athoniți",
+        nume: "Sf. Mc. Iulian din Tars",
         tropar: "Mucenicul Tău, Doamne, Iulian, întru nevoinţa sa, cununa nestricăciunii a dobândit de la Tine, Dumnezeul nostru; că având puterea Ta, pe chinuitori a învins; zdrobit-a şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lui, mântuieşte sufletele noastre, Hristoase Dumnezeule",
         condac: "Pe ostaşul cel nebiruit al dreptei credinţe, pe Mucenicul Iulian toţi cu credinţă să-l lăudăm astăzi şi să strigăm către dânsul: roagă-te lui Hristos pentru noi toţi.",
         culoare: "incolor"
@@ -220,7 +220,7 @@ window.dateLuna = {
     // 22 IUNIE: Sf. Ier. Grigorie Dascălul, Mitropolitul Țării Românești
     // ============================================================
     "22": {
-        nume: "Sf. Ier. Grigorie Dascălul, Mitr. Țării Românești; <span style='color: white;'>Sf. Mc. Zina</span>",
+        nume: "Sf. Ier. Grigorie Dascălul, Mitr. Țării Românești",
         tropar: "De dulceaţa gurii tale celei sfintite ce indulceste Biserica si de focul ravnei tale se minuneaza cetele ceresti, ca ostenindu-te in talmacirea sfintelor invataturi ale parintilor celor de demult, ai daruit turmei tale bucuria cunoasterii lui Dumnezeu, Sfinte Ierarhe Grigorie.",
         condac: "Apărător neînfricat al dreptei credinţe şi mijlocitor milostiv poporului celui asuprit te-a avut pe tine Biserica Ţării Româneşti, Sfinte Ierarhe Grigorie, că pe preoţi şi credincioşi i-ai povăţuit, pe tineri i-ai învăţat şi pe orfani i-ai ocrotit, iar scrierile tale şi înţeleptele învăţături au rămas tezaur nepreţuit Bisericii noastre dreptmăritoare.",
         culoare: "deepskyblue"
@@ -250,7 +250,7 @@ window.dateLuna = {
     // 25 IUNIE: Sf. Mare Mc. Fevronia
     // ============================================================
     "25": {
-        nume: "Sf. Mare Mc. Fevronia; Sf. Cuv. Dometie",
+        nume: "Sf. Mare Mc. Fevronia",
         tropar: "Mieluşeaua Ta, Iisuse, Fevronia, strigă cu glas mare: pe Tine, Mirele meu, te iubesc și pe Tine căutându-Te mă chinuiesc și împreună mă răstignesc și împreună mă îngrop cu Botezul Tău; și pătimesc pentru Tine, ca să împărățesc întru Tine; și mor pentru tine, ca să viez pentru Tine; ci, ca o jertfă fără de prihană, primește-mă pe mine ceea ce cu dragoste mă jertfesc Ție. Pentru rugăciunile ei, ca un milostiv, mântuiește sufletele noastre.",
         condac: "Mirele meu Cel Preadulce, Hristoase, a strigat Muceniţa Fevronia, nu-mi este mie cu anevoie a merge pe urma Ta; căci dulceaţa dragostei Tale a întraripat sufletul meu cu nădejdea şi frumuseţea milostivirii Tale, a îndulcit inima mea, ca să beau paharul pătimirii după Tine; ca să mă numesc şi vrednică a dănţui în cămară împreună cu fecioarele cele înţelepte. Pentru aceasta, preacuvioasă răbdătoare de chinuri, cinstind nevoinţele ostenelilor tale, te rugăm pe tine, roagă-te să nu ni se închidă şi nouă uşile cămării.",
         culoare: "incolor"
@@ -260,7 +260,7 @@ window.dateLuna = {
     // 26 IUNIE: Sf. Cuv. David din Tesalonic
     // ============================================================
     "26": {
-        nume: "Sf. Cuv. David din Tesalonic; Sf. Ier. Ioan, Ep. Goției",
+        nume: "Sf. Cuv. David din Tesalonic",
         tropar: "Întru tine părinte cu osârdie s-a mântuit cel după chip; că luând crucea ai urmat lui Hristos; şi lucrând ai învăţat să nu se uite la trup, că este trecător; ci să poarte grijă de suflet, de lucrul cel nemuritor. Pentru aceasta şi cu îngerii împreună se bucură, Preacuvioase Părinte David, duhul tău.",
         condac: "Ca o grădină pururea înflorită şi aducătoare de roadele virtuţilor, te-ai arătat deasupra copacului celui sădit; ca o pasăre cu bun glas şi mai presus decât Raiul, primind în inima ta pomul vieţii, pe Dumnezeu, pe Acesta L-ai lucrat, de Dumnezeu înţelepţite, cu Care ne şi hrăneşti pe noi prin har; roagă-te pururea pentru noi, Preafericite David.",
         culoare: "incolor"
@@ -270,7 +270,7 @@ window.dateLuna = {
     // 27 IUNIE: Sf. Cuv. Samson, primitorul de străini
     // ============================================================
     "27": {
-        nume: "Sf. Cuv. Samson, primitorul de străini; Sf. Ioana Mironosița",
+        nume: "Sf. Cuv. Samson, primitorul de străini",
         tropar: "În răbdare ţi-ai agonisit plata ta, părinte cuvioase; în rugăciuni neîncetat răbdând, pe săraci iubind şi pe aceia îndestulând. Ci te roagă lui Hristos Dumnezeu, Sfinte Samson, milostive fericite, să mântuiască sufletele noastre.",
         condac: "Ca la un doctor preaales şi rugător bine primit, alergăm la dumnezeiasca ta raclă, Sfinte Samson, de Dumnezeu înţelepţite, cuvioase, adunându-ne cu dragoste, cu psalmi şi cu cântări bucurându-ne, preaslăvim pe Hristos, Cel Ce ţi-a dat ţie un dar ca acesta de tămăduiri.",
         culoare: "incolor"

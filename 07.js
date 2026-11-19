@@ -41,7 +41,7 @@ window.dateLuna = {
     // 04 IULIE: Sf. Ier. Andrei, Arhiepiscopul Cretei
     // ============================================================
     "04": {
-        nume: "Sf. Olimpiada din Fărcașa; <span style='color: white;'>Sf. Ier. Andrei, Arh. Cretei</span>",
+        nume: "Sf. Olimpiada din Fărcașa <br> <span style='color: white;'>Sf. Ier. Andrei, Arh. Cretei</span>",
         tropar: "Al ortodoxiei îndreptătorule, al bunei credințe învăţătorule şi al curăţiei, al lumii luminătorule, podoaba cuvioșilor cea de Dumnezeu insuflată, Andrei, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Trâmbiţând luminat dumnezeieştile cântări, cele cu dulceaţă, te-ai arătat luminător prealuminat lumii, cu Lumina Treimii strălucind, Cuvioase Andrei. Pentru aceasta, toţi grăim către tine: nu înceta să te rogi pentru noi toţi.",
         culoare: "deepskyblue"
@@ -61,7 +61,7 @@ window.dateLuna = {
     // 06 IULIE: Sf. Cuv. Dometie cel Milostiv de la Râmeț
     // ============================================================
     "06": {
-        nume: "Sf. Cuv. Dometie cel Milostiv de la Râmeț; Sf. Cuv. Filotimia de la Râmeț",
+        nume: "Sf. Cuv. Dometie cel Milostiv de la Râmeț <br> Sf. Cuv. Filotimia de la Râmeț",
         tropar: "Îndrumător al monahilor, al monahiilor și al credincioșilor mireni te-am cunoscut și te cinstim, ajutător săracilor întru toate nevoile, dar și pildă de milostenie, Sfinte Cuvioase Părinte Dometie, roagă-te pentru sufletele noastre.",
         condac: "Pe Stăpânul tuturor din tinerețe L-ai slujit, Părinte Dometie, cu toată jertfa de sine; Râmețului înnoitor te-ai arătat, dascăl bun ai fost monahilor și pentru toți credincioșii călăuzire și pildă de milostenie.",
         culoare: "deepskyblue"
@@ -111,7 +111,7 @@ window.dateLuna = {
     // 11 IULIE: Sf. Mare Mc. Eufimia
     // ============================================================
     "11": {
-        nume: "Sf. Mare Mc. Eufimia; Sf. Cuv. Sofronie de la Essex",
+        nume: "Sf. Mare Mc. Eufimia",
         tropar: "Foarte ai veselit pe ortodocşi şi ai ruşinat pe cei rău slăvitori, Eufimia, a lui Hristos preafumoasă fecioară. Căci dogmele Soborului al patrulea le-ai întărit, pe care părinţii bine le-au dogmatisit. Muceniţă slăvită, roagă-L pe Hristos Dumnezeu să se dăruiască nouă mare milă.",
         condac: "Nevoinţe în chinuri, nevoinţe pentru credinţă cu avânt ai suferit pentru Hristos, Mirele tău. Acestuia şi acum roagă-te, să se surpe trufia vrăjmaşilor sub picioarele binecredincioşilor, ca şi atunci eresurile prin rugăciunile Născătoarei de Dumnezeu, ceea ce ai primit hotărârea credinţei, de la cei şase sute şi treizeci de Dumnezeu purtători Părinţi şi o păstrezi, prealăudată.",
         culoare: "incolor"
@@ -121,7 +121,7 @@ window.dateLuna = {
     // 12 IULIE: Sf. Cuv. Paisie Aghioritul
     // ============================================================
     "12": {
-        nume: "Cinstirea Sf. Icoane Prodromița; <span style='color: white;'>Sf. Cuv. Paisie Aghioritul</span>",
+        nume: "Cinstirea Sf. Icoane Prodromița <br> <span style='color: white;'>Sf. Cuv. Paisie Aghioritul</span>",
         tropar: "Născătoare de Dumnezeu, pururea Fecioară, sfintei şi dumnezeieştii icoanei tale cu dragoste şi cu credinţă închinându-ne, o sărutăm mulţumind; căci prin ea celor credincioşi dăruieşti cu adevărat tămăduiri sufletelor şi trupurilor. Pentru aceasta, grăim către tine: Slavă fecioriei tale, slavă milostivirii tale, slavă purtării tale de grijă, Ceea ce eşti Una Binecuvântată.",
         condac: "Chipului tău, Preacurată Născătoare de Dumnezeu Fecioară, ne închinăm credincioşii, cinstindu-l după vrednicie; căci ne păzeşti şi ne izbăveşti din ispite şi din toate relele întâmplări. Pentru aceea, mulţumind, grăim ţie: Bucură-te, Fecioară, Nădejdea şi Slava creştinilor.",
         culoare: "deepskyblue"
@@ -131,7 +131,7 @@ window.dateLuna = {
     // 13 IULIE: Sf. Cuv. Ştefan Savaitul
     // ============================================================
     "13": {
-        nume: "Sf. Cuv. Nifon de la Prodromu; <span style='color: white;'>Sf. Cuv. Ştefan Savaitul</span>",
+        nume: "Sf. Cuv. Nifon de la Prodromu <br> <span style='color: white;'>Sf. Cuv. Ştefan Savaitul</span>",
         tropar: "Al ortodoxiei îndreptătorule, al bunei credințe învăţătorule şi al curăţiei, al lumii luminătorule, podoaba cuvioșilor cea de Dumnezeu insuflată, Ștefan, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Cercând adâncimea înţelep ciunii, Sfinte Ştefan, te-ai învrednicit a o câştiga după bună plăcere. Şi prin dureri ai dobândit piatra cea de mult preţ a înţelepciunii, preafericite.",
         culoare: "deepskyblue"
@@ -211,7 +211,7 @@ window.dateLuna = {
     // 21 IULIE: Sf. Proroc Iezechiel
     // ============================================================
     "21": {
-        nume: "Sf. Cuv. Rafael şi Partenie de la Agapia Veche; <span style='color: white;'>Sfântul Proroc Iezechiel</span>",
+        nume: "Sf. Cuv. Rafael şi Partenie de la Agapia Veche <br> <span style='color: white;'>Sfântul Proroc Iezechiel</span>",
         tropar: "Următori şi împlinitori ai Evangheliei lui Hristos, Cuvioşilor Părinţi Partenie şi Rafail, sihaştrii prealuminaţi ai munţilor Moldovei; ostenindu-vă cu postul şi cu rugăciunea, aţi dobândit de la Dumnezeu aripi ale sufletului vostru, pentru aceasta vă rugăm să ne trimiteţi de la Hristos milă şi har celor ce prăznuim cu dragoste pomenirea voastră!",
         condac: "La ajutorul vostru alergăm, Cuvioșilor Părinți, ca la niște izvoare tămăduitoare pe care Dumnezeu le-a făcut pentru noi. Prin voi, fericiților, ne adapă Hristos din apele Duhului, ca să lăudăm Treimea cea de o ființă și vouă să vă cântăm: Bucurați-vă, Sfinților Cuvioși Rafael și Partenie, rugători pentru sufletele noastre!",
         culoare: "deepskyblue"
@@ -221,7 +221,7 @@ window.dateLuna = {
     // 22 IULIE: Preot Mărturisitor Ilie Lăcătușu
     // ============================================================
     "22": {
-        nume: "Preot Mărturisitor Ilie Lăcătușu; <span style='color: white;'>Sf. Mironosiță Maria Magdalena</span>",
+        nume: "Preot Mărturisitor Ilie Lăcătușu <br> <span style='color: white;'>Sf. Mironosiță Maria Magdalena</span>",
         tropar: "De tânăr, prin dragostea față de toți, ai vădit iubirea din inimă către Hristos - Dumnezeu, Ilie cel plin de Har, apoi, mărturisindu-L, răbdător în prigoană, ai fost cinstit cu darul nestricăciunii, Părinte. Acum, dar, cu îndrăzneală roagă-te pentru noi.",
         condac: "Suferind durerile ca răstignire și lucrând smerenia, ai dobândit de la Hristos darul slăvit al minunilor, Sfinte Ilie, lauda Bucureștilor.",
         culoare: "deepskyblue"
@@ -281,7 +281,7 @@ window.dateLuna = {
     // 28 IULIE: Sf. Cuv. Pavel de la Xiropotamu
     // ============================================================
     "28": {
-        nume: "Sf. Cuv. Pavel de la Xiropotamu; Sf. Apostoli și Diaconi Prohor, Nicanor, Timon și Parmena",
+        nume: "Sf. Cuv. Pavel de la Xiropotamu",
         tropar: "Înger în trup, temelie a sihaştrilor, Sf. Pavel Măritul, împodobitorul cel dintâi al Mănăstirii Xiropotamului, cheamă de sus mulţimea îngerilor; iar de jos adună cetele ucenicilor săi, ca să cânte cu cântări, dumnezeiască pomenirea sa.",
         condac: "Ca unul care ai fost sfinţit şi dumnezeiesc locaş al Treimii, prin viaţa cea întocmai cu a îngerilor, te lăudăm noi, fiii tăi, de Dumnezeu purtătorule. Ci, ca unul care ai îndrăzneală spre aceasta, roagă-te Sfintei Treimi să ne mântuiască degrab din tot felul de mâhniri, ca să cântăm ţie: Bucură-te, Sfinte Pavel, Părintele nostru.",
         culoare: "incolor"
@@ -311,7 +311,7 @@ window.dateLuna = {
     // 31 IULIE: Sf. și Dreptul Evdochim
     // ============================================================
     "31": {
-        nume: "Sf. și Dreptul Evdochim; Sf. și Dreptul Iosif din Arimateea",
+        nume: "Sf. și Dreptul Evdochim <br> Sf. și Dreptul Iosif din Arimateea",
         tropar: "Cel Ce te-a chemat pe tine de pe pământ la cereştile locaşuri păzeşte şi după moarte nevătămat trupul tău, Sfinte Evdochim; că tu, cu curăţie şi cu cinstită viaţă, fericite, ai vieţuit, nespurcându-ţi trupul, pentru aceasta, cu îndrăznire roagă pe Hristos Dumnezeu să ne mântuiască pe noi.",
         condac: "Pe cele de sus dorindu-le, împreună cu cele din înălţime te-ai împreunat, cu urcuşurile cele dumnezeieşti ale faptelor bune; căruţă de foc sufletul ţi l-ai săvârşit, Preafericite Evdochim. Şi pe pământ vieţuind ca şi când nu ai fi avut trup, Ziditorului tuturor ai bineplăcut.",
         culoare: "incolor"
