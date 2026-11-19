@@ -279,7 +279,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 esteDataFixa(9, 20) || esteDataFixa(9, 21) || esteDataFixa(9, 26) || esteDataFixa(9, 28) ||
                 esteDataFixa(10, 6) || esteDataFixa(10, 9) || esteDataFixa(10, 14) || esteDataFixa(10, 18) ||
                 esteDataFixa(10, 23) || esteDataFixa(10, 26) || esteDataFixa(10, 27) || esteDataFixa(11, 8) ||
-                esteDataFixa(11, 11) || esteDataFixa(11, 12) || esteDataFixa(11, 13) || esteDataFixa(2, 3) ||
+                esteDataFixa(11, 11) || esteDataFixa(11, 12) || esteDataFixa(11, 13) || esteDataFixa(1, 8) ||
+                esteDataFixa(1, 9) || esteDataFixa(1, 10) || esteDataFixa(1, 11) || esteDataFixa(1, 12) ||
+                esteDataFixa(1, 13) || esteDataFixa(1, 14) || esteDataFixa(1, 16) || esteDataFixa(1, 17) ||
+                esteDataFixa(1, 18) || esteDataFixa(1, 20) || esteDataFixa(1, 22) || esteDataFixa(2, 25) ||
+                esteDataFixa(1, 27) || esteDataFixa(1, 30) || esteDataFixa(1, 31) || esteDataFixa(2, 3) ||
                 esteDataFixa(2, 4) || esteDataFixa(2, 5) || esteDataFixa(2, 6) || esteDataFixa(2, 7) ||
                 esteDataFixa(2, 8) || esteDataFixa(5, 2) || esteDataFixa(5, 8) || esteDataFixa(5, 10) ||
                 esteDataFixa(5, 15) || esteDataFixa(5, 21) || esteDataFixa(5, 24) || esteDataFixa(5, 25) ||
@@ -401,7 +405,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (dateDeAfisat) {
-            if (memorialElem) memorialElem.innerText = dateDeAfisat.nume;
+            if (memorialElem) memorialElem.innerHTML = dateDeAfisat.nume;
             if (descElem) descElem.innerText = dateDeAfisat.tropar;
             if (condacElem) condacElem.innerText = dateDeAfisat.condac || "";
 
