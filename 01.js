@@ -100,7 +100,7 @@ window.dateLuna = {
     // 10 IANUARIE: Sf. Cuv. Antipa de la Calapodești
     // ============================================================
     "10": {
-        nume: "Sf. Cuv. Antipa de la Calapodești <br> <span style='color: white;'>Sf. Ier. Grigorie, Ep. Nyssei</span>",
+        nume: "Sf. Cuv. Antipa de la Calapodești <br> <span style='color: white;'>Sf. Ier. Grigorie, Episcopul Nyssei</span>",
         tropar: "Povățuitor preaînțelept al călugărilor și înger pământesc te-ai arătat, Sfinte Cuvioase Părinte Antipa, înfrângându-ți trupul cu nepătimirea și luminând inimile credincioșilor cu strălucirea virtuților tale. Pentru aceasta te-ai făcut locaș preacinstit al Sf.ui Duh și în ceruri ai aflat plata ostenelilor tale de la Dumnezeu, pe Care roagă-L să ne dăruiască nouă mare milă.",
         condac: "Din frământătura ostenelilor înmuiate cu lacrimile milostivirii tale, ai dospit rugăciunea cea mult roditoare, Părintele nostru Antipa. Adu-ți aminte și de neamul nostru din care ai odrăslit, Preafericite, și ocrotește patria ta cu mijlocirile tale către Dumnezeu, ca să-ți cântăm ție: Bucură-te, odrasla Moldovei, iubitorule de pustnicie!",
         culoare: "deepskyblue"
@@ -230,7 +230,7 @@ window.dateLuna = {
     // 23 IANUARIE: Sf. Sfințit Mc. Clement, Episcopul Ancirei
     // ============================================================
     "23": {
-        nume: "Sf. Sfințit Mc. Clement, Ep. Ancirei <br> Sf. Mc. Agatanghel",
+        nume: "Sf. Sfințit Mc. Clement, Episcopul Ancirei <br> Sf. Mc. Agatanghel",
         tropar: "Viţă de cuvioşie şi stâlpare de luptă grea, floare preasfinţită şi rod de Dumnezeu dăruit, de-a pururi înfloritor ai fost dat credincioşilor, preasfinţite Mucenic Clement. Ci, ca cel ce eşti cu Mc.i împreună luptător şi cu ierarhii împreună locuitor, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Mlădiţă cinstită a viţei lui Hristos te-ai făcut, Prealăudate Mucenice Clement, biruitorule în multe lupte. Pentru aceasta cu cel ce împreună ai pătimit, ai strigat: Hristoase, Tu eşti Bucuria Mc.lor.",
         culoare: "incolor"
@@ -250,7 +250,7 @@ window.dateLuna = {
     // 25 IANUARIE: Sf. Ier. Grigorie Teologul, Arhiepiscop la Constantinopol
     // ============================================================
     "25": {
-        nume: "Sf. Ier. Grigorie Teologul, Arh. Constantinopolului <br> <span style='color: deepskyblue;'>Sf. Ier. Bretanion, Ep. Tomisului</span>",
+        nume: "Sf. Ier. Grigorie Teologul, Arh. Constantinopolului <br> <span style='color: deepskyblue;'>Sf. Ier. Bretanion, Episcopul Tomisului</span>",
         tropar: "Fluierul cel păstoresc al teologiei tale a biruit trâmbiţele ritorilor; că ţie, celui ce ai încercat adâncurile duhului, ţi s-au adăugat şi Frumuseţile Cuvântului. Ci, roagă pe Hristos Dumnezeu, Sfinte Părinte Grigorie, să mântuiască sufletele noastre.",
         condac: "Cu limba ta cea de Dumnezeu grăitoare, încurcăturile ritorilor dezlegând, mărite, ai împodobit Biserica cu veşmântul Ortodoxiei, cel ţesut de sus; pe care şi purtându-l, strigă împreună cu noi, fiii tăi: bucură-te părinte, mintea cea preaînaltă a teologiei.",
         culoare: "gray"

@@ -40,7 +40,7 @@ window.dateLuna = {
     // 04 IUNIE: Sf. Ier. Mitrofan, Patriarhul Constantinopolului
     // ============================================================
     "04": {
-        nume: "Sf. Mc. Zotic, Atal, Camasie și Filip de la Niculițel <br> <span style='color: white;'>Sf. Ier. Mitrofan, Patr. Constantinopolului</span>",
+        nume: "Sf. Mc. Zotic, Atal, Camasie și Filip de la Niculițel <br> <span style='color: white;'>Sf. Ier. Mitrofan, Patriarhul Constantinopolului</span>",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Mitrofan, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Pe ierarhul lui Hristos Mitrofan, pe luminătorul Bisericii cel luminat, cel ce a propovăduit în mijlocul de Dumnezeu purtătorilor părinţi pe Cuvântul a fi de o fiinţă cu Tatăl, care şi scaunul cetăţii împărăteşti întâi l-a împodobit şi har de proorocie de la Dumnezeu luminat a luat, cu un glas să-l lăudăm.",
         culoare: "deepskyblue"
@@ -160,7 +160,7 @@ window.dateLuna = {
     // 16 IUNIE: Sf. Ier. Tihon, Episcopul Amatundei
     // ============================================================
     "16": {
-        nume: "Sf. Ier. Martir Neofit Cretanul, Mitr. Țării Românești <br> <span style='color: white;'>Sf. Ier. Tihon, Ep. Amatundei</span>",
+        nume: "Sf. Ier. Martir Neofit Cretanul, Mitr. Țării Românești <br> <span style='color: white;'>Sf. Ier. Tihon, Episcopul Amatundei</span>",
         tropar: "Locuitor pustiului şi înger în trup şi de minuni făcător te-ai arătat, purtătorule de Dumnezeu, părintele nostru Tihon; cu postul, cu privegherea, cu rugăciunea, cereşti daruri luând, vindeci pe cei bolnavi şi sufletele celor ce aleargă la tine cu credinţă. Slavă Celui Ce ţi-a dat ţie putere; slavă Celui Ce te-a încununat pe tine; Slavă Celui Ce lucrează prin tine tuturor tămăduiri.",
         condac: "Întru sihăstrie de Dumnezeu iubitorule, sfinte, petrecând, puterea Mântuitorului de sus ai luat, idolii înşelăciunii ai surpat şi pe popoare le-ai mântuit, demonii ai gonit, bolile ai vindecat. Pentru aceasta te cinstim pe tine ca pe un prieten al lui Dumnezeu, Sfinte Tihone Preafericite.",
         culoare: "deepskyblue"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 IUNIE: Sf. Sfințit Mucenic Metodie, Episcopul Patarelor
     // ============================================================
     "20": {
-        nume: "Sf. Sfințit Mc. Metodie, Ep. Patarelor",
+        nume: "Sf. Sfințit Mc. Metodie, Episcopul Patarelor",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Metodie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Sfinţit tăinuitor al Preasfintei Treimi şi propovăduitor dumnezeieştilor porunci celor mai presus de gând şi întărire bine credincioşilor ai fost, Sfinţite Mucenice Metodie; căci ai înfruntat cugetele celor răucredincioşi şi pentru dreapta credinţă te-ai arătat sfinţit mucenic prin sângele tău şi împreună cu îngerii stând înaintea lui Hristos, roagă-te să ne mântuiască pe noi.",
         culoare: "incolor"

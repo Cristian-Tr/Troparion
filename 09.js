@@ -20,7 +20,7 @@ window.dateLuna = {
     // 02 SEPTEMBRIE: Sf. Ier. Ioan Postitorul, Patriarh la Constantinopol
     // ============================================================
     "02": {
-        nume: "Sf. Ier. Ioan Postitorul, Patr. Constantinopolului",
+        nume: "Sf. Ier. Ioan Postitorul, Patriarhul Constantinopolului",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânării te-a arătat pe tine turmei tale adevărul lucrurilor. Pentru aceasta ai câştigat cu smerenia cele înalte, cu sărăcia cele bogate. Părinte Ierarhe Ioan, roagă pe Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Cu toiagul care ţi s-a dat de la Dumnezeu, sfinte, păstoreşte poporul tău la păşune aducătoare de viaţă. Iar fiarele cele nevăzute şi sălbatice sfărâmă-le sub picioarele celor ce te laudă pe tine. Că toţi, cei ce suntem în primejdii, te avem pe tine, Sfinte Mamant, părtinitor fierbinte.",
         culoare: "incolor"
@@ -170,7 +170,7 @@ window.dateLuna = {
     // 17 SEPTEMBRIE: Sf. Muceniţă Sofia cu fiicele sale: Pistis, Elpis şi Agapis
     // ============================================================
     "17": {
-        nume: "Sf. Ier. Dionisie, Ep. Cetății Albe <br> <span style='color: white;'>Sf. Mc. Sofia cu fiicele Pistis, Elpis şi Agapis</span>",
+        nume: "Sf. Ier. Dionisie, Episcopul Cetății Albe <br> <span style='color: white;'>Sf. Mc. Sofia cu fiicele Pistis, Elpis şi Agapis</span>",
         tropar: "Mieluşele cuvântătoare, Sfântă Muceniţă Sofia cu fiicele Pistis, Elpis şi Agapis, prin Mc.e v-aţi adus Mielului şi Păstorului, săvârşind călătoria cea către Hristos şi credinţa păzind-o. Pentru aceea, cu suflet vesel astăzi săvârşind pomenirea voastră cea sfântă, minunatelor, pe Hristos Îl slăvim.",
         condac: "Sfinţitele ramuri ale Cinstitei Sofia: Sfintele Pistis, Elpis şi Agapis, cu darul au arătat că înţelepciunea elinilor este nebunie. Şi prin nevoinţe arătându-se biruitoare, s-au încununat cu cunună nepieritoare, de la Stăpânul tuturor, Hristos.",
         culoare: "deepskyblue"

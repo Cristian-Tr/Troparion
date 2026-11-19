@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 AUGUST: Sf. Ier. Nifon, Patriarh la Constantinopol
     // ============================================================
     "11": {
-        nume: "Sf. Ier. Nifon, Patr. Constantinopolului",
+        nume: "Sf. Ier. Nifon, Patriarhul Constantinopolului",
         tropar: "Cu faptele dreptei credinţe strălucind toată Biserica ai luminat, însoţindu-te cu smerenia cea dătătoare de înălţare, tu, cinstea cea mărită a celor două sfinte locaşuri, podoaba şi înfrumuseţarea patriarhilor, Mărite Ierarhe Nifon. Iar acum umple de dumnezeieşti daruri pe cei ce cu credinţă te măresc pe tine.",
         condac: "Pomenirea nevoinţelor tale cea strălucită şi de lumină purtătoare, răsărind în chip luminat, veseleşte, părinte, sufletele tuturor celor binecredincioşi; iar atingerea de sfintele tale moaşte îndulceşte simţirile lor, îndulcindu-le. Pentru aceasta, după cuviinţă te mărim, înţelepte Ierarhe Nifon, de Dumnezeu cugetătorule, părintele nostru.",
         culoare: "deepskyblue"
@@ -300,7 +300,7 @@ window.dateLuna = {
     // 30 AUGUST: Sf. Ier. Varlaam, Mitropolitul Moldovei
     // ============================================================
     "30": {
-        nume: "Sf. Ier. Varlaam, Mitr. Moldovei; <span style='color: white;'>Sf. Ier. Alexandru, Patr. Constantinopolului</span>",
+        nume: "Sf. Ier. Varlaam, Mitr. Moldovei; <span style='color: white;'>Sf. Ier. Alexandru, Patriarhul Constantinopolului</span>",
         tropar: "Vrednic slujitor al lui Hristos și înțelept apărător al dreptei credințe, mare cinstitor al Sfintei Cuvioase Parascheva și credincios luminător al neamului românesc, Sfinte Ierarhe Varlaam, roagă pe Hristos-Dumnezeu să ocrotească și să mântuiască sufletele noastre.",
         condac: "Cu dumnezeieștile învățături strălucind, Părinte Sfinte, ai păstorit Biserica neamului tău și ai tâlcuit Evanghelia lui Hristos. Pentru aceasta, te-ai arătat, Sfinte Ierarhe Varlaam, ca un mare apărător al dreptei credințe.",
         culoare: "deepskyblue"

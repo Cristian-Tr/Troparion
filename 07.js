@@ -91,7 +91,7 @@ window.dateLuna = {
     // 09 IULIE: Sf. Sfinţit Mc. Pangratie, Episcopul Taorminei
     // ============================================================
     "09": {
-        nume: "Sf. Sfinţit Mc. Pangratie, Ep. Tavromeniei",
+        nume: "Sf. Sfinţit Mc. Pangratie, Episcopul Tavromeniei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Pangratie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Arătatu-te-ai ca o stea luminoasă Tavromenienilor, Sfinte Mucenice Pangratie şi ai fost sfinţit pătimitor pentru Hristos, înaintea Căruia, stând acum, roagă-te pentru cei ce te cinstesc pe tine, fericite.",
         culoare: "incolor"

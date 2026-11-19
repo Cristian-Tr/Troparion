@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 FEBRUARIE: Sf. Ier. Fotie, Patriarh la Constantinopol
     // ============================================================
     "06": {
-        nume: "Sf. Ier. Fotie, Patr. Constantinopolului",
+        nume: "Sf. Ier. Fotie, Patriarhul Constantinopolului",
         tropar: "Ca cel ce ești cu apostolii în ceruri împreună locuitor și ortodocșilor mare apărător, lumii drept învățător, iar eresurilor latinești dârz împotrivitor, Sfinte Ierarh Fotie, pe Hristos Dumnezeu roagă-L cu dinadinsul să mântuiască sufletele noastre.",
         condac: "Luminătorul Bisericii cel prealuminat, preaîndumnezeitul povățuitor al ortodocșilor, alăuta Duhului cea dumnezeiește glăsuitoare și preaputernicul nimicitor al eresurilor latinești, să fie încununat acum cu laudele cântărilor și să-i strigăm: Bucură-te, preacinstite Fotie!",
         culoare: "incolor"
@@ -70,7 +70,7 @@ window.dateLuna = {
     // 07 FEBRUARIE: Sf. Ier. Partenie, Episcopul Lampsacului
     // ============================================================
     "07": {
-        nume: "Sf. Ier. Partenie, Ep. Lampsacului",
+        nume: "Sf. Ier. Partenie, Episcopul Lampsacului",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinte Mucenice Partenie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Dumnezeiesc har de minuni ai primit de Dumnezeu înţelepţite, Sfinţite Părinte Partenie, făcătorule de minuni şi purtătorule de Dumnezeu, toate patimile credincioşilor curăţind, părinte şi duhurile celui viclean alungându-le. Pentru aceasta pe tine te lăudăm, ca pe un mare slujitor al harului lui Dumnezeu.",
         culoare: "incolor"
@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 FEBRUARIE: Sf. Ier. Vlasie, Episcopul Sevastiei
     // ============================================================
     "11": {
-        nume: "Sf. Ier. Vlasie, Ep. Sevastiei",
+        nume: "Sf. Ier. Vlasie, Episcopul Sevastiei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinţite Mucenice Vlasie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Odrasla cea Dumnezeiască, floarea cea neveştejită, viţa cea cu multă roadă a viei lui Hristos, purtătorule de Dumnezeu, Sfinte Părinte Vlasie, umple de veselie pe cei ce cu credinţă săvârşesc sfântă pomenirea ta, cel ce te rogi neîncetat pentru noi toţi.",
         culoare: "incolor"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 FEBRUARIE: Sf. Ier. Leon, Episcopul Romei
     // ============================================================
     "18": {
-        nume: "Sf. Ier. Leon, Ep. Romei",
+        nume: "Sf. Ier. Leon, Episcopul Romei",
         tropar: "Îndreptătorule al Ortodoxiei, învăţătorule al dreptei cinstiri de Dumnezeu şi al curăţiei şi luminătorule al lumii, podoaba călugărilor cea de Dumnezeu insuflată Sfinte Părinte Leon, înţelepte, cu învăţăturile tale pe toţi i-ai luminat. Alăută duhovnicească, roagă-te lui Hristos Dumnezeu ca să mântuiască sufletele noastre.",
         condac: "Pe scaunul arhieriei şezând, mărite, gurile leilor celor cuvântători astupându-le cu dogme de Dumnezeu insuflate, lumina cunoaşterii de Dumnezeu a Preacinstitei Treimi ai luminat-o turmei tale. Pentru aceasta ai fost preamărit ca un Dumnezeiesc preot al harului lui Dumnezeu.",
         culoare: "gray"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 FEBRUARIE: Sf. Ier. Leon, Episcopul Cataniei
     // ============================================================
     "20": {
-        nume: "Sf. Ier. Leon, Ep. Cataniei",
+        nume: "Sf. Ier. Leon, Episcopul Cataniei",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Leon, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Pe Sf. Ier. Leon care din tinereţe a fost dat Domnului şi a primit harul încă în scutece fiind, cu cântări toţi să-l încununăm, pe luminătorul şi păstorul Bisericii; că el este al ei întărire.",
         culoare: "incolor"
@@ -230,7 +230,7 @@ window.dateLuna = {
     // 23 FEBRUARIE: Sf. Sfințit Mc. Policarp, Episcopul Smirnei
     // ============================================================
     "23": {
-        nume: "Sf. Sfințit Mc. Policarp, Ep. Smirnei",
+        nume: "Sf. Sfințit Mc. Policarp, Episcopul Smirnei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge Sfinte Mucenice Policarp, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Roade cuvântătoare aducând Domnului, Înţeleptule Ierarh Policarp, prin fapte Dumnezeieşti, te-ai arătat după vrednicie Dumnezeiesc ierarh, fericite. Pentru aceasta astăzi, luminându-ne cu cuvintele tale, lăudăm pomenirea ta cea vrednică de laudă preaslăvind pe Domnul.",
         culoare: "incolor"

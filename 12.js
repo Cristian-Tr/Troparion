@@ -120,7 +120,7 @@ window.dateLuna = {
     // 12 DECEMBRIE: Sf. Ier. Spiridon, Episcopul Trimitundei
     // ============================================================
     "12": {
-        nume: "Sf. Ier. Spiridon, Ep. Trimitundei",
+        nume: "Sf. Ier. Spiridon, Episcopul Trimitundei",
         tropar: "Soborului celui dintâi te-ai arătat apărător şi de minuni făcător, de Dumnezeu purtătorule Sfinte Spiridon, părintele nostru. Pentru aceasta cu femeia cea moartă în groapă tu ai vorbit şi şarpele în aur l-ai prefăcut. Şi când ai cântat sfintele rugăciuni, îngeri ai avut împreună cu tine slujind, preasfinţite. Slavă Celui Ce te-a preamărit pe tine; Slavă Celui Ce te-a încununat; Slavă Celui Ce lucrează prin tine tuturor tămăduiri.",
         condac: "De dragostea lui Hristos fiind rănit, preasfinţite, mintea înălţându-ţi-se de lumina vie a Duhului, ai dobândit încercarea cea lucrătoare, prin adânca-ţi cugetare la cele înalte, insuflate de Dumnezeu şi jertfelnic Dumnezeiesc făcându-te, cere pentru toţi Dumnezeiasca iertare.",
         culoare: "gray"
@@ -150,7 +150,7 @@ window.dateLuna = {
     // 15 DECEMBRIE: Sf. Sfințit Mc. Elefterie, Episcopul Iliriei
     // ============================================================
     "15": {
-        nume: "Sf. Sfințit Mc. Elefterie, Ep. Iliriei",
+        nume: "Sf. Sfințit Mc. Elefterie, Episcopul Iliriei",
         tropar: "Cu haină de preot fiind îm­podobit şi cu sângele curgând şiroaie, fericite, ai alergat la Stăpânul tău, Hristos, Înţe­lepte Elefterie, nimicitorul sa­tanei. Pentru aceasta nu în­ceta a te ruga pentru cei ce cu credinţă cinstesc fericitele tale nevoinţe.",
         condac: "Ca pe o podoabă a preoţilor şi îndemn al purtătorilor de bi­ruinţă, toţi te lăudăm, cuvioase şi te rugăm, Sfinţite Mucenice Elefterie: pe cei ce prăznuiesc sfântă pomenirea ta eliberează-i din multele feluri de nevoi, rugându-te neîncetat pentru noi toţi.",
         culoare: "incolor"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 DECEMBRIE: Sf. Cuv. Serafim cel Răbdător de la Sâmbăta de Sus
     // ============================================================
     "20": {
-        nume: "Sf. Cuv. Serafim cel Răbdător de la Sâmbăta de Sus <br> <span style='color: white;'>Sf. Sfințit Mc. Ignatie Teoforul, Ep. Antiohiei</span>",
+        nume: "Sf. Cuv. Serafim cel Răbdător de la Sâmbăta de Sus <br> <span style='color: white;'>Sf. Sfințit Mc. Ignatie Teoforul, Episcopul Antiohiei</span>",
         tropar: "Pe făclia virtuții și duhovnicul cel vestit, pe dascălul răbdării din Mănăstirea Sâmbăta de Sus, pe Sf. Serafim, cei credincioși, cu laude veniți să îl cinstim, și, ca unui iscusit Părinte și rugător, să-i zicem cu evlavie: Slavă Celui pe Care L-ai slujit! Slavă Celui ce te-a luminat! Slavă Celui ce te-a împodobit cu minunate daruri!",
         condac: "Înainte-mergere zilei preamari și slăvite a Nașterii Domnului cu trup din Maica-Fecioară s-a făcut ziua mutării tale la ceruri, cel ce cânți cu serafimii, Părinte Sfinte Serafim, cel în necazuri plin de răbdare, podoaba Cuvioșilor.",
         culoare: "deepskyblue"

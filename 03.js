@@ -70,7 +70,7 @@ window.dateLuna = {
     // 07 MARTIE: Sf. Sfințit Mc. Efrem, Episcopul Tomisului
     // ============================================================
     "07": {
-        nume: "Sf. Sfințit Mc. Efrem, Ep. Tomisului",
+        nume: "Sf. Sfințit Mc. Efrem, Episcopul Tomisului",
         tropar: "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile Sf.ui Sfințit Mc. Efrem, în pace îndreptează viaţa noastră.",
         condac: "Astăzi este ziua cea purtă­toare de lumină a păstorilor care în chip luminat au slujit lui Dumnezeu în Cherson. Şi lăudând prăznuirea voastră ca a unora ce aţi pătimit pentru Hristos, sfinţiţilor Mc., rugaţi pe Hristos, Păstorul Cel Mare, ca să ne numere şi pe noi printre oile ce stau de-a dreap­ta şi să cântăm vouă: bucura-ţi-vă, sfinţiţi părinţi, cei ce v-aţi vărsat sângele vostru pentru Hristos.",
         culoare: "deepskyblue"
@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 MARTIE: Sf. Ier. Sofronie, Patriarhul Ierusalimului
     // ============================================================
     "11": {
-        nume: "Sf. Ier. Sofronie, Patr. Ierusalimului",
+        nume: "Sf. Ier. Sofronie, Patriarhul Ierusalimului",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarh Sofronie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "De râvna cea Dumnezeiască fiind pus în mişcare şi lărgind gura Poruncilor celor adevăra­te, temeliile Bisericii după Lege le-ai aşezat; şi cuvinte preaînţelepte dând călugărilor celor ce se aflau acolo, te-ai arătat lumii preaînţelepte între patri­arhii Ierusalimului, Sfinte Ierarhe Sofronie. Prin care, îndreptându-ne, stri­găm ţie: bucură-te, lauda cea luminoasă a credincioşilor!",
         culoare: "incolor"
@@ -130,7 +130,7 @@ window.dateLuna = {
     // 13 MARTIE: Aducerea moaștelor Sf.ui Ier. Nichifor, Patriarh la Constantinopol
     // ============================================================
     "13": {
-        nume: "Aducerea moaștelor Sf. Ier. Nichifor, Patr. Constantinopolului",
+        nume: "Aducerea moaștelor Sf. Ier. Nichifor, Patriarhul Constantinopolului",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Nichifor, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ceata patriarhilor, cu laude şi cu cântări, cinsteşte sfinţită pomenirea ta, Sfinte Părinte Nichifor. Că la pristăvirea ta a primit sufletul tău, mărite. Pentru aceasta, Cinstita Biserică, mărindu-te pe tine, laudă pe Hristos Împăra­tul, pe Cel Ce Singur este Iubitor de oameni.",
         culoare: "incolor"
@@ -180,7 +180,7 @@ window.dateLuna = {
     // 18 MARTIE: Sf. Ier. Chiril, Arhiepiscopul Ierusalimului
     // ============================================================
     "18": {
-        nume: "Sf. Ier. Chiril, Arh. Ierusalimului <br> Sf. Ier. Nicolae Velimirovici, Ep. Ohridei și Jicei",
+        nume: "Sf. Ier. Chiril, Arh. Ierusalimului <br> Sf. Ier. Nicolae Velimirovici, Episcopul Ohridei și Jicei",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Chiril, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Tunet Dumnezeiesc, trâmbiţă duhovnicească, săditorule al dreptei credinţe şi stârpitorule al eresurilor, plăcutule al Preasfintei Treimii, arhiereule mare, Sfinte Chiril, cu înge­rii împreună stând înainte, ne­încetat roagă-te pentru noi toţi.",
         culoare: "incolor"
@@ -290,7 +290,7 @@ window.dateLuna = {
     // 29 MARTIE: Sf. Sfinţiţi Mc. Marcu, Episcopul Aretuselor şi Chiril, diaconul
     // ============================================================
     "29": {
-        nume: "Sf. Sfinţiţi Mc. Marcu, Ep. Aretuselor şi Chiril, diaconul",
+        nume: "Sf. Sfinţiţi Mc. Marcu, Episcopul Aretuselor şi Chiril, diaconul",
         tropar: "Mc.i Tăi, Doamne, Marcu şi Chiril, întru nevoinţele lor, cununile nestricăciunii au dobândit de la Tine, Dumnezeul nostru. Că având tăria Ta, pe chinuitori au învins; zdrobit-au şi ale demonilor neputincioase îndrăzniri. Pentru rugăciunile lor, mântuieşte sufletele noastre, Hristoase Dumnezeule.",
         condac: "Luminaţi fiind de harul cel adevărat, cu dreaptă credinţă îndreptaţi, în chip luminat, marginile pământului, sfinţiţi­lor şi măriţilor Mc. Marcu şi Chiril. Pentru aceasta, cu credinţă, vă fe­ricim pe voi.",
         culoare: "incolor"
@@ -310,7 +310,7 @@ window.dateLuna = {
     // 31 MARTIE: Sf. Sfințit Mc. Ipatie, Episcopul Gangrei
     // ============================================================
     "31": {
-        nume: "Sf. Sfințit Mc. Ipatie, Ep. Gangrei",
+        nume: "Sf. Sfințit Mc. Ipatie, Episcopul Gangrei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenic Ipatie, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Cu curăţirea cea sufletească Dumnezeieşte într-armându-te şi rugăciunea cea neîncetată având-o ca pe o suliţă în mâini, cu tărie ai biruit cetele demo­nilor, Sfinte Sfinţite Părinte Ipatie; roagă neîncetat pe Hristos Dumnezeu, pentru sufletele noastre.",
         culoare: "incolor"

@@ -219,7 +219,7 @@ window.dateLuna = {
     // 22 OCTOMBRIE: Sf. Ier., întocmai cu apostolii, Averchie, Episcopul Ierapolei
     // ============================================================
     "22": {
-        nume: "Sf. Ier. Averchie,  Ep. Ierapolei",
+        nume: "Sf. Ier. Averchie,  Episcopul Ierapolei",
         tropar: "Îndreptător credinţei şi chip blândeţilor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Averchie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ca pe un mai mare preot şi împreună locuitor cu Apostolii, toată Biserica credincioşilor te cinsteşte pe tine, Sfinte Ierarhe Averchie. Pe care cu rugăciunile tale păzeş­te-o, fericite, nebiruită şi fără de valuri, de tot eresul cel gân­ditor de cele deşarte, mult minunate.",
         culoare: "white"

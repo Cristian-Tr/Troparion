@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 APRILIE: Sf. Ier. Eutihie, Patriarh la Constantinopol
     // ============================================================
     "06": {
-        nume: "Sf. Ier. Eutihie, Patr. Constantinopolului",
+        nume: "Sf. Ier. Eutihie, Patriarhul Constantinopolului",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarh Eutihie, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Să lăudăm toţi cu credinţă pe Dumnezeiescul Ierarh Eutihie şi cu dragoste să-l fericim, ca pe un mare păstor şi slujitor şi preaînţelept învăţător şi izgonitor al eresurilor. Că se roagă Domnului pentru noi toţi.",
         culoare: "incolor"
@@ -70,7 +70,7 @@ window.dateLuna = {
     // 07 APRILIE: Sf. Ier. Gheorghe Mărturisitorul
     // ============================================================
     "07": {
-        nume: "Sf. Ier. Gheorghe Mărturisitorul, Ep. Mitilenei",
+        nume: "Sf. Ier. Gheorghe Mărturisitorul, Episcopul Mitilenei",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Gheorghe, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Dumnezeieşte într-armându-te cu curăţenia cea sufletească şi neîncetată rugăciune ţinând în mâini ca pe o suliţă, vitejeşte ai biruit cetele demonilor, Sfinte Părinte Gheorghe; cu osârdie roagă-te lui Hristos pentru noi toţi.",
         culoare: "incolor"
@@ -110,7 +110,7 @@ window.dateLuna = {
     // 11 APRILIE: Sf. Ier. Calinic de la Cernica, Episcopul Râmnicului
     // ============================================================
     "11": {
-        nume: "Sf. Ier. Calinic de la Cernica, Ep. Râmnicului",
+        nume: "Sf. Ier. Calinic de la Cernica, Episcopul Râmnicului",
         tropar: "De Dumnezeu purtătorule, părintele nostru Calinic, povăţuitorule al călugărilor, podoaba cuvioşilor şi lauda arhiereilor, ajutătorule al celor din nevoi şi făcătorule de minuni! Cu nevoinţele tale chip de sfinţenie te-ai arătat, iar acum cu îngerii în ceruri te veseleşti; cu care roagă pe Milostivul Dumnezeu să ne dăruiască nouă pace şi mare milă.",
         condac: "Pomenirea ta cea purtătoare de lumină, Sfinte Ierarhe Calinic, veseleşte sufletele celor credincioşi; şi atingerea sicriului sfintelor tale moaşte sfinţeşte simţirile şi dăruieşte tămăduiri. Pentru aceasta, după datorie te cinstim pe tine şi cu bucurie îţi strigăm: bucură-te, părinte, de Dumnezeu însufleţite!",
         culoare: "deepskyblue"
@@ -120,7 +120,7 @@ window.dateLuna = {
     // 12 APRILIE: Sf. Mc. Sava de la Buzău
     // ============================================================
     "12": {
-        nume: "Sf. Ier. Vasile Mărturisitorul, Ep. de Parion",
+        nume: "Sf. Ier. Vasile Mărturisitorul, Episcopul de Parion",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Vasile, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Luminându-te cu Lumina Celui de sus, fericite, luminezi pe toţi cei ce cu dragoste cinstesc cinstită pomenirea ta, Sfinte Părinte Vasile, Sfinţite pătimitorule. Roagă-te lui Hristos Dumnezeu neîncetat pentru noi toţi.",
         culoare: "deepskyblue"
@@ -170,7 +170,7 @@ window.dateLuna = {
     // 17 APRILIE: Sf. Sfințit Mc. Simeon, Episcopul Persiei
     // ============================================================
     "17": {
-        nume: "Sf. Sfințit Mc. Simeon, Ep. Persiei",
+        nume: "Sf. Sfințit Mc. Simeon, Episcopul Persiei",
         tropar: "Şi părtaş obiceiurilor şi următor scaunelor Apostolilor fiind, lucrare ai aflat, de Dumnezeu insuflate, spre suirea privirii la cele înalte. Pentru aceasta, cuvântul adevărului drept învăţând şi cu credinţa răbdând până la sânge, Sfinţite Mucenice Simeon, roagă-te lui Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ca un soare a răsărit nouă credincioşilor sfântă pomenirea voastră, pe care astăzi o săvârşim, Preaînţeleptilor, Sfinţiţilor Simeon şi Acachie, strigând: rugaţi pentru noi pe Cel Singur şi Iubitor de oameni.",
         culoare: "incolor"
@@ -200,7 +200,7 @@ window.dateLuna = {
     // 20 APRILIE: Sf. Ier. Teotim, Episcopul Tomisului
     // ============================================================
     "20": {
-        nume: "Sf. Ier. Teotim, Ep. Tomisului",
+        nume: "Sf. Ier. Teotim, Episcopul Tomisului",
         tropar: "Îndreptător credinţei şi chip blândeţelor, învăţător înfrânârii te-a arătat pe tine, turmei tale, adevărul lucrurilor. Pentru aceasta ai dobândit cu smerenia cele înalte şi cu sărăcia cele bogate; Părinte Ierarhe Teotim, roagă pe Hristos Dumnezeu să mântuiască sufletele noastre.",
         condac: "Ca cel ce eşti stâlp al Bisericii lui Hristos, ai surpat eresul lui Arie, Înţelepte Teotime; pentru aceasta Dumnezeu nostru te-a împodobit pe tine, Preafericite Ierarhe Teotim. Cu rugăciunile tale păzeşte, preasfinte, întreaga turmă şi cetatea tomitană.",
         culoare: "deepskyblue"
@@ -210,7 +210,7 @@ window.dateLuna = {
     // 21 APRILIE: Sf. Sfinţit Mc. Ianuarie, Episcop de Benevent şi al celor împreună cu dânsul
     // ============================================================
     "21": {
-        nume: "Sf. Sfinţit Mc. Ianuarie, Ep. de Benevent",
+        nume: "Sf. Sfinţit Mc. Ianuarie, Episcop de Benevent",
         tropar: "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile Sf. Mc. Ianuarie, în pace îndreptează viaţa noastră.",
         condac: "Cu ungerea preoţiei şi cu sângele Mc.ei v-aţi împodobit, Măriţilor Mc. Ianuarie şi Teodor şi întru cele de sus locuind, pretutindenea străluciţi. Căutaţi spre noi, cei ce am venit în Biserica voastră şi într-însa neîncetat strigăm: păziţi-ne pe noi pe toţi, rugând pe Dumnezeu Cel Iubitor de oameni.",
         culoare: "incolor"
@@ -220,7 +220,7 @@ window.dateLuna = {
     // 22 APRILIE: Sf. Ier. Teodor Sicheotul, Episcopul Anastasiopolei
     // ============================================================
     "22": {
-        nume: "Sf. Ier. Teodor Sicheotul, Ep. Anastasiopolei",
+        nume: "Sf. Ier. Teodor Sicheotul, Episcopul Anastasiopolei",
         tropar: "Cunoscut fiind din scutece sfinţit şi arătându-te plin de haruri, ai luminat lumea cu minunile şi mulţimile demonilor ai alungat, lucrătorule de sfinţenie, Părinte Ierarhe Teodor. Pentru aceasta roagă-te Domnului pentru noi.",
         condac: "Ca pe unul ce prin faptele cele bune te-ai suit ca într-un car de foc, purtătorule de Dumnezeu, ai alergat către Locaşurile cele Cereşti şi ca un înger vieţuind, împreună cu oamenii, ca un om, dănţuieşti împreună cu îngerii. Pentru aceasta te-ai şi arătat vas Dumnezeiesc al minunilor, Preacuvioase Părinte Teodor.",
         culoare: "incolor"

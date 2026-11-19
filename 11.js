@@ -60,7 +60,7 @@ window.dateLuna = {
     // 06 NOIEMBRIE: Sf. Ier. Pavel Mărturisitorul, Patriarh la Constantinopol
     // ============================================================
     "06": {
-        nume: "Sf. Ier. Pavel, Patr. Constantinopolului",
+        nume: "Sf. Ier. Pavel, Patriarhul Constantinopolului",
         tropar: "Pentru mărturisirea Dumnezeieştii credinţe, alt Pavel pe tine Biserica te-a arătat râvnitor între preoţi. Strigă împreună cu tine şi Abel către Domnul şi sângele cel drept al lui Zaharia. Părinte cuvioase, pe Hristos Dumnezeu roagă-L să ne dăruiască nouă mare milă.",
         condac: "Luminând pe pământ, ca o stea din cer luminătoare luminezi acum Biserica cea a toată lumea, pentru care şi pătimind, sufletul tău, Sfinte Pavel, ţi l-ai pus şi ca al lui Zaharia şi al lui Abel, lămurit strigă sângele tău către Domnul.",
         culoare: "incolor"
@@ -120,7 +120,7 @@ window.dateLuna = {
     // 12 NOIEMBRIE: Sf. Martir și Mărturisitor Atanasie din Bichigiu
     // ============================================================
     "12": {
-        nume: "Sf. Martir și Mărturisitor Atanasie din Bichigiu <br> <span style='color: white;'>Sf. Ier. Ioan cel Milostiv, Patr. Alexandriei</span>",
+        nume: "Sf. Martir și Mărturisitor Atanasie din Bichigiu <br> <span style='color: white;'>Sf. Ier. Ioan cel Milostiv, Patriarhul Alexandriei</span>",
         tropar: "Luptător pentru credință și neam, biruitor al potrivnicilor lui Hristos și apărător neînfricat al Ortodoxiei, ai odrăslit în Țara Năsăudului, primind cu bărbăție moarte mucenicească. Pentru aceasta, nimicind amăgirile asupritorilor, ai câștigat cununa cea neveștejită a sfințeniei. Fericite Atanasie, roagă-L pe Hristos Dumnezeu să miluiască și să mântuiască sufletele noastre.",
         condac: "Povara celor o sută patru ani nu te-a oprit de la moartea mucenicească și fără teamă ai primit cununa suferinței, preschimbând-o în cununa cea neveștejită a biruinței; și făcându-te ostaș credincios lui Hristos, ai câștigat Împărăția cea veșnică; iar pe noi îmbărbătându-ne în Duh și adevăr, ne-ai dăruit întărire în credință și nădejde în mântuire. Pentru aceasta, Sfinte Mucenice Atanasie roagă-L pe Milostivul Dumnezeu să ne apere și să ne izbăvească de primejdii și necazuri.",
         culoare: "deepskyblue"
@@ -240,7 +240,7 @@ window.dateLuna = {
     // 24 NOIEMBRIE: Sf. Sfinţiţi Mc. Clement, Episcopul Romei şi Petru, Episcopul Alexandriei
     // ============================================================
     "24": {
-        nume: "Sf. Sfinţiţi Mc. Clement, Ep. Romei și Petru, Ep. Alexandriei",
+        nume: "Sf. Sfinţiţi Mc. Clement și Petru, Episcopii Romei și  Alexandriei",
         tropar: "Dumnezeul părinţilor noştri Care faci pururea cu noi după blândeţile Tale, nu îndepărta mila Ta de la noi; ci, pentru rugăciunile Sfinţilor Sfinţiţi Mc. Clement, Episcopul Romei şi Petru, Episcopul Alexandriei, în pace îndreptează viaţa noastră.",
         condac: "Ca cei ce sunteţi turnuri neclintite şi Dumnezeieşti ale Bisericii, stâlpi de Dumnezeu însufleţiţi şi puternici ai dreptei credinţe, Sfinţilor Clement şi Petru, Prealăudaţilor, ocrotiţi pe toţi cu mijlocirile voastre!",
         culoare: "incolor"
